@@ -18,7 +18,8 @@ Follow Baruch ben Neriah as he chronicles the epic journey of the prophet Jeremi
 
 ## 🚀 Live Website
 
-Visit the live site at: **Your Domain Here** (Coming Soon)
+Visit the live site at: **Coming Soon**
+GitHub Pages URL: `https://reversesingularity.github.io/stone-sceptre-website`
 
 ## 📁 Project Structure
 
