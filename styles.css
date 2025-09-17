@@ -1640,3 +1640,66 @@ body {
         font-size: 0.9rem;
     }
 }
+
+/* Purchase Section Styles */
+.purchase-section {
+    margin-top: 40px;
+    padding: 30px;
+    background: linear-gradient(135deg, #d4af37 0%, #ffd700 100%);
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(212, 175, 55, 0.3);
+}
+
+.purchase-section h3 {
+    color: #1a1a2e;
+    font-family: 'Cinzel', serif;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.kindle-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(135deg, #ff9500 0%, #ff6600 100%);
+    color: white;
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1em;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(255, 149, 0, 0.3);
+    margin-bottom: 15px;
+}
+
+.kindle-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 149, 0, 0.4);
+    background: linear-gradient(135deg, #ff6600 0%, #ff9500 100%);
+}
+
+.kindle-icon {
+    font-size: 1.2em;
+}
+
+.availability-note {
+    color: #1a1a2e;
+    font-size: 0.9em;
+    margin: 0;
+    font-style: italic;
+}
+
+@media (max-width: 768px) {
+    .purchase-section {
+        margin-top: 30px;
+        padding: 20px;
+    }
+    
+    .kindle-button {
+        padding: 12px 24px;
+        font-size: 1em;
+    }
+}
