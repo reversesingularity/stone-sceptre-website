@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code for The Stone and the Sceptre</title>
+    <style>
+        body {
+            font-family: 'Cinzel', serif;
+            background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+            color: #d4af37;
+            text-align: center;
+            padding: 40px 20px;
+            min-height: 100vh;
+            margin: 0;
+        }
+        
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: rgba(0, 0, 0, 0.8);
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 0 30px rgba(212, 175, 55, 0.3);
+            border: 2px solid #d4af37;
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+            color: #d4af37;
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            margin-bottom: 30px;
+            color: #b8860b;
+            font-style: italic;
+        }
+        
+        .qr-container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+            margin: 20px 0;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        }
+        
+        .url {
+            font-size: 1.3em;
+            color: #d4af37;
+            font-weight: bold;
+            margin: 20px 0;
+            word-break: break-all;
+        }
+        
+        .instructions {
+            background: rgba(212, 175, 55, 0.1);
+            border-left: 4px solid #d4af37;
+            padding: 20px;
+            margin: 30px 0;
+            text-align: left;
+            border-radius: 0 10px 10px 0;
+        }
+        
+        .instructions h3 {
+            margin-top: 0;
+            color: #d4af37;
+        }
+        
+        .download-btn {
+            background: linear-gradient(45deg, #d4af37, #b8860b);
+            color: #1a1a2e;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 25px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            margin: 10px;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        .download-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(212, 175, 55, 0.4);
+        }
+        
+        .celtic-border {
+            border: 3px solid #d4af37;
+            border-image: repeating-linear-gradient(
+                45deg,
+                #d4af37,
+                #d4af37 10px,
+                #b8860b 10px,
+                #b8860b 20px
+            ) 3;
+            padding: 10px;
+            margin: 20px 0;
+        }
+        
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&display=swap');
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📱 QR Code</h1>
+        <p class="subtitle">The Stone and the Sceptre: A Scribe's Tale</p>
+        
+        <div class="celtic-border">
+            <div class="url">https://kermangildpublishing.org</div>
+        </div>
+        
+        <div class="qr-container">
+            <div id="qrcode"></div>
+        </div>
+        
+        <div class="instructions">
+            <h3>🏰 How to Use This QR Code:</h3>
+            <ul>
+                <li><strong>Mobile Visitors:</strong> Open your phone's camera app and point it at the QR code</li>
+                <li><strong>Quick Access:</strong> Tap the notification that appears to visit the website</li>
+                <li><strong>Share:</strong> Screenshot this QR code to share the website with others</li>
+                <li><strong>Print:</strong> Perfect for business cards, flyers, or promotional materials</li>
+            </ul>
+        </div>
+        
+        <button class="download-btn" onclick="downloadQR()">📥 Download QR Code</button>
+        <button class="download-btn" onclick="printQR()">🖨️ Print QR Code</button>
+        
+        <p style="margin-top: 40px; font-style: italic; opacity: 0.8;">
+            "The stone which the builders rejected has become the cornerstone." - Psalm 118:22
+        </p>
+    </div>
+
+    <!-- QR Code Library -->
+    <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
+    
+    <script>
+        // Generate QR Code
+        const websiteUrl = 'https://kermangildpublishing.org';
+        
+        QRCode.toCanvas(document.getElementById('qrcode'), websiteUrl, {
+            width: 300,
+            margin: 2,
+            color: {
+                dark: '#1a1a2e',
+                light: '#ffffff'
+            }
+        }, function (error) {
+            if (error) console.error(error);
+            console.log('QR Code generated successfully!');
+        });
+        
+        // Download QR Code
+        function downloadQR() {
+            const canvas = document.querySelector('#qrcode canvas');
+            const link = document.createElement('a');
+            link.download = 'stone-sceptre-qr-code.png';
+            link.href = canvas.toDataURL();
+            link.click();
+        }
+        
+        // Print QR Code
+        function printQR() {
+            const printWindow = window.open('', '_blank');
+            const canvas = document.querySelector('#qrcode canvas');
+            const dataURL = canvas.toDataURL();
+            
+            printWindow.document.write(`
+                <html>
+                <head>
+                    <title>QR Code - The Stone and the Sceptre</title>
+                    <style>
+                        body { 
+                            text-align: center; 
+                            font-family: Arial, sans-serif; 
+                            padding: 40px;
+                        }
+                        h1 { color: #1a1a2e; margin-bottom: 20px; }
+                        .url { 
+                            font-size: 18px; 
+                            font-weight: bold; 
+                            margin: 20px 0; 
+                            color: #d4af37;
+                            background: #f5f5f5;
+                            padding: 10px;
+                            border-radius: 5px;
+                        }
+                        img { margin: 20px 0; }
+                        .instructions {
+                            text-align: left;
+                            max-width: 400px;
+                            margin: 20px auto;
+                            background: #f9f9f9;
+                            padding: 20px;
+                            border-radius: 10px;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <h1>The Stone and the Sceptre: A Scribe's Tale</h1>
+                    <div class="url">https://kermangildpublishing.org</div>
+                    <img src="${dataURL}" alt="QR Code">
+                    <div class="instructions">
+                        <h3>How to scan:</h3>
+                        <p>1. Open your phone's camera app</p>
+                        <p>2. Point the camera at this QR code</p>
+                        <p>3. Tap the notification to visit the website</p>
+                    </div>
+                </body>
+                </html>
+            `);
+            printWindow.document.close();
+            printWindow.print();
+        }
+    </script>
+</body>
+</html>
