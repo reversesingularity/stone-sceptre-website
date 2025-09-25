@@ -116,7 +116,7 @@
         </div>
         
         <div class="qr-container">
-            <img id="qrcode" src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://kermangildpublishing.org" alt="QR Code for The Stone and the Sceptre website" />
+            <img id="qrcode" src="" alt="QR Code for The Stone and the Sceptre website" />
         </div>
         
         <div class="instructions">
@@ -141,13 +141,50 @@
         // Website URL
         const websiteUrl = 'https://kermangildpublishing.org';
         
+        // Generate QR Code on page load
+        window.addEventListener('DOMContentLoaded', function() {
+            const qrImg = document.getElementById('qrcode');
+            const encodedUrl = encodeURIComponent(websiteUrl);
+            
+            // Try multiple QR code services for reliability
+            const qrServices = [
+                `https://chart.googleapis.com/chart?chs=300x300&cht=qr&chl=${encodedUrl}`,
+                `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=${encodedUrl}`,
+                `https://quickchart.io/qr?text=${encodedUrl}&size=300`
+            ];
+            
+            // Try first service
+            qrImg.src = qrServices[0];
+            
+            // If first fails, try second
+            qrImg.onerror = function() {
+                if (this.src === qrServices[0]) {
+                    this.src = qrServices[1];
+                } else if (this.src === qrServices[1]) {
+                    this.src = qrServices[2];
+                } else {
+                    // If all fail, show text fallback
+                    this.style.display = 'none';
+                    this.parentNode.innerHTML += `
+                        <div style="padding: 20px; background: #f0f0f0; border-radius: 10px; color: #333;">
+                            <h3>QR Code Unavailable</h3>
+                            <p>Please visit directly:</p>
+                            <a href="${websiteUrl}" target="_blank" style="color: #d4af37; font-weight: bold;">${websiteUrl}</a>
+                        </div>
+                    `;
+                }
+            };
+        });
+        
         // Download QR Code
         function downloadQR() {
             const img = document.getElementById('qrcode');
-            const link = document.createElement('a');
-            link.download = 'stone-sceptre-qr-code.png';
-            link.href = img.src;
-            link.click();
+            if (img.src) {
+                const link = document.createElement('a');
+                link.download = 'stone-sceptre-qr-code.png';
+                link.href = img.src;
+                link.click();
+            }
         }
         
         // Print QR Code
