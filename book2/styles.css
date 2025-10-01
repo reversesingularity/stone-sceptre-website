@@ -53,6 +53,74 @@
     box-sizing: border-box;
 }
 
+/* Series Navigation Banner */
+.series-banner {
+    background: rgba(0, 0, 0, 0.9);
+    border-bottom: 2px solid var(--primary-gold);
+    padding: 0.5rem 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1001;
+    backdrop-filter: blur(10px);
+}
+
+.series-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-family: var(--font-heading);
+}
+
+.book-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: var(--transition-fast);
+    color: var(--text-light);
+}
+
+.book-link:hover {
+    background: rgba(212, 175, 55, 0.1);
+    color: var(--primary-gold);
+}
+
+.current-book {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--primary-gold);
+    font-weight: 600;
+}
+
+.book-number {
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+
+.book-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.series-divider {
+    color: var(--primary-gold);
+    font-size: 1.2rem;
+    opacity: 0.6;
+}
+
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 *::before,
 *::after {
     box-sizing: inherit;
@@ -168,7 +236,7 @@ a:hover {
 /* Navigation */
 .navbar {
     position: fixed;
-    top: 0;
+    top: 60px; /* Adjusted for series banner */
     left: 0;
     right: 0;
     background: rgba(26, 26, 46, 0.95);
@@ -238,6 +306,7 @@ a:hover {
     position: relative;
     background: linear-gradient(135deg, var(--accent-red), var(--royal-purple));
     overflow: hidden;
+    padding-top: 120px; /* Adjusted for series banner + navbar */
 }
 
 .hero::before {
