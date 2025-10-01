@@ -1,3 +1,90 @@
+/* Series Navigation Banner */
+.series-banner {
+    background: rgba(0, 0, 0, 0.9);
+    border-bottom: 2px solid #d4af37;
+    padding: 0.5rem 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1001;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.series-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-family: \"Cinzel\", serif;
+}
+
+.book-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: 0.3s ease;
+    color: #f5f5dc;
+}
+
+.book-link:hover {
+    background: rgba(212, 175, 55, 0.1);
+    color: #d4af37;
+}
+
+.current-book {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #d4af37;
+    font-weight: 600;
+}
+
+.book-number {
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+
+.book-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.series-divider {
+    color: #d4af37;
+    font-size: 1.2rem;
+    opacity: 0.6;
+}
+
+/* Container class */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+    .series-banner { padding: 0.3rem 0; }
+    .series-nav { gap: 0.5rem; font-size: 0.85rem; }
+    .book-link { padding: 0.3rem 0.8rem; }
+    .book-number { font-size: 0.7rem; }
+    .book-title { font-size: 0.8rem; }
+    .container { padding: 0 1rem; }
+}
+
+@media (max-width: 480px) {
+    .series-nav { flex-direction: column; gap: 0.3rem; font-size: 0.8rem; }
+    .book-link { padding: 0.25rem 0.5rem; }
+    .series-divider { display: none; }
+    .container { padding: 0 0.75rem; }
+}
+
+
 /* Reset and Base Styles */
 * {
     margin: 0;
