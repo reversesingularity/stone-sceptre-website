@@ -953,43 +953,54 @@ a:hover {
         line-height: 1.1;
     }
     
-    /* Navigation mobile optimization - Ultra compact */
+    /* Navigation mobile optimization - Horizontal compact */
     .navbar {
         top: 28px; /* Minimal height for ultra-compact series banner */
-        padding: 0.3rem 0;
+        padding: 0.2rem 0;
         background: rgba(139, 69, 19, 0.95);
         min-height: auto;
     }
     
     .nav-container {
         flex-direction: column;
-        gap: 0.2rem;
+        gap: 0;
         min-height: auto;
     }
     
+    .nav-brand {
+        display: none; /* Hide brand on mobile to save space */
+    }
+    
     .nav-menu {
-        flex-direction: column;
-        gap: 0.1rem;
+        flex-direction: row; /* Horizontal layout */
+        gap: 0.2rem;
         text-align: center;
         margin: 0;
-        padding: 0;
+        padding: 0.1rem 0;
+        justify-content: space-around;
+        flex-wrap: wrap;
     }
     
     .nav-menu li {
         margin: 0;
         padding: 0;
+        flex: 1;
+        min-width: auto;
     }
     
     .nav-menu li a {
-        font-size: 0.8rem;
-        padding: 0.15rem 0;
-        line-height: 1.2;
+        font-size: 0.7rem;
+        padding: 0.2rem 0.1rem;
+        line-height: 1;
         display: block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
     
     /* Hero section mobile optimization */
     .hero {
-        padding-top: 60px; /* Adjusted for ultra-compact mobile headers */
+        padding-top: 45px; /* Adjusted for horizontal compact mobile headers */
         min-height: 100vh;
     }
     
