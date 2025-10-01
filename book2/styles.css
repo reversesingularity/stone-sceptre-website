@@ -57,7 +57,7 @@
 .series-banner {
     background: rgba(0, 0, 0, 0.9);
     border-bottom: 2px solid var(--primary-gold);
-    padding: 0.5rem 0;
+    padding: 0.3rem 0;
     position: fixed;
     top: 0;
     left: 0;
@@ -924,56 +924,72 @@ a:hover {
         --container-padding: 0 1rem;
     }
     
-    /* Series banner mobile optimization - More compact */
+    /* Series banner mobile optimization - Ultra compact */
     .series-banner {
-        padding: 0.2rem 0;
+        padding: 0.1rem 0;
         background: rgba(139, 69, 19, 0.95);
+        min-height: auto;
     }
     
     .series-nav {
-        gap: 0.3rem;
-        font-size: 0.75rem;
+        gap: 0.2rem;
+        font-size: 0.7rem;
+        line-height: 1.2;
     }
     
     .book-link {
-        padding: 0.2rem 0.6rem;
-        border-radius: 3px;
+        padding: 0.15rem 0.4rem;
+        border-radius: 2px;
+        min-height: auto;
     }
     
     .book-number {
-        font-size: 0.65rem;
+        font-size: 0.6rem;
+        line-height: 1.1;
     }
     
     .book-title {
-        font-size: 0.7rem;
+        font-size: 0.65rem;
+        line-height: 1.1;
     }
     
     /* Navigation mobile optimization - Ultra compact */
     .navbar {
-        top: 38px; /* Reduced height for compact series banner */
-        padding: 0.5rem 0;
+        top: 28px; /* Minimal height for ultra-compact series banner */
+        padding: 0.3rem 0;
         background: rgba(139, 69, 19, 0.95);
+        min-height: auto;
     }
     
     .nav-container {
         flex-direction: column;
-        gap: 0.5rem;
+        gap: 0.2rem;
+        min-height: auto;
     }
     
     .nav-menu {
         flex-direction: column;
-        gap: 0.5rem;
+        gap: 0.1rem;
         text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .nav-menu li {
+        margin: 0;
+        padding: 0;
     }
     
     .nav-menu li a {
-        font-size: 0.9rem;
-        padding: 0.3rem 0;
+        font-size: 0.8rem;
+        padding: 0.15rem 0;
+        line-height: 1.2;
+        display: block;
     }
     
     /* Hero section mobile optimization */
     .hero {
-        padding-top: 80px; /* Adjusted for compact mobile headers */
+        padding-top: 60px; /* Adjusted for ultra-compact mobile headers */
         min-height: 100vh;
     }
     
