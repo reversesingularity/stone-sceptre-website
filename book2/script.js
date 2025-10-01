@@ -37,10 +37,13 @@ function initializeNavigation() {
                 
                 if (targetElement) {
                     const navbarHeight = navbar.offsetHeight;
-                    const targetPosition = targetElement.offsetTop - navbarHeight;
+                    const seriesBanner = document.querySelector('.series-banner');
+                    const seriesBannerHeight = seriesBanner ? seriesBanner.offsetHeight : 0;
+                    const totalHeaderHeight = navbarHeight + seriesBannerHeight + 20; // Extra padding
+                    const targetPosition = targetElement.offsetTop - totalHeaderHeight;
                     
                     window.scrollTo({
-                        top: targetPosition,
+                        top: Math.max(0, targetPosition), // Ensure we don't scroll negative
                         behavior: 'smooth'
                     });
                     
