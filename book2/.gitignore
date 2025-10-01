@@ -1,0 +1,125 @@
+# Git ignore file for The Red Hand & The Eternal Throne website
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# next.js build output
+.next
+
+# nuxt.js build output
+.nuxt
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Temporary folders
+tmp/
+temp/
+
+# Build directories
+build/
+dist/
+
+# Backup files
+*.bak
+*.backup
+
+# Image processing temporary files
+*.tmp
+
+# Local development files
+local/
+.local/
+
+# Deployment files
+.deploy/
+
+# Custom ignores for this project
+# Uncomment these if you have these files locally
+# config.json
+# secrets.json
+# .env.local
+# .env.production
+
+# Large media files (uncomment if you store large assets)
+# *.mov
+# *.mp4
+# *.avi
+# *.wmv
+# *.flv
+
+# Compressed files
+# *.zip
+# *.rar
+# *.7z
+# *.tar.gz
+
+# Documentation drafts
+# drafts/
+# notes/

@@ -1,5 +1,99 @@
 /* The Red Hand & The Eternal Throne: A Bard's Chronicle - Complete Styling */
 
+/* Series Navigation Banner */
+.series-banner {
+    background: rgba(0, 0, 0, 0.9);
+    border-bottom: 2px solid var(--primary-gold);
+    padding: 0.5rem 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1001;
+    backdrop-filter: blur(10px);
+}
+
+.series-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-family: var(--font-heading);
+}
+
+.book-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: var(--transition-fast);
+    color: var(--text-light);
+}
+
+.book-link:hover {
+    background: rgba(212, 175, 55, 0.1);
+    color: var(--primary-gold);
+}
+
+.current-book {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--primary-gold);
+    font-weight: 600;
+}
+
+.book-number {
+    font-size: 0.8rem;
+    opacity: 0.8;
+}
+
+.book-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.series-divider {
+    color: var(--primary-gold);
+    font-size: 1.2rem;
+    opacity: 0.6;
+}
+
+/* Adjust navbar position to account for series banner */
+.navbar {
+    top: 60px;
+}
+
+/* Adjust hero section padding for series banner */
+.hero {
+    padding-top: 120px;
+}
+
+@media (max-width: 768px) {
+    .series-nav {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .series-banner {
+        padding: 0.8rem 0;
+    }
+    
+    .navbar {
+        top: 80px;
+    }
+    
+    .hero {
+        padding-top: 140px;
+    }
+    
+    .book-title {
+        font-size: 0.8rem;
+    }
+}
+
 /* CSS Variables for Consistent Theming */
 :root {
     /* Primary Color Palette - Celtic/Medieval Theme */
