@@ -1,11 +1,31 @@
 # Web App Settings Backup
 ## The Stone and the Sceptre Chronicles - Complete Configuration
 
-**Backup Date**: October 1, 2025  
+**Backup Date**: October 1, 2025 - **UPDATED with Series Banner Fix**  
 **Repository**: https://github.com/reversesingularity/stone-sceptre-website  
 **Live URLs**:
 - Book 1: https://reversesingularity.github.io/stone-sceptre-website/
 - Book 2: https://reversesingularity.github.io/stone-sceptre-website/book2/
+
+**Latest Settings Backup**: `backups/webapp-settings-2025-10-01-latest/`
+
+---
+
+## 🎯 **Current Optimized Configuration**
+
+### Series Banner Navigation (FIXED)
+- **Position**: Fixed at top (z-index: 1001)
+- **Styling**: Dark background with gold border
+- **Function**: Navigate between Book 1 ↔ Book 2
+- **Issue Resolved**: Gold line no longer interferes with navigation text
+
+### Navigation Bar Spacing (OPTIMIZED)
+- **Position**: `top: 100px` (optimal spacing)
+- **Background**: Semi-transparent with backdrop blur
+- **Z-index**: 1000 (below series banner)
+
+### Hero Section Adjustment
+- **Padding**: `padding-top: 130px` (accounts for dual headers)
 
 ---
 
