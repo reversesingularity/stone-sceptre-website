@@ -230,7 +230,7 @@ function openBookPreview() {
                 <hr>
                 <p><strong>Genre:</strong> Christian Historical Fiction / Epic Fantasy</p>
                 <p><strong>Setting:</strong> Celtiberian Iberia, 6th Century BCE</p>
-                <p><strong>Word Count:</strong> Approximately 150,000 words</p>
+                <p><strong>Word Count:</strong> Approximately 160,000 words</p>
                 <hr>
                 <p>In the days when empires rose and fell like waves upon the shore, when the God of Abraham moved among the nations to accomplish His eternal purposes, there came to the western lands of Iberia a company of exiles bearing within their hearts the weight of promises older than kingdoms...</p>
             </div>

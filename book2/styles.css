@@ -814,6 +814,20 @@ a:hover {
     background: rgba(139, 0, 0, 0.1);
 }
 
+.character-card.villain {
+    border-color: #660066;
+    background: rgba(75, 0, 130, 0.15);
+}
+
+.character-card.villain .character-image {
+    background: linear-gradient(45deg, #660066, #8b008b);
+}
+
+.character-card.villain:hover {
+    border-color: #8b008b;
+    box-shadow: 0 8px 25px rgba(139, 0, 139, 0.3);
+}
+
 .character-image {
     width: 80px;
     height: 80px;
