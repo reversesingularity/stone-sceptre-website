@@ -108,7 +108,21 @@ She is the **mother of all goddess cults** — the seductive counterfeit to the 
 
 ## CANON ESTABLISHED (DO NOT CONTRADICT)
 
-- Cian mac Morna: Celtic warrior from 586 BCE, biologically ~51 in 2020
+### Cian mac Morna — Accurate Background
+- **Title:** Sir Cian mac Morna, Knight of the Craobh Ruadh (Red Branch)
+- **Service:** Lieutenant to Fergus mac Roich, Knight-Commander of the Craobh Ruadh
+- **Liege:** High King Eochaidh Herremon of Ireland
+- **Lineage:** Descendant of Machir, son of Manasseh, son of Joseph — giant-slayer heritage
+- **Origin:** Born ~611 BCE to minor Irish noble family
+- **Tragedy:** At age 8, witnessed family's destruction; sister Niamh taken by shapeshifter
+- **Training:** Raised by kinsman in the Craobh Ruadh, obsessive martial dedication
+- **The Quest:** At age 25, retrieved Methuselah's Sword from giant territory (solo mission)
+- **The Rescue:** Found and rescued his sister Niamh during the quest
+- **Angelic protection:** Confirmed by Jeremiah — guardian angel assigned from youth
+- **Physical:** Tall, lean, jet-black hair, piercing blue eyes, "controlled fury"
+- **2020:** Biologically ~51, chronologically 2,631 years old
+
+### Other Canon
 - Methuselah's sword: Grants 100x slower aging, unlocks visions, harms spiritual beings
 - Shemyaza: Commander of 200 Watchers, stationed on Mars, fell for Naamah
 - Azazel: Taught forbidden knowledge (weapons, cosmetics, metallurgy, sorcery)
@@ -123,10 +137,15 @@ She is the **mother of all goddess cults** — the seductive counterfeit to the 
 
 ## CONNECTION TO BOOK 2: THE RED HAND CHRONICLE
 
-Cian mac Morna appears in Book 2 as a Celtic warrior in Gathelus's confederation. His story in that book sets up his origin:
-- He fights against Balor of the Evil Eye (Nephilim chieftain)
-- He obtains Methuselah's sword (circumstances to be developed)
-- This is the beginning of his 2,600-year journey
+Cian mac Morna appears in Book 2 as a Knight of the Craobh Ruadh serving High King Eochaidh Herremon. His story in that book establishes:
+
+- He serves as Lieutenant to Fergus mac Roich
+- His tragic backstory (family killed, sister taken at age 8)
+- His lineage revealed by Jeremiah (descendant of Machir the giant-slayer)
+- His solo quest into giant territory to retrieve Methuselah's Sword
+- His rescue of his sister Niamh
+- The battle against Balor of the Evil Eye (Nephilim chieftain)
+- This is the beginning of his 2,600-year journey as the Undying Hunter
 
 ---
 
