@@ -166,9 +166,10 @@ David Flynn's research (*Cydonia: The Secret Chronicles of Mars*) demonstrates g
 ## PROTAGONIST: CIAN MAC MORNA
 
 ### Origins (Book 1: The Stone and the Sceptre)
-- Celtic warrior in Gathelus's confederation
-- Fought in the battle against Balor of the Evil Eye
-- Circumstances of obtaining Methuselah's sword: [TO BE DEVELOPED]
+- Knight of the Craobh Ruadh (Red Branch) in Ireland
+- Served High King Eochaidh Herremon; Lieutenant to Fergus mac Roich
+- Fought against the Morrigan and the dragon Scáthgheal
+- Solo quest into giant territory to retrieve Methuselah's Sword; rescued his sister Niamh
 
 ### The Sword of Methuselah
 - **Origin**: Forged in the antediluvian world, wielded by the longest-lived human (969 years)
@@ -180,7 +181,7 @@ David Flynn's research (*Cydonia: The Secret Chronicles of Mars*) demonstrates g
 - **The Bond**: Once wielded, cannot be set aside without consequence
 
 ### Timeline
-- **586 BCE**: Age ~25, fights in Iberia, obtains the sword
+- **586 BCE**: Age ~25, fights in Ireland under High King Eochaidh, obtains Methuselah's Sword
 - **Through history**: Hunts Nephilim across civilizations
 - **2020 CE**: Biologically ~51, spiritually exhausted
 - **The Awakening**: Dream visions reveal the complete truth
@@ -192,7 +193,7 @@ David Flynn's research (*Cydonia: The Secret Chronicles of Mars*) demonstrates g
 - **End State**: Fulfill his role as one of the Two Witnesses
 
 ### What Cian Has Witnessed
-1. The Nephilim remnants in 6th century BCE Iberia (Balor, Cethlenn, giant clans)
+1. The Nephilim remnants in 6th century BCE Ireland (the Morrigan, Scáthgheal the dragon, giant clans)
 2. 2,600 years of Nephilim activity across every civilization
 3. The patterns of their hiding, breeding, accumulating power
 4. Through the sword: Methuselah's visions of the antediluvian world, the Watchers' fall

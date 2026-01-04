@@ -132,6 +132,21 @@ She is the **mother of all goddess cults** — the seductive counterfeit to the 
 
 ## CANON ESTABLISHED (DO NOT CONTRADICT)
 
+### THE TWO PARALLEL 586 BCE STORYLINES
+
+The prequels follow two parallel heroic journeys occurring simultaneously in 586 BCE:
+
+| Branch | Book | Hero | Princess | Enemy |
+|--------|------|------|----------|-------|
+| **Ireland** | The Stone and the Sceptre | Cian mac Morna | Tea Tephi | Morrigan / Scáthgheal |
+| **Iberia** | The Red Hand Chronicle | Gathelus | Scota | Balor of the Evil Eye |
+
+**CRITICAL DISTINCTION:**
+- **Cian** fights in IRELAND under High King Eochaidh — battles the Morrigan and the dragon Scáthgheal
+- **Gathelus** fights in IBERIA (Spain) — battles Balor of the Evil Eye and the Nephilim clans
+- These are SEPARATE storylines with different heroes, enemies, and locations
+- Cian does NOT fight Balor; that is Gathelus's enemy
+
 ### Cian mac Morna — Accurate Background
 - **Title:** Sir Cian mac Morna, Knight of the Craobh Ruadh (Red Branch)
 - **Service:** Lieutenant to Fergus mac Roich, Knight-Commander of the Craobh Ruadh
@@ -279,7 +294,7 @@ Cian mac Morna appears in Book 1 as a Knight of the Craobh Ruadh serving High Ki
 - His lineage revealed by Jeremiah (descendant of Machir the giant-slayer)
 - His solo quest into giant territory to retrieve Methuselah's Sword
 - His rescue of his sister Niamh
-- The battle against Balor of the Evil Eye (Nephilim chieftain)
+- The battle against the Morrigan and Scáthgheal the dragon
 - This is the beginning of his 2,600-year journey as the Undying Hunter
 
 ---

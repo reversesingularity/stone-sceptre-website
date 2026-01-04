@@ -489,7 +489,7 @@ The orphan found a family. He just doesn't realize it.
 | ~596 BCE | 15 | Mastered every weapon in Irish arsenal |
 | ~586 BCE | 25 | Knight of Craobh Ruadh, Lieutenant to Fergus mac Roich |
 | 586 BCE | 25 | Quest for Methuselah's Sword, rescues Niamh |
-| 586 BCE | 25 | Battle against Balor of the Evil Eye (Nephilim chieftain) |
+| 586 BCE | 25 | Battle against the Morrigan and Scáthgheal the dragon |
 | 586 BCE+ | 25+ | Begins hunting Nephilim across civilizations |
 | Through history | 26-50 | 2,600 years of combat against Nephilim bloodlines |
 | 2020 CE | ~51 | Receives complete vision, awakens to Witness calling |
