@@ -1,4 +1,4 @@
-# THE SECOND WITNESS: ELIJAH
+# THE FIRST WITNESS: ELIJAH
 ## The Prophet in the Garden
 
 ---

@@ -15,12 +15,123 @@ After 2,600 years of hunting the scattered Nephilim bloodlines, Cian mac Morna�
 
 # PART I: THE COSMOLOGY
 
+## The Ban: The Heavenly Edict
+
+### The Divine Directive
+
+Before examining the Watchers' fall, one must understand **THE BAN** — the foundational heavenly edict that governs all angelic interaction with the mortal realm.
+
+**The Core Principle:**
+
+> *Angels are forbidden from directly intervening in the affairs of mortal men. They may guide, counsel, warn, and inspire — but they may not act.*
+
+This is not a suggestion. It is cosmic law, established before the creation of humanity, binding upon all celestial beings.
+
+### Why The Ban Exists
+
+| Reason | Explanation |
+|--------|-------------|
+| **Free Will** | Humanity must choose its own path; angelic intervention would negate meaningful choice |
+| **The Test** | Mortal life is a proving ground; angels cannot take the test for humans |
+| **The Hierarchy** | Angels serve God, not humanity; they are messengers and watchers, not governors |
+| **The Precedent** | The Watchers' fall demonstrated what happens when angels interfere directly |
+
+### The Exception: Violations of the Edict
+
+The Ban applies to **mortal affairs** — the normal business of human life. But when beings violate heavenly law by manifesting in the mortal realm, *the rules change*.
+
+**Angels MAY act directly against:**
+
+| Entity | Reason |
+|--------|--------|
+| **Fallen Angels/Watchers** | Already under judgment; forfeited protection |
+| **Nephilim** | Abominations that should not exist |
+| **Giants** | Descended from forbidden unions |
+| **Demons** | Spirits of dead Nephilim; operating outside natural order |
+| **Dragons/Monsters** | Corrupted creatures, often Nephilim-derived |
+| **Demon-possessed humans** | The demon is the target, not the human vessel |
+| **Humans actively channeling dark powers** | They have invited violation; the angel may respond |
+
+**The Logic:**
+
+These beings are themselves in violation of heavenly law. Their presence in the mortal realm is *already* an intervention. Angels who act against them are not violating the Ban — they are *enforcing* it.
+
+> *"The Ban protects humanity from angelic interference. It does not protect abominations from angelic wrath."*
+
+### Implications for the Story
+
+**For Cian's Guardian Angel:**
+
+| Situation | Angel's Response |
+|-----------|------------------|
+| Cian faces human enemies | Can warn, advise, guide — **cannot fight** |
+| Cian faces Nephilim | **Full intervention permitted** |
+| Cian interrogates human informant | Can only watch |
+| Cian battles a giant | Can shield, strike, defend |
+| Cian infiltrates a human organization | Observation only |
+| Cian confronts a demon-possessed cultist | Can act against the demon |
+| Cian needs to pass a polygraph | Guidance only... *technically* |
+
+**The Tension:**
+
+This creates profound dramatic tension. Cian's angel has been with him for 2,631 years, loves him (in whatever way angels love), and must sometimes watch him walk into danger against purely human threats — *unable to help*.
+
+> **Raphael:** "THEY ARE MORTAL. I CANNOT INTERVENE."
+>
+> **Cian:** "There are forty of them. With guns."
+>
+> **Raphael:** "MORTAL MEN WITH MORTAL WEAPONS. THE BAN HOLDS."
+>
+> **Cian:** "This is going to hurt."
+>
+> **Raphael:** "I WILL PRAY FOR THEE."
+>
+> **Cian:** "...That's not as comforting as you think."
+
+**The Gray Areas:**
+
+What about humans *working for* Nephilim? What about cultists who haven't yet been possessed? What about security guards at a Synagogue of Satan facility? These edge cases create moral complexity.
+
+The angel interprets the Ban strictly — if there's any doubt, it cannot act. Cian has learned to *create* situations where supernatural entities reveal themselves, giving his angel permission to intervene.
+
+---
+
 ## The Watchers' Fall (Genesis 6 / 1 Enoch 6-10)
 
-### The Observation Post - Mars
-- 200 Watchers stationed on Mars under Shemyaza's command
-- Purpose: Monitor humanity's development, report to the Divine Council
-- Forbidden: Interference, interaction, or desire for human women
+### The Observation Post - Mars (Cydonia Region)
+
+**Location**: The region known to modern astronomers as *Cydonia Planitia* — a transitional zone between the cratered highlands and smooth northern lowlands of Mars.
+
+**The Structures**:
+
+| Feature | True Purpose |
+|---------|---------------|
+| **The "Face"** | Command center / communication array — a megalithic structure encoding Watcher authority |
+| **The D&M Pyramid** | Power generation hub — electromagnetic resonance technology |
+| **The "City"** | Barracks and quarters for the 200 Watchers under Shemyaza's command |
+| **Geometric alignments** | Energy grid using hyperdimensional principles beyond human comprehension |
+
+**Technology**:
+- **Electromagnetic resonance** — manipulation of matter at the atomic level through precise frequencies
+- **Acoustic/sound levitation** — the same principles later echoed in Earth's megalithic structures (pyramids, Stonehenge, Baalbek)
+- **Hyperdimensional physics** — tapping into energy sources from dimensions beyond normal perception
+- **Long-range observation** — technology allowing Watchers to monitor Earth across the gulf of space
+
+*This technology eclipses present-day human science by orders of magnitude. The Watchers were cosmic engineers, not primitive spirits.*
+
+**The Connection to Earth's Megaliths**:
+When the Watchers fell and taught humanity forbidden knowledge, fragments of their technology transferred to Earth:
+- The pyramids of Giza
+- The ziggurats of Mesopotamia
+- Baalbek's massive foundation stones
+- Stonehenge and the megalithic culture
+
+David Flynn's research (*Cydonia: The Secret Chronicles of Mars*) demonstrates geometric and mathematical relationships between Cydonia, Giza, and biblical measurements. The antediluvian world had access to Watcher-derived principles.
+
+**Purpose**:
+- Monitor humanity's development from Genesis 1 onward
+- Report to the Divine Council on human progress
+- **Never interfere, never interact, never desire**
 
 ### The Conspiracy
 - Shemyaza sees Naamah, sister of Tubal-Cain, and is consumed by desire
@@ -54,7 +165,7 @@ After 2,600 years of hunting the scattered Nephilim bloodlines, Cian mac Morna�
 
 ## PROTAGONIST: CIAN MAC MORNA
 
-### Origins (Book 2: The Red Hand Chronicle)
+### Origins (Book 1: The Stone and the Sceptre)
 - Celtic warrior in Gathelus's confederation
 - Fought in the battle against Balor of the Evil Eye
 - Circumstances of obtaining Methuselah's sword: [TO BE DEVELOPED]
@@ -77,7 +188,7 @@ After 2,600 years of hunting the scattered Nephilim bloodlines, Cian mac Morna�
 ### Character Arc
 - **Starting State**: Weary, losing focus, questioning purpose after millennia
 - **Inciting Incident**: The vision of Shemyaza and Naamah
-- **Journey**: Rediscover purpose, find the Second Witness, prepare for the final battle
+- **Journey**: Rediscover purpose, find the First Witness, prepare for the final battle
 - **End State**: Fulfill his role as one of the Two Witnesses
 
 ### What Cian Has Witnessed
@@ -147,15 +258,49 @@ After 2,600 years of hunting the scattered Nephilim bloodlines, Cian mac Morna�
 - Some traditions make her Noah's wife (saved from the Flood)
 - Others say she became a demon, mother of demons
 
-**Story Role** [TO BE DEVELOPED]:
-- Did she survive the Flood? How?
-- Is her bloodline significant in 2020?
-- Does she still exist in some form?
-- Was she innocent victim or willing participant?
+**Story Role**:
+
+**The Transformation**: Naamah was a mortal woman who became something more through prolonged union with Shemyaza:
+- Exposed to Watcher essence, her humanity gradually transformed
+- She became more than human, less than angel — a new creature
+- The woman who emerged was no longer merely Naamah
+
+**The Biblical Evidence for Lilith (Isaiah 34:14)**:
+
+| Version | Rendering | Effect |
+|---------|-----------|--------|
+| Hebrew (MT) | לִילִית (lilit) | Original name preserved |
+| KJV | "screech owl" / "night creature" | Identity obscured for centuries |
+| Septuagint | ὀνοκένταυρος (onocentauros) | Rendered as a demon |
+| Modern translations | "Lilith" (NIV, ESV, NASB) | Name restored |
+
+**Dead Sea Scrolls Confirmation**:
+- *Songs for a Sage (4Q510-511)* lists "Lilith" among demons to be exorcised
+- *Great Isaiah Scroll (1Q1Isa)* uses the plural "liliyyot" — a class of demons
+
+**How She Survived the Flood**:
+- Her transformation was complete before the waters came
+- She existed now as a spiritual entity, a power
+- Not bound by mortal death — the Flood destroyed Nephilim bodies, but Naamah had transcended flesh
+- She has manifested in every culture that worshipped the goddess, fed by worship and sacrifice
+
+**Her Many Names Through History**:
+
+| Era | Name | Culture |
+|-----|------|----------|
+| Pre-Flood | Naamah | Antediluvian |
+| Post-Flood | Lilith | Hebrew |
+| Ancient Near East | Inanna/Ishtar | Sumerian/Babylonian |
+| Egypt | Isis | Egyptian |
+| Canaan | Astarte/Asherah | Canaanite |
+| Greece/Rome | Aphrodite/Venus | Greco-Roman |
+| Modern | Various | Global "divine feminine" |
+
+**She Has Been FREE This Whole Time**: While Shemyaza and Azazel remain imprisoned, Naamah has walked the earth for millennia, preparing humanity for the Beast's return.
 
 ---
 
-## THE SECOND WITNESS: ELIJAH THE PROPHET
+## THE FIRST WITNESS: ELIJAH THE PROPHET
 
 ### The Revelation
 
@@ -265,8 +410,8 @@ God's answer to the Beast and False Prophet:
 
 | Witness | Identity | Counter To | Role |
 |---------|----------|------------|------|
-| **First Witness** | Cian mac Morna | Shemyaza (Beast) | Warrior-King - physical resistance |
-| **Second Witness** | Elijah | Azazel (False Prophet) | True Prophet - spiritual authority |
+| **First Witness** | Elijah | Azazel (False Prophet) | True Prophet - spiritual authority |
+| **Second Witness** | Cian mac Morna | Shemyaza (Beast) | Warrior-King - physical resistance |
 
 ### Why This Pairing Works
 
@@ -302,8 +447,8 @@ God's answer to the Beast and False Prophet:
 | Unholy | Counter | The Battle |
 |--------|---------|------------|
 | Satan/Dragon | God the Father | Cosmic authority |
-| Shemyaza/Beast | Cian (1st Witness) | Political/Physical |
-| Azazel/False Prophet | Elijah (2nd Witness) | Religious/Spiritual |
+| Shemyaza/Beast | Cian (2nd Witness) | Political/Physical |
+| Azazel/False Prophet | Elijah (1st Witness) | Religious/Spiritual |
 | Naamah/Whore | The True Church | Seduction vs. Faithfulness |
 
 ---
@@ -328,11 +473,45 @@ The series will include faithful believers who:
 - Demonstrate collective faithfulness
 - Show that the battle isn't just two men vs. three monsters — it's the Bride vs. the Whore
 
+### The Isis-Ra Parallel: How Naamah Gained Power Over Shemyaza
+
+In Egyptian mythology, Isis desired power over Ra. She tricked the dying sun-god into revealing his **True Name** — the secret name that contained his essence and authority. With that name, she gained dominion over him.
+
+**This is what Naamah did.**
+
+During their union, when Shemyaza was most vulnerable — intoxicated by forbidden love, desperate to possess her fully — Naamah extracted something far more precious than pleasure. She drew out his **True Name**, the angelic secret that contained his celestial authority.
+
+**What She Gained:**
+| Element | Significance |
+|---------|--------------|
+| True Name | Power to command, bind, or influence him |
+| Celestial Knowledge | Watcher secrets he shared in intimacy |
+| Spiritual Essence | Part of his angelic nature merged with her |
+| Binding Leverage | Insurance against abandonment or betrayal |
+
+**She Rides the Beast (Revelation 17:3):**
+The imagery isn't merely sexual or political — it's magical. She *rides* him because she *controls* him. He doesn't know it. He believes himself the master, the Beast, the coming king. But she holds his name.
+
+> *The puppet believes himself the puppeteer.*
+
+**What Shemyaza Does Not Know:**
+During his five thousand years of imprisonment, Shemyaza has sustained himself with one thought: *Naamah*. His love for her is the only light in the Abyss. Every chain that burns, every moment of isolation — he endures it because he believes she loves him, waits for him, has been faithful to his memory.
+
+He does not know she *used* him.
+
 ### Naamah's Fate
 
 **Revelation 17:16** - *"The ten horns you saw, and the beast, will hate the prostitute. They will bring her to ruin and leave her naked; they will eat her flesh and burn her with fire."*
 
-Naamah is ultimately destroyed **by those she seduced** — the very Beast system turns on her. This is the fate of the counterfeit: it consumes itself.
+**Why does the Beast hate her?**
+
+After five thousand years of believing she was his faithful beloved, Shemyaza will discover the truth: that she extracted his True Name, that she has wielded power over him, that her "love" was manipulation from the beginning.
+
+The love that sustained him through millennia of torment becomes the **hatred that destroys her**. 
+
+This is why "the Beast will hate the prostitute." Not random political betrayal — but personal devastation. The deepest love, when revealed as the deepest lie, becomes the most absolute hatred.
+
+Naamah is ultimately destroyed **by those she seduced** — specifically by Shemyaza himself. The very Beast system turns on her. This is the fate of the counterfeit: it consumes itself.
 
 ---
 
@@ -363,36 +542,161 @@ Naamah is ultimately destroyed **by those she seduced** — the very Beast syste
 
 ## The Vision Sequence
 
-### Vision 1: Shemyaza Watching
-- Mars observation post
-- Sees Naamah among the forges of Tubal-Cain
-- The seed of desire planted
+*The visions come through Methuselah's sword — fragments of memory from the man who lived 969 years, who walked the antediluvian world, who knew the Watchers by name before they fell.*
 
-### Vision 2: The Oath on Hermon
-- 200 Watchers gathering
-- Shemyaza's speech, the mutual oath
-- The descent begins
+---
 
-### Vision 3: The Taking of Wives
-- Genesis 6:2 - "the sons of God saw the daughters of men"
-- The corruption spreading
-- Azazel teaching forbidden knowledge
+### Vision 1: THE STATION
 
-### Vision 4: The Nephilim Born
-- Giants, violence, the earth corrupted
-- The cry reaching Heaven
-- Judgment decreed
+**Setting**: Cian wakes in a place that is not Earth. The sky is salmon-pink, the horizon curved wrong, the air too thin to breathe — yet he breathes. Two moons arc overhead.
 
-### Vision 5: The Binding
-- Shemyaza dragged to the Abyss
-- Azazel cast into Dudael
-- The terms of their imprisonment revealed
+He stands amid **cyclopean structures**: a great face carved into a mesa, pyramidal forms arranged in geometric precision, towers of smooth stone humming with energy he can feel in his teeth.
 
-### Vision 6: The Warning
-- What will release them
-- The timeline accelerating
-- Cian's role revealed
-- The search for the Second Witness commanded
+Figures move among the structures — **beings of terrible beauty**. Too tall. Too perfect. Light seems to bend around them. One of them — the largest, the most beautiful — stands at a viewing apparatus, staring into something that shows *Earth*.
+
+Shemyaza. Cian knows the name without being told.
+
+The commander speaks:
+
+> *"Report on the sons of Adam. Their numbers increase. Their cities spread. They have discovered copper, and will soon find bronze. They progress... as designed."*
+
+But Shemyaza's eyes linger on one figure in the viewing apparatus — a woman moving among firelit forges, dark hair catching the flames.
+
+**Naamah.**
+
+Cian sees Shemyaza's hand tighten on the console. Sees something kindle in those ancient eyes that should not be there.
+
+*The seed of the Fall is planted in a look.*
+
+---
+
+### Vision 2: THE OBSESSION
+
+**Setting**: Time passes. Cian cannot say how much — days, months, centuries? The viewing apparatus shows Earth at different stages. Shemyaza always returns to the same figure.
+
+Naamah at the forges, hammering bronze. Naamah walking through fields of wheat. Naamah bathing in a river, unaware of the eyes watching from across the void of space.
+
+The other Watchers notice. They whisper. Some share his affliction — they have seen human women in the viewing apparatus, and something has awakened in them that their nature was never designed to contain.
+
+Shemyaza gathers them:
+
+> *"I fear that I alone shall have to suffer for this great sin. But if you will all swear to me by an oath, that we will all share in this deed together, then we may all be bound by mutual curse and not one of us shall depart from this resolve."*
+
+Two hundred voices answer: *"We swear."*
+
+They swear on **the name that cannot be spoken**. They bind themselves irrevocably.
+
+*The conspiracy is sealed on Mars.*
+
+---
+
+### Vision 3: THE DESCENT TO HERMON
+
+**Setting**: The station on Mars falls dark. The structures go cold. The viewing apparatus shows only static.
+
+Two hundred pillars of light streak across the void — burning through the heavens, descending to Earth like fallen stars.
+
+They land on **Mount Hermon** — the boundary mountain, the threshold between heaven and earth. The snow melts where they touch down. The ground trembles.
+
+Shemyaza stands among his brothers, no longer in angelic form but wearing bodies of flesh — still beautiful, still terrible, but *incarnate* now. Bound to matter. Fallen.
+
+> *"The oath is sealed in flesh. There is no return. Now — we take what we have desired."*
+
+They descend the mountain toward the cities of men.
+
+*The Watchers have abandoned their post forever.*
+
+---
+
+### Vision 4: THE TEACHING AND THE TAKING
+
+**Setting**: Cian sees fragments — a montage of corruption spreading like plague.
+
+**The Taking of Wives**: The Watchers enter human cities. Women scream, then fall silent. Some are taken by force. Others come willingly, seduced by inhuman beauty and promises of power. Naamah stands before Shemyaza, and she does not run — she *smiles*.
+
+**Azazel's School**: A Watcher with cold, patient eyes gathers humans around him. He shows them how to forge bronze into weapons. How to mix antimony into cosmetics. How to read the stars for forbidden knowledge. How to cut roots for potions that twist the mind.
+
+> *"You call us gods, and you are not wrong. Let me show you what the jealous ones in heaven kept hidden from you..."*
+
+**The Birth of the Nephilim**: Women heavy with impossible children. The births are violent — many mothers do not survive. The offspring are *wrong*: too large, too strong, growing too fast. Within years they tower over normal men. Within decades they rule.
+
+*The earth fills with violence.*
+
+---
+
+### Vision 5: THE NEPHILIM WORLD
+
+**Setting**: The antediluvian world at its corruption's peak.
+
+Giants walk the earth — the **Nephilim**, the "mighty men of old, men of renown." They have built kingdoms of stone and blood. Human beings are cattle to them, slaves, food.
+
+The technology of the Watchers has been perverted: the principles that built Cydonia now build war machines, torture devices, monuments to the giants' glory.
+
+Azazel smiles at his work. Shemyaza rules beside Naamah, who has changed — no longer merely mortal, something cold and hungry in her eyes now.
+
+The *cry* begins:
+
+> *"The groaning of the earth ascends to the gates of heaven. The blood of the righteous cries out. How long, O Lord?"*
+
+**The Divine Council convenes.** Four archangels receive their orders.
+
+---
+
+### Vision 6: THE JUDGMENT
+
+**Setting**: The archangels descend — not as pillars of light but as warriors in terrible glory.
+
+**Raphael** finds Azazel in his school of forbidden knowledge. The teacher does not resist — he knew this moment would come. Raphael binds him hand and foot and casts him into a hole in the desert.
+
+> *"Bind Azazel hand and foot, and cast him into the darkness. Make an opening in the desert, which is in Dudael, and cast him therein. Place upon him rough and jagged rocks, and cover him with darkness. Let him abide there forever, and cover his face that he may not see light."*
+
+Cian watches Azazel's face as the rocks seal him in. No fear — only cold fury. And something else: *certainty that this is not the end.*
+
+**Michael** confronts Shemyaza. The commander of the Watchers fights — his power is immense, but Michael is an archangel, and behind him stands the authority of the Throne. The battle is brief.
+
+Shemyaza is bound in chains that burn with holy fire. Naamah screams as they drag him away.
+
+> *"Bind Shemyaza and his associates who united with women to defile themselves. When their sons have slain one another, bind them fast for seventy generations in the valleys of the earth, until the day of their judgment and consummation."*
+
+They cast him into **the Abyss** — a darkness beneath the waters, beneath the earth, where light cannot reach.
+
+*The Watchers are imprisoned. But Naamah is not bound.*
+
+---
+
+### Vision 7: THE FLOOD AND AFTER
+
+**Setting**: The waters rise. The Nephilim drown. Humanity is reduced to eight souls on a wooden ark.
+
+But Naamah does not die. Cian sees her standing on a mountaintop as the waters rise around her — and she *changes*. Her flesh dissolves into something else. Spirit. Shadow. Power.
+
+She will not die. She cannot die. She has become something the Flood cannot touch.
+
+*She has been free ever since. Walking among humanity. Building her cults. Preparing for the return of her lover.*
+
+---
+
+### Vision 8: THE REVELATION — CIAN'S CALLING
+
+**Setting**: Cian stands in darkness. The visions fade. A voice speaks — not Methuselah's memory, but something greater using the sword as a conduit.
+
+> *"You have seen what was. Now see what will be."*
+
+The Abyss cracks. Chains that have held for five thousand years begin to weaken. Shemyaza stirs in the darkness — conscious, waiting, counting every second of his imprisonment.
+
+Dudael trembles. The rocks over Azazel's face shift. Light — the first light in five millennia — touches his eyes.
+
+> *"The seals are weakening. The appointed time approaches. The Beast will rise from the sea. The False Prophet will rise from the earth. The Whore prepares their way."*
+
+> *"You are the Second Witness. There is another — held in Paradise, preserved for this hour. He is the First, the prophet of old. Find him. Stand together. Bear testimony until your blood is required."*
+
+> *"You will prophesy for 1,260 days. You will be killed. You will rise again. This is your calling."*
+
+Cian wakes.
+
+The sword of Methuselah thrums in his hand. Outside his window, the world of 2020 continues — unaware that the end has begun.
+
+*He has to find Elijah.*
 
 ---
 
@@ -405,11 +709,11 @@ Naamah is ultimately destroyed **by those she seduced** — the very Beast syste
 - Flashback structure showing key moments from his 2,600 years
 - Discovery that the Nephilim conspiracy is accelerating
 - First confrontation with modern Nephilim operatives
-- Clue pointing toward the Second Witness
+- Clue pointing toward the First Witness (Elijah)
 - Ends with: Cian accepts his calling, begins the search
 
 ### Book 2: THE SEARCH
-- Hunt for the Second Witness
+- Hunt for the First Witness (Elijah in Eden)
 - Multiple candidates? False leads?
 - Deeper exploration of Azazel's influence in modern world
 - The Second Witness found/revealed
@@ -460,6 +764,33 @@ Naamah is ultimately destroyed **by those she seduced** — the very Beast syste
 - Naamah traditions (demon, Noah's wife, etc.)
 - Azazel and the scapegoat ritual (Leviticus 16)
 - The Book of Giants (Dead Sea Scrolls)
+- Lilith in Dead Sea Scrolls — Songs for a Sage (4Q510-511)
+- Zohar and Kabbalistic traditions on Lilith/Naamah merger
+
+### The Yom Kippur / Azazel Connection
+- Leviticus 16:8-10 — the scapegoat sent "to Azazel" in the wilderness
+- Mishnah: Scapegoat pushed from cliff at Bet Ḥadudo (above Azazel's prison)
+- 1 Enoch 10:8 — "To him ascribe ALL sin" — the divine verdict
+- 2 Thessalonians 2:3-10 — Azazel as the "Man of Sin" / "Lawless One"
+
+### Cydonia / Mars Research (Worldbuilding Inspiration)
+
+| Researcher | Work | Relevance |
+|------------|------|------------|
+| **David Flynn** | *Cydonia: The Secret Chronicles of Mars* | Geometric relationships between Cydonia, Giza, biblical measurements |
+| **Richard Hoagland** | *The Monuments of Mars* | Cydonia structures, "hyperdimensional physics" claims |
+| **George Haas** | *The Cydonia Codex* (Cydonia Institute) | Detailed analysis of Martian structures |
+
+*Note: These sources are pseudoscientific in mainstream assessment but useful for supernatural fiction framework. In-story, the Mars connection is revealed through divine vision, not scientific discovery.*
+
+### Scholarly Sources on Enochic Literature
+
+| Author | Work | Value |
+|--------|------|-------|
+| **R.H. Charles** | *The Book of Enoch* (1917) | Foundational translation and commentary |
+| **Michael Heiser** | *The Unseen Realm*, *Reversing Hermon* | Academic treatment of Divine Council, Watchers, Nephilim |
+| **James VanderKam** | *Enoch: A Man for All Generations* | Dead Sea Scrolls context |
+| **Loren Stuckenbruck** | *The Book of Giants from Qumran* | Definitive academic treatment of Book of Giants |
 
 ### Historical Settings for Flashbacks
 - [TO BE DEVELOPED based on Cian's 2,600-year journey]

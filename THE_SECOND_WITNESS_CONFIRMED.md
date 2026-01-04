@@ -1,4 +1,7 @@
-# THE SECOND WITNESS: CONFIRMED
+# THE FIRST WITNESS: CONFIRMED
+
+## Elijah the Prophet — The Senior Witness
+
 ## Elijah the Prophet — Taken by the Chariot of Fire to Eden
 
 ---
@@ -30,7 +33,7 @@ The chariot of fire wasn't taking Elijah UP — it was taking him IN. The cherub
 
 ---
 
-## WHY ELIJAH IS THE SECOND WITNESS
+## WHY ELIJAH IS THE FIRST WITNESS
 
 ### Malachi's Prophecy
 
@@ -108,8 +111,8 @@ Together they represent both **endurance** and **renewal**.
 | Unholy Trinity | Divine Counter | The Battle |
 |----------------|----------------|------------|
 | Satan/Dragon | God the Father | Cosmic authority |
-| Shemyaza/Beast | **Cian** (1st Witness) | Political/Physical |
-| Azazel/False Prophet | **Elijah** (2nd Witness) | Religious/Spiritual |
+| Shemyaza/Beast | **Cian** (2nd Witness) | Political/Physical |
+| Azazel/False Prophet | **Elijah** (1st Witness) | Religious/Spiritual |
 | Naamah/Whore of Babylon | The True Church (collective) | Seduction vs. Faithfulness |
 
 ### Why This Pairing Works
@@ -141,7 +144,7 @@ Together they represent both **endurance** and **renewal**.
 
 ### How Cian Finds Eden (Books 1-2)
 
-The search for the Second Witness becomes the search for the hidden garden:
+The search for the First Witness becomes the search for the hidden garden:
 
 - The sword of Methuselah reveals glimpses of Paradise
 - Cian follows clues across ancient sites
@@ -187,7 +190,7 @@ Two men from opposite worlds must become one testimony:
 ## SEE ALSO
 
 - [characters/ELIJAH_THE_PROPHET.md](characters/ELIJAH_THE_PROPHET.md) - Full prophet profile
-- [characters/CIAN_MAC_MORNA.md](characters/CIAN_MAC_MORNA.md) - First Witness profile
+- [characters/CIAN_MAC_MORNA.md](characters/CIAN_MAC_MORNA.md) - Second Witness profile
 - [characters/ANTAGONISTS.md](characters/ANTAGONISTS.md) - The Unholy Trinity
 
 ---
