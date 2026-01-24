@@ -175,6 +175,126 @@ But when they fight together, she handles two enemies while he handles twenty.
 
 She knows her role. She watches his back, handles threats he can't reach in time, and trusts him to do the heavy killing. They complement each other — she is precision where he is overwhelming force.
 
+### The Arsenal Revelation
+
+**PLACEMENT: Early Book 2, Chapter 3-5**
+
+The first time Cian showed Miriam his armory, Raphael was watching from the shadows — and later admitted he had never seen her so... *animated*.
+
+> **Cian:** "This is... well. The collection."
+>
+> *[The vault door opens. Rows upon rows of weapons spanning 2,600 years. Swords from every culture. Crossbows. Composite bows. Firearms organized by era. The workbench with half-assembled prototypes. The locked cabinet with the Bás Dearg rounds.]*
+>
+> **Miriam:** *[stops breathing]*
+>
+> **Cian:** "It's a bit much, I know—"
+>
+> **Miriam:** "Is that a *zhān mǎ dāo*?"
+>
+> **Cian:** *[blinks]* "You... know what that is?"
+>
+> **Miriam:** *[already crossing the room]* "Horse-cutting sword. Ming dynasty? No — earlier. Yuan? The curve is different."
+>
+> **Cian:** "Song dynasty, actually. Gift from a grateful general."
+>
+> **Miriam:** *[reverently]* "It's beautiful."
+>
+> **Cian:** "Most women see a room full of weapons and ask why I need so many."
+>
+> **Miriam:** "Most women haven't spent twenty years learning that weapons are the difference between victim and survivor." *[turning]* "Is that a compound bow system? That design looks... wrong for this century."
+>
+> **Cian:** "I built it. In 1690."
+>
+> **Miriam:** "You *invented* the compound bow?"
+>
+> **Cian:** "I improved on earlier concepts. The credit went to someone else. Eventually."
+>
+> **Miriam:** *[laughing — actually laughing]* "Of course you did."
+
+For two hours, she moved through his collection like a child in a museum — asking questions, identifying eras and origins, handling pieces with the respect they deserved. She recognized the Greek Fire projector mechanism. She knew the difference between a Mongol composite bow and a Turkish recurve. She understood why the arbalest required a spanning windlass.
+
+> **Cian:** *[to Raphael, later]* "She identified the *zhān mǎ dāo* on sight. A 12th century Chinese anti-cavalry blade."
+>
+> **Raphael:** "I NOTICED."
+>
+> **Cian:** "She knew it was Song dynasty before I told her."
+>
+> **Raphael:** "I AM AWARE."
+>
+> **Cian:** "Most people can't tell a gladius from a spatha, and she—"
+>
+> **Raphael:** "CIAN."
+>
+> **Cian:** "What?"
+>
+> **Raphael:** "THY HEART IS POUNDING LIKE A WAR DRUM. DOST THOU REQUIRE ME TO EXPLAIN WHY?"
+>
+> **Cian:** "...Shut up."
+>
+> **Raphael:** "THOU ART SMITTEN BECAUSE SHE APPRECIATES THY IMPLEMENTS OF DESTRUCTION. THIS IS WHAT PASSES FOR ROMANCE AFTER TWENTY-SIX CENTURIES?"
+>
+> **Cian:** "I said shut up."
+>
+> **Raphael:** *[with infinite satisfaction]* "AH."
+
+**Miriam's Background:**
+
+She learned weapons because weapons kept her alive. But somewhere along the way, the necessity became fascination. She studies arms and armor the way some people study art — because they are *beautiful*, because they represent human ingenuity applied to survival, because understanding them meant understanding power.
+
+When Cian showed her the Bás Dearg dissolution rounds — explaining the crystal-based delivery system that houses fluoroantimonic acid, the piezoelectric triggers that release it on impact, the way it weaponizes a creature's own healing factor — she asked intelligent questions for an hour.
+
+> **Miriam:** "The crystal matrix keeps the acid stable until the piezoelectric trigger fires?"
+>
+> **Cian:** "You understood that?"
+>
+> **Miriam:** "I have a biochemistry minor. Useful for understanding the drugs they move."
+>
+> **Cian:** *[staring at her like she's grown a second head]*
+>
+> **Miriam:** "What?"
+>
+> **Cian:** "Nothing. I just... nothing."
+>
+> **Raphael:** *[very quietly, from the shadows]* "IF THOU DOST NOT ASK THIS WOMAN TO REMAIN, I SHALL INTERVENE MYSELF."
+>
+> **Cian:** "You can't intervene. The Ban."
+>
+> **Raphael:** "I WILL FIND A WAY."
+
+**The Enthusiast's Bond:**
+
+This shared passion becomes a foundation of their relationship. They discuss modifications to his loadout. She suggests improvements to his tactical crossbow's sighting system. He teaches her to shoot the compound bow he built in 1690.
+
+When she finally sees the coilgun — the prototype that represents decades of Skunk Works-derived research — she simply sits down and stares at it for five minutes in silence.
+
+> **Miriam:** "That's not possible with current civilian technology."
+>
+> **Cian:** "Correct."
+>
+> **Miriam:** "You built it?"
+>
+> **Cian:** "Skunk Works dividend."
+>
+> **Miriam:** "...Can I shoot it?"
+>
+> **Cian:** "If you marry me first."
+>
+> *[Silence. Both of them freeze.]*
+>
+> **Cian:** "That was a joke. That was— I didn't mean— It's a joke. The coilgun has nothing to do with—"
+>
+> **Miriam:** *[slowly smiling]* "That's the first time I've seen you flustered."
+>
+> **Cian:** "I'm not flustered. I've fought dragons. Dragons don't fluster me. I just—"
+>
+> **Miriam:** "Ask me after the war."
+>
+> *[She walks away. Cian stands there. The sword vibrates slightly in its sheath.]*
+>
+> **Sword:** *[mentally, smugly]* "She said 'after.' Not 'no.'"
+>
+> **Cian:** "Not. One. Word."
+
 **The Adult Years (Age 18-29):**
 
 - Attended university under a false identity (finance, naturally)
@@ -656,6 +776,8 @@ This is her gift to him: the secret she keeps.
 
 ### The Wedding
 
+**PLACEMENT: Late Book 2, Chapter 18-20 (before the climactic demon confrontation)**
+
 When Cian and Miriam marry, it will be a Jewish ceremony. Cian will stand under the chuppah. He will stomp on the glass.
 
 For a man who has watched Israel scattered and persecuted for millennia, to marry a daughter of Israel — to affirm the covenant in the ancient way — will be profoundly meaningful.
@@ -665,6 +787,19 @@ For a man who has watched Israel scattered and persecuted for millennia, to marr
 > **Miriam:** "Eight hundred years?"
 >
 > **Cian:** "Twenty-six centuries. I just didn't know I was waiting."
+
+**Book 2 Relationship Timeline:**
+
+| Chapter Range | Event |
+|---------------|-------|
+| **1-2** | Cian and Miriam meet while hunting the same Nephilim banker |
+| **3-5** | The Arsenal Revelation — Cian shows her his collection; bonding over weapons |
+| **6-10** | Working together; Raphael begins the Tobit parallel; trust builds |
+| **11-14** | The accidental coilgun proposal; "Ask me after the war" |
+| **15-17** | The proposal (intentional this time); Cian asks properly |
+| **18-20** | The Wedding — Jewish ceremony, covenant sealed |
+| **21-23** | The demon confrontation — Raphael reveals himself to Miriam; the demon is destroyed |
+| **24** | Aftermath — Miriam keeps Raphael's secret; the marriage is complete
 
 ---
 

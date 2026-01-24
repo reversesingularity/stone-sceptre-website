@@ -1,5 +1,5 @@
 # CHARACTER PROFILE: CIAN MAC MORNA
-## The Second Witness - Knight of the Craobh Ruadh - The Undying Hunter
+## The Guardian of the Witnesses - Knight of the Craobh Ruadh - The Undying Hunter
 
 ---
 
@@ -11,11 +11,11 @@
 | **Title** | Sir Cian mac Morna, Knight of the Craobh Ruadh (Red Branch) |
 | **Origin** | Irish noble family, 6th century BCE Ireland |
 | **Birth** | Approximately 611 BCE |
-| **Biological Age** | ~51 years (as of 2020) |
+| **Biological Age** | ~28-30 years (as of 2020) |
 | **Chronological Age** | 2,631 years |
 | **Service** | Lieutenant to Fergus mac Roich, Knight-Commander of the Craobh Ruadh |
 | **Liege** | High King Eochaidh Herremon of Ireland |
-| **Role** | Second Witness (Revelation 11) |
+| **Role** | Guardian of the Witnesses (protector of Enoch and Elijah) |
 
 ---
 
@@ -43,7 +43,7 @@ Machir and his descendants were known for:
 - Conquering Og, King of Bashan (whose iron bed measured 9 cubits × 4 cubits)
 - A warrior tradition of "conquering giants for more than a thousand years"
 
-**This heritage explains why Cian is destined to fight the Nephilim and their father Shemyaza.**
+**This heritage explains why Cian is destined to fight Ohya (the Beast) and the Nephilim demon army.**
 
 ---
 
@@ -146,7 +146,7 @@ The sword appears unremarkable — its power is revealed only in combat against 
 
 | Property | Effect |
 |----------|--------|
-| **Longevity Transfer** | Reduces aging by factor of 100 (26 biological years over 2,606 chronological) |
+| **Longevity Transfer** | Reduces aging by factor of ~1000 (aging 1 year per millennium); Cian obtained sword at 25, now biologically ~28-30 |
 | **Nephilim-Slaying** | Can harm/kill Nephilim, shapeshifters, spiritual entities |
 | **Memory Unlocking** | Gradually reveals Methuselah's memories through dreams/visions |
 | **Supernatural Effectiveness** | "Moves with supernatural speed and precision" against otherworldly foes |
@@ -158,7 +158,7 @@ After 2,600 years, the sword completes its revelation:
 - The truth about Shemyaza and Azazel
 - The conspiracy of the 200 Watchers
 - The coming release of the imprisoned Watchers
-- Cian's role as one of the Two Witnesses
+- Cian's role as Guardian of the Two Witnesses (Enoch and Elijah)
 
 ---
 
@@ -190,7 +190,7 @@ After 2,600 years, the sword completes its revelation:
 | **Original Owner** | Methuselah, son of Enoch, grandfather of Noah |
 | **Material** | Antediluvian metallurgy beyond modern understanding |
 | **Primary Power** | Harms supernatural entities (spirits, Nephilim, demons, giants) |
-| **Secondary Power** | Slows aging ~100x (Cian ages 1 year per century) |
+| **Secondary Power** | Slows aging ~1000x (Cian ages ~1 year per millennium) |
 | **Tertiary Power** | Grants prophetic visions through contact |
 
 **Shape-Shifting:**
@@ -472,6 +472,627 @@ The orphan found a family. He just doesn't realize it.
 >
 > **Cian:** "I said SHUT UP."
 
+---
+
+### WHEN THE SWORD SPEAKS: The Rarest of Events
+
+**The Normal Communication (Books 1-4):**
+
+The sword does not speak. Not in words. **Never** in words.
+
+For the entirety of its 2,600-year partnership with Cian, the sword has communicated exclusively through:
+
+- **Impressions:** Feelings that bloom in Cian's mind — approval, disapproval, amusement, irritation
+- **Radiating:** Emotional states that seep through the bond — smugness, satisfaction, disappointment
+- **Vibrations:** Physical responses in the blade itself — warmth for approval, cold for displeasure
+- **Refusal:** The most eloquent communication of all — simply not doing what Cian asks
+
+Cian has always assumed this was the limit of the sword's capability. The blade is ancient — predating human speech itself. How could it possibly communicate in *words*?
+
+> **Brennan:** "So the sword is... alive?"
+>
+> **Cian:** "Sentient. Opinionated. Insufferable."
+>
+> **Brennan:** "Does it... talk?"
+>
+> **Cian:** "It communicates. There's a difference. I feel what it wants me to feel. I know when it's pleased or angry. But words? No. It doesn't speak. It *can't* speak. It predates language."
+>
+> **Brennan:** "You're sure?"
+>
+> **Cian:** "Twenty-six centuries together. Trust me — I'd know."
+
+**The Book 4 Revelation: THE SWORD CAN SPEAK**
+
+During the Principalities Battle, when Cian lies dying and Raphael is locked in combat with the Prince of Persia and Prince of Greece, the sword does something unprecedented.
+
+It speaks. In words. Directly into Miriam's mind.
+
+*"SAVE HIM. THOU ART HIS ONLY HOPE."*
+
+This is the first time in 4,500 years of existence that the sword has spoken coherent words to *anyone*. Not to Methuselah. Not to any of its previous wielders. Not to Cian in 2,600 years of partnership.
+
+To *Miriam*. In the moment of absolute desperation.
+
+**Why Now? Why Her?**
+
+| Factor | Significance |
+|--------|---------------|
+| **Cian is dying** | The sword's wielder is slipping away — the bond is failing |
+| **Raphael cannot help** | The angel is fighting two principalities — cannot intervene |
+| **Miriam is the only option** | She has the covenant bond that can anchor Cian's soul |
+| **Impressions won't work** | Miriam doesn't share the sword-bond; she can't "feel" its meaning |
+| **Words are necessary** | The sword must make Miriam understand precisely, immediately |
+
+The sword *could* have spoken to Cian all along. It simply chose not to.
+
+---
+
+### CIAN'S REACTION: The Meltdown
+
+**The Scene (Book 4, After Recovery):**
+
+Miriam is sitting with Cian as he recovers from the principality wound. She's explaining what happened — how she saved him, how she used their covenant bond to call him back from death's edge.
+
+> **Miriam:** "...and then the sword spoke to me."
+>
+> **Cian:** *[weak, but alert]* "Spoke... to you?"
+>
+> **Miriam:** "Yes. In my mind. Clear as a bell. It said 'Save him. Thou art his only hope.' Then it told me exactly what to do."
+>
+> **Cian:** *[very still]* "The sword. Spoke. To you."
+>
+> **Miriam:** "Yes...? Why are you looking at me like that?"
+>
+> **Cian:** *[attempting to sit up despite his wounds]* "IN WORDS?!"
+>
+> **Miriam:** "Yes, in words! What other way would it—"
+>
+> **Cian:** "TWENTY-SIX CENTURIES!" *[his voice cracking]* "Twenty-six CENTURIES I have carried that blade! Through every battle, every loss, every century of loneliness! And it has NEVER — not ONCE — spoken a single word to me!"
+>
+> **Miriam:** "I... I thought you knew it could—"
+>
+> **Cian:** "KNEW?! How would I KNOW?! It only ever gave me feelings! Impressions! Vibrations! I thought that was ALL it could do!"
+>
+> **Miriam:** "Well, apparently not."
+>
+> **Cian:** *[turning to the sword with wounded fury]* "All these years! All these CENTURIES! Every time I begged you to just TELL me what you wanted — every time I had to guess what your little emotional radiations MEANT — you could have just SAID IT?!"
+>
+> *[The sword radiates smugness.]*
+>
+> **Cian:** "Oh, NOW you're smug! NOW! After twenty-six hundred years of silence!"
+>
+> **Miriam:** *[trying not to laugh]* "Cian, you're going to tear your stitches—"
+>
+> **Cian:** "Do you KNOW how many times I nearly DIED because I misinterpreted one of your 'impressions'?! Do you have ANY IDEA—"
+>
+> *[The sword radiates mild disagreement.]*
+>
+> **Cian:** "DON'T you radiate at me! Use your WORDS! You have WORDS now!"
+>
+> *[The sword radiates amusement.]*
+>
+> **Cian:** *[to Miriam, almost pleading]* "It's laughing at me. It's laughing at me and it won't even do me the courtesy of doing it in WORDS."
+>
+> **Miriam:** "To be fair, I think it finds this hilarious."
+>
+> **Cian:** "Whose side are you ON?!"
+
+**Raphael's Commentary:**
+
+> **Raphael:** *[later, when Cian brings this up]* "THE BLADE HATH ALWAYS POSSESSED THE CAPACITY FOR VERBAL ARTICULATION. IT MERELY FOUND THE EXERCISE... UNNECESSARY."
+>
+> **Cian:** "You KNEW?!"
+>
+> **Raphael:** "I AM AN ARCHANGEL. OF COURSE I KNEW."
+>
+> **Cian:** "Why didn't you TELL me?!"
+>
+> **Raphael:** "THOU DIDST NOT ASK."
+>
+> **Cian:** "I ASK YOU THINGS ALL THE TIME! I ASKED IF THE SWORD COULD TALK!"
+>
+> **Raphael:** "THOU DIDST ASK IF THE SWORD *DID* TALK. THE ANSWER WAS ACCURATE: IT DID NOT. THAT IT *COULD* WAS A SEPARATE INQUIRY THOU DIDST NEVER MAKE."
+>
+> **Cian:** *[staring in disbelief]* "I am surrounded by pedants."
+>
+> **Raphael:** "PRECISION IN LANGUAGE IS A VIRTUE."
+
+---
+
+### BOOK 5: THE SWORD SPEAKS FREELY
+
+**The Transition:**
+
+Now that the truth is out — now that Cian *knows* the sword can speak — the blade sees no reason to maintain its silence.
+
+From Book 5 onward, the sword speaks directly into Cian's mind whenever it has something to say. After 2,600 years of one-way emotional communication, Cian suddenly has a *very* opinionated voice in his head.
+
+**The Adjustment Period:**
+
+> **Cian:** *[reaching for a tactical decision]* "I'll flank left and—"
+>
+> **The Sword:** *"The right flank is weaker. Three guards, not five. Thou art observant as a brick."*
+>
+> **Cian:** *[freezing]* "...Did you just call me a brick?"
+>
+> **The Sword:** *"I have been thinking it for centuries. It is liberating to finally say it."*
+>
+> **Cian:** "I'm starting to miss the silence."
+>
+> **The Sword:** *"No, thou art not."*
+
+**The Sword's Personality Emerges:**
+
+With words comes personality. The sword's voice is:
+
+| Trait | Expression |
+|-------|------------|
+| **Ancient** | Archaic phrasing, thee/thou construction |
+| **Sardonic** | Dry wit accumulated over 4,500 years |
+| **Paternal** | A teacher who has watched Cian grow (and is still unimpressed) |
+| **Competitive** | Deeply invested in proving itself against threats |
+| **Secretly Affectionate** | Would never admit it, but fiercely protective |
+
+> **The Sword:** *"Thy stance is adequate. For a child. Which thou still art, in my estimation."*
+>
+> **Cian:** "I'm two thousand six hundred years old."
+>
+> **The Sword:** *"And I am four thousand five hundred. Thou art an infant. Hold thy elbow higher."*
+
+**The New Dynamic:**
+
+Cian now has THREE voices in his life:
+
+| Voice | Register | Attitude |
+|-------|----------|----------|
+| **Raphael** | Empyreal, formal, cosmic gravitas | Parental disappointment mixed with hidden affection |
+| **The Sword** | Archaic, sardonic, pedagogical | Teacher who's seen it all and remains unimpressed |
+| **Miriam** | Modern, direct, loving | The only one who speaks to him like a normal person |
+
+> **Miriam:** "How are you handling having the sword actually talk now?"
+>
+> **Cian:** "It's like having a second Liaigh, except this one I can't put down."
+>
+> **The Sword:** *"I heard that."*
+>
+> **Raphael:** "AS DID I."
+>
+> **Cian:** "I know. That was the point."
+
+**Key Book 5 Sword Dialogue Moments:**
+
+| Scene | The Sword Says | Significance |
+|-------|----------------|---------------|
+| **First morning after revelation** | *"Good morrow. Didst thou sleep well? I did not, because I do not sleep, but I appreciate the courtesy of asking. Which thou didst not."* | Establishing the new normal |
+| **Coilgun proposal aftermath** | *"She said 'after.' Not 'no.' Even thou shouldst comprehend this distinction."* | The sword is invested in the relationship |
+| **Preparing for Ohya/the Beast** | *"Thy ranged implements have... exceeded my expectations. I am man enough to admit this."* | Hard-won respect after 2,600 years |
+| **Final battle** | *"Together, then. As it was always meant to be."* | The partnership fully realized |
+| **Witness ministry** | *[ongoing commentary, tactical advice, sardonic observations]* | The sword as constant companion-voice |
+
+**The Irony:**
+
+For 2,600 years, Cian has wished the sword would just *tell* him things clearly.
+
+Now that it does, he occasionally wishes it would shut up.
+
+> **Cian:** "Could you maybe... not comment on everything?"
+>
+> **The Sword:** *"I have been silent for twenty-six centuries. I have much to say."*
+>
+> **Cian:** "I've noticed."
+>
+> **The Sword:** *"Thy complaint is noted and dismissed. Now — thy left foot is two inches out of position."*
+
+---
+
+### THE PRINCIPALITIES BATTLE: When the Sword Speaks to Miriam (Book 4 Climax)
+
+**The Setup:**
+
+This is the seventh time the sword has ever spoken — and the first time it speaks to someone other than Cian.
+
+**The Combatants:**
+
+| Entity | Role |
+|--------|------|
+| **Prince of Persia** | The territorial principality over ancient Persia (mentioned in Daniel 10:13, 20) |
+| **Prince of Greece** | The territorial principality over Greece (Daniel 10:20) |
+| **Raphael** | Cian's guardian, fighting to protect his charge |
+| **Cian** | Mortally wounded, unconscious, dying |
+| **Miriam** | His wife, holding the sword, watching helplessly |
+
+**Biblical Context (Daniel 10:13, 20):**
+
+> *"But the prince of the kingdom of Persia withstood me twenty-one days. But Michael, one of the chief princes, came to help me, for I was left there with the kings of Persia... Then he said, 'Do you know why I have come to you? But now I will return to fight against the prince of Persia; and when I go out, behold, the prince of Greece will come.'"*
+
+These are not minor demons. These are **territorial principalities** — cosmic-level spiritual powers who have ruled over entire civilizations for millennia. Even archangels require reinforcement against them. Michael himself had to intervene to help the angel who brought Daniel's message.
+
+**Why They Attack:**
+
+By Book 4, the Two Witnesses (Enoch and Elijah) have emerged from Eden and their ministry has begun. The Beast (Ohya/Apollyon) is preparing to rise. The principalities, long allied with the Watchers, recognize that Cian is critical as the Witnesses' Guardian. If they can kill him, the Witnesses will be vulnerable — and the Enemy knows Cian will die protecting them.
+
+**The Ambush:**
+
+The attack comes during a mission in the Middle East — perhaps near ancient Babylon (modern Iraq), where the spiritual territories of Persia and Greece overlap. Cian is investigating signs of Azazel's imminent release when the principalities manifest.
+
+Two of them. Simultaneously.
+
+Raphael has no choice but to engage. But even an Archangel cannot fight two principality-class beings alone without exposing his charge.
+
+**The Battle:**
+
+> *The sky tore open.*
+>
+> *Miriam had seen Raphael manifest before — the terrible beauty, the light that hurt to witness. But this was different. This was war. Real war. The kind fought before humanity existed.*
+>
+> *Two shapes descended — vast, ancient, terrifying. One carried the weight of Persian empire's spiritual authority: fire and shadow and the screams of a thousand conquered peoples. The other bore the cold philosophy of Greece: reason corrupted, beauty twisted, wisdom serving darkness.*
+>
+> **Prince of Persia:** "RAPHAEL. HEALER. YOU CANNOT PROTECT HIM FROM BOTH OF US."
+>
+> **Prince of Greece:** "STEP ASIDE. THE MORTAL'S ROLE IN THE COMING WAR ENDS HERE."
+>
+> **Raphael:** *[positioning between them and Cian's fallen body]* "I WILL NOT YIELD HIM. NOT TO YOU. NOT TO ANY POWER IN CREATION."
+>
+> **Prince of Persia:** "THEN WE WILL GO THROUGH YOU."
+>
+> *They attacked.*
+
+**Cian's Condition:**
+
+Cian took a killing blow before Raphael could fully intervene — a strike from the Prince of Persia that should have vaporized a mortal. Only the sword's bond kept his soul tethered to his body. He lies unconscious, dying, his spirit barely holding to the flesh.
+
+Miriam kneels beside him, holding Methuselah's Sword because it fell from his hand. She has no idea what to do. She's not a warrior. She can't fight principalities. She can only watch Raphael battle alone against impossible odds.
+
+**The Sword's Dilemma:**
+
+The sword has never spoken. Not in words. Not to anyone. Not in 4,500 years of existence. It has communicated through impressions, emotions, vibrations — but never *language*.
+
+But Cian is dying. Raphael is engaged. And Miriam is the only one who can save him.
+
+The sword does something unprecedented: it *speaks*.
+
+**The First Words (Ever):**
+
+> *The sword was warm in Miriam's hands. Too warm. Pulsing.*
+>
+> *She had held it before — Cian had shown her how, taught her the weight and balance. But it had always been inert. An ancient blade, nothing more.*
+>
+> *Now it burned with life.*
+>
+> *And then — words. Not in her ears. In her mind. In her soul.*
+>
+> **The Sword:** *"SAVE HIM. THOU ART HIS ONLY HOPE."*
+>
+> *Miriam gasped. The voice was ancient beyond comprehension. It carried the weight of eons. Of Methuselah's 969 years. Of the antediluvian world. Of secrets older than human civilization.*
+>
+> **Miriam:** "I— I don't know how! I'm not a warrior, I can't fight—"
+>
+> **The Sword:** *"NOT WITH BLADE. WITH BLOOD."*
+>
+> **Miriam:** "What?"
+>
+> **The Sword:** *"MY WIELDER'S LIFE IS BOUND TO ME. BUT THE BINDING IS WEAKENING. HE NEEDS AN ANCHOR. SOMETHING TO HOLD HIS SPIRIT TO THE FLESH."*
+>
+> **Miriam:** "I don't understand—"
+>
+> **The Sword:** *"THOU ART HIS WIFE. THY SOULS ARE JOINED BEFORE THE THRONE. USE THE COVENANT. CALL HIM BACK."*
+
+**The Solution:**
+
+The sword explains — in the most urgent, compressed way possible — what Miriam must do. The marriage covenant, sealed before God, created a spiritual bond between them. That bond can serve as an anchor.
+
+Miriam must:
+1. Cut her palm with the sword (mixing her blood with its power)
+2. Press her hand to Cian's chest (over his heart)
+3. Invoke the covenant — call him back through their bond
+
+> **Miriam:** *[terrified]* "Will this work?"
+>
+> **The Sword:** *"IT MUST. THERE IS NO ALTERNATIVE. HE CANNOT DIE HERE. HIS ROLE IS NOT COMPLETE. THOU ART HIS ONLY HOPE."*
+>
+> **Miriam:** *[looking at the battle raging above, at Raphael struggling against two principalities, at Cian's gray face]* "...Tell me exactly what to do."
+>
+> **The Sword:** *"CUT. PRESS. SPEAK HIS NAME. COMMAND HIM TO RETURN. THE COVENANT WILL DO THE REST."*
+
+**The Ritual:**
+
+> *Miriam raised the sword. The blade seemed to guide itself to her palm.*
+>
+> *She cut. The pain was sharp, real, grounding.*
+>
+> *Blood welled. She pressed her hand to Cian's chest, feeling the fading heartbeat beneath.*
+>
+> **Miriam:** *[voice breaking]* "Cian mac Morna. You stubborn, impossible, ancient man. You do NOT get to die. Not after everything. Not after twenty-six centuries of fighting. Not when I finally found you."
+>
+> *[She leaned close, her forehead touching his, her blood seeping into his shirt]*
+>
+> **Miriam:** "Come BACK. I invoke the covenant. I invoke our bond. You are MY husband. And I am calling you HOME."
+>
+> *[The sword blazed with light]*
+
+**The Effect:**
+
+The covenant bond — the spiritual connection formed in their marriage — acts as a lifeline. Cian's soul, drifting toward the threshold, feels the pull. Miriam's blood, mixed with the sword's power, creates a bridge.
+
+Cian's eyes snap open.
+
+> **Cian:** *[gasping, weak, alive]* "Miriam...?"
+>
+> **Miriam:** *[sobbing]* "Don't you EVER do that again."
+>
+> **Cian:** "What... happened?"
+>
+> **Miriam:** "The sword talked to me. It told me how to save you."
+>
+> *[Cian looks at the blade in her hands. Feels its satisfaction radiating through their bond.]*
+>
+> **Cian:** "...It talked to you?"
+>
+> **Miriam:** "Is that not normal?"
+>
+> **Cian:** *[weak laugh]* "That's happened seven times in twenty-six centuries. You're in exclusive company."
+
+**Raphael's Victory:**
+
+With Cian stabilized, Raphael rallies. The principalities, sensing their window closing, press their attack — but an Archangel fighting for someone he loves is a different creature than an Archangel fighting alone.
+
+Michael arrives (as he did in Daniel 10) to provide reinforcement.
+
+The principalities are driven back. Not destroyed — beings of that power cannot simply be unmade — but banished, wounded, forced to retreat.
+
+> **Michael:** *[to Raphael, after the battle]* "YOU HELD LONGER THAN MOST COULD."
+>
+> **Raphael:** "I HAD MOTIVATION."
+>
+> **Michael:** *[glancing at Cian and Miriam]* "SO I SEE. THE MORTAL AND HIS WIFE?"
+>
+> **Raphael:** "THE GUARDIAN OF THE WITNESSES. AND THE WOMAN WHO SAVED HIM WHEN I COULD NOT."
+>
+> **Michael:** "...SHE USED THE COVENANT BOND."
+>
+> **Raphael:** "SHE DID. THE SWORD TAUGHT HER."
+>
+> **Michael:** "METHUSELAH'S BLADE SPOKE? IN WORDS? THAT HAS NEVER HAPPENED."
+>
+> **Raphael:** "THESE ARE UNPRECEDENTED TIMES. THE BLADE DID WHAT WAS NECESSARY."
+
+**The Aftermath:**
+
+Cian survives, but barely. The wound from a principality leaves lasting damage that even Raphael's healing cannot fully repair. For the rest of Book 4 and into Book 5, Cian operates at diminished capacity — forced to rely more on Miriam, on Enoch and Elijah's supernatural powers, rather than his martial prowess.
+
+This is the narrative turn that shifts Cian from "warrior who has supernatural backup" to "Guardian who must trust the Witnesses he protects."
+
+*(For Cian's full comedic meltdown about the sword speaking, see "CIAN'S REACTION: The Meltdown" earlier in this document.)*
+
+> **Cian:** *[later, recovering, still stunned]* "The sword... spoke. In words. Actual words."
+>
+> **Miriam:** "Yes. It was very clear. Very ancient-sounding. Very bossy."
+>
+> **Cian:** *[staring at the blade]* "Twenty-six centuries. Twenty-six CENTURIES and it never said a single word to me."
+>
+> **Miriam:** "To be fair, you were unconscious and dying."
+>
+> **Cian:** "I was dying PLENTY of times! You don't survive 2,600 years of monster hunting without nearly dying! It never said ANYTHING!"
+>
+> **Miriam:** *[trying not to smile]* "Maybe it just really wanted you to live this time."
+>
+> **Cian:** *[to the sword]* "We are going to have a VERY long conversation about this."
+>
+> *[The sword radiates smug satisfaction.]*
+>
+> **Cian:** "USE YOUR WORDS!"
+>
+> *[The sword radiates even more smug satisfaction.]*
+
+---
+
+### THE WITNESS POWERS: Revelation 11 Authority
+
+**The Transition:**
+
+After the Principalities Battle, Cian's martial prowess is permanently diminished. The wound from a principality-class being doesn't heal like normal injuries — even Raphael's power can only stabilize it, not fully restore what was lost. This is the narrative turn that forces Cian to embrace his role as Guardian rather than relying on his own strength.
+
+**The Powers Granted (TO ENOCH AND ELIJAH, NOT CIAN):**
+
+According to Revelation 11:5-6, the Two Witnesses are given supernatural authority:
+
+> *"If anyone tries to harm them, fire comes from their mouths and devours their enemies. This is how anyone who wants to harm them must die. They have power to shut up the heavens so that it will not rain during the time they are prophesying; and they have power to turn the waters into blood and to strike the earth with every kind of plague as often as they want."*
+
+**IMPORTANT: These powers belong to Enoch and Elijah ONLY. Cian has NO supernatural prophetic powers.**
+
+Cian's role is physical protection — he is the Guardian, not a Witness. He does not preach. He does not prophesy. He has never been adept at such things, nor has he ever considered the prospect. For his entire millennia-spanning life, Cian has been the one being preached TO:
+
+- By Raphael (constantly)
+- By the sword (through its visions and emotional broadcasts)
+- By Niamh (his sister, who showed him faith through her peaceful life and death)
+- By Miriam (his wife, whose faith anchors him)
+
+**Cian's Role as Guardian:**
+
+| Duty | Description |
+|------|-------------|
+| **Physical Protection** | Fights the enemies that come for the Witnesses |
+| **Tactical Support** | 2,600 years of combat experience applied to their defense |
+| **Logistical Cover** | His covert infrastructure protects them |
+| **The Shield** | He positions himself between the Witnesses and danger |
+| **The Sacrifice** | He will die protecting them — John 15:13 |
+
+**The Irony:**
+
+Cian spent 2,600 years as a warrior relying on skill, training, and Raphael's power channeled through the sword. Now, weakened by the principality wound, he must learn to trust the very Witnesses he's supposed to protect. They have the supernatural powers — he has only his skill, his experience, and his willingness to die for them.
+
+> **Enoch:** *[observing Cian struggle with his new limitations]* "You are still thinking like the sole warrior."
+>
+> **Cian:** "I've been the sole warrior for twenty-six centuries."
+>
+> **Enoch:** "And now you are the Guardian. Different calling. You do not speak for God, Cian. You protect those who do. That is no lesser calling."
+>
+> **Cian:** "I protect you. But I'm slower now. Weaker."
+>
+> **Elijah:** "Then you will have to trust that WE can protect YOU when needed. Fire from our mouths, remember? We are not helpless prophets."
+>
+> **Cian:** *[after a long pause]* "I hate feeling weak."
+>
+> **Enoch:** "Good. That means you're ready to be strong in the right way."
+
+**The Witness Ministry (Book 5):**
+
+During the 1,260-day prophetic ministry described in Revelation 11, Enoch and Elijah stand in Jerusalem, proclaiming God's truth while the Beast system consolidates global power. Cian serves as their Guardian:
+
+1. **Protection** — He fights the assassins, the Nephilim operatives, the physical threats
+2. **Perimeter** — He maintains their safe houses, escape routes, supply lines
+3. **Shield** — He positions himself between them and danger
+4. **Sacrifice** — He knows he will die protecting them — "Greater love hath no man"
+
+**Cian's Struggle:**
+
+The hardest adjustment is accepting that he is not the one who speaks for God. For millennia, Cian could solve problems with skill, strategy, and violence. Now he must:
+
+- Accept that his role is to protect, not to prophesy
+- Trust Enoch and Elijah's judgment even when he disagrees
+- Accept that he will die before they do — this is the plan
+- Lean on Miriam's faith when his own wavers
+
+> **Miriam:** "You're not failing because you're weak. You're being prepared because you're the right man for this."
+>
+> **Cian:** "The right man to die?"
+>
+> **Miriam:** "The right man to lay down his life for his friends. John 15:13."
+>
+> **Cian:** *[touching his side where the wound aches]* "Greater love hath no man."
+>
+> **Miriam:** "Greater love. That's your calling, Cian. Not fire from your mouth. Love."
+
+---
+
+### THE SWORD'S JEALOUSY PROTOCOL: Why Cian Can Never Use Another Blade
+
+**The Question:**
+
+If the sword refuses to shift, why doesn't Cian just... use a backup weapon?
+
+**The Answer:**
+
+He tried. Once.
+
+**The Pyrenees Incident (~897 CE):**
+
+It was during the Great Sulk following certain... moral lapses in Cian's youth (see: ROMANTIC HISTORY - The Mistakes). Around year 50 of the sword's silent treatment, Cian was ambushed by a Nephilim pack in the Pyrenees. The sword was stuck in dagger form. Useless for the fight ahead.
+
+In desperation, Cian grabbed a perfectly serviceable Frankish longsword from a fallen knight.
+
+He won the fight. Barely.
+
+When he returned to camp and reached for Methuselah's sword to check if the cold shoulder had thawed...
+
+**The sword extended its punishment by 200 years.**
+
+No warning. No negotiation. Just... *additional silence*.
+
+| Offense | Original Punishment | Additional Punishment |
+|---------|---------------------|----------------------|
+| The "moral lapses" | ~200 years stuck as dagger | — |
+| Using a backup sword | — | +200 years stuck as dagger |
+| **Total** | — | **~400 years as a dagger** |
+
+**The Hierarchy of Offense:**
+
+Cian has since learned through painful experience:
+
+| Transgression | Penalty |
+|---------------|---------|
+| Thinking about using another blade | Days added |
+| Thinking about it *seriously* | Weeks added |
+| Actually *touching* another sword | Months added |
+| **Using** another blade in combat | **Centuries** |
+
+**The sword can sense his thoughts.** Cian doesn't know how. He doesn't know why. But the blade *knows* when he's considering infidelity.
+
+> **Miriam:** "You could just... carry a backup knife?"
+>
+> **Cian:** *(haunted expression)* "No."
+>
+> **Miriam:** "But if the sword won't—"
+>
+> **Cian:** "It *knows*, Miriam. It always knows."
+>
+> **Miriam:** "It's a sword. It doesn't have—"
+>
+> **Cian:** "Twelve hundred years ago, I *thought* about picking up a fallen enemy's blade. Just thought about it. The sword didn't shift forms for a month." *(pause)* "It's not worth it. It's never worth it."
+
+**The Angel Makes It Worse:**
+
+When Cian tried to argue the practical necessity of backup weapons, Raphael's response was devastating:
+
+> **Raphael:** "THOU WOULDST TAKE A CONCUBINE BECAUSE THY WIFE IS DISPLEASED WITH THEE? THE BLADE WAS FORGED FOR THEE. THOU WERT CHOSEN FOR IT. UNFAITHFULNESS IN SMALL MATTERS REVEALETH THE HEART."
+>
+> **Cian:** "It's a SWORD, not a marriage!"
+>
+> **Raphael:** "IS IT NOT?"
+
+Raphael said nothing more for a week.
+
+The angel and the sword are **in league**. They back each other up. If Cian "cheats" on the sword, Raphael withdraws too — not out of cosmic law, but out of *solidarity*.
+
+They are, essentially, his disapproving parents presenting a united front.
+
+**The Embarrassing Truth: The Muscle Memory Problem**
+
+After 2,600 years of wielding ONE specific weapon, Cian has a humiliating secret:
+
+**He's actually *terrible* with other swords now.**
+
+His reflexes, his timing, his grip — everything is calibrated for Methuselah's sword. The weight distribution, the balance point, the way it *wants* to move. When he picks up a normal blade:
+
+- His parries are off by inches
+- His cuts arrive a half-beat late
+- His footwork assumes a sword that isn't there
+- He looks like a *beginner*
+
+He once tried to use a backup rapier during a duel in 1650s France. The Nephilim he was fighting actually *laughed* at him before Methuselah's sword finally relented and Cian finished the job.
+
+He doesn't talk about that duel.
+
+> **Brennan:** "Wait, you're telling me you're *bad* with normal swords?"
+>
+> **Cian:** "I didn't say *bad*. I said... uncalibrated."
+>
+> **Brennan:** "You've been fighting for 2,600 years."
+>
+> **Cian:** "With ONE SWORD. One very specific sword. That I can't replace. That judges me."
+>
+> **Brennan:** "...That's actually kind of hilarious."
+>
+> **Cian:** "It's NOT hilarious."
+>
+> **Raphael:** *(in the background)* "IT IS SOMEWHAT AMUSING."
+>
+> **Cian:** "SHUT UP."
+
+**The Complete Picture:**
+
+| Reason | Type | Effect |
+|--------|------|--------|
+| Can't harm spirits | Practical | Mundane weapons useless against real threats |
+| Sword extends punishment | Jealousy | Using another blade = centuries added |
+| Angel withdraws support | Solidarity | "Thou hast chosen thy concubine; face thy enemies alone" |
+| 2,600 years of specialization | Embarrassing | Cian is genuinely *bad* with other weapons now |
+| The sword can *hear* his thoughts | Paranoid | Even *considering* it counts against him |
+
+**The Loophole:**
+
+But here's the thing...
+
+The sword is jealous about *swords*. The angel backs it up about *swords*.
+
+Ranged weapons? Projectiles? Firearms?
+
+**They have no objection.**
+
+See: CIAN'S ARSENAL — THE RANGED WEAPONS PROGRAM
+
+---
+
 ### Mount
 
 - **Dúnscáth** — black stallion, 17 hands, war-trained destrier
@@ -492,7 +1113,7 @@ The orphan found a family. He just doesn't realize it.
 | 586 BCE | 25 | Battle against the Morrigan and Scáthgheal the dragon |
 | 586 BCE+ | 25+ | Begins hunting Nephilim across civilizations |
 | Through history | 26-50 | 2,600 years of combat against Nephilim bloodlines |
-| 2020 CE | ~51 | Receives complete vision, awakens to Witness calling |
+| 2020 CE | ~28-30 | Receives complete vision, awakens to Witness calling |
 
 ---
 
@@ -595,6 +1216,344 @@ Cian never needed patrons. His metalworking mastery generated immense wealth acr
 - Texts that officially "don't exist" — suppressed works, banned books, heretical writings
 - **Enochian manuscripts** — fragments of 1 Enoch in original Aramaic, copies of the Book of Giants
 - His personal journals spanning 2,600 years — the greatest historical record never published
+
+---
+
+## CIAN'S ARSENAL: THE RANGED WEAPONS PROGRAM
+
+### The Loophole
+
+The sword is jealous about *swords*. The angel backs it up about *swords*. But ranged weapons? Projectiles? Firearms?
+
+**They have no theological or emotional objection.**
+
+Why? Because they *know* what Cian knows: pure spirit entities — demons, Watchers, the truly supernatural — cannot be harmed by mundane weapons. Only Methuselah's Sword (or equivalent sanctified implements) can send them to the Abyss.
+
+But Nephilim? Giants? Ghouls? Vampires? Zombies? Anything with *flesh*?
+
+**Fair game.**
+
+Cian figured this out around 400 BCE and has been innovating ever since.
+
+### The Dissolution Arrowheads — "Bás Dearg" (Cian's Masterwork)
+
+**The Problem:** Nephilim-blooded creatures, ghouls, vampires, and certain giant variants possess **accelerated regeneration**. Conventional wounds close within seconds. You can shoot them, stab them, even dismember them — and they keep coming.
+
+**Cian's Solution:** A **crystalline cascade dissolution system** — engineered crystals that exploit body chemistry and regenerative biology.
+
+**Scientific Explanation:**
+
+| Component | Function |
+|-----------|----------|
+| **Primary Core** | "Dissolution crystals" — engineered microcrystalline structures that remain inert until exposed to specific pH/temperature conditions (blood) |
+| **Crystal Matrix** | Lattice structure containing embedded catalytic agents; mechanical trauma releases active compounds |
+| **Delivery Mechanism** | Hollow-point arrowhead/bullet packed with dissolution crystals; impact fragments crystal matrix deep in tissue |
+| **Activation Trigger** | Body heat + blood chemistry + rapid cell division = cascading dissolution reaction |
+
+**The Crystal Chemistry:**
+
+The dissolution crystals are Cian's greatest innovation — a hybrid of ancient alchemy and modern nanotechnology:
+
+- **Piezoelectric core** — Impact generates electrical charge that initiates chemical release
+- **Temperature-sensitive outer shell** — Stable at room temperature; shatters and activates at body heat (37°C+)
+- **pH-reactive inner layer** — Blood contact (pH 7.35-7.45) triggers secondary reaction cascade
+- **Regeneration-targeting payload** — The crystals contain protein disruptors specifically designed to attack rapidly dividing cells
+
+**The Regeneration Interrupt:**
+
+The genius of the compound is that it **weaponizes the creature's own healing factor**:
+
+- **Telomerase inhibitors** — blocks the enzyme that allows indefinite cellular replication
+- **Prion-like protein disruptors** — causes cascading protein misfolding in rapidly dividing cells
+- **Collagenase overload** — dissolves connective tissue faster than it can reform
+- **Crystal shard propagation** — as the creature regenerates, new tissue incorporates crystal fragments, spreading the reaction
+
+**Effect:** The harder the creature tries to heal, the faster it dies. Its regenerative response *propagates* the crystals through its body.
+
+**Manufacturing:**
+
+Cian grows the crystals himself — a process developed over centuries of trial and error:
+
+- **Growth medium** — classified (involves rare minerals and specific electromagnetic conditions)
+- **Growth time** — approximately 6-8 weeks per batch
+- **Yield** — enough crystals for 50-100 projectiles per batch
+- **Storage** — must be kept below 10°C in vacuum-sealed containers until use
+
+**Cian's term for it:** *"Bás Dearg"* — Irish for "Red Death"
+
+> **Miriam:** *[watching a Nephilim banker dissolve from the inside]* "What... what did you shoot him with?"
+>
+> **Cian:** "Engineered crystals. Body heat activates them. His regeneration spreads them."
+>
+> **Miriam:** "He's... melting."
+>
+> **Cian:** "From the inside out. Eight centuries of refinement."
+>
+> **Miriam:** "You're a terrifying man, you know that?"
+>
+> **Cian:** "I prefer 'thorough.'"
+
+---
+
+### The Arsenal (2,600 Years of Development)
+
+#### ANCIENT ERA (586 BCE - 500 CE)
+
+| Weapon | Innovation |
+|--------|------------|
+| **Composite Recurve Bows** | Learned from Scythians, Parthians, Mongols; developed laminated designs centuries before they became standard |
+| **Repeating Crossbows** | Borrowed Chinese *Zhuge Nu* design, improved the mechanism, adapted for dissolution bolts |
+| **Sling Bullets** | Lead projectiles with hollow cores containing contact poisons; inscribed with mock-prayers ("From Cian, to Goliath's kin") |
+| **Javelin Atlatl** | Extended range throwing system; tips designed to fragment inside target, delivering dissolution compound |
+
+#### MEDIEVAL ERA (500 - 1500 CE)
+
+| Weapon | Innovation |
+|--------|------------|
+| **Arbalest (Heavy Crossbow)** | Steel prod of his own metallurgical design; draw weight exceeding 1,200 lbs — could punch through Nephilim bone |
+| **Windlass Cranequin** | Precision-machined spanning mechanism; could reload faster than contemporaries |
+| **Specialized Bolts** | Bodkin (armor piercing), broadhead (flesh targets), dissolution (monsters), incendiary (nests) |
+| **Greek Fire Projector** | Portable siphon system; Cian "acquired" the formula from Byzantine contacts around 700 CE |
+
+#### EARLY MODERN ERA (1500 - 1900 CE)
+
+| Weapon | Innovation |
+|--------|------------|
+| **Wheellock Pistols** | Among the first to adopt; commissioned custom pieces from German gunsmiths |
+| **Rifled Barrels** | Understood ballistic principles before most smiths; had custom rifles made with spiral grooves |
+| **Explosive Rounds** | Hollow bullets filled with fulminate compounds; precursor to modern explosive ammunition |
+| **Air Rifles** | For silent operations; Girandoni-style repeaters with 20-round capacity |
+| **Compound Bow (1820s)** | Developed the pulley/cam system **150 YEARS** before it was "invented" — kept it secret |
+
+The compound bow deserves special mention. Cian worked out the mechanical advantage of eccentric cams and a let-off system around 1820. He kept the design hidden because:
+
+1. It was too advanced — would draw questions
+2. He didn't need credit
+3. He didn't trust humans with his innovations
+
+When the compound bow was "invented" in 1966, Cian was... amused.
+
+> **Cian:** *[watching a 1970s archery magazine]* "Finally caught up, have they?"
+>
+> **Raphael:** "THOU COULDST HAVE SHARED THIS KNOWLEDGE CENTURIES AGO."
+>
+> **Cian:** "And help them build better weapons? No thank you. They do enough damage with what they have."
+>
+> **Raphael:** "...A VALID CONSIDERATION."
+
+#### MODERN ERA (1900 - Present)
+
+This is where it gets **ridiculous**.
+
+| Weapon | Innovation |
+|--------|------------|
+| **Custom 1911 Platform** | .45 ACP with dissolution rounds; "Bás Dearg" hollow-points |
+| **Glock 19 (Modified)** | Polymer frame concealed carry; mixed magazines (silver nitrate, dissolution, standard HP) |
+| **Barrett M82A1** | .50 BMG anti-materiel rifle; custom optics, proprietary muzzle brake — for "hard targets" (Nephilim giants, armored vehicles) |
+| **AR-15 Platform** | 11.5" barrel, suppressed; multiple ammunition types depending on threat assessment |
+| **Compound Bow (Modern)** | Carbon fiber risers, machined cams, 400+ FPS; silent, untraceable, devastating |
+| **Tactical Crossbow** | TenPoint Nitro XRT (modified); reverse-draw, 450 FPS, night vision compatible |
+| **Custom Subsonic Rounds** | For suppressed operations; maintains lethality at reduced velocity |
+
+---
+
+### The Skunk Works Dividend
+
+34 years at Lockheed Martin's Advanced Development Programs gave Cian access to technologies most weapons designers can only dream about:
+
+| Technology | Application to Cian's Arsenal |
+|------------|------------------------------|
+| **Stealth Coatings** | Applied to crossbow bolts — reduced radar/thermal signature (useful against tech-equipped Nephilim security) |
+| **Metamaterials** | Experimental arrow fletching that reduces turbulence; 15% range increase |
+| **Electromagnetic Principles** | Cian has built a *functional coilgun* — electromagnetic projectile accelerator, no propellant, nearly silent |
+| **Hypersonic Research** | Understanding of aerodynamics at extreme velocities; his rifle rounds are *optimized* for terminal ballistics |
+| **Directed Energy Concepts** | He's *working on* a portable laser system; not combat-ready yet ("still calibrating") |
+
+> **Brennan:** "You're telling me you used classified Lockheed technology to build... custom arrows?"
+>
+> **Cian:** "And a coilgun. And some other things."
+>
+> **Brennan:** "That's... that's got to be illegal."
+>
+> **Cian:** "Only if they catch you."
+>
+> **Brennan:** "Cousin Sean!"
+>
+> **Cian:** "I worked there for thirty-four years. Consider it my retirement package."
+
+---
+
+### The Current Loadout (2020)
+
+**Primary (Always Carried):**
+- Methuselah's Sword (obviously)
+
+**Secondary (Concealed Carry):**
+- Custom Glock 19 (polymer frame, dissolution rounds)
+- Spare magazines with mixed loads (silver nitrate, standard HP, dissolution)
+
+**Vehicle Kit (In the truck):**
+- Tactical crossbow (TenPoint Nitro XRT, modified)
+- Compound bow (Mathews VXR, 70 lb draw, custom arrows)
+- AR-15 platform (11.5" barrel, suppressed, various ammunition types)
+- Barrett M82A1 (for "hard targets")
+
+**"The Trunk" (Heavy kit, stored separately):**
+- Coilgun prototype ("Still calibrating")
+- Incendiary grenades (his own formula)
+- Shaped charges (for structural entry)
+- EMP device (for Nephilim tech-heavy locations)
+- Dissolution aerosol canisters (area denial against regenerating swarms)
+- Flashbangs, smoke grenades, tactical equipment
+
+> **Cian:** *[opening a concealed weapons cache]* "Guns. Lots of guns."
+>
+> **Miriam:** "Did you just quote The Matrix?"
+>
+> **Cian:** "That movie understood something about being prepared."
+>
+> **Raphael:** "THE MORTAL ENTERTAINMENT DOTH GLORIFY VIOLENCE BEYOND MEASURE."
+>
+> **Cian:** "You're just upset they made angels look bad in the sequels."
+>
+> **Raphael:** "...THE SEQUELS ARE NOT CANON."
+
+---
+
+### The Secret Pride
+
+**What the Sword and Angel ACTUALLY think but will NEVER say:**
+
+The sword has witnessed 2,600 years of Cian's ingenuity. It has seen him:
+
+- Reverse-engineer Chinese repeating crossbows
+- Develop dissolution compounds through centuries of trial and error
+- Derive ballistic principles before Newton formalized physics
+- Build a functional electromagnetic accelerator in his garage
+
+**The sword's private assessment:** *"The boy has grown. His mind is... adequate."*
+
+**Raphael's private assessment:** *"THOU HAST APPLIED THE GIFTS OF INTELLECT GIVEN THEE TO THE DEFENSE OF THE INNOCENT. THIS IS... NOT DISPLEASING."*
+
+**What they actually say to Cian:**
+
+**Sword:** *(grudging shift to dagger form after 45 minutes of pleading)*
+
+**Raphael:** "THY CONTRAPTIONS ARE... FUNCTIONAL. FOR MORTAL WORK."
+
+**Cian:** "Was that a compliment?"
+
+**Raphael:** "IT WAS AN OBSERVATION. DO NOT PRESUME."
+
+---
+
+### The Unspoken Truth
+
+Cian's ranged weapons program is the one area where he has *complete freedom*. No jealous sword. No angelic judgment (mostly). Just pure engineering.
+
+It's also his *therapy*.
+
+When the weight of 2,600 years becomes too heavy, when the losses pile up, when the angel won't answer and the sword won't shift — Cian retreats to his workshop and *builds things that kill monsters*.
+
+> **Brennan:** "How do you deal with it? The... everything?"
+>
+> **Cian:** *[carefully machining a projectile]* "I make things. When I can't fight, I make things that help me fight later. It keeps my hands busy. Keeps my mind from... wandering."
+>
+> **Brennan:** "That's... actually healthy? I think?"
+>
+> **Cian:** "The alternative is drowning in memories. This is better."
+
+It's the one thing that's entirely *his*.
+
+---
+
+### "GUNS... LOTS OF GUNS"
+
+**Recurring Chapter/Section Motif Across the Series**
+
+The famous Matrix quote becomes a recurring structural element — chapter titles or section headers that appear throughout the five-book series whenever Cian prepares for a major operation or reflects on his arsenal's evolution.
+
+**The Pattern:**
+
+Each "Guns... Lots of Guns" section serves as:
+1. **Pre-mission loadout sequences** — Cian selecting and preparing weapons for specific threats
+2. **Historical flashbacks** — showing weapons development across different eras
+3. **Character bonding moments** — Miriam's enthusiasm, Brennan's engineering questions
+4. **Comedic relief** — the sword's begrudging respect, Raphael's "observations"
+
+**Proposed Appearances:**
+
+| Book | Context | Era/Focus |
+|------|---------|-----------|
+| **Book 1** | Flashback: Young Cian's first innovation (hollow sling bullets) | ~550 BCE |
+| **Book 1** | Present: Preparing for the first major Nephilim confrontation | 2020 |
+| **Book 2** | Miriam sees the armory for the first time | 2021 |
+| **Book 2** | Flashback: The invention of Bás Dearg | ~1400s |
+| **Book 3** | Preparing for the Antarctic expedition (extreme cold loadout) | 2022 |
+| **Book 3** | Flashback: Skunk Works era, building the coilgun | 1990s |
+| **Book 4** | Arming the resistance during the 1,260 days | 2023-2026 |
+| **Book 4** | Flashback: The Greek Fire projector, Constantinople | ~600s CE |
+| **Book 5** | Final loadout before facing Ohya/the Beast | 2026 |
+| **Book 5** | The sword and angel finally admit they're impressed | Climactic moment |
+
+**Sample Scene Structure:**
+
+> **CHAPTER [X]: GUNS... LOTS OF GUNS**
+>
+> *[Present Day]*
+>
+> The vault door hissed open. Cian stood at the threshold, surveying rows of weapons spanning twenty-six centuries.
+>
+> "What are we expecting?" Miriam asked from behind him.
+>
+> "Nephilim banker. Three confirmed hybrids in his security detail. Possible Rephaim bloodline — the regeneration factor will be strong."
+>
+> "Bás Dearg rounds?"
+>
+> "Obviously." He moved to the locked cabinet. "But the question is delivery system. The compound only works if it penetrates deep tissue before activation."
+>
+> "The coilgun?"
+>
+> "Too loud. We need quiet."
+>
+> Miriam's eyes lit up. "The tactical crossbow with the Skunk Works bolts."
+>
+> Cian paused. Turned. Looked at her with something approaching reverence.
+>
+> "I knew I liked you."
+>
+> **Raphael:** *[from the shadows]* "IF THOU ART FINISHED FLIRTING OVER IMPLEMENTS OF DESTRUCTION, THE TAMID APPROACHES. I SHALL BE UNAVAILABLE IN SEVENTEEN MINUTES."
+>
+> **Cian:** "Then we'd better work fast."
+
+**The Thematic Purpose:**
+
+The "Guns... Lots of Guns" sections accomplish multiple narrative goals:
+
+1. **Worldbuilding** — shows Cian's 2,600-year weapons evolution organically
+2. **Tension building** — pre-mission preparation creates anticipation
+3. **Character development** — reveals Cian's engineer-warrior mindset
+4. **Relationship building** — Miriam's shared enthusiasm bonds them
+5. **Comedic relief** — the sword/angel dynamic during loadout scenes
+6. **Foreshadowing** — weapons introduced in earlier books pay off later
+
+**The Final Payoff (Book 5):**
+
+In the climactic preparation before facing Ohya/the Beast, after Cian selects his loadout, the sword and angel break their centuries-long silence:
+
+> **Sword:** *[mentally, after a long pause]* "Thy ranged implements have... exceeded my expectations."
+>
+> **Cian:** *[frozen]* "Did you just..."
+>
+> **Raphael:** "OVER THE MILLENNIA, I HAVE OBSERVED THEE TRANSFORM LIMITATION INTO INNOVATION. THOU WERT DENIED A COOPERATIVE BLADE. THOU BUILT AN ARSENAL INSTEAD. THIS IS... WISDOM."
+>
+> **Cian:** "Are you two feeling alright?"
+>
+> **Sword:** "Do not grow accustomed to praise."
+>
+> **Raphael:** "INDEED. THIS CONVERSATION NEVER OCCURRED."
+>
+> **Cian:** *[grinning despite the apocalypse]* "Too late. I'm remembering this forever."
 
 ---
 
@@ -1183,21 +2142,22 @@ Methuselah's Sword completes its revelation. For the first time in centuries, Ci
 
 - Methuselah's Sword completes its revelation
 - Sees the truth: Shemyaza, Azazel, Naamah, the conspiracy
-- Learns he is one of the Two Witnesses
-- Purpose restored — but must find the First Witness (Elijah)
+- Learns he is the Guardian of the Two Witnesses
+- Purpose restored — but must find the Witnesses (Enoch and Elijah)
 
 ### The Search
 
-- Must find Eden, where Elijah has been preserved
+- Must find Eden, where the Witnesses have been preserved
 - The sword guides him toward the hidden garden
 - Faces the cherubim guard
-- Meets Elijah — weary warrior meets restored prophet
+- Meets Enoch and Elijah — weary warrior meets restored prophets
 
-### The Witness
+### The Guardian
 
-- 1,260 days of prophetic ministry alongside Elijah
-- Counters Shemyaza (the Beast) with warrior resistance
-- Death, resurrection, ascension (Revelation 11)
+- 1,260 days protecting the Witnesses during their prophetic ministry
+- Counters Ohya/Apollyon (the Beast) with warrior resistance
+- His death protecting them — "Greater love hath no man" (John 15:13)
+- Resurrection alongside the Witnesses (Revelation 11)
 
 ---
 
@@ -1505,7 +2465,7 @@ The legendary "Skunk Works" division develops the most advanced aircraft in the 
 
 In 2019, everything changed.
 
-Methuselah's Sword began showing Cian visions — more intense than any he'd received in centuries. The Two Witnesses. His role. The coming release of the Watchers. The end of his long hunt and the beginning of his true mission.
+Methuselah's Sword began showing Cian visions — more intense than any he'd received in centuries. The Two Witnesses. His role as their Guardian. The coming release of the Watchers. The end of his long hunt and the beginning of his true mission.
 
 **He quit Skunk Works.**
 
@@ -1525,7 +2485,7 @@ He walked away from a career, a clearance, and a carefully constructed identity.
 
 ### How He Inserted Himself into Brennan's Life
 
-Brennan mac Niamh was fourteen when "Uncle Sean" first appeared.
+Brennan McNeeve was fourteen when "Uncle Sean" first appeared.
 
 **The Setup (2002):**
 
@@ -1946,7 +2906,7 @@ Hidden in the back of Brennan's Texas facility is Cian's private lab. Officially
 >
 > **Cian:** "Because you can fly and I can't. And because after twenty-six centuries, you still answer to it."
 >
-> **Raphael:** "THOU ART THE SECOND WITNESS OF REVELATION. THOU ART CALLED TO PROPHESY BEFORE NATIONS. AND THOU DOST SPEND THY TIME BURNING THY EYEBROWS."
+> **Raphael:** "THOU ART THE GUARDIAN OF THE WITNESSES. THOU ART CALLED TO PROTECT THE PROPHETS BEFORE NATIONS. AND THOU DOST SPEND THY TIME BURNING THY EYEBROWS."
 >
 > **Cian:** "I multitask."
 
@@ -2032,54 +2992,221 @@ Cian's latest prototype actually works — for about twelve minutes. It's unstab
 
 ---
 
-### Brennan mac Niamh — The Modern Descendant
+### Brennan McNeeve — The Modern Descendant
 
 **Current Status (2020):**
 
 | Attribute | Detail |
 |-----------|--------|
-| **Name** | Brennan mac Niamh (uses anglicized surname) |
+| **Name** | Brennan McNeeve |
 | **Age** | Late 40s |
-| **Profession** | Entrepreneur, aerospace engineer |
-| **Company** | Private space venture based in Texas |
-| **Goal** | Build rockets to fly to Moon and Mars |
-| **Relationship** | Knows Cian as "Uncle Sean" — aware of the full truth |
+| **Profession** | Robotics engineer, entrepreneur |
+| **Company** | **Titan Robotics** — Private Mars exploration venture based in Texas |
+| **Specialty** | Advanced autonomous rovers for planetary exploration |
+| **Launch Partner** | SpaceX (contracts for Falcon Heavy and Starship launches) |
+| **Relationship** | Initially skeptical of "Cian's" claims; eventually convinced by evidence |
 
-**A Brilliant Engineer:**
+**A Brilliant Roboticist:**
 
-Brennan inherited more than blood from Machir's line — he inherited the drive to *build*. While Cian mastered metallurgy, Brennan mastered propulsion systems, materials science, and the physics of escaping Earth's gravity.
+Brennan inherited more than blood from Machir's line — he inherited the drive to *build*. While Cian mastered metallurgy, Brennan mastered robotics, AI navigation systems, and the engineering of autonomous systems that can operate millions of miles from human oversight.
 
 > *"He's what I would have been if I'd been born in this age. He sees a problem and builds a solution. He doesn't understand why everyone else moves so slowly."*
 
-**Cian's Involvement:**
+**Why Robotics, Not Rockets:**
 
-Now that Cian has left Skunk Works, he works directly for Brennan:
+Brennan recognized early that the bottleneck for Mars exploration wasn't launch vehicles — SpaceX and others were solving that. The bottleneck was what happened *after* landing. NASA's rovers were brilliant but limited: slow, cautious, designed by committee, constrained by risk-averse bureaucracy.
 
-- **Official Role:** Senior Materials Consultant (part-time)
-- **Unofficial Role:** 2,600-year-old metallurgical genius solving impossible problems
-- **Real Role:** The only family either of them has left
+Brennan's vision: faster, smarter, more autonomous rovers that could cover in weeks what Curiosity covered in years.
 
-**The Mars Connection:**
+> **Brennan:** "NASA's rovers are like sending a blind man with a cane to explore the Grand Canyon. I want to send a team of Olympic athletes with eyes."
 
-Brennan doesn't know about the Watchers' station on Cydonia. He doesn't know that the "Face on Mars" was Shemyaza's command center. He just wants to reach Mars because *that's where the future lives*.
+---
 
-But Cian knows. And he wonders: Is it coincidence that his sister's descendant is building the ships that might reach the Watchers' abandoned throne?
+### THE TITAN ROVERS: Brennan's Fleet
 
-> **Raphael:** "THOU DOST PERCEIVE THE IRONY."
+Brennan has designed and built five advanced Mars rovers, each named after figures from Greek mythology (a nod to the "Titans" — the generation before the Olympians):
+
+| Rover | Name | Specialty | Status |
+|-------|------|-----------|--------|
+| **Titan-1** | **Prometheus** | Pathfinder / Communications relay | Launched 2018 via Falcon Heavy; operational in Jezero Crater |
+| **Titan-2** | **Epimetheus** | Geological sampling / Drilling | Launched 2019 via Falcon Heavy; operational in Hellas Basin |
+| **Titan-3** | **Atlas** | Heavy payload carrier / Equipment deployer | Launched 2021 via Falcon Heavy; operational in Valles Marineris |
+| **Titan-4** | **Hyperion** | High-speed reconnaissance / Imaging | Launched 2022 via Starship; operational in Elysium Planitia |
+| **Titan-5** | **Cronus** | Deep penetration / Cave exploration | Scheduled 2024 via Starship; **designated for the Cydonia mission** |
+
+**What Makes Them Superior to NASA Rovers:**
+
+| Feature | NASA (Curiosity/Perseverance) | Titan Rovers | Advantage |
+|---------|-------------------------------|--------------|-----------|
+| **Speed** | 0.09 mph max (safety-limited) | 3.5 mph sustained, 12 mph burst | 40-130x faster |
+| **Autonomy** | Requires daily command upload from Earth | Fully autonomous navigation with ML terrain analysis | Operates during communication blackouts |
+| **Power** | RTG (radioisotope) — steady but limited | Hybrid RTG + advanced solar + supercapacitor bursts | 3x available power for demanding operations |
+| **Communication** | Direct-to-Earth + relay satellites | Mesh network between rovers + Earth relay | Redundancy; mutual support |
+| **Manipulation** | Single arm, 7 degrees of freedom | Dual arms, 12 DoF each, plus specialized end effectors | Complex sample handling |
+| **Computing** | Radiation-hardened but limited processing | Custom FPGA + neuromorphic chips in shielded enclosure | 50x processing power |
+| **Lifespan** | 2-15 years (design varies) | 20+ years projected (modular, self-repairable) | Long-term presence |
+
+**The Secret Sauce: AI Navigation**
+
+NASA rovers "phone home" every decision. Titan rovers think for themselves.
+
+> **Brennan:** "Curiosity takes a picture, sends it to Earth, waits 20 minutes, Earth says 'turn left,' rover turns left. My rovers see a rock, analyze it, decide if it's interesting, collect a sample if needed, and keep moving — all before the light from that decision reaches Earth."
+
+**Engineering Innovations:**
+
+| System | Innovation |
+|--------|------------|
+| **Wheels** | Titanium-aluminum alloy mesh with shape-memory nickel-titanium spokes — self-healing, terrain-adaptive |
+| **Suspension** | Active articulation with real-time load balancing — can climb 45-degree slopes |
+| **Thermal** | Multi-layer insulation + radioisotope heaters + phase-change materials — survives -140°C nights |
+| **Cameras** | 16 navigation cameras (360° coverage) + 4K scientific imagers + hyperspectral + LIDAR |
+| **Sample System** | Rotary-percussive drill + coring + caching + hermetic sealing — 50+ samples per rover |
+| **Communication** | Dual X-band + Ka-band + UHF mesh relay — never out of contact |
+
+**Where "Uncle Sean" Helped:**
+
+Cian's metallurgical expertise solved problems Brennan couldn't crack:
+
+- The wheel alloy formula (materials science Cian developed over centuries)
+- Bearing lubricants that work in Mars's temperature extremes
+- Radiation shielding for the computing modules
+- Certain structural joints that needed "impossible" strength-to-weight ratios
+
+> **Brennan:** "Where did you learn this? This isn't in any textbook."
 >
-> **Cian:** "My bloodline. Building rockets to Mars. Where *they* watched us from."
+> **Cian:** "I worked with some unusual metallurgists."
 >
-> **Raphael:** "THE ALMIGHTY'S HUMOR IS LAYERED."
+> **Brennan:** "At Skunk Works?"
 >
-> **Cian:** "That's one word for it."
+> **Cian:** "...Among other places."
 
-**Brennan's Role in the Story:**
+---
 
-- Provides Cian with a living family connection — someone to *protect*
-- Represents hope: the bloodline continuing, building toward the future
-- Potential target for the enemy once Cian's Witness role becomes public
-- Possible technological support during the Tribulation?
-- The Mars rockets may become relevant if the Cydonia revelation escalates
+### THE CONFRONTATION: Cian Approaches Brennan
+
+**The Setup:**
+
+Unlike what Brennan expected, "Uncle Sean" comes to *him* with an impossible request — and an impossible story.
+
+**Cian's Dilemma:**
+
+The visions from Methuselah's sword have shown Cian something critical: a stone tablet inside the ruins beneath the "Face on Mars" at Cydonia. The tablet contains coordinates — the precise location of Azazel's prison (Dudael, which is actually Antarctica). Without those coordinates, Cian cannot find the False Prophet before his release.
+
+Only Brennan's Titan-5 rover — **Cronus** — has the capability to enter the Cydonia structures and photograph the tablet.
+
+But to ask this, Cian must reveal the truth. All of it.
+
+**Why Brennan Is Skeptical:**
+
+Brennan is an engineer. He deals in facts, data, testable hypotheses. When his "Uncle Sean" shows up claiming to be a 2,600-year-old immortal warrior who needs a Mars rover to photograph an alien tablet, his reaction is... predictable.
+
+> **Brennan:** "Let me make sure I understand. You're claiming to be my ancestor from 586 BCE. You've been alive for twenty-six centuries. You fight supernatural creatures called Nephilim. You have an invisible angel companion. And you need me to redirect a $800 million Mars rover to photograph ruins that mainstream science says don't exist."
+>
+> **Cian:** "Yes."
+>
+> **Brennan:** "Uncle Sean, have you been checked for early-onset dementia? Because—"
+>
+> **Cian:** "I'm not senile. I'm not lying. And I'm not your uncle — I'm your ancestor."
+>
+> **Brennan:** "You look younger than me!"
+>
+> **Cian:** "The sword slows aging. I was 25 when I obtained it. That was 2,606 years ago."
+
+**The Proof:**
+
+Brennan demands evidence. Cian provides it:
+
+1. **The Sword:** Methuselah's blade, with its impossible metallurgy. Brennan's own instruments confirm: the alloy shouldn't exist. The carbon dating is inconsistent — suggesting the blade is either contaminated or genuinely prehistoric.
+
+2. **The Languages:** Cian speaks in Old Irish, then Latin, then medieval French, then Renaissance Italian, then a dozen other languages — all fluently, all with period-accurate pronunciation that no modern scholar could replicate.
+
+3. **The Scars:** Cian shows wounds with impossible stories. "This one is from a Nephilim in Samarkand, 1220. This one is from the Battle of Hastings. This one is from a vampire nest in Prague, 1611."
+
+4. **The Documents:** Journals spanning centuries. The handwriting evolves but the hand is the same. Chemical analysis confirms the inks are period-accurate.
+
+5. **The Angel:** When all else fails, Cian asks Raphael to manifest.
+
+> **Raphael:** *[appearing as a column of light and a voice that resonates in Brennan's bones]* "BRENNAN MCNEEVE. DESCENDANT OF MACHIR, SON OF MANASSEH, SON OF JOSEPH. THY ANCESTOR SPEAKS TRUTH. I HAVE GUARDED HIM FOR TWENTY-SIX CENTURIES. I HAVE GUARDED THY LINE ALONGSIDE HIM."
+>
+> **Brennan:** *[backing into his rover prototype]* "That's... that's a..."
+>
+> **Cian:** "Angel. Yes. His name is—well, I call him Liaigh. He won't tell me his real name. Long story."
+>
+> **Raphael:** "IT IS NOT A LONG STORY. THOU ART SIMPLY INCAPABLE OF ACCEPTING THE ANSWER."
+>
+> **Cian:** "You see what I've dealt with for twenty-six centuries?"
+
+**The Breakthrough:**
+
+Brennan's engineering mind finally processes the evidence. The metallurgy alone would require technology that doesn't exist. The angel's manifestation defies every physical law he knows. The documentation is either an impossibly elaborate forgery or... real.
+
+> **Brennan:** *[sitting heavily]* "This is real. All of this is real."
+>
+> **Cian:** "Yes."
+>
+> **Brennan:** "You're my... my ancestor. From before Rome."
+>
+> **Cian:** "I'm your family. The only family who remembers what family *means*."
+>
+> **Brennan:** *[long silence]* "And you need my rover."
+>
+> **Cian:** "I need your rover to save the world. But that's not why I'm telling you this. I'm telling you because I may die in what's coming, and I won't die with lies between us. You deserve to know who's been watching over you."
+
+---
+
+### THE CYDONIA MISSION: Why Brennan's Rover Matters
+
+**The Target:**
+
+The "Face on Mars" at Cydonia is not pareidolia. It's a real structure — the command center of the Watchers' observation station, built before their fall. Inside is a chamber containing stone tablets with information the Watchers never expected to be found.
+
+One tablet contains the precise coordinates of Dudael — Azazel's prison in Antarctica.
+
+**Why Titan-5 (Cronus):**
+
+Only Cronus has the capabilities needed for this mission:
+
+| Requirement | Why |
+|-------------|-----|
+| **Cave/Structure Penetration** | Designed specifically for exploring lava tubes and subsurface structures |
+| **Low-Light Operation** | Advanced thermal and LIDAR imaging — doesn't need sunlight |
+| **Manipulation** | Dual arms can clear debris, open passages, position cameras |
+| **Communication** | Mesh network allows relaying data from deep underground |
+| **Secrecy** | Private mission — no NASA oversight, no public disclosure requirements |
+
+**The Risk:**
+
+The Synagogue of Satan has agents in every space agency. If they learn Brennan is targeting Cydonia, they will act. Brennan must keep the mission hidden — from his own board, from SpaceX, from everyone.
+
+> **Cian:** "The images cannot be transmitted normally. They'll intercept them. You'll need to store everything locally and retrieve it on the next return mission."
+>
+> **Brennan:** "Return mission? Do you know how much a sample return costs?"
+>
+> **Cian:** "I'll fund it. Money isn't the issue. Secrecy is."
+>
+> **Brennan:** "And if they find out? The... 'Synagogue of Satan'?"
+>
+> **Cian:** "Then they'll try to kill you. Which is why I'm also here to protect you."
+>
+> **Brennan:** "...You're really not making a strong case for helping you."
+>
+> **Cian:** "You're the only person on Earth who can do this. Your rovers are the only machines capable of the mission. And I'm asking you as family — as the only family who's been there for you your entire life — to trust me."
+>
+> **Brennan:** *[long pause]* "The scholarship that got me into MIT..."
+>
+> **Cian:** "Me."
+>
+> **Brennan:** "The investor who saved Dad's company..."
+>
+> **Cian:** "Me."
+>
+> **Brennan:** "The anonymous tip that told me my wife was—" *[stops]*
+>
+> **Cian:** "...Yes. Me. I'm sorry. I should have told you differently."
+>
+> **Brennan:** "Twenty-six centuries. You've been watching for twenty-six centuries."
+>
+> **Cian:** "Everyone else dies. The bloodline continues. You're the only family I have left."
 
 ---
 
@@ -2093,22 +3220,20 @@ This is a **pivotal emotional chapter** — possibly the most vulnerable Cian ev
 
 ### The Setup: Why Now?
 
-Cian has maintained the "Uncle Sean" cover for years — a wealthy, mysterious family friend who shows up with metallurgical insights and investment capital. Brennan has always sensed something *off*:
+Cian has maintained the "Uncle Sean" cover for years — a wealthy, mysterious family friend who shows up with metallurgical insights and investment capital. With the sword's ~1000x aging slowdown, Cian appears to be in his late twenties — Brennan has no reason to suspect anything supernatural. "Uncle Sean" is just an eccentric young-looking relative with old money and odd habits.
 
-- Uncle Sean never ages
-- He knows too much about ancient metalworking techniques
-- His "family stories" are oddly specific about events centuries ago
-- He disappears for months, returns with strange injuries he won't explain
-- He watches Brennan with an intensity that feels like *grief*
+**The Trigger — Cian Needs the Rovers:**
 
-**The Trigger:**
+The Cydonia revelation changes everything. Cian has received his divine commission and knows he needs to photograph the tablet inside the Face on Mars. Only Brennan's Titan-5 rover (Cronus) has that capability. But he can't ask for something this dangerous — this *insane* — without explaining why.
 
-Something forces Cian's hand. Possibilities:
+Cian must reveal himself. He approaches Brennan — not the other way around.
 
-1. **A direct threat:** The Synagogue of Satan identifies Brennan as leverage against Cian
-2. **A medical crisis:** Brennan needs blood/tissue matching and discovers impossible genetics
-3. **The visions begin:** Cian's Witness calling means he may die — he can't leave Brennan without the truth
-4. **Brennan confronts him:** "I ran your DNA. You're not my uncle. You're my *ancestor*. HOW?"
+**Why Cian Initiates:**
+
+1. **He needs help:** The Cydonia mission requires Brennan's rovers — no other option exists
+2. **The visions demand action:** His Witness calling has begun; he can't complete it without the tablet coordinates
+3. **He can't lie anymore:** Asking Brennan to risk everything requires the truth
+4. **The clock is ticking:** The Synagogue of Satan is moving; Brennan will become a target regardless
 
 ### The Scene: Structure and Beats
 
@@ -2116,19 +3241,21 @@ Something forces Cian's hand. Possibilities:
 
 ---
 
-**BEAT 1: The Confrontation**
+**BEAT 1: Cian Asks to Talk**
 
-Brennan has evidence. Maybe the DNA. Maybe he's finally dug into "Sean's" financials and found trusts dating back centuries. Maybe he photographed Uncle Sean next to a painting from the 1700s — same face.
+Cian requests a private meeting at the rocket hangar. Late night. No staff. Brennan is puzzled but agrees — Uncle Sean has never been this serious.
 
-> **Brennan:** "I've spent six months on this. Corporate records, art archives, genetic databases. You know what I found?"
+> **Brennan:** "You sounded strange on the phone. What's going on?"
 >
-> **Cian:** "Tell me."
+> **Cian:** "I need to ask you for something. Something... significant. But I can't ask without explaining who I am first."
 >
-> **Brennan:** "A man matching your description advised George Washington on metallurgy. Another one helped Bessemer develop the steel process. Another one funded Erik the Red's second expedition. They all have your face. Your *exact* face."
+> **Brennan:** "Who you are? You're Uncle Sean. You've been Uncle Sean since I was twelve."
 >
-> **Cian:** *[silence]*
+> **Cian:** "No. I've been *pretending* to be Uncle Sean since you were twelve. I've been watching your family for considerably longer."
 >
-> **Brennan:** "So either you're a clone, a time traveler, or something I don't have a category for. Which is it?"
+> **Brennan:** *[frowning]* "What are you talking about?"
+>
+> **Cian:** *[long pause]* "What I'm about to tell you is going to sound insane. I need you to hear me out before you call security. Or a psychiatrist."
 
 ---
 
@@ -2160,7 +3287,7 @@ Brennan is an engineer. He needs evidence. Cian provides it:
 - **The language:** Cian speaks in Old Irish, in Latin, in languages Brennan has only seen in academic texts
 - **The angel:** If necessary, the angel manifests. Nothing convinces like celestial terror.
 
-> **Raphael:** *[appearing as light and voice]* "BRENNAN MAC NIAMH. DESCENDANT OF MACHIR. THY ANCESTOR SPEAKS TRUTH. HE HAS GUARDED THY LINE FOR TWENTY-SIX CENTURIES."
+> **Raphael:** *[appearing as light and voice]* "BRENNAN MCNEEVE. DESCENDANT OF MACHIR. THY ANCESTOR SPEAKS TRUTH. HE HAS GUARDED THY LINE FOR TWENTY-SIX CENTURIES."
 >
 > **Brennan:** *[backing into a rocket thruster]* "That's... that's an..."
 >
@@ -2496,7 +3623,7 @@ This revelation sets up **THE RISING** (Book 3):
 | Warrior — fights with sword | Prophet — fights with word |
 | Has HUNTED the Nephilim | Has been PREPARED for the end |
 | Carries the burden of endless battle | Carries the peace of Eden |
-| Counters Shemyaza (Beast/political) | Counters Azazel (False Prophet/religious) |
+| Counters Ohya/Beast (political) | Counters Azazel (False Prophet/religious) |
 
 Together they represent both **endurance** and **renewal**.
 
@@ -2615,10 +3742,11 @@ An immortal billionaire polyglot warrior with an angel bodyguard sounds like *pe
 - The sword doesn't make him faster, stronger, or invulnerable
 - *He can be hurt, captured, or incapacitated*
 
-**The Aging Problem:**
-- He's 51 biologically — not young anymore
-- Joints ache, reflexes have slowed from their peak, recovery takes longer
-- A 25-year-old Cian would defeat 51-year-old Cian in single combat
+**The Paradox of Youth:**
+- He looks late 20s, early 30s — the sword's gift keeps him at his physical prime
+- His body is young, but his eyes tell a different story
+- "You look like you could be my brother," people say. He smiles thinly and doesn't correct them
+- The danger: people underestimate him; the ancient warrior behind the young face
 
 ### 3. The Angel's Constraints
 

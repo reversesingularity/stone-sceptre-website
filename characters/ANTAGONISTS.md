@@ -1,10 +1,19 @@
 # THE UNHOLY TRINITY
 ## Antagonist Profiles
 
+**⚔️ CANONICAL FRAMEWORK (January 7, 2026):**
+- **The Dragon:** Satan
+- **Apollyon/The Beast:** OHYA — son of Shemyaza (documented in NEPHILIM_DOSSIERS.md)
+- **The False Prophet:** Azazel
+- **The Whore of Babylon:** Naamah — Ohya's mother
+- **Watcher General:** Shemyaza — BROKEN, irrelevant to end game, origin story only
+
 ---
 
 # SHEMYAZA
-## The Beast from the Sea — The First Watcher
+## The Broken Commander — Origin Story Only
+
+**⚠️ NOTE: Shemyaza is NOT Apollyon/The Beast. His son OHYA is the Beast. See SERIES_BIBLE.md and NEPHILIM_DOSSIERS.md for the canonical framework.**
 
 ---
 
@@ -16,38 +25,127 @@
 | **Meaning** | "He sees the name" or "My name has seen" |
 | **Original Role** | Commander of the 200 Watchers stationed on Mars |
 | **Sin** | Lust, conspiracy, leading the rebellion of the Watchers |
-| **Prison** | The Abyss — bound in darkness beneath the earth/sea |
-| **Revelation Identity** | The Beast from the Sea (Revelation 13:1-10) |
+| **Prison** | The Abyss (Tartarus) — bound in chains of darkness |
+| **Canonical Role** | BROKEN — no longer relevant to end game; origin story only |
+| **Final Fate** | Bound until Day of Judgment → Lake of Fire. No release. No relevance. |
+| **Narrative Function** | Appears ONLY in Cian's dream visions revealing the Watchers' fall |
+
+## THE TRAGIC DIMENSION — A BROKEN COMMANDER
+
+Shemyaza petitioned for mercy through Enoch (1 Enoch 13-14). He showed remorse, shame, and fear — he could not even lift his eyes toward heaven.
+
+**God's Response:** "Ye shall have no peace nor forgiveness of sin... mercy and peace shall ye not attain."
+
+His petition was denied. Millennia of conscious imprisonment followed. **Shemyaza is now BROKEN.**
+
+- His spirit is crushed
+- His fate is sealed
+- He is NO LONGER RELEVANT to the end game
+- His only narrative function: the origin story revealed in Cian's dream visions
+- His son OHYA became Apollyon — the son surpassed the father in every way that matters to prophecy
+
+Shemyaza's story is a cautionary tale, not an active threat.
 
 ---
 
 ## THE FALL
 
+> **Full narrative of the Watchers' corruption: [THE_CYDONIA_REVELATION.md](../THE_CYDONIA_REVELATION.md)**
+
+### The Benevolent Age (3604–3504 BCE)
+
+**The original mandate was GOOD.** The 200 Watchers were sent to *instruct* and *guide* humanity (Jubilees 4:15):
+
+> *"In the days of Jared, the angels of the Lord descended on the earth, those who are named the Watchers, that they should instruct the children of men, and that they should do judgment and uprightness on the earth."*
+
+For one hundred years, the Watchers were **the benevolent unseen hand** — teaching agriculture, astronomy, medicine, architecture, and governance through dreams and inspiration. They never interfered directly. They observed the Ban perfectly.
+
+### Satan's Corruption
+
+While the Watchers watched humanity, Satan watched the Watchers. He planted seeds of discontent — not through direct temptation, but through whispered questions:
+
+| The Question | The Poison It Spread |
+|--------------|---------------------|
+| "Why do humans have companions and you do not?" | Desire for what was forbidden |
+| "Even animals were granted females. Why not you?" | Resentment toward God's ordering |
+| "What would it be like to have children?" | Curiosity that became obsession |
+| "Is this prohibition truly just?" | Doubt of the divine mandate |
+
+By the days of Jared (~3504 BCE), the whispered questions had become roaring desires. The Watchers began to see human women with lust — and the desire for children consumed their thoughts.
+
 ### The Observation Post
-Shemyaza commanded the 200 Watchers assigned to observe humanity from their station on Mars. Their duty: watch, record, report to the Divine Council. Their prohibition: never interfere, never interact, never desire.
+Shemyaza commanded the 200 Watchers from their station on Mars — the Cydonia complex. Their duty: watch, record, report to the Divine Council. Their prohibition: never interfere, never interact, never desire.
+
+From his viewport in the Face structure, Shemyaza could see the entirety of Earth. And for reasons he could not explain, his eyes kept returning to the forges of Lamech's settlement.
+
+### The Trap: Lamech and Naamah
+
+**Shemyaza did not merely find Naamah. He was led to her.**
+
+Satan revealed to Lamech (Cain's line) that celestial beings were watching from Mars — and that these beings could grant powers if properly worshiped. Lamech, descendant of the first murderer, saw an opportunity.
+
+He began a cult of redirected worship — prayers offered not to the Almighty, but toward the red star:
+
+| Worshiper | Desire | What They Sought |
+|-----------|--------|------------------|
+| **Lamech** | Protection beyond Cain's mark | Power over life and death |
+| **Tubal-Cain** | Mastery of metals | Secrets of forging weapons |
+| **Jubal** | Musical perfection | Melodies that move hearts |
+| **Naamah** | Shemyaza's attention | *To become more than human* |
+
+### Naamah's Dance
+
+Knowing she was being watched from the heavens, Naamah performed a deliberate campaign of seduction:
+
+- Dressed in metals forged by Tubal-Cain — jewelry catching firelight, glinting toward the stars
+- Danced by the forges at night, when the red star was highest
+- Sang songs Jubal composed — songs of longing, of forbidden love
+- Prayed aloud: *"O lord of the Watchers, I know thou art watching. Look upon me. Find me pleasing. Descend to me..."*
+
+She knew his name. She called to him specifically. He did not consider that someone had told her.
 
 ### The Sighting
 Through the veil of space, Shemyaza's eyes found Naamah—daughter of Lamech, sister of Tubal-Cain the metalworker. She moved among the forges, firelight playing on her dark hair, and something broke in the immortal Watcher.
+
+**He believed he had chosen her. He did not understand that he had been chosen.**
 
 ### The Obsession
 Unlike human desire that fades, Shemyaza's longing only grew. He watched her across the cosmic distance, consumed by wanting what was forbidden. But he feared to act alone.
 
 ### The Conspiracy
 Shemyaza gathered the Watchers and confessed his obsession:
-> *"I fear that I alone shall have to suffer for this great sin. Swear to me by an oath that you will all share in this deed, that we may all be bound by mutual oath and not depart from this resolve."*
+> *"I fear that I alone shall have to suffer for this great sin. Swear to me by an oath that you will all share in this deed, that we may all be bound by mutual oath and not depart from this resolve."* (1 Enoch 6:3)
 
-Two hundred Watchers swore the oath on Mount Hermon. They descended to Earth together, ensuring mutual guilt.
+Two hundred Watchers swore the oath on Mount Hermon — חֶרְמוֹן, from *cherem* meaning "devoted to destruction." The mountain's very name would forever commemorate their collective sin.
+
+### The Shedding of the Oiketerion
+
+To become flesh, the Watchers had to **shed their celestial garment** — their *oiketerion* (οἰκητήριον).
+
+**Jude 1:6:**
+> *"And the angels which kept not their first estate (ἀρχή), but left their own habitation (οἰκητήριον)..."*
+
+This is the same word Paul uses in **2 Corinthians 5:2** for the heavenly body saints long to PUT ON. The Watchers did the opposite — they TOOK OFF their celestial nature. This was irreversible. They became spirit-beings permanently fused with corrupted flesh.
 
 ### The Descent
 They took human wives, teaching them forbidden knowledge:
-- Shemyaza taught enchantments and root-cuttings
-- Others taught astrology, metallurgy, warfare
-- Their union produced the Nephilim—giants who devoured the earth
+
+| Watcher | Teaching | Corruption |
+|---------|----------|------------|
+| **Shemyaza** | Enchantments, root-cutting | Sorcery, pharmakeia |
+| **Azazel** | Weapons, cosmetics, metallurgy | Warfare, vanity |
+| **Baraqijal** | Astrology | Divination |
+| **Kokabel** | Constellations | Star-worship |
+| **Penemue** | Writing | Forbidden texts |
+| **Kasdeja** | Spirits and demons | Necromancy |
+
+Their union produced the Nephilim—giants who devoured the earth. When there was nothing left to eat, they ate humanity itself.
 
 ### The Judgment
 When the Nephilim's violence filled the earth, the cry reached Heaven. The archangels received their orders:
-- Raphael: Bind Azazel in Dudael
-- Michael: Bind Shemyaza and the other Watchers
+- **Raphael:** Bind Azazel in Dudael (Antarctica)
+- **Michael:** Bind Shemyaza and the other Watchers in the Abyss
+- **Gabriel:** Destroy the Nephilim by setting them against each other
 - Gabriel: Destroy the Nephilim by setting them against each other
 
 Shemyaza was bound in darkness, cast into the Abyss, to await the Day of Judgment.
@@ -61,7 +159,9 @@ Shemyaza was bound in darkness, cast into the Abyss, to await the Day of Judgmen
 **Revelation 13:1-10**:
 > *"And I saw a beast rising out of the sea, with ten horns and seven heads, with ten diadems on its horns and blasphemous names on its heads."*
 
-| Beast Attribute | Shemyaza Connection |
+**NOTE:** This section documents the ORIGINAL theory (Shemyaza as Beast) which has been SUPERSEDED. The canonical framework identifies OHYA (Shemyaza's son) as the Beast. This material is retained for historical reference only.
+
+| Beast Attribute | Original Shemyaza Theory (SUPERSEDED) |
 |-----------------|---------------------|
 | Rises from the sea/abyss | Imprisoned in the Abyss |
 | Given authority for 42 months | The appointed time of release |
@@ -314,7 +414,14 @@ The corruption of humanity was laid at his feet. While others fell for lust, Aza
 | The Mark | Control through technology he pioneered |
 
 ### The Perfect Deceiver
-Azazel's role is not raw conquest (that's Shemyaza's domain). He is the **persuader**, the one who makes the Beast's worship seem reasonable, even desirable.
+Azazel's role is not raw conquest (that's OHYA's domain as the Beast). He is the **persuader**, the one who makes the Beast's worship seem reasonable, even desirable.
+
+Additionally, Azazel must CREATE THE VESSEL for Ohya. The "Image of the Beast" (Revelation 13:14-15) may be:
+- A soulless transhuman — genetically engineered body ready for Ohya's possession
+- A Nimrod clone — Iraqi DNA + Azazel's technology resurrects the original vessel
+- The "image" that "speaks" and "causes death" = a living vessel, not a statue
+
+This is why Azazel must be released BEFORE or DURING the Tribulation — he must prepare the Beast's body.
 
 ---
 
@@ -597,7 +704,7 @@ This establishes that by the Second Temple period, Lilith was understood as:
 
 | Revelation Attribute | Naamah Connection |
 |---------------------|-------------------|
-| Sits on the Beast (rides Shemyaza) | His eternal consort, using his power |
+| Sits on the Beast (rides Ohya) | His mother, directing her son's power |
 | Arrayed in purple, scarlet, gold | The goddess dressed for worship |
 | Golden cup of abominations | The false communion of pagan rites |
 | "Mother of prostitutes" | Mother of all goddess-worship |
@@ -656,7 +763,7 @@ When Elijah challenged the prophets of Baal, he also faced **400 prophets of Ash
 | Called Israel back to one God | Drew Israel into idol worship |
 | Destroyed her prophets at Carmel | Her vessel Jezebel swore his death |
 | Taken to Heaven/Eden alive | Has walked Earth unbound for millennia |
-| Returns as Second Witness | Returns as Whore of Babylon |
+| Returns as Second Witness (with Enoch) | Returns as Whore of Babylon |
 
 Their enmity spans 3,000 years. Elijah never forgot the 400 prophets of Asherah. Naamah never forgot the fire that fell on Carmel.
 
@@ -858,7 +965,7 @@ In that moment, the "love" that defined him becomes the hatred that destroys her
 
 ### The Destruction:
 
-- The Beast (Shemyaza) turns on her
+- The Beast (Ohya/Apollyon) turns on her
 - The kings of the earth abandon her
 - The system she helped create destroys her
 - This is the fate of the counterfeit: it devours itself

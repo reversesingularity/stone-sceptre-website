@@ -1,8 +1,8 @@
-# THE FIRST WITNESS: CONFIRMED
+# THE TWO WITNESSES: CONFIRMED
 
-## Elijah the Prophet — The Senior Witness
+## Enoch the Scribe (First Witness) and Elijah the Prophet (Second Witness)
 
-## Elijah the Prophet — Taken by the Chariot of Fire to Eden
+## Both Preserved in Eden — The Guardian Seeks Them
 
 ---
 
@@ -33,7 +33,7 @@ The chariot of fire wasn't taking Elijah UP — it was taking him IN. The cherub
 
 ---
 
-## WHY ELIJAH IS THE FIRST WITNESS
+## WHY ELIJAH IS THE SECOND WITNESS
 
 ### Malachi's Prophecy
 
@@ -89,7 +89,7 @@ The "chariots of fire" are the cherubim themselves—the guardians of Eden. They
 | Walking where God walked | Deepened communion with the Divine |
 | Outside the fallen world's corruption | Untouched by millennia of decay |
 | Waiting for the appointed time | Knowing his mission isn't finished |
-| Perhaps communion with Enoch? | Others who "walked with God and were not" |
+| Communion with Enoch | 2,800 years together, preparing |
 
 ### The Contrast with Cian
 
@@ -111,32 +111,34 @@ Together they represent both **endurance** and **renewal**.
 | Unholy Trinity | Divine Counter | The Battle |
 |----------------|----------------|------------|
 | Satan/Dragon | God the Father | Cosmic authority |
-| Shemyaza/Beast | **Cian** (2nd Witness) | Political/Physical |
-| Azazel/False Prophet | **Elijah** (1st Witness) | Religious/Spiritual |
-| Naamah/Whore of Babylon | The True Church (collective) | Seduction vs. Faithfulness |
+| Ohya/Apollyon/Beast | **Cian** (Guardian) | Political/Physical |
+| Azazel/False Prophet | **Enoch** (1st Witness) | Knowledge/Truth |
+| Naamah/Whore of Babylon | **Elijah** (2nd Witness) | False Worship vs. True Prophecy |
+| The Beast System | The True Church (collective) | Seduction vs. Faithfulness |
 
-### Why This Pairing Works
+### Why This Structure Works
 
-**Cian counters Shemyaza (The Beast):**
+**Cian guards the Witnesses (Guardian):**
 
-- Shemyaza = political power, global worship demanded
-- Cian = warrior who refuses to bow, physical resistance
-- 2,600 years hunting Nephilim = qualified to fight their father
+- Ohya/Apollyon = political power, global worship demanded
+- Cian = Guardian who protects the Witnesses physically
+- 2,600 years hunting Nephilim = qualified to fight their king
 - Sword of Methuselah = antediluvian weapon against antediluvian enemy
+- His role is physical protection, not preaching — John 15:13
 
-**Elijah counters Azazel (The False Prophet):**
+**Enoch counters Azazel (First Witness):**
 
-- Azazel = false miracles, deceptive "enlightenment"
-- Elijah = true prophetic fire, speaks God's word
-- Already defeated false prophets at Carmel
-- His testimony exposes Azazel's counterfeit spirituality
+- Azazel = taught forbidden knowledge, corrupted humanity with secrets
+- Enoch = the Scribe of Heaven, received the Book of Watchers
+- He literally wrote down the charges against Azazel
+- His testimony exposes Azazel's "enlightenment" as corruption
 
-**The Church counters Naamah (The Whore):**
+**Elijah counters Naamah (Second Witness):**
 
-- Naamah = individual seductress, corrupts through pleasure
-- The Church = collective Bride, faithful through suffering
-- Not a single character but a movement of believers
-- "They overcame him by the blood of the Lamb and the word of their testimony"
+- Naamah = mother of all goddess cults, Asherah/Ishtar/Aphrodite
+- Elijah = already defeated Naamah's worship at Carmel (1 Kings 18)
+- 850 prophets of Baal and Asherah slain
+- His testimony exposes false worship
 
 ---
 
@@ -144,11 +146,11 @@ Together they represent both **endurance** and **renewal**.
 
 ### How Cian Finds Eden (Books 1-2)
 
-The search for the First Witness becomes the search for the hidden garden:
+The search for the Two Witnesses becomes the search for the hidden garden:
 
 - The sword of Methuselah reveals glimpses of Paradise
 - Cian follows clues across ancient sites
-- He learns there is another witness preserved in Eden
+- He learns there are two witnesses preserved in Eden — Enoch and Elijah
 - The journey takes him to the threshold
 
 ### The Emergence (Book 2)
@@ -157,17 +159,17 @@ At the gate of Eden:
 
 - Cian faces the cherubim guard
 - Must prove himself worthy—or be granted passage
-- Meets Elijah, who has been expecting him
-- The prophet emerges from 2,800 years in Paradise
+- Meets Enoch and Elijah, who have been expecting him
+- The two prophets emerge from millennia in Paradise
 
 ### The Partnership (Books 2-3)
 
-Two men from opposite worlds must become one testimony:
+Three from opposite worlds must become one team:
 
-- Elijah learning what the fallen world has become
+- Enoch and Elijah learning what the fallen world has become
 - Cian learning what he's been fighting FOR
 - Tension, then understanding, then brotherhood
-- Together ready to face the Unholy Trinity
+- Cian accepts his role as Guardian — not a preacher, but a protector
 
 ---
 
@@ -175,7 +177,7 @@ Two men from opposite worlds must become one testimony:
 
 1. **Where is Eden's gate?** Traditional location (Mesopotamia)? Multiple gates? A spiritual "place"?
 
-2. **Who else might be in Eden?** Enoch (who "walked with God and was not")? The original priesthood?
+2. **Who else is in Eden?** Enoch the Scribe (First Witness) — CONFIRMED. He and Elijah have spent 2,800 years together preparing.
 
 3. **What does Elijah bring out?** Just himself? Fruit from the Tree of Life? Knowledge vital to the fight?
 
@@ -189,11 +191,12 @@ Two men from opposite worlds must become one testimony:
 
 ## SEE ALSO
 
-- [characters/ELIJAH_THE_PROPHET.md](characters/ELIJAH_THE_PROPHET.md) - Full prophet profile
-- [characters/CIAN_MAC_MORNA.md](characters/CIAN_MAC_MORNA.md) - Second Witness profile
+- [characters/ELIJAH_THE_PROPHET.md](characters/ELIJAH_THE_PROPHET.md) - Second Witness profile
+- [characters/CIAN_MAC_MORNA.md](characters/CIAN_MAC_MORNA.md) - Guardian of the Witnesses profile
+- [MAJOR REVISION/ENOCH_THE_SCRIBE.md](MAJOR%20REVISION/ENOCH_THE_SCRIBE.md) - First Witness profile
 - [characters/ANTAGONISTS.md](characters/ANTAGONISTS.md) - The Unholy Trinity
 
 ---
 
-*Document updated: January 4, 2026*  
-*Status: CONFIRMED — Elijah taken to Eden by the cherubim chariot*
+*Document updated: January 6, 2026*  
+*Status: CONFIRMED — Enoch (First Witness) and Elijah (Second Witness) preserved in Eden; Cian is Guardian of the Witnesses*

@@ -1,4 +1,4 @@
-# THE FIRST WITNESS: ELIJAH
+# THE SECOND WITNESS: ELIJAH
 ## The Prophet in the Garden
 
 ---
@@ -54,7 +54,7 @@ The "chariots of fire and horses of fire" that took Elijah are the same class of
 | Walking where God walked | Deepened communion with the Divine |
 | Outside the fallen world's corruption | Untouched by millennia of decay |
 | Waiting for the appointed time | Knowing his mission isn't finished |
-| Perhaps communion with others? | Enoch? Adam's original priesthood? |
+| Communion with Enoch | 2,800 years learning from the Scribe of Heaven |
 
 ### His State of Being
 
@@ -159,8 +159,8 @@ Elijah destroyed the prophets, but not the principality behind them. Naamah's wo
 
 ### The Search for Eden (Book 1-2)
 
-As Cian processes his visions and accepts his calling:
-- He learns there are TWO witnesses
+As Cian processes his visions and accepts his Guardian calling:
+- He learns there are TWO witnesses (Enoch and Elijah)
 - The sword reveals glimpses of Paradise
 - He must find the hidden garden
 - The journey takes him to ancient sites, following clues
@@ -170,24 +170,26 @@ As Cian processes his visions and accepts his calling:
 At the threshold of Eden:
 - Cian faces the cherubim guard
 - Must prove himself worthy (or be granted passage)
-- Meets Elijah — who has been expecting him
-- The prophet emerges from 2,800 years in Paradise
+- Meets Enoch and Elijah — who have been expecting him
+- The two prophets emerge from millennia in Paradise
 
 ### The Partnership Forged (Book 2-3)
 
-Two men from different worlds must become one testimony:
-- Elijah learning what the world has become
+Three men from different worlds must become one team:
+- Enoch and Elijah learning what the world has become
 - Cian learning what he's been fighting FOR
 - Tension, then understanding, then brotherhood
-- Ready to face the Unholy Trinity together
+- Cian accepts his role as their Guardian — not a preacher, but a protector
 
-### The Witness (Book 3-5)
+### The Witness Ministry (Book 3-5)
 
 1,260 days of prophetic ministry:
-- Cian — the warrior who stands against the Beast's power
-- Elijah — the prophet who speaks against the False Prophet's lies
+- Enoch — the Scribe who exposes Azazel's false knowledge
+- Elijah — the Prophet who speaks against Naamah's false worship
+- Cian — the Guardian who protects both Witnesses with his life
 - Together calling the Church to faithfulness against the Whore's seduction
-- Their death, resurrection, and ascension (Rev 11)
+- Cian's death protecting them: "Greater love hath no man" (John 15:13)
+- The Witnesses' death, resurrection, and ascension (Rev 11)
 
 ---
 
@@ -195,7 +197,7 @@ Two men from different worlds must become one testimony:
 
 1. **Where exactly is Eden's gate?** Mesopotamia? Multiple locations? A spiritual "place" accessed through faith?
 
-2. **Who else might be in Eden?** Enoch (who "walked with God and was not")? Others?
+2. **Who else is in Eden?** Enoch the Scribe (the First Witness) — CONFIRMED. They have spent 2,800 years together.
 
 3. **What does Elijah bring out?** Just himself? Fruit from the Tree of Life? Knowledge vital to the fight?
 
