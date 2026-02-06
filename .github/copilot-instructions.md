@@ -5,7 +5,7 @@
 When assisting with The Nephilim Chronicles project, **ALWAYS verify facts against these canonical documents in this order:**
 
 1. **CANON/SERIES_BIBLE.md** — Constitutional axioms (INVIOLABLE)
-2. **CANON/SSOT_v2.md** — Single Source of Truth (living document)
+2. **CANON/SSOT_v3_MASTER.md** — Single Source of Truth v3 (consolidated canon)
 3. **CANON/WATCHER_TECHNOLOGY.md** — Acoustic Paradigm & supernatural tech
 4. **CANON/dossiers/** — Character dossiers (Watchers, Nephilim, antagonists)
 5. **WORLDBUILDING/** — Narrative elements, geopolitics, world systems

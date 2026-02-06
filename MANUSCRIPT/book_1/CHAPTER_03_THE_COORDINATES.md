@@ -60,7 +60,7 @@ Brennan sat.
 
 Brennan's eyes narrowed. "Twenty-six centuries."
 
-"I was born in 612 BCE. I was commissioned by the prophet Jeremiah in 586 BCE, the year Babylon destroyed Jerusalem. The sword I carry was forged by Methuselah — yes, *that* Methuselah — from materials older than human civilization. It keeps me alive. It's kept me alive for 2,631 years."
+"I was born in 611 BCE. I was commissioned by the prophet Jeremiah in 586 BCE, the year Babylon destroyed Jerusalem. The sword I carry was forged by Methuselah — yes, *that* Methuselah — from materials older than human civilization. It keeps me alive. It's kept me alive for 2,638 years."
 
 Silence.
 
@@ -204,7 +204,7 @@ Brennan advanced to the next image sequence. The rover had entered a secondary c
 
 Twenty pillars.
 
-Monolithic stele of obsidian, each one fifteen feet tall, arranged in a perfect circle. Angular script covered every surface — the same geometric notation Cian had seen in fragments, in dreams, in the sword's fragmentary visions. But now he could see them whole. Complete.
+Monolithic stele of obsidian, each one twelve feet tall, arranged in a perfect circle. Angular script covered every surface — the same geometric notation Cian had seen in fragments, in dreams, in the sword's fragmentary visions. But now he could see them whole. Complete.
 
 And at the base of each pillar: a sigil. Unique. Distinct. Twenty pillars. Twenty sigils.
 
@@ -338,9 +338,9 @@ The door closed behind her.
 
 Brennan exhaled slowly. "That went... better than I expected?"
 
-"Your wife is remarkable."
+"Your wife is terrifying."
 
-"She's terrifying. It's why I married her." Brennan turned back to the displays. "She's right, though. We need to separate the operations. I focus on Mars. She focuses on protection and... intelligence gathering, I guess. You—"
+"She's remarkable. It's why I married her." Brennan turned back to the displays. "She's right, though. We need to separate the operations. I focus on Mars. She focuses on protection and... intelligence gathering, I guess. You—"
 
 "I do what I've always done. Hunt. Protect. Wait for the enemy to make mistakes."
 
@@ -401,6 +401,18 @@ They just had to survive long enough to find them.
 ---
 
 ## CHAPTER 3 (v3.2) — REVISION NOTES
+
+### CRITICAL CANON NOTE: Rover Architecture Drift
+
+**STATUS: Chapter 03 establishes TITAN FLEET as canonical**
+
+This chapter canonizes the **Titan-1 through Titan-5 fleet architecture** (5 small rovers, diverse landing sites, AI-driven) over the SERIES_BIBLE's single large "Methuselah-1" rover. The fleet approach is narratively superior:
+- Creates urgency when 4 rovers converge on Cydonia after Titan-1's discovery
+- Explains how Cydonia was "accidental" (wasn't the primary target)
+- Provides mission redundancy (realistic for $1.2B investment)
+- Matches real Mars mission design philosophy (2025+ era)
+
+**ACTION REQUIRED:** SERIES_BIBLE §Brennan's Mars Mission specifications (~4,000 words) need revision to align with Titan fleet architecture. The Book 2 scene "Thinking Three-Dimensionally" (replica manufacturing) references "Methuselah-1" which no longer exists under that name.
 
 ### Changes from v3.1:
 

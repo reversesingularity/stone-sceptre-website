@@ -275,7 +275,7 @@ The oaths spoken on Mount Hermon — including "I FORSAKE MY OIKETERION" — wer
 | Wielder | Duration | Status |
 |---------|----------|--------|
 | Methuselah | 969 years | ✓ LOCKED |
-| Cian mac Morna | 586 BCE – present (2,631 years) | ✓ LOCKED |
+| Cian mac Morna | 586 BCE – present (2,636 years as of 2025) | ✓ LOCKED |
 
 #### Naming (INVIOLABLE)
 | Axiom | Status |
@@ -308,8 +308,8 @@ The oaths spoken on Mount Hermon — including "I FORSAKE MY OIKETERION" — wer
 | **TOTAL** | — | **Over 1,050,000 supernatural entities** |
 
 #### The Cydonian Revelation (INVIOLABLE)
-- The sword revealed its Martian origin to Cian in January 2020
-- For 2,631 years, it kept this secret hidden
+- The sword revealed its Martian origin to Cian in January 2024
+- For 2,635 years, it kept this secret hidden
 - The revelation came unbidden — the sword chose the timing
 - Cian deduced the origin himself; Raphael did not explain it (cannot speak what is not revealed to him)
 
@@ -1060,7 +1060,7 @@ This article establishes the binding framework for Book 1 of the main Nephilim C
 
 **Final Image:** Naamah waiting at the base of Mount Hermon — beauty beyond mortal comprehension, ambition beyond mortal understanding. Plants the Whore of Babylon from page one.
 
-**Transition to Chapter 1:** Hard cut. No transition. Cian mac Morna wakes with a start, gasping, 2020 Texas, the vision still burning in his mind.
+**Transition to Chapter 1:** Hard cut. No transition. Cian mac Morna wakes with a start, gasping, 2024 Texas, the vision still burning in his mind.
 
 **Rationale:** This opening accomplishes multiple objectives: establishes cosmic scope, reveals essential history, creates dramatic irony (readers know what's coming), showcases the Empyreal Register, and hooks readers with spectacle before grounding them in Cian's personal story.
 
@@ -1130,7 +1130,7 @@ When Raphael challenges Cian about his current struggles, Cian's mind naturally 
 
 ### §10.5 — Book 1 Scope and Boundaries
 
-**Book 1: THE AWAKENING** covers the period from Cian's 2020 Texas existence through receiving the Guardian commission and beginning the search for Eden. The book ends with:
+**Book 1: THE AWAKENING** covers the period from Cian's 2024 Texas existence through receiving the Guardian commission and beginning the search for Eden. The book ends with:
 
 - Cian accepting his role as Guardian (not Witness)
 - Brennan learning the truth ("I Am Not Your Cousin")
@@ -2150,7 +2150,7 @@ The Watchers possessed real-time communication across planetary distances using 
 
 **Obsidian Steles (Identical on Mars and Antarctica):**
 
-**Physical Description:**
+**Physical Specifications:**
 - **Height:** 12 feet
 - **Material:** Polished obsidian (mirror-black volcanic glass)
 - **Arrangement:** Perfect circle, 60-foot diameter, 18° arc spacing
