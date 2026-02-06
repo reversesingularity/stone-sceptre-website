@@ -383,11 +383,11 @@ Several theories exist regarding the sword's personality:
 
 ## The Cydonian Revelation (2020 CE)
 
-For 2,631 years, the sword kept its deepest secret.
+For 2,636 years, the sword kept its deepest secret.
 
 It showed Cian visions of Methuselah's battles. It revealed fragments of the antediluvian world. It guided him toward Nephilim nests and warned him of ambushes. But it never showed him *the beginning*. It never revealed the council. It never spoke of Mars.
 
-Until January 2020.
+Until January 2024.
 
 On that night, without warning, Mo Chrá *sang*. Not the subtle hum of Nephilim detection. Not the vibration of approaching danger. A frequency Cian had never heard in twenty-six centuries of partnership — a resonance that bypassed his ears and spoke directly to his bones.
 

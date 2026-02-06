@@ -55,7 +55,7 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 4. **Enoch:** Meets the man who made his sword 5,000 years ago
 5. **Elijah:** Meets the prophet prepared for 2,800 years
 6. **The Emergence:** For the first time since their translations, both Witnesses step into the fallen world
-7. **Introduction to Miriam:** Cian meets the woman Raphael has arranged
+7. **Miriam’s Deepening Role:** Miriam (introduced Book 1) works alongside Cian; Raphael’s Tobit pattern begins
 8. **Closing:** The three emerge together — the final battle begins
 
 **Key Scenes:**
@@ -210,8 +210,8 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 
 | Book | Arc |
 |------|-----|
-| 1 | Mentioned or foreshadowed |
-| 2 | Introduction; hunted survivor; connection with Cian |
+| 1 | Introduction; hunted survivor; parallel hunter; partnership with Cian |
+| 2 | Team member; relationship deepens; Raphael’s Tobit pattern begins |
 | 3 | Wedding; exorcism; fighting alongside Cian |
 | 4 | Wife and partner through the 1,260 days |
 | 5 | Death (possibly) → Resurrection → Reunion with Cian |

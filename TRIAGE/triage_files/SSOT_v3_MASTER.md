@@ -13,8 +13,8 @@
 
 | Tier | Document | Authority Level |
 |------|----------|-----------------|
-| **1** | CANON/SERIES_BIBLE.md | Constitution — INVIOLABLE axioms |
-| **2** | CANON/SSOT_v3_MASTER.md | Consolidated factual canon |
+| **1** | SERIES_BIBLE.md | Constitution — INVIOLABLE axioms |
+| **2** | SSOT_v3_MASTER.md | Consolidated factual canon |
 | **3** | Dossiers (WATCHER_, NEPHILIM_, PROTAGONIST_, ANTAGONIST_) | Character/entity details |
 | **4** | Book outlines (BOOK_1_OUTLINE.md, etc.) | Plot structure |
 | **5** | Reference docs (VISUAL_DIRECTION, TECHNICAL_REFERENCE) | Supporting material |
@@ -89,7 +89,7 @@ Before writing ANY scene, verify:
 
 | Role | Identity | Status |
 |------|----------|--------|
-| **Guardian of the Witnesses** | CIAN MAC MORNA | 2,636 years old; active |
+| **Guardian of the Witnesses** | CIAN MAC MORNA | 2,631 years old; active |
 | **First Witness** | ENOCH | In Eden; returns for ministry |
 | **Second Witness** | ELIJAH | In Eden; returns for ministry |
 | **Cian's Guardian Angel** | RAPHAEL | One of Seven Archangels (Cian doesn't know) |
@@ -127,7 +127,7 @@ Before writing ANY scene, verify:
 | **Birth** | ~611 BCE |
 | **Commission Date** | **586 BCE** |
 | **Biological Age** | ~28-30 years |
-| **Chronological Age** | 2,636 years (as of 2025) |
+| **Chronological Age** | 2,631 years (as of 2025) |
 | **Lineage** | Descendant of Machir ben Manasseh (giant-slayer heritage) |
 | **Role** | Guardian of the Two Witnesses |
 | **Wives** | Four deceased (most recent: Siobhan, died ~1170 CE); fifth: Miriam |
@@ -179,7 +179,7 @@ Before writing ANY scene, verify:
 | **Length** | 54 inches (42" blade, 12" hilt) |
 | **Weight** | 6.2 pounds (feels lighter in combat) |
 | **Appearance** | Dark grey/black; appears crude but beyond modern metallurgy |
-| **Wielders** | Methuselah (969 years) → Cian (2,636 years) |
+| **Wielders** | Methuselah (969 years) → Cian (2,631 years) |
 | **Naming** | 532 CE, Constantinople, Nika Riots |
 | **Name Meaning** | "Mo Chrá" = "My Torment" (Irish) |
 
@@ -187,7 +187,7 @@ Before writing ANY scene, verify:
 | Wielder | Period | Confirmed Kills |
 |---------|--------|-----------------|
 | **Methuselah** | 969 years | 980,000 Nephilim spirits |
-| **Cian** | 2,636 years | ~50,000 supernatural entities |
+| **Cian** | 2,631 years | ~50,000 supernatural entities |
 | **TOTAL** | — | ~1,050,000 |
 
 ### Properties
@@ -211,7 +211,7 @@ Before writing ANY scene, verify:
 | Attribute | Value |
 |-----------|-------|
 | **Full Name** | Miriam Elizabeth Ashford (née Miriam bat Elisheva) |
-| **Age** | 29 (Book 2, circa 2025) |
+| **Age** | 29 (Book 2, circa 2021) |
 | **Nationality** | British-Israeli (dual citizenship) |
 | **Heritage** | Jewish — Sephardic descent |
 | **Status** | Hunted; armed with devastating intelligence |
@@ -523,10 +523,10 @@ Key phrase: **"I FORSAKE MY OIKETERION"**
 
 ## §10.2 Mars-Antarctica Integration
 
-**Three-Stage Revelation (CONSTITUTIONAL — SERIES_BIBLE §5.4):**
-1. **Stage 1: Divine Vision (Book 1)** — Symbolic, dreamlike; establishes quest objective
-2. **Stage 2: Multi-Source Investigation (Book 2)** — Four independent sources converge on coordinates
-3. **Stage 3: Physical Experience (Book 3)** — Antarctic expedition, visceral payoff
+**Three-Stage Revelation:**
+1. **Stage 1:** Covert Antarctic dig
+2. **Stage 2:** Mars base anomaly
+3. **Stage 3:** Stele activation
 
 ## §10.3 Beast System Geopolitics
 
@@ -570,15 +570,15 @@ Key phrase: **"I FORSAKE MY OIKETERION"**
 
 | File | Purpose |
 |------|---------|
-| CANON/SERIES_BIBLE.md | Constitution |
+| SERIES_BIBLE.md | Constitution |
 | SSOT_v3_MASTER.md | This document |
-| CANON/dossiers/WATCHER_DOSSIERS.md | 20 chiefs detailed |
-| CANON/dossiers/NEPHILIM_DOSSIERS.md | Nephilim profiles |
-| characters/CIAN_MAC_MORNA.md, MIRIAM_ASHFORD.md, etc. | Protagonist details |
-| characters/ANTAGONISTS.md | Vârcolac, Naamah detailed |
-| MANUSCRIPT/book_1/BOOK_1_CHAPTER_OUTLINE.md | Plot structure |
-| REFERENCE/VISUAL_DIRECTION.md | Art direction |
-| WORLDBUILDING/MARS_ANTARCTICA_INTEGRATION.md | Mars-Antarctica specs |
+| WATCHER_DOSSIERS.md | 20 chiefs detailed |
+| NEPHILIM_DOSSIERS.md | Nephilim profiles |
+| PROTAGONIST_DOSSIERS.md | Cian, Miriam, Brennan, Enoch, Elijah |
+| ANTAGONIST_DOSSIERS.md | Vârcolac, Naamah detailed |
+| BOOK_1_CHAPTER_OUTLINE.md | Plot structure |
+| VISUAL_DIRECTION.md | Art direction |
+| TECHNICAL_REFERENCE_MARS_MISSION.md | Mission specs |
 
 ## §12.2 Worldbuilding Reference
 

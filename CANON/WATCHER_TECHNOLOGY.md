@@ -63,7 +63,7 @@ This frequency:
 - Cannot be perfectly replicated by human technology (only approximated)
 - Is embedded in all Watcher-created materials
 - Serves as the "activation key" for Watcher devices
-- Is what Mo Chrá has been humming for 2,631 years
+- Is what Mo Chrá has been humming for 2,636 years
 
 ---
 
@@ -102,7 +102,7 @@ Mo Chrá has been trying to communicate her nature for millennia. But:
 - The knowledge wasn't *actionable* until the Cydonia discovery
 - She couldn't simply *explain* — she had to *demonstrate*
 
-Her "exasperation" is real. She's watched Cian fight for 2,631 years, using her as a sword, never understanding she's also a library, a communicator, and a key to unlocking everything the Watchers left behind.
+Her "exasperation" is real. She's watched Cian fight for 2,636 years, using her as a sword, never understanding she's also a library, a communicator, and a key to unlocking everything the Watchers left behind.
 
 ---
 
@@ -242,7 +242,7 @@ He carries the key. Mo Chrá — forged from Cydonian ore, present at the Watche
 
 The sword isn't just his weapon. She's his translator. His access code. His voice in a language that predates human speech.
 
-For 2,631 years, he's been carrying the most important artifact in existence and using it to *stab things*.
+For 2,636 years, he's been carrying the most important artifact in existence and using it to *stab things*.
 
 No wonder she's exasperated.
 

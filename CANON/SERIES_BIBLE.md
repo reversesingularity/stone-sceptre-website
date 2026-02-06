@@ -1738,7 +1738,7 @@ These beings are themselves in violation of heavenly law. Their presence in the 
 
 **The Tension:**
 
-This creates profound dramatic tension. Cian's angel has been with him for 2,631 years, loves him (in whatever way angels love), and must sometimes watch him walk into danger against purely human threats — *unable to help*.
+This creates profound dramatic tension. Cian's angel has been with him for 2,636 years, loves him (in whatever way angels love), and must sometimes watch him walk into danger against purely human threats — *unable to help*.
 
 > **Raphael:** "THEY ARE MORTAL. I CANNOT INTERVENE."
 >

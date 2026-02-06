@@ -13,8 +13,8 @@
 
 | Tier | Document | Authority Level |
 |------|----------|-----------------|
-| **1** | CANON/SERIES_BIBLE.md | Constitution — INVIOLABLE axioms |
-| **2** | CANON/SSOT_v3_MASTER.md | Consolidated factual canon |
+| **1** | SERIES_BIBLE.md | Constitution — INVIOLABLE axioms |
+| **2** | SSOT_v3_MASTER.md | Consolidated factual canon |
 | **3** | Dossiers (WATCHER_, NEPHILIM_, PROTAGONIST_, ANTAGONIST_) | Character/entity details |
 | **4** | Book outlines (BOOK_1_OUTLINE.md, etc.) | Plot structure |
 | **5** | Reference docs (VISUAL_DIRECTION, TECHNICAL_REFERENCE) | Supporting material |
@@ -89,7 +89,7 @@ Before writing ANY scene, verify:
 
 | Role | Identity | Status |
 |------|----------|--------|
-| **Guardian of the Witnesses** | CIAN MAC MORNA | 2,636 years old; active |
+| **Guardian of the Witnesses** | CIAN MAC MORNA | 2,631 years old; active |
 | **First Witness** | ENOCH | In Eden; returns for ministry |
 | **Second Witness** | ELIJAH | In Eden; returns for ministry |
 | **Cian's Guardian Angel** | RAPHAEL | One of Seven Archangels (Cian doesn't know) |
@@ -179,7 +179,7 @@ Before writing ANY scene, verify:
 | **Length** | 54 inches (42" blade, 12" hilt) |
 | **Weight** | 6.2 pounds (feels lighter in combat) |
 | **Appearance** | Dark grey/black; appears crude but beyond modern metallurgy |
-| **Wielders** | Methuselah (969 years) → Cian (2,636 years) |
+| **Wielders** | Methuselah (969 years) → Cian (2,631 years) |
 | **Naming** | 532 CE, Constantinople, Nika Riots |
 | **Name Meaning** | "Mo Chrá" = "My Torment" (Irish) |
 
@@ -187,7 +187,7 @@ Before writing ANY scene, verify:
 | Wielder | Period | Confirmed Kills |
 |---------|--------|-----------------|
 | **Methuselah** | 969 years | 980,000 Nephilim spirits |
-| **Cian** | 2,636 years | ~50,000 supernatural entities |
+| **Cian** | 2,631 years | ~50,000 supernatural entities |
 | **TOTAL** | — | ~1,050,000 |
 
 ### Properties
