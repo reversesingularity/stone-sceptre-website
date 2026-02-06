@@ -1,5 +1,5 @@
 # CHAPTER 1: THE AWAKENING
-## 2020 — Austin, Texas
+## 2024 — Austin, Texas
 
 ---
 
@@ -764,7 +764,7 @@ The name burned on.
 
 ### Structure: The Year of Obsession
 
-This chapter spans one full year (2020) to establish Cian's psychological state before the 2023 action:
+This chapter spans one full year (2024) to establish Cian's psychological state before the 2027 action:
 
 1. **The Awakening (Day 1)** — Vision, name, initial shock
 2. **The Research Begins (Week 1-3)** — Basement archives, connection maps
@@ -807,11 +807,11 @@ Third-person limited locked to Cian throughout:
 | Brennan's concern | His role in pulling Cian back |
 | Connection maps | Evidence for later investigation |
 | "Partnership" revelation | Naamah's true role with Watchers |
-| Three-year time skip | Chapter 2 opens in 2023 |
+| Three-year time skip | Chapter 2 opens in 2027 |
 
 ### Time Skip Note
 
-This chapter ends in early 2021 (one year after the first vision). Chapter 2 will open in **2023**, following a three-year gap during which:
+This chapter ends in early 2025 (one year after the first vision). Chapter 2 will open in **2027**, following a three-year gap during which:
 - Cian continues his obsessive research
 - Brennan's Mars program advances significantly
 - Starship technology matures (per real-world timeline)

@@ -4,9 +4,9 @@
 
 ## I. THE NEST
 
-**2022 ” JuÃ¡rez, Mexico**
+**2026 — Juárez, Mexico**
 
-The intelligence had come through a contact in Matamoros ” a priest who'd noticed the wrong kind of congregation gathering in the warehouse district. Trafficking cover, Father Mendoza had said, but the ritual markers suggested something older. Symbols that shouldn't exist outside museum archives. Chanting that made the locals cross themselves and walk faster.
+The intelligence had come through a contact in Matamoros — a priest who'd noticed the wrong kind of congregation gathering in the warehouse district. Trafficking cover, Father Mendoza had said, but the ritual markers suggested something older. Symbols that shouldn't exist outside museum archives. Chanting that made the locals cross themselves and walk faster.
 
 Cian had driven through the night. Two years into his obsession with Naamah, he'd learned to recognize her network's fingerprints. This had them.
 
@@ -180,13 +180,13 @@ They understood each other.
 
 ## II. THE OBSESSION
 
-**2023 ” Austin, Texas**
+**2027 — Austin, Texas**
 
 Three years.
 
 Three years since the sword had sung a frequency Cian had never heard. Three years since the name *Naamah* had burned itself into the back of his mind like a brand that refused to heal. Three years of hunting by night, researching by dawn, and maintaining the ragged remnants of a cover identity that should have been retired long ago.
 
-Sean Morna's career at Lockheed Martin had ended in early 2022 ” "voluntary early retirement," the HR paperwork said, though everyone involved knew the truth. Too many missed meetings. Too many unexplained absences. Too many colleagues whispering about the man who used to be their best materials engineer and had become a ghost haunting his own office.
+Sean Morna's career at Lockheed Martin had ended in early 2026 — "voluntary early retirement," the HR paperwork said, though everyone involved knew the truth. Too many missed meetings. Too many unexplained absences. Too many colleagues whispering about the man who used to be their best materials engineer and had become a ghost haunting his own office.
 
 Director Dunsmore had been kind about it. Understanding, even. "You've given us thirty-six years, Sean. Whatever you're dealing with ” health issue, family problem, whatever it is ” take the time you need. The door's always open if you want to come back."
 
@@ -598,7 +598,7 @@ Not fragile hope. Not desperate hope.
 
 | Element | Implementation | Reader Effect |
 |---------|----------------|---------------|
-| **Three-Year Time Skip** | 2020-2023 obsession montage | Shows cost of isolation |
+| **Three-Year Time Skip** | 2024-2027 obsession montage | Shows cost of isolation |
 | **JuÃ¡rez Cold Open** | Intel-anchored combat sequence | Establishes threat; Naamah's reach |
 | **The Vigil** | Cian watching family from shadows | Shows longing + protective instinct |
 | **Home Attack** | Shedim targets Emma specifically | Stakes escalate to family level |
@@ -615,11 +615,11 @@ Not fragile hope. Not desperate hope.
 
 ### Timeline Structure
 
-- **2020**: First vision (Chapter 1)
-- **2020-2022**: Obsessive research, hunting, cover deteriorating
-- **2022**: JuÃ¡rez warehouse (cold open)
-- **Early 2022**: Lockheed retirement
-- **2023**: Liaigh's intervention â†’ Vigil â†’ Attack â†’ Revelation
+- **2024**: First vision (Chapter 1)
+- **2024-2026**: Obsessive research, hunting, cover deteriorating
+- **2026**: Juárez warehouse (cold open)
+- **Early 2026**: Lockheed retirement
+- **2026**: Liaigh's intervention → Vigil → Attack → Revelation
 
 ### The Attack Sequence Payoff
 
@@ -653,7 +653,7 @@ The letter transforms the revelation from "Cian telling his story" to "Niamh spe
 
 | Chapter 1 Element | Chapter 2 Pickup |
 |-------------------|------------------|
-| Cydonia vision (2020) | Three-year obsession established |
+| Cydonia vision (2024) | Three-year obsession established |
 | "Naamah" burning | Shedim speaks of "The Lady" |
 | "Something is coming" | The war literally arrives at Brennan's door |
 

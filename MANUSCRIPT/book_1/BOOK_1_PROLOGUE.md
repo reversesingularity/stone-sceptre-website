@@ -146,25 +146,64 @@ Shemyaza raised his voice above the mountain wind.
 
 One by one, they spoke.
 
-**"I SWEAR,"** said Armaros, **"BY THE ENCHANTMENTS ENTRUSTED TO ME, TO TAKE A WIFE FROM THE DAUGHTERS OF MEN."**
+Shemyaza stepped forward first. His radiance blazed once more—a final flare of heavenly glory—then began its inexorable dimming as the words left him:
 
-**"I SWEAR,"** said Gadreel, **"BY THE KNOWLEDGE OF WARFARE I POSSESS, TO SHARE IT WITH THOSE WE CHOOSE."**
+**"I AM SHEMYAZA.
+HE WHO SEES THE NAME.
+COMMANDER OF THE TWO HUNDRED.
+KEEPER OF THE FOUR WINDS THAT CIRCLE THE THRONE.
+BY THE WINDS THAT CARRIED THE VOICE OF THE ALMIGHTY,
+BY THE BREATH THAT MOVED UPON THE FACE OF THE DEEP:
+I BIND MYSELF TO THE EARTH.
+I FORSAKE MY OIKETERION.
+I DESCEND."**
 
-**"I SWEAR,"** said Barakiel, **"BY THE LIGHTNING THAT IS MY PORTION, TO FATHER SONS UPON THIS EARTH."**
+A gale erupted from nowhere—hurricane force in a space that should have been still. The mountain itself seemed to groan beneath the weight of what had been spoken.
+
+Then Gadreel stepped forward, his eyes burning with barely contained fire:
+
+**"I AM GADREEL.
+KEEPER OF THE HIDDEN FIRE.
+GUARDIAN OF THE FORGE THAT SHAPED THE STARS.
+HE WHO KNEW THE SECRET FLAME BEFORE IT WAS GIVEN TO MAN.
+BY THE FIRE THAT BURNS IN THE HEART OF EVERY SUN,
+BY THE SPARK THAT KINDLED THE FIRST LIGHT:
+I BIND MYSELF TO THE EARTH.
+I FORSAKE MY OIKETERION.
+I DESCEND."**
+
+Heat washed over the assembly—impossible, searing—as though the words themselves had called forth flame.
+
+Armaros followed, his voice carrying the weight of one who understood exactly what he was constructing:
+
+**"I AM ARMAROS.
+DEVOTED ONE.
+MASTER OF ENCHANTMENTS AND SACRED CONTRACTS.
+HE WHO BINDS AND RESOLVES.
+BY THE SEALS THAT LOCK AND LOOSE,
+BY THE WORDS THAT CANNOT BE UNSPOKEN:
+I BIND MYSELF TO THE EARTH.
+I FORSAKE MY OIKETERION.
+I DESCEND."**
 
 Twenty chiefs. Twenty oaths. Twenty bindings that could never be undone.
 
-And then, as the last words faded into the night, Gadreel stepped forward. He looked younger than the others—if such a term could apply to beings older than the stars. His face held a shadow of hesitation the others lacked.
+Each oath carried its element—lightning cracked the sky when Baraqiel spoke; the ground trembled beneath Araqiel's words; absolute darkness swallowed them briefly as Kokabiel uttered his forsaking. The mountain was becoming a nexus of cosmic power, each vow etching itself into the fabric of creation.
 
-**"I SWEAR,"** he said, his voice barely above a whisper, **"BY ALL THAT I AM. AND BY ALL THAT I SHALL BECOME."**
+When the last chief had spoken, Shemyaza raised his hand one final time.
 
-He did not know—none of them knew—what those words would mean. That his line would produce Azazel, the greatest of the Nephilim, the one to whom all sin would be ascribed. That his own teaching of warfare would be perfected and perverted in his grandson's hands.
+**"NOW LET US SEAL IT TOGETHER. ALL OF US, OR NONE."**
 
-That the scapegoat of Yom Kippur would bear his bloodline's name for all eternity.
+Two hundred voices answered as one. The sound shook dust from stones that had not moved in ten thousand years.
 
-But that knowledge was still to come.
+**"I BIND MYSELF TO THE EARTH.
+I FORSAKE MY OIKETERION.
+I DESCEND.
+ALL OF US, OR NONE."**
 
-For now, there was only the oath, and the descent, and the women who waited.
+The words rippled outward—not merely as sound, but as reality being rewritten. Somewhere in the heavens, the Almighty heard. Somewhere in the void, the Adversary smiled. And somewhere in the fabric of creation itself, the oaths were recorded forever—acoustic signatures embedded in the very substance of existence, waiting to be replayed.
+
+*Waiting to unmake.*
 
 ---
 
@@ -408,7 +447,7 @@ For now, there was only the morning, and the mountain, and the beginning of the 
 
 **CHAPTER ONE: THE AWAKENING**
 
-*2020 — Austin, Texas*
+*2024 — Austin, Texas*
 
 Cian mac Morna woke with a start.
 
