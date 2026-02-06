@@ -586,7 +586,7 @@ Cian's blood went cold.
 
 *Emma McNeeve. Age 10. Walking to school.*
 
-*Niamh McNeeve—Emma's mother—at the grocery store. At the gym. Picking Emma up from soccer practice.*
+*Sarah McNeeve—Emma's mother—at the grocery store. At the gym. Picking Emma up from soccer practice.*
 
 *Brennan McNeeve. At the McNeeve Industries campus. At his daughter's dance recital. Standing on the porch of his family home.*
 
@@ -614,7 +614,7 @@ The second page was a genealogy. A family tree extending back thirty generations
 
 *Niamh.*
 
-The woman he'd loved. The woman he'd lost. The woman whose descendants he'd been protecting—in secret, from the shadows, without their knowledge or consent—for twenty-six centuries.
+The sister he'd loved. The sister he'd lost. The sister whose descendants he'd been protecting—in secret, from the shadows, without their knowledge or consent—for twenty-six centuries.
 
 The genealogy was annotated with dates. Acquisitions. Attempts. Failures.
 
@@ -630,7 +630,7 @@ The genealogy was annotated with dates. Acquisitions. Attempts. Failures.
 
 And at the bottom of the page, in a different hand—older ink, more elaborate script:
 
-*The debt is unpaid. The blood price is owed. What was denied in Jerusalem shall be claimed in full.*
+*The debt is unpaid. The blood price is owed. What was denied in Tara shall be claimed in full.*
 
 Signed: **Lord Vârcolac**
 
@@ -638,7 +638,7 @@ Signed: **Lord Vârcolac**
 
 The third page was an intelligence summary.
 
-Target: Emma McNeeve, daughter of Niamh and Brennan McNeeve.
+Target: Emma McNeeve, daughter of Sarah and Brennan McNeeve.
 
 Location: Austin, Texas.
 
@@ -764,7 +764,7 @@ But the folder was what mattered.
 
 Project Niamh.
 
-Seven centuries of hunting. Seven centuries of *patience*. Seven centuries of watching and waiting and planning, all focused on a single bloodline that had the misfortune of descending from a woman Cian had loved more than life itself.
+Seven centuries of hunting. Seven centuries of *patience*. Seven centuries of watching and waiting and planning, all focused on a single bloodline that had the misfortune of descending from his sister—the woman Cian had failed to protect when it mattered most.
 
 Lord Vârcolac.
 
