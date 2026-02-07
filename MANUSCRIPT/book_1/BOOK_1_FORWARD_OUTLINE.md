@@ -103,8 +103,9 @@ Cian tracks a personal enemy. A second hunter converges. Solo becomes partnershi
 | **Ch 5** | The Celestial Biology Lesson | Cian | Draft scene exists | Nephilim regeneration science; ghoul crowd-control weapons; Liaigh/Mo Chrá banter; Mo Chrá/Raphael private conversation |
 | **Ch 6** | Guns. Lots of Guns | Cian | Framework | Arsenal preparation; weapon builds (sniper, bullpup, shotgun, Mo Chrá); banter |
 | **Ch 7** | The Other Hunter | Miriam | Framework | Miriam's hunt; mother's death flashback; converging on same target |
-| **Ch 8** | The Collision | Cian | Framework | Carpathian assault; ghoul army; Mo Chrá cuts wards; Miriam's interference; rescue |
-| **Ch 9** | The Reckoning | Cian | Framework | Tag team hunt; Ghoul Lord champion; Miriam decapitates Vârcolac with Saxon sword |
+| **Ch 8** | The Collision | Cian | Framework | Carpathian assault (72hr sanctioned incursion); ghoul army; Mo Chrá cuts wards; Miriam's interference ruins kill shot; clock expires, forced withdrawal |
+| **Ch 9** | The Proof | Cian | Framework | Argument/bonding; big reveal; 586 BCE origin flashback; Cainan/Apkallu exposition |
+| **Ch 10** | The Reckoning | Cian | Framework | Vârcolac flees to Dunluce Castle, N. Ireland (full Michael jurisdiction — no clock); tag team assault through sea caves; Ghoul Lord champion; Miriam decapitates Vârcolac with Saxon sword |
 
 **CHANGE FROM EXISTING FRAMEWORK:** Split original Ch5 ("Guns. Lots of Guns") into TWO chapters:
 
@@ -252,9 +253,9 @@ Naamah's POV — the antagonist perspective:
 | **5** | The Celestial Biology Lesson | Cian | II | Draft exists | Nephilim regeneration science; blessed thermite breakthrough; Mo Chrá/Raphael private conversation |
 | **6** | Guns. Lots of Guns | Cian | II | Framework | Weapon builds (sniper, bullpup, shotgun); Mo Chrá banter; 1467 Ōnin War flashback |
 | **7** | The Other Hunter | Miriam | II | Framework | Miriam's hunt; mother's death flashback; converging on same target |
-| **8** | The Collision | Cian | II | Framework | Carpathian assault; ghoul army; Mo Chrá cuts wards; Miriam interference; rescue |
+| **8** | The Collision | Cian | II | Framework | Carpathian assault (72hr window); ghoul army; Mo Chrá cuts wards; Miriam interference; rescue; clock expires, forced withdrawal |
 | **9** | The Proof | Cian | II | Framework | Argument/bonding; big reveal; 586 BCE origin flashback; Apkallu exposition |
-| **10** | The Reckoning | Cian | II | Framework | Tag team hunt; Ghoul Lord champion; Miriam decapitates Vârcolac |
+| **10** | The Reckoning | Cian | II | Framework | Vârcolac flees to Dunluce Castle (N. Ireland — full Michael jurisdiction, no clock); tag team hunt; Ghoul Lord champion; Miriam decapitates Vârcolac |
 | **11** | The Frequency | Cian | III | Draft + **REVISION** | Marcus introduced; Brennan/Marcus tech scans FAIL; Mo Chrá acoustic breakthrough; creation frequency activation |
 | **12** | The Oaths | Cian | III | Draft exists | 20 chiefs speak; Miriam's recognition; anti-singularity event (inadvertent) |
 | **13** | The Containment | Cian | III | Draft (v2) | Mo Chrá shields humans; Raphael (hidden) contains void; "Good that I know"; 19-day silence |

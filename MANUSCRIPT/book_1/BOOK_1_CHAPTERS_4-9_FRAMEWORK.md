@@ -967,14 +967,42 @@ And this time, no one gets in the way.
 
 **Scene 1: The Second Hunt**
 
-Vârcolac has retreated to a backup location — an abandoned Soviet military facility in the Ukrainian wilderness. Miriam's network tracked the financial movements; Cian's contacts confirmed the location.
+Vârcolac has fled the Carpathians — driven out by Cian's assault, forced to abandon his ancestral stronghold when the 72-hour jurisdictional window expired and the Prince of Dacia's patience ran out. The vampire didn't flee deeper into hostile Archon territory. He did something worse.
 
-The vampire is scared now. He's called in reinforcements.
+He ran to Ireland.
+
+**Dunluce Castle, County Antrim, Northern Ireland.** A medieval fortress perched on a basalt headland over the Atlantic, connected to the mainland by a single narrow bridge over a chasm, sheer cliffs on three sides dropping two hundred feet into the sea. Beneath the castle: a network of sea caves carved by millennia of ocean fury — tunnels, chambers, chokepoints perfect for a creature who'd been fortifying underground lairs since Sumer.
+
+Vârcolac had held Dunluce since the 13th century, hidden behind layers of corporate ownership and architectural preservation trusts. The castle that tourists saw was a ruin. The real fortress was *beneath* it — expanded, warded, stocked, and garrisoned with everything a desperate vampire lord needed for a last stand.
+
+**The Dramatic Irony:**
+He'd come to Ireland 2,600 years ago to build wards against Mo Chrá and claim Niamh's blood. Now he was fleeing *back* to Ireland — to the very island where the vendetta began. Running home to ground he knew, thinking familiar terrain would give him advantage.
+
+He was half right. He knew the ground.
+
+But this was **Michael's territory**. Full jurisdiction. No diplomatic window. No ticking clock. No Archon to protect him. Cian could operate here with the full weight of celestial authority at his back, for as long as it took.
+
+*Desperatio facit audacem.* A cornered rat becomes dangerous — and Vârcolac knew he was cornered. He couldn't flee west (Atlantic). Couldn't flee east (Britain — Ephraim). Couldn't flee south (Republic of Ireland — still Michael's jurisdiction). Michael's domain surrounded him on every side.
+
+So he did the only thing he could: he dug in.
+
+Miriam's network tracked the financial movements — emergency transfers, ghoul transport logistics routed through Belfast shipping channels, a sudden spike in missing persons reports along the Antrim coast. Cian's contacts confirmed the location.
+
+The vampire was scared. And scared vampires are the most dangerous kind.
 
 **The New Defenses:**
-- Ghouls: Doubled. Maybe sixty total.
-- Wards: New layers, hastily constructed but still dangerous
-- The Champion: Something *else*. A creature Cian's thermal imaging can't identify properly — too hot, too large, too *wrong*.
+- Ghouls: Doubled. Maybe sixty total, shipped in through his smuggling networks
+- Wards: Ancient layers refined over eight centuries, reinforced with new constructions since his arrival
+- The Champion: Something *else*. A creature Cian's thermal imaging can't identify properly — too hot, too large, too *wrong*. It guards the sea cave entrance like a sentinel.
+
+**Cian (to Miriam):**
+> "He ran to Ireland. My Ireland. The one place on Earth where I have *every* advantage."
+
+**Miriam:**
+> "Then why do you sound worried?"
+
+**Cian:**
+> "Because a cornered animal with nothing left to lose doesn't fight to win. It fights to take you with it."
 
 **Miriam:**
 > "What is that thing?"
@@ -1070,7 +1098,7 @@ They pursue.
 
 **Scene 5: The Split**
 
-The facility branches — two corridors, each leading to potential exits. Vârcolac's heat signature has split — somehow, impossibly, showing in both directions.
+**The facility branches** — two sea cave tunnels, each winding deeper into the basalt headland. Vârcolac's heat signature has split — somehow, impossibly, showing in both directions.
 
 **Cian:**
 > "Illusion. Ward magic. He's only in one of them."
@@ -1078,7 +1106,7 @@ The facility branches — two corridors, each leading to potential exits. Vârco
 **Miriam:**
 > "Which one?"
 
-Mo Chrá hums — directional. Left.
+Mo Chrá hums — directional. Left. Toward the deeper caves, the ones that open onto the Atlantic cliff face.
 
 **Cian:**
 > "Left. I'll take left. You take right, cut off his escape if I'm wrong."
@@ -1110,6 +1138,8 @@ Or rather — Mo Chrá detected the *stronger* signature. The decoy. Vârcolac h
 The vampire went right.
 
 Toward Miriam.
+
+Deeper into the caves that opened onto the cliff face — a dead end overlooking the Atlantic. Nowhere left to run. He'd chosen his killing ground.
 
 **Miriam's POV (brief):**
 
