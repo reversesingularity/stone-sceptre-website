@@ -53,7 +53,9 @@ Japanese katanas — three of them, each representing a century of the art form.
 
 Ottoman kilij, Safavid shamshir, Crusader arming sword with a blade cross still sharp enough to draw blood. An Indian tulwar with a hilt wrapped in silver wire. A Chinese jian that predated the Qin dynasty. A Scottish claymore — not the basket-hilted version Hollywood liked, but the true two-handed great sword, five feet of murderous intent that had cleared more than one battlefield of things that had no business walking on it.
 
-These were his history. His autobiography, written in steel.
+Not all of these had been easy to come by. The Eastern blades in particular — the katanas, the jian, the tulwar — each represented territory that wasn't his. The Archons who governed those lands under the Deuteronomy 32 mandate were ferociously protective of their jurisdictional borders, and every incursion into foreign domain had required Michael or Raphael to negotiate passage with the local Prince beforehand. Weeks of celestial diplomacy exchanged for days of hunting. The cooperation was never free, never friendly, and never offered twice at the same price. In twenty-six centuries, Cian could count his extra-territorial operations on both hands, and every one of them had cost Michael something he never discussed.
+
+These were his history. His autobiography, written in steel — and in debts settled in courts no mortal would ever see.
 
 But the south wall — the south wall was where the *work* happened.
 

@@ -3325,7 +3325,99 @@ This is not arbitrary. It flows from his heritage:
 | **Assignment** | Jeremiah's prophecy designated him as protector of Israel's scattered children |
 | **Scope** | Wherever the Tribes went, Cian followed — Europe, British Isles, eventually the Americas |
 
-**This is why Cian never operated significantly in East Asia, sub-Saharan Africa, or South America.** Those territories were not within his assignment. He couldn't be everywhere, and he wasn't supposed to be.
+**This is why Cian rarely operated in East Asia, sub-Saharan Africa, or South America.** Those territories fell under the authority of other Archons — the Bene Elohim assigned at Babel (Deuteronomy 32:8) — and entering them without authorization constituted spiritual trespass carrying severe consequences.
+
+However, "rarely" is not "never."
+
+### The Diplomatic Incursion Protocol
+
+**The Problem:**
+
+The 70 (or 72) territorial Archons established at Babel are **fiercely protective** of their jurisdictional boundaries. Even rebel Archons — those who have corrupted their assigned rule — enforce territorial sovereignty with absolute authority. A hunter operating under Michael's banner cannot simply walk into the Prince of Persia's domain and start killing without consequence.
+
+> **Raphael:** "THOU ART OF MANASSEH. MICHAEL IS THY PRINCE. WHERE HIS AUTHORITY EXTENDETH, THOU MAYEST OPERATE. WHERE IT DOTH NOT, THOU ART A TRESPASSER IN ANOTHER'S DOMAIN."
+>
+> **Cian:** "So I can only fight where Israel's children happen to live?"
+>
+> **Raphael:** "SAVE WHEN PASSAGE HATH BEEN NEGOTIATED. AND THAT NEGOTIATION IS NEVER WITHOUT COST."
+
+**The Solution: Three Mechanisms of Extra-Territorial Operation**
+
+#### 1. Sanctioned Incursion (Rare, Costly, Time-Limited)
+
+When a threat in foreign Archon territory directly affects the welfare of Israel or Judah — Nephilim targeting diaspora trade routes, entities pursuing Israelite refugees, intelligence critical to covenant security — **Michael or Raphael** may negotiate **limited passage** with the ruling Archon through formal diplomatic channels in the celestial courts.
+
+| Term | Detail |
+|------|--------|
+| **Initiator** | Michael or Raphael — never Cian directly |
+| **Counterparty** | The territorial Archon (Prince of Persia, Prince of Japan, etc.) |
+| **Scope** | Strictly defined: specific target, fixed duration, bounded area of operations |
+| **Cost** | Always significant — favors owed, intelligence shared, reciprocal concessions |
+| **Frequency** | Extremely rare — perhaps a dozen occasions in 2,600 years |
+| **Violation clause** | Exceed the terms and Michael's protection withdraws entirely within that territory |
+
+These negotiations can take **weeks or months** in celestial terms. The Prince of Persia delayed Gabriel for 21 days over a *message* (Daniel 10:13); negotiating armed passage for a hunter is orders of magnitude harder. The Archons are not allies. They are sovereign rulers granting grudging, conditional, temporary permission — and they extract every possible advantage for doing so.
+
+**Historical Sanctioned Incursions:**
+
+| Date | Territory | Archon | Justification | Cost to Michael |
+|------|-----------|--------|---------------|----------------|
+| 586 BCE | Persia | Prince of Persia | Scáthgheal dragon threatening Israelite exiles near Babylon; pursuit required crossing into Persian heartland | An unspecified debt the Prince of Persia called due during the Daniel 10 confrontation — 21 days of obstruction |
+| 480 BCE | Greece | Prince of Greece | Nephilim remnants using Persian invasion as cover to eliminate Israelite-connected merchant communities in the Aegean | Negotiated before Greece's Archon fully turned rebel; one of the last collaborative operations between loyal and neutral Princes |
+| 1280s | Japan | Prince of Japan | Oni-class Nephilim manifestation disrupting maritime routes used by Israelite merchant networks during the Mongol chaos | Raphael negotiated; Cian confined to coastal regions and given a strict time window |
+| 1467 | Japan | Prince of Japan | Ōnin War producing Nephilim activity threatening trade communities with Israelite connections along the Korean coast | Same Archon, harder negotiation; three-month access window; the Prince made Cian wait six months before granting it |
+| Edo period | Japan | Prince of Japan | Oni preying on a region containing hidden crypto-Christian converts with Israelite bloodline markers | Michael's negotiation; the daimyō who gifted the katana never knew what Cian truly was |
+
+> **Cian:** "Twenty-six centuries, and I can count the incursions on both hands. Every one of them cost Michael something. Every one of them required months of negotiation for days of access. And every one of them, the local Prince made certain I knew I was a guest in someone else's house."
+
+#### 2. Diaspora Jurisdiction Bubbles
+
+Wherever significant populations of Judah or the scattered Tribes settled, Michael's authority extends as a **jurisdictional enclave** — a bubble of legitimate authority within another Archon's domain. This functions like a diplomatic compound: Michael's writ runs within the bubble, but stepping outside it means entering hostile territory.
+
+| Territory | Diaspora Community | Bubble Strength |
+|-----------|-------------------|----------------|
+| **Constantinople / Istanbul** | Massive Sephardic and Romaniot Jewish communities; Israelite merchant networks spanning centuries | Strong — nearly equivalent to home jurisdiction |
+| **Carpathian / Eastern Europe** | Ashkenazi migration corridors; scattered Israelite communities across Hungary, Romania, Poland | Moderate — contested boundaries, shifting with population movements |
+| **Ottoman Empire broadly** | Jewish communities throughout; Sephardic refugees from 1492 Spanish expulsion | Variable — the bubble fluctuated with the political fortunes of Jewish communities |
+| **Safavid / Persian territories** | Ancient Jewish communities dating to the Babylonian captivity | Thin — the Prince of Persia has always been hostile to Michael (Daniel 10:13) |
+| **North Africa** | Sephardic communities, Berber Jewish traditions | Limited — largely outside Cian's operational focus |
+
+The Constantinople bubble in particular was large enough for Cian to operate almost freely across multiple centuries — the Jewish and crypto-Israelite populations were so significant that Michael's jurisdictional claim there was nearly as strong as in the British Isles.
+
+#### 3. Acquisition Without Presence
+
+Not every foreign weapon in Cian's armory represents an incursion. Many were acquired through legitimate channels that required no extra-territorial operations:
+
+| Method | Example |
+|--------|--------|
+| **Trade at port cities within jurisdiction** | Chinese jian acquired from Silk Road traders in London or Alexandria |
+| **Gifts from allied hunter networks** | Indian tulwar from the Rakshasa Hunters, delivered via Portuguese trade routes to Lisbon |
+| **War trophies from enemies within jurisdiction** | Ottoman kilij taken from a Nephilim operative in the Constantinople diaspora bubble |
+| **Refugees carrying them into Israelite territory** | Weapons brought by fleeing craftsmen, scholars, or persecuted believers |
+
+#### Why the Archons Grant Passage (Sometimes)
+
+| Motivation | Detail |
+|-----------|--------|
+| **Mutual threat** | Some Nephilim manifestations threaten the Archon's own subjects; letting Cian eliminate them is convenient |
+| **Michael's leverage** | As one of the chief princes and Israel's guardian, Michael commands respect even from rebels |
+| **Professional courtesy** | The Bene Elohim remember what they once were; some residual protocol remains |
+| **Political calculation** | Granting a favor creates a debt; debts are currency in celestial politics |
+| **Fear of escalation** | Some Archons prefer to let Cian in quietly rather than have Michael force the issue publicly before the Throne |
+
+#### Why the Archons Refuse (Usually)
+
+| Reason | Detail |
+|--------|--------|
+| **Sovereignty** | Their territory is THEIR territory — God Himself assigned it at Babel |
+| **He kills their assets** | Nephilim bloodlines are investments in the emergent Beast system |
+| **Alliance with darkness** | Rebel Archons actively oppose Michael and everything he represents |
+| **Pride** | Admitting they need help from Israel's hunter is intolerable |
+| **Precedent** | Every concession weakens their jurisdictional claims for the next negotiation |
+
+**The result:** Cian's operational history is overwhelmingly concentrated in the territories where Israel's scattered children dwell — Western Europe, the British Isles, the Americas, Australasia, and the Mediterranean diaspora bubbles. His rare excursions outside those boundaries were always sanctioned, always costly, and always brief.
+
+---
 
 ### Other Hunters: Mortal, Faithful, Temporary
 
