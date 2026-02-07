@@ -145,21 +145,17 @@ Miriam stopped walking.
 
 Cian sighed. The sigh of a man who had been maintaining operational security for two and a half millennia and was watching it unravel in real time because of a woman who asked questions the way artillery asked structural questions of load-bearing walls.
 
-"His name is Raphael. He's an archangel. He's bound to a relic integrated into my armour's power cell. He provides tactical intelligence, spiritual sensing, and unsolicited commentary."
+"I call him Liaigh — it means 'healer' in Irish. He won't tell me his real name. He's been refusing for twenty-six centuries." Cian paused. "He's an angel. Some kind of guardian. Bound to a relic in my armour's power cell. He provides tactical intelligence, spiritual sensing, and unsolicited commentary."
 
 Miriam stared at him.
 
-"An archangel."
+"An angel."
 
 "Yes."
 
-"Raphael."
+"A *guardian angel*. Who won't tell you his name."
 
-"Yes."
-
-"The Raphael. From the Bible. The one who healed Tobit's blindness."
-
-"The same."
+"He considers it classified information. I've asked approximately four thousand times."
 
 "And he lives in your *chest plate*."
 
@@ -175,7 +171,7 @@ Miriam looked at the ceiling. Then at the floor. Then at Cian. Then at Mo Chrá,
 
 "There's a bottle of Redbreast 21 in the cabinet above the sink. It's—"
 
-"Irish whiskey. Of course it's Irish whiskey. Why would a twenty-six-hundred-year-old man with a magic sword and a pet archangel drink anything *civilised*."
+"Irish whiskey. Of course it's Irish whiskey. Why would a twenty-six-hundred-year-old man with a magic sword and a pet angel drink anything *civilised*."
 
 "Redbreast 21 is the *definition* of civilised. It was aged in sherry casks for—"
 
@@ -191,7 +187,7 @@ She turned and walked back toward the staircase.
 
 "Stop helping."
 
-"I AM AN ARCHANGEL OF THE MOST HIGH. 'HELPING' IS DEFINITIONALLY WHAT I DO."
+"I AM AN ANGEL OF THE MOST HIGH. 'HELPING' IS DEFINITIONALLY WHAT I DO."
 
 Mo Chrá's hum conveyed that she sided entirely with Raphael and that Cian was handling this badly.
 
@@ -225,7 +221,7 @@ Cian didn't answer. The honest answer was complicated, and complicated answers a
 
 "I know."
 
-"THE TOBIT PARALLEL IS—"
+"IT MEANETH SOMETHING, CIAN."
 
 "I *know*, Liaigh."
 
@@ -235,7 +231,7 @@ Eighteen minutes after departing, Miriam came back downstairs.
 
 She'd poured two glasses of Redbreast. She handed one to Cian without comment. She'd used the crystal glasses.
 
-"Alright," she said. Her voice was calmer. Not calm — she was too angry for calm — but the whiskey and the seventeen minutes of solitude had converted the boiling fury into something more controlled. More dangerous. "I'm going to ask questions. You're going to answer them. If I think you're lying, I'm leaving. If your sword laughs at me again, I'm leaving. If your pet archangel makes one more *helpful* comment—"
+"Alright," she said. Her voice was calmer. Not calm — she was too angry for calm — but the whiskey and the seventeen minutes of solitude had converted the boiling fury into something more controlled. More dangerous. "I'm going to ask questions. You're going to answer them. If I think you're lying, I'm leaving. If your sword laughs at me again, I'm leaving. If your pet angel makes one more *helpful* comment—"
 
 "You're leaving. Understood."
 
@@ -449,7 +445,7 @@ Miriam was looking between Cian and apparently empty air with the expression of 
 
 "He says you've tried to speak and chosen silence four times, which is a personal record."
 
-"Tell your archangel that I have killed things tonight and I am not in a mood to be *counted*."
+"Tell your angel that I have killed things tonight and I am not in a mood to be *counted*."
 
 "SHE IS MAGNIFICENT," Raphael said, with the tone of someone revising an initial assessment significantly upward.
 
@@ -461,7 +457,7 @@ Miriam was looking between Cian and apparently empty air with the expression of 
 
 "I HEARD HER. INFORM HER THAT ARMAMENT IS, IN MY EXPERIENCE, ONE OF THE MORE RELIABLE INDICATORS OF MAGNIFICENCE."
 
-Mo Chrá's hum hit a crescendo and broke into something that could only be described as full-throated, bell-clear, harmonic *laughter* — not the snort from the car, not the giggling from the corridor, but actual laughter. A sound that five thousand years of existence had never produced until this specific moment, when a Cambridge-educated archaeologist with bloody hands and broken pride stood in an armoury full of impossible history and threatened an archangel with a Glock that still had half a magazine.
+Mo Chrá's hum hit a crescendo and broke into something that could only be described as full-throated, bell-clear, harmonic *laughter* — not the snort from the car, not the giggling from the corridor, but actual laughter. A sound that five thousand years of existence had never produced until this specific moment, when a Cambridge-educated archaeologist with bloody hands and broken pride stood in an armoury full of impossible history and threatened an angel with a Glock that still had half a magazine.
 
 Cian stared at the sword.
 
@@ -507,7 +503,7 @@ Miriam's eyes narrowed. "The Oiketerion."
 
 Cian set down his glass. "Where did you learn that word?"
 
-"Book of Jude. Verse six. '*The angels which kept not their first estate.*' The Greek word is *oiketerion* — it means 'habitation.' Their celestial bodies. The Watchers left their celestial bodies." She leaned forward. "But your archangel said something earlier — in the car. Something about the sword's frequencies and mortal ears. If the Watchers gave up their celestial bodies, they gave up the abilities that came with those bodies."
+"Book of Jude. Verse six. '*The angels which kept not their first estate.*' The Greek word is *oiketerion* — it means 'habitation.' Their celestial bodies. The Watchers left their celestial bodies." She leaned forward. "But your angel said something earlier — in the car. Something about the sword's frequencies and mortal ears. If the Watchers gave up their celestial bodies, they gave up the abilities that came with those bodies."
 
 "Yes."
 
@@ -637,13 +633,13 @@ Mo Chrá hummed — warm, bright, anticipatory. The hum of a blade that had been
 
 "THOU KNOWEST WHAT SHE IS," Raphael said privately, the words pitched below Miriam's hearing.
 
-*Yes.*
+*No. Tell me.*
 
-"THOU KNOWEST THE PATTERN. TOBIAS AND SARAH. SEVEN HUSBANDS KILLED BY THE DEMON OF ASMODEUS BEFORE RAPHAEL GUIDED THE EIGHTH TO HER SIDE."
+"I CANNOT. NOT YET." A pause — weighted, deliberate, full of things unsaid. "BUT THOU WILT UNDERSTAND. IN TIME."
 
-*I know the pattern.*
+*You always say that.*
 
-"THEN THOU KNOWEST WHY I AM HERE. WHY I WAS ASSIGNED TO THEE, OF ALL THE GUARDIANS IN MICHAEL'S SERVICE."
+"AND I AM ALWAYS CORRECT."
 
 Cian looked at Miriam across the table. She was already on her feet again, drawn back to the armoury by the gravitational pull of three thousand years of curated violence. He could hear her muttering — something about the Crusader arming sword's edge geometry and the impossibility of a blade cross maintaining a cutting edge across nine centuries of presumed use.
 
@@ -813,7 +809,7 @@ She sat down. Put the sword on the table. Opened her laptop — the one she'd re
 
 "Yes?"
 
-"After this is done — after we've killed the thing that murdered my mother—" Her voice was steady. Not calm. Steady. "—you're going to sit down and tell me exactly why you — with your twenty-six centuries, your archangel, your magic sword, and your *insane* weapons collection — weren't there the night she died."
+"After this is done — after we've killed the thing that murdered my mother—" Her voice was steady. Not calm. Steady. "—you're going to sit down and tell me exactly why you — with your twenty-six centuries, your angel, your magic sword, and your *insane* weapons collection — weren't there the night she died."
 
 The silence that followed was the kind that existed between a question and the answer that would change everything.
 
@@ -856,7 +852,7 @@ Approximately 6,800 words
 - **The Saxon sword here** is the same weapon Miriam will use to decapitate Vârcolac in Ch10
 - **Miriam qualified on L85A3** during an unspecified British military training programme (connects to her Year 1 SAS training under James)
 - **Mo Chrá's unprecedented laugh:** Full harmonic laughter — first time in 5,000 years of existence
-- **Raphael's Tobias/Sarah foreshadowing:** Privately communicated to Cian — the Tobit parallel is becoming explicit
+- **Raphael hints at Miriam's significance:** Privately tells Cian she "meaneth something" and that he'll understand "in time" — cryptic, preserving the hidden identity
 - **The "why weren't you there" question:** Deferred — will be answered later in the series, creates sustained tension
 
 ### Comedy Beats (Tracked)
@@ -885,7 +881,7 @@ Approximately 6,800 words
 - [x] Knowledge Transmission Chain: Watchers → Nephilim → Apkallu → Sumerians → Harlot System
 - [x] Cainan transcription of pre-Flood inscriptions (Jubilees, LXX Luke 3:36)
 - [x] Mo Chrá forged by Enoch from Cydonian ore
-- [x] Raphael's Tobit parallel referenced (Tobias and Sarah)
+- [x] Raphael's identity hidden from Cian (he calls him "Liaigh," doesn't know true name)
 - [x] Vârcolac: debt collector for Harlot system, made during fall of Sumer
 - [x] Naamah as origin of vampiric creation (pharmakeia rituals)
 - [x] WEF/Club of Rome as modern Harlot fronts
@@ -899,7 +895,7 @@ Approximately 6,800 words
 - Miriam's Glock established as inadequate → drives weapons upgrade
 - Victoria's death established → "why weren't you there" question
 - 54 ghouls (Cian) + 6 ghouls (Miriam) = 60 total confirmed
-- Raphael's David-and-Goliath reference from Ch8 → expanded to Tobias/Sarah
+- Raphael's David-and-Goliath reference from Ch8 → Raphael privately hints at Miriam's deeper significance
 
 ### Miriam's New Loadout (for Ch10: The Reckoning)
 | System | Weapon | Ammunition | Purpose |
