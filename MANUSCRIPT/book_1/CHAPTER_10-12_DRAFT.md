@@ -96,7 +96,7 @@ Cian looked at the sword in his hands. Twenty-six centuries he’d carried her. 
 
 Brennan looked up. “You’re sure?”
 
-“She’s been singing it since Methuselah forged her. The creation harmonic — the tone that was present when God spoke light into existence. It’s encoded in her material. She *is* the frequency.”
+"She's been singing it since Enoch forged her. The creation harmonic — the tone that was present when God spoke light into existence. It's encoded in her material. She *is* the frequency."
 
 “Then why haven’t we tried this before?”
 

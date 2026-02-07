@@ -60,7 +60,7 @@ Brennan sat.
 
 Brennan's eyes narrowed. "Twenty-six centuries."
 
-"I was born in 611 BCE. I was commissioned by the prophet Jeremiah in 586 BCE, the year Babylon destroyed Jerusalem. The sword I carry was forged by Methuselah — yes, *that* Methuselah — from materials older than human civilization. It keeps me alive. It's kept me alive for 2,638 years."
+"I was born in 611 BCE. I was commissioned by the prophet Jeremiah in 586 BCE, the year Babylon destroyed Jerusalem. The sword I carry was forged by Enoch — yes, *that* Enoch — from materials older than human civilization. His son Methuselah wielded it for nine centuries before it came to me. It keeps me alive. It's kept me alive for 2,636 years."
 
 Silence.
 

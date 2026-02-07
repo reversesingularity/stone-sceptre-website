@@ -456,7 +456,7 @@ Cian observes from a ridge 800 meters out. Sniper rifle assembled. Thermal imagi
 A pause. Harmonic exchange.
 
 **Liaigh:**
-> **"THE WARDS ARE DESIGNED TO STOP MORTAL WEAPONS AND LESSER SUPERNATURAL THREATS. THEY WILL NOT STOP A BLADE FORGED FROM CYDONIAN ORE BY THE HAND OF METHUSELAH."**
+> **"THE WARDS ARE DESIGNED TO STOP MORTAL WEAPONS AND LESSER SUPERNATURAL THREATS. THEY WILL NOT STOP A BLADE FORGED FROM CYDONIAN ORE BY THE HAND OF ENOCH."**
 
 **Cian:**
 > "So yes."
@@ -798,7 +798,7 @@ She turns to face him. Her anger has been replaced by something else — a hunge
 > "How old?"
 
 **Cian:**
-> "I was born in 612 BCE. I was commissioned by the prophet Jeremiah in 586 BCE, the year Babylon destroyed Jerusalem." He meets her eyes. "I'm 2,636 years old. The sword I carry was forged by Methuselah from materials older than human civilization. It keeps me alive. And I've been hunting creatures like Lord Vârcolac since before Rome was founded."
+> "I was born in 612 BCE. I was commissioned by the prophet Jeremiah in 586 BCE, the year Babylon destroyed Jerusalem." He meets her eyes. "I'm 2,636 years old. The sword I carry was forged by Enoch from materials older than human civilization. Methuselah wielded it for nine centuries after him. It keeps me alive. And I've been hunting creatures like Lord Vârcolac since before Rome was founded."
 
 Silence.
 

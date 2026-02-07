@@ -36,7 +36,7 @@ The voice came from everywhere and nowhere, as it always did. Raphael's presence
 
 "THE VAMPIRE PREPARED FOR THEE."
 
-"The vampire prepared for *something*. Whether that something is specifically me or just 'potential supernatural interference in his multi-generational breeding program'..." Cian paused, watching a surveillance photo scroll past. Siobhan McNeeve, age seven, playing in a Dublin park. His great-great-great-grandniece. "Either way, he's been thorough."
+"The vampire prepared for *something*. Whether that something is specifically me or just 'potential supernatural interference in his multi-generational breeding program'..." Cian paused, watching a surveillance photo scroll past. Aoife McNeeve, age seven, playing in a Dublin park. His great-great-great-grandniece — named for his first wife, though the family who'd chosen the name had no idea why it kept surfacing in the bloodline. "Either way, he's been thorough."
 
 Raphael was silent for a moment—the particular silence that meant he was processing information at speeds that made quantum computers look like abacuses.
 
@@ -486,7 +486,7 @@ Raphael's attention flickered briefly to Cian, who was now muttering about dispe
 
 *He hath always possessed the capacity for creative destruction. What he lacked was the understanding that destruction can serve protection. He learned to kill early. He is only now learning to DEFEND.*
 
-"AND THOU BELIEVEST THE GARRISON ROLE SHALL SUIT HIM?"
+"AND THOU BELIEVEST THE GUARDIAN ROLE SHALL SUIT HIM?"
 
 *I believe,* the sword's resonance deepened, carrying the weight of memories that predated human civilization, *that when the Two Witnesses walk the earth, they shall require a shield more than a sword. Cian hath spent millennia learning to strike. Now he must learn to HOLD.*
 

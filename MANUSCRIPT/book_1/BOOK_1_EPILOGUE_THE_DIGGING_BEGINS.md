@@ -177,7 +177,7 @@ But that night, alone in the safehouse armory, Mo Chrá finally *spoke*.
 
 Not in words — she'd never used words. But in a complex tonal pattern that Cian had learned to interpret over twenty-six centuries of partnership. A pattern that meant *I'm ready. I'm whole. I'm here.*
 
-He drew her from the sheath. The blade gleamed — not dull anymore, but sharp. Impossibly sharp. The edge that never needed honing, bright as the day Methuselah had forged her.
+He drew her from the sheath. The blade gleamed — not dull anymore, but sharp. Impossibly sharp. The edge that never needed honing, bright as the day Enoch had forged her.
 
 "A chuisle mo chroí," he murmured. "I thought I'd lost you."
 
