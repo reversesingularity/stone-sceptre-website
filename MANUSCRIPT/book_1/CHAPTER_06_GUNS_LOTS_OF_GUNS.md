@@ -443,13 +443,43 @@ It wasn't a question.
 
 "I've been preparing for seven hundred years, Liaigh." Cian moved toward the Shadow Hound, slinging the rifle cases across the motorcycle's MOLLE mounts with practiced efficiency. "Since 1347. Since the Carpathians. Since I watched him *run* instead of fight."
 
-"AND NOW?"
+He paused, one hand resting on the rifle case.
+
+"Liaigh — have you confirmed with Michael that we're cleared to operate in the area?" He kept his voice measured, but the question wasn't casual. Romania was contested ground. The Carpathian Mountains fell under the authority of an Archon who had ruled that territory since Babel — one of the seventy, a Prince who guarded his borders with the ferocity of a sovereign who remembered being given dominion by God Himself. The Ashkenazi diaspora bubbles that gave Michael jurisdictional footholds in the region's cities and towns didn't extend into the deep mountain wilderness where Vârcolac had built his fortress. That was the Prince's domain, pure and untouched by Israelite settlement. "The last thing I want is to cause a diplomatic row in God's council meetings."
+
+Raphael was quiet for a beat — the particular quiet that meant the answer was complicated.
+
+"WE ARE PERMITTED," Raphael said at last. "A VERY TIGHT AND VERY NARROW WINDOW OF OPERATIONS. NONE LONGER THAN THREE DAYS HENCE."
+
+Three days. Cian ran the arithmetic. Fourteen hours' ride from Graz to the Carpathian target zone. That left roughly fifty-eight hours for reconnaissance, infiltration, engagement, and extraction. Tight. Very tight.
+
+"How did Michael manage that? The Prince of Dacia isn't exactly known for his hospitality toward Israel's interests."
+
+"THE NEGOTIATION WAS... PROTRACTED." Raphael's tone carried the weight of celestial diplomacy conducted at a level mortals couldn't comprehend. "MICHAEL PRESENTED THE THREAT ASSESSMENT — VÂRCOLAC'S NETWORK REACHING INTO MANASSITE AND EPHRAIMITE TERRITORIES, THE TARGETING OF THY SISTER'S BLOODLINE, THE NEPHILIM TRAFFICKING OPERATIONS THAT VIOLATE THE PRINCE'S OWN SUBJECTS AS MUCH AS OURS. THE PRINCE OF DACIA DOTH NOT LOVE THE NEPHILIM ANY MORE THAN WE DO. HIS PEOPLE HAVE SUFFERED UNDER VÂRCOLAC'S PREDATION FOR SEVEN CENTURIES."
+
+"So the Prince wants Vârcolac gone too."
+
+"HE WANTETH THE PROBLEM SOLVED WITHOUT ADMITTING HE CANNOT SOLVE IT HIMSELF. A DISTINCTION THAT IS POLITICALLY IMPORTANT TO HIM. THOU ART GRANTED PASSAGE AS A — " A pause, as if translating celestial legal terminology into something a mortal could parse. "— A CONTRACTED SPECIALIST OPERATING UNDER LIMITED LICENCE. NOT AN INVADING FORCE."
+
+Cian almost smiled. Almost. "A mercenary on a short leash."
+
+"AN INELEGANT BUT ESSENTIALLY ACCURATE CHARACTERISATION. THOU SHALT CROSS NO BOUNDARIES BEYOND THOSE SPECIFIED IN THE AGREEMENT. THOU SHALT ENGAGE NO TARGETS THAT ARE NOT DIRECTLY CONNECTED TO VÂRCOLAC'S OPERATIONS. AND THOU SHALT DEPART THE TERRITORY WITHIN SEVENTY-TWO HOURS OF CROSSING THE JURISDICTIONAL BOUNDARY, WHETHER THY MISSION IS COMPLETE OR NOT."
+
+"And if I'm still fighting when the clock runs out?"
+
+"THEN MICHAEL'S PROTECTION WITHDRAWETH FROM THAT TERRITORY. AND THOU ART A MORTAL MAN STANDING IN AN ARCHON'S DOMAIN WITHOUT CELESTIAL COVER." The silence that followed said everything the words didn't. "I WOULD STRONGLY ADVISE THEE NOT TO TEST THE DEADLINE."
+
+Cian nodded. He'd operated under sanctioned incursion terms before — in Persia, in Greece, in Japan. Every one of them had come with a clock, and every clock had run out faster than expected. That was the nature of the thing. The Archons didn't grant extensions. They didn't renegotiate mid-mission. And they didn't forgive trespass.
+
+"Three days," he said. "Then we'd better not waste any of them."
+
+"AND NOW?" Raphael asked.
 
 Cian swung onto the motorcycle. The electric motors responded instantly, a surge of torque that pressed him forward against the handlebars. Silent. Powerful. Ready.
 
 "Now he's run out of places to hide."
 
-Mo Chrá's hum rose to something fierce and bright — a battle hymn that had echoed across twenty-six centuries of warfare, from Dingle Bay to Jerusalem, from Kyoto to Constantinople, from the frozen Carpathians to the dusty streets of Austin.
+Mo Chrá's hum rose to something fierce and bright — a battle hymn that had echoed across twenty-six centuries of warfare, from Dingle Bay to Jerusalem, from the frozen Carpathians to the dusty streets of Austin, and every contested mile between.
 
 The garage door opened. The night waited.
 
