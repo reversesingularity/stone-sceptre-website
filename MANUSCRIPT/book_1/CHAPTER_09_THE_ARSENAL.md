@@ -593,7 +593,7 @@ Miriam sat down slowly. Not the controlled sit of a woman choosing a tactical po
 
 "And Vârcolac," she said.
 
-"Made during the fall of Sumer. One of the first generation of vampires — created through Naamah's *pharmakeia* rituals. Naamah was a Watcher — she fell with the two hundred, took a husband, bore Nephilim children. After the Flood, her spirit survived. She became something else. The grandmother of vampire creation. Every turned vampire traces its curse back to her."
+"Made during the fall of Sumer. One of the first generation of vampires — created through Naamah's *pharmakeia* rituals. Naamah was the wife of Shemyaza — chief of the two hundred Watchers who descended at Hermon. She bore him Nephilim children, and through that union she learned things no human woman was meant to know. After the Flood, her spirit survived. She became something else. The grandmother of vampire creation. Every turned vampire traces its curse back to her."
 
 "And Vârcolac serves the Harlot system."
 
