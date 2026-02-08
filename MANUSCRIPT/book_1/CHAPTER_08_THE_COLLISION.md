@@ -22,7 +22,7 @@ The mesh was cool against his skin. It was always cool. The silver wicked body h
 
 Then the Heavy Combat Variant.
 
-The exoskeleton hung on its armature stand like the shed carapace of something mechanical and purposeful — matte olive drab and charcoal grey anti-corrosive plating, each segment waiting for its wearer the way a loyal hound waits at a door. Brennan had built the first prototype three years ago in a warehouse in Cork, working from specifications that Cian had developed over decades of field experience and Raphael had refined using principles of celestial engineering that Brennan still didn't fully understand and had stopped asking about.
+The exoskeleton hung on its armature stand like the shed carapace of something mechanical and purposeful — matte olive drab and charcoal grey anti-corrosive plating, each segment waiting for its wearer the way a loyal hound waits at a door. Brennan had built the first prototype three years ago in a warehouse in Cork, working from specifications that Cian had developed over decades of field experience and Liaigh had refined using principles of celestial engineering that Brennan still didn't fully understand and had stopped asking about.
 
 Greaves first. The lower leg plates locked onto mounting points bonded to the base layer's reinforced ankles, each one seating with a hydraulic *click* that Cian felt through the bones of his feet. The reactive armor inserts — ceramic-composite tiles over a matrix of Dyneema polyethylene — added weight. Forty-three pounds for the full leg assembly, distributed across the biomechanical articulation points that Brennan had engineered to match human gait mechanics. Walking in them felt like walking in heavy boots. Running in them felt like running through hip-deep water.
 
@@ -82,7 +82,7 @@ He slid her into the dorsal sheath mount. The magnetic lock engaged. She settled
 
 The hum rose.
 
-"THOU KNOWEST THE ANSWER," Raphael said.
+"THOU KNOWEST THE ANSWER," Liaigh said.
 
 Cian walked to the Shadow Hound.
 
@@ -160,7 +160,7 @@ Twenty-seven ghouls in the courtyard, clustered in three groups. Not random. Org
 
 "He's been practicing," Cian murmured.
 
-"THE CREATURE HATH HAD CENTURIES TO STUDY THE MILITARY ARTS," Raphael said. "HIS GHOULS ARE INSTRUMENTS, NOT INDIVIDUALS. THEY MOVE AS HE THINKETH."
+"THE CREATURE HATH HAD CENTURIES TO STUDY THE MILITARY ARTS," Liaigh said. "HIS GHOULS ARE INSTRUMENTS, NOT INDIVIDUALS. THEY MOVE AS HE THINKETH."
 
 "How many total?"
 
@@ -184,7 +184,7 @@ Including Cian. Once. In 1347.
 
 *Not this time.*
 
-"THE WARDS?" Raphael asked, reading his intent.
+"THE WARDS?" Liaigh asked, reading his intent.
 
 "Mo Chrá cuts them. Same as always."
 
@@ -338,7 +338,7 @@ Cian holstered the SIG. Picked up the SCAR.
 
 Seven ghouls down on the wall. Eleven seconds of combat.
 
-"TWELVE REMAIN ON THE OUTER PERIMETER," Raphael reported. "THE CONTROLLING INTELLIGENCE IS WITHDRAWING THEM TO THE INNER COURTYARD. IT SACRIFICETH THE OUTER RING TO CONSOLIDATE THE INTERIOR."
+"TWELVE REMAIN ON THE OUTER PERIMETER," Liaigh reported. "THE CONTROLLING INTELLIGENCE IS WITHDRAWING THEM TO THE INNER COURTYARD. IT SACRIFICETH THE OUTER RING TO CONSOLIDATE THE INTERIOR."
 
 Sound tactics. Give ground to concentrate force. Create a killing zone in the courtyard where superior numbers could be brought to bear.
 
@@ -476,7 +476,7 @@ Behind him, the courtyard was a charnel ground. Ghoul remains in various states 
 
 Thirty-nine ghouls. Four minutes and eighteen seconds from the first Fuartán on the wall.
 
-"THE OUTER DEFENCES HAVE FALLEN," Raphael said, his voice carrying the carefully neutral tone of an entity that had watched many battles and found this one both efficient and slightly excessive.
+"THE OUTER DEFENCES HAVE FALLEN," Liaigh said, his voice carrying the carefully neutral tone of an entity that had watched many battles and found this one both efficient and slightly excessive.
 
 "He's got more inside. Reserves. Underground."
 
@@ -506,13 +506,13 @@ They hung across the doorway like curtains of disturbed air — layered, overlap
 
 The Enochian wards on the exoskeleton dampened the effect to a dull itch behind his eyes.
 
-"THE WARD MATRIX IS SUBSTANTIAL," Raphael said, and his voice carried the grudging professional respect of one craftsman evaluating another's work. "SEVEN LAYERS. DIFFERING FREQUENCIES. HE HATH TUNED THEM TO INTERFERE WITH MULTIPLE THREAT CATEGORIES — MORTAL WEAPONS, LESSER SUPERNATURAL ELEMENTS, AND ANGELIC PERCEPTION."
+"THE WARD MATRIX IS SUBSTANTIAL," Liaigh said, and his voice carried the grudging professional respect of one craftsman evaluating another's work. "SEVEN LAYERS. DIFFERING FREQUENCIES. HE HATH TUNED THEM TO INTERFERE WITH MULTIPLE THREAT CATEGORIES — MORTAL WEAPONS, LESSER SUPERNATURAL ELEMENTS, AND ANGELIC PERCEPTION."
 
 "Angelic perception?"
 
 "I CANNOT SEE BEYOND THEM. NOR SENSE WHAT LIETH WITHIN. FOR THE FIRST TIME TONIGHT, GUARDIAN, I AM OPERATING WITHOUT SURVEILLANCE."
 
-That was significant. Raphael's perception had been Cian's eye in the sky for every engagement. Without it, he was blind to anything the thermal overlay couldn't detect.
+That was significant. The angel's perception had been Cian's eye in the sky for every engagement. Without it, he was blind to anything the thermal overlay couldn't detect.
 
 "Can you break them?"
 
@@ -546,7 +546,7 @@ Mo Chrá's hum sang with undiluted satisfaction. She had been forged from Cydoni
 
 Vârcolac's seven centuries of defensive architecture, undone in a single stroke.
 
-"SHOW-OFF," Raphael muttered.
+"SHOW-OFF," Liaigh muttered.
 
 Mo Chrá's hum somehow conveyed that she agreed with this assessment and considered it a compliment.
 
@@ -888,7 +888,7 @@ Miriam listened. Her jaw worked.
 
 Mo Chrá's hum carried something warm. Something that, in a human, might have been a smile.
 
-"THE BLADE APPROVETH," Raphael said — quietly, privately, for Cian's ears alone.
+"THE BLADE APPROVETH," Liaigh said — quietly, privately, for Cian's ears alone.
 
 "She just ruined a seven-hundred-year hunt."
 
@@ -900,7 +900,7 @@ Cian looked at Miriam. She was reloading the Glock with her last magazine — tw
 
 *And she came anyway.*
 
-He thought of stories Raphael had told him — of a young Israelite shepherd who'd faced a nine-foot Nephilim giant with a leather sling and five smooth stones. Of a widow from Bethulia who'd walked into an Assyrian camp with a smile and a sword. Of courage that wasn't the absence of fear but the decision to show up anyway.
+He thought of stories the angel had told him — of a young Israelite shepherd who'd faced a nine-foot Nephilim giant with a leather sling and five smooth stones. Of a widow from Bethulia who'd walked into an Assyrian camp with a smile and a sword. Of courage that wasn't the absence of fear but the decision to show up anyway.
 
 "Come on," he said. "Before they reach this floor."
 

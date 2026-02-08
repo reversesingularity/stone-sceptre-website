@@ -30,7 +30,7 @@ Cian set Mo Chrá on her designated rack—she finally deigned to extend to bast
 
 "THOU HAST RETURNED."
 
-The voice came from everywhere and nowhere, as it always did. Raphael's presence was woven through the safehouse's atmosphere like ozone before a thunderstorm—barely perceptible until you knew what to sense for, then impossible to ignore.
+The voice came from everywhere and nowhere, as it always did. Liaigh's presence was woven through the safehouse's atmosphere like ozone before a thunderstorm—barely perceptible until you knew what to sense for, then impossible to ignore.
 
 "With presents." Cian pulled up the data transfer on the main monitor, 4.7 terabytes of Project Niamh documentation cascading across the screen in categorized streams. "I hope you like obsessive institutional paranoia, because Lord Vârcolac has sixty-three years of it."
 
@@ -38,7 +38,7 @@ The voice came from everywhere and nowhere, as it always did. Raphael's presence
 
 "The vampire prepared for *something*. Whether that something is specifically me or just 'potential supernatural interference in his multi-generational breeding program'..." Cian paused, watching a surveillance photo scroll past. Aoife McNeeve, age seven, playing in a Dublin park. His great-great-great-grandniece — named for his first wife, though the family who'd chosen the name had no idea why it kept surfacing in the bloodline. "Either way, he's been thorough."
 
-Raphael was silent for a moment—the particular silence that meant he was processing information at speeds that made quantum computers look like abacuses.
+Liaigh was silent for a moment—the particular silence that meant he was processing information at speeds that made quantum computers look like abacuses.
 
 "THE BLOODLINE DOCUMENTATION IS COMPREHENSIVE."
 
@@ -94,7 +94,7 @@ Cian sighed and put down his stylus. When Liaigh said *attend*, the lecture was 
 
 Mo Chrá's hum shifted to something that felt distinctly like *here we go*.
 
-Raphael's voice shifted into what Cian privately called "the lecture register"—still empyreal, but with the patient cadence of a being who had explained thermodynamics to prophets and found them all equally slow on the uptake.
+Liaigh's voice shifted into what Cian privately called "the lecture register"—still empyreal, but with the patient cadence of a being who had explained thermodynamics to prophets and found them all equally slow on the uptake.
 
 "THE SILICATES — QUARTZ, AMETHYST, CITRINE, BERYL, EMERALD, AQUAMARINE, TOPAZ — THESE ARE EDIFICES BUILT UPON SILICON-OXYGEN BONDS. FLUOROANTIMONIC ACID DISSOLVETH SUCH BONDS WITH THE SAME ENTHUSIASM THAT FIRE CONSUMETH DRY TIMBER. THE OXIDES — CORUNDUM, FROM WHICH THY SAPPHIRES AND RUBIES DERIVE, AND SPINEL OF MAGNESIUM AND ALUMINUM — THESE ARE METAL OXIDES, AND THE SUPERACID STRIPPETH OXYGEN FROM METAL AS A WOLF STRIPPETH FLESH FROM BONE, LEAVING NAUGHT BUT FLUORIDE SALTS IN ITS WAKE."
 
@@ -106,7 +106,7 @@ Raphael's voice shifted into what Cian privately called "the lecture register"�
 
 "DIAMOND IS THE SOLE SPECIMEN MERITING CONSIDERATION, AND EVEN THIS PROVETH INSUFFICIENT. WHILST DIAMOND RESISTETH MANY ACIDS BY VIRTUE OF ITS CARBON-CARBON BONDS, FLUOROANTIMONIC ACID IS NOT 'MANY ACIDS.' IT IS A SUPERACID THAT PROTONATES SUBSTANCES WHICH OTHER ACIDS CANNOT TOUCH."
 
-Raphael paused—a rhetorical pause, Cian knew, for dramatic emphasis. The angel had developed theatrical timing somewhere around the first millennium, and he used it with the practiced flair of a being who had literally watched Shakespeare take notes.
+The angel paused—a rhetorical pause, Cian knew, for dramatic emphasis. He had developed theatrical timing somewhere around the first millennium, and he used it with the practiced flair of a being who had literally watched Shakespeare take notes.
 
 "DIAMOND CAN BE ATTACKED BY STRONG FLUORINATING AGENTS, AND THY PROPOSED CONTAINMENT MEDIUM RELEASETH HYDROGEN FLUORIDE AS A SUBSIDIARY REACTION PRODUCT. THE RESULT: DIAMOND PROVIDETH NO GUARANTEE OF STABILITY, AND OVER TEMPORAL DURATION WOULD CERTAINLY FAIL."
 
@@ -162,7 +162,7 @@ Cian glanced at the sword.
 
 The blade's presence shifted—that particular vibration that meant she was considering whether to communicate or just let him continue flailing.
 
-"AH," Raphael said, with what Cian could swear was amusement. "THE BLADE HATH OPINIONS."
+"AH," Liaigh said, with what Cian could swear was amusement. "THE BLADE HATH OPINIONS."
 
 "The blade *always* has opinions. She just rarely shares them."
 
@@ -170,7 +170,7 @@ The blade's presence shifted—that particular vibration that meant she was cons
 
 Mo Chrá hummed again—louder this time, with an edge of vindication.
 
-"THE PATRIARCH'S BLADE OBSERVETH," Raphael translated, his tone shifting to something almost conversational, "THAT THOU DOST FOCUS UPON CHEMICAL DESTRUCTION WHEN THE NEPHILIM REGENERATIVE RESPONSE IS FUNDAMENTALLY SPIRITUAL IN NATURE."
+"THE PATRIARCH'S BLADE OBSERVETH," Liaigh translated, his tone shifting to something almost conversational, "THAT THOU DOST FOCUS UPON CHEMICAL DESTRUCTION WHEN THE NEPHILIM REGENERATIVE RESPONSE IS FUNDAMENTALLY SPIRITUAL IN NATURE."
 
 Cian stopped mid-notation.
 
@@ -190,13 +190,13 @@ Cian stared at the sword.
 
 The sword's presence radiated something that felt distinctly like a shrug.
 
-"THOU DIDST NOT INQUIRE," Raphael supplied, his voice carrying the particular weight of someone who had watched this dynamic play out for twenty-six centuries. "THE BLADE POSSESSETH INFORMATION APLENTY. IT SIMPLY DECLINETH TO VOLUNTEER THAT WHICH IS NOT DIRECTLY SOLICITED."
+"THOU DIDST NOT INQUIRE," Liaigh supplied, his voice carrying the particular weight of someone who had watched this dynamic play out for twenty-six centuries. "THE BLADE POSSESSETH INFORMATION APLENTY. IT SIMPLY DECLINETH TO VOLUNTEER THAT WHICH IS NOT DIRECTLY SOLICITED."
 
 "Petty. That's what that is. Four thousand years old and *petty*."
 
 Mo Chrá's hum contained absolutely no denial whatsoever.
 
-"THE PATRIARCH'S BLADE," Raphael continued, and Cian could hear the eye-roll in the angel's voice despite the empyreal register, "FURTHER SUGGESTETH THAT IF THOU DOST TRULY WISH TO DISRUPT NEPHILIM REGENERATION WITH RANGED WEAPONS, THOU SHOULDST CONSIDER INCORPORATING MATERIALS THAT INTERFERE WITH SPIRITUAL COHERENCE. CERTAIN ACOUSTIC FREQUENCIES. SPECIFIC CRYSTALLINE STRUCTURES. ITEMS THAT HAVE BEEN BLESSED, CONSECRATED, OR EXPOSED TO SUSTAINED PRAYER."
+"THE PATRIARCH'S BLADE," Liaigh continued, and Cian could hear the eye-roll in the angel's voice despite the empyreal register, "FURTHER SUGGESTETH THAT IF THOU DOST TRULY WISH TO DISRUPT NEPHILIM REGENERATION WITH RANGED WEAPONS, THOU SHOULDST CONSIDER INCORPORATING MATERIALS THAT INTERFERE WITH SPIRITUAL COHERENCE. CERTAIN ACOUSTIC FREQUENCIES. SPECIFIC CRYSTALLINE STRUCTURES. ITEMS THAT HAVE BEEN BLESSED, CONSECRATED, OR EXPOSED TO SUSTAINED PRAYER."
 
 "Blessed thermite rounds."
 
@@ -204,7 +204,7 @@ Mo Chrá's hum contained absolutely no denial whatsoever.
 
 Cian rubbed his temples. "You two rehearse this, don't you? The withholding of information until I've exhausted myself, then the perfectly timed revelation?"
 
-"I CANNOT SPEAK FOR THE BLADE," Raphael said, "BUT I ASSURE THEE THAT MINE OWN PEDAGOGICAL APPROACH IS ENTIRELY SPONTANEOUS AND UTTERLY UNCOORDINATED."
+"I CANNOT SPEAK FOR THE BLADE," Liaigh said, "BUT I ASSURE THEE THAT MINE OWN PEDAGOGICAL APPROACH IS ENTIRELY SPONTANEOUS AND UTTERLY UNCOORDINATED."
 
 From her rack, Mo Chrá made a sound that, in a lesser weapon, might have been called a snicker.
 
@@ -228,7 +228,7 @@ Mo Chrá's hum acquired a curious quality.
 
 "Insufficient charge density. The rounds either didn't carry enough voltage to matter, or they discharged prematurely and fried the barrel. The professor lost his eyebrows. I lost six months of development time and a perfectly good Desert Eagle." Cian scowled at the schematic. "The problem is delivery. You can't store significant electrical charge in a projectile small enough to fire from a conventional weapon. The energy density just isn't there."
 
-Raphael was silent for a moment—the particular silence that meant he was considering whether to help or whether to let Cian fumble his way toward enlightenment.
+Liaigh was silent for a moment—the particular silence that meant he was considering whether to help or whether to let Cian fumble his way toward enlightenment.
 
 "THOU DOST APPROACH THE PROBLEM FROM THE INCORRECT PARADIGM."
 
@@ -264,7 +264,7 @@ The implications hit Cian like a slap.
 
 "How much charge are we talking about? Practically?"
 
-Mo Chrá's hum shifted, and Raphael translated: "THE BLADE SUGGESTETH THAT A TWELVE-MILLIMETER ROUND WITH A GAPΟ₄ CORE, IMPACTING AT NINE HUNDRED METERS PER SECOND, WOULD GENERATE APPROXIMATELY FORTY-SEVEN THOUSAND VOLTS."
+Mo Chrá's hum shifted, and Liaigh translated: "THE BLADE SUGGESTETH THAT A TWELVE-MILLIMETER ROUND WITH A GAPΟ₄ CORE, IMPACTING AT NINE HUNDRED METERS PER SECOND, WOULD GENERATE APPROXIMATELY FORTY-SEVEN THOUSAND VOLTS."
 
 "Forty-seven *thousand*?"
 
@@ -306,7 +306,7 @@ From her rack, the sword's presence shifted—not disagreement, exactly, but som
 
 "The Tintreach rounds are precision weapons. I need something that affects an entire *area*."
 
-Raphael was silent for a moment. When he spoke again, his voice had shifted—still empyreal, but with the particular gravity he reserved for matters of tactical significance.
+The angel was silent for a moment. When he spoke again, his voice had shifted—still empyreal, but with the particular gravity he reserved for matters of tactical significance.
 
 "THOU SEEKEST TO SLOW THEM. NOT DESTROY—SLOW."
 
@@ -320,7 +320,7 @@ Mo Chrá's hum shifted, and Cian caught something that felt like a suggestion.
 
 "Go on," he said to the sword.
 
-Raphael translated: "THE BLADE OBSERVETH THAT GHOUL MOTOR FUNCTION DEPENDETH UPON THE VAMPIRIC ESSENCE THAT ANIMATETH THEIR MUSCLES. UNLIKE THE LIVING, THEY POSSESS NO METABOLIC HEAT GENERATION—THEIR TISSUE REMAINETH AT AMBIENT TEMPERATURE UNTIL ACTIVATED BY THE ANIMATING FORCE."
+Liaigh translated: "THE BLADE OBSERVETH THAT GHOUL MOTOR FUNCTION DEPENDETH UPON THE VAMPIRIC ESSENCE THAT ANIMATETH THEIR MUSCLES. UNLIKE THE LIVING, THEY POSSESS NO METABOLIC HEAT GENERATION—THEIR TISSUE REMAINETH AT AMBIENT TEMPERATURE UNTIL ACTIVATED BY THE ANIMATING FORCE."
 
 "So they're cold by default?"
 
@@ -346,7 +346,7 @@ Cian was already calculating. "Liquid nitrogen dispersal is too slow—the boil-
 
 Mo Chrá's hum shifted to something that sounded like *he's actually thinking now*.
 
-"ELABORATE," Raphael said.
+"ELABORATE," Liaigh said.
 
 "Okay. Primary chamber contains thermite—burns at four thousand degrees, converts to molite without physical contact. But instead of burning the target, the thermite heat is captured by a secondary chamber containing—" Cian scrolled through compounds. "Carbon dioxide. Solid CO₂—dry ice. The thermite vaporizes the dry ice instantly, creating a superheated CO₂ gas that expands outward. But here's the trick: the expansion is so rapid that it creates a massive pressure differential. The gas cools as it expands—Joule-Thomson effect—and pulls heat from the surrounding environment as it transitions."
 
@@ -354,7 +354,7 @@ Mo Chrá's hum shifted to something that sounded like *he's actually thinking no
 
 "Which is why I add a third component." Cian grinned. "Expanding polymer matrix infused with ammonium nitrate crystals. The initial cold blast drops tissue temperature by forty, fifty degrees. The polymer adheres to everything it contacts. And the ammonium nitrate *continues* absorbing heat for the next fifteen, twenty seconds—keeping the tissue frozen long enough for the crystallization damage to become irreversible."
 
-Raphael was silent for a long moment.
+Liaigh was silent for a long moment.
 
 "THOU HAST DESIGNED A CRYO-GRENADE."
 
@@ -368,7 +368,7 @@ Mo Chrá's hum carried something warm and approving.
 
 "THE BLADE CONCURRETH. THE FUARTÁN POSSESSETH TACTICAL MERIT."
 
-"THE DELIVERY MECHANISM?" Raphael asked.
+"THE DELIVERY MECHANISM?" Liaigh asked.
 
 "Standard M203 underbarrel launcher for the primary charge—that gives me forty-meter effective range. But I'm also thinking hand-thrown variants. Smaller radius, but deployable in tight spaces. And maybe—" Cian's eyes lit up. "Contact-proximity grenades. Time-delay fuse that arms on impact, detonates three seconds later. Throw it into a pack of ghouls, it bounces off one of them, hits the ground, and flash-freezes the whole group before they realize what happened."
 
@@ -386,7 +386,7 @@ Mo Chrá's hum carried something warm and approving.
 
 "Chlorine trifluoride."
 
-"AH." There was something in Raphael's voice—not quite approval, but perhaps respect for the audacity of the suggestion. "ClF₃—THE OXIDIZER THAT BURNETH SUBSTANCES WHICH OUGHT NOT TO BE COMBUSTIBLE. GLASS. SAND. ASBESTOS. MATERIALS THAT HAVE ALREADY BEEN CONSUMED BY FIRE."
+"AH." There was something in the angel's voice—not quite approval, but perhaps respect for the audacity of the suggestion. "ClF₃—THE OXIDIZER THAT BURNETH SUBSTANCES WHICH OUGHT NOT TO BE COMBUSTIBLE. GLASS. SAND. ASBESTOS. MATERIALS THAT HAVE ALREADY BEEN CONSUMED BY FIRE."
 
 "It's hypergolic with almost everything organic. Contact ignition, no external spark required. The Nazis developed it for flamethrowers but found it too dangerous to deploy. German scientists called it 'substance N'—and these were people who thought weaponizing anthrax was a reasonable Saturday afternoon project."
 
@@ -398,7 +398,7 @@ Mo Chrá's hum carried something warm and approving.
 
 "Can it work?"
 
-Raphael paused—the kind of pause that meant he was actually considering it rather than dismissing it outright.
+The angel paused—the kind of pause that meant he was actually considering it rather than dismissing it outright.
 
 "CHLORINE TRIFLUORIDE POSSESSETH THEORETICAL EFFICACY AGAINST UNDEAD TISSUE. UPON CONTACT, IT WOULD INITIATE IMMEDIATE OXIDATION OF ORGANIC MATTER—NOT MERELY COMBUSTION BUT MOLECULAR DISSOLUTION. THE REACTION PRODUCETH HYDROGEN FLUORIDE AS A BYPRODUCT, WHICH WOULD FURTHER COMPROMISE TISSUE INTEGRITY EVEN IN AREAS NOT DIRECTLY CONTACTED."
 
@@ -414,7 +414,7 @@ From her rack, Mo Chrá made a sound. Not quite a hum—more like a *suggestion*
 
 Cian glanced at the sword. "If you have a better idea, I'm listening."
 
-The blade's presence shifted, and Raphael translated:
+The blade's presence shifted, and Liaigh translated:
 
 "THE BLADE OBSERVETH THAT THOU DOST OVERCOMPLICATE THE DESTRUCTION APPROACH. IT SUGGESTETH THAT RATHER THAN PURSUING EXOTIC OXIDIZERS OF CATASTROPHIC VOLATILITY, THOU MIGHTEST CONSIDER WEAPONIZING COMPOUNDS THAT ACHIEVE SIMILAR EFFECTS THROUGH LESS... *SUICIDAL*... MECHANISMS."
 
@@ -424,7 +424,7 @@ The blade's presence shifted, and Raphael translated:
 
 Cian leaned forward. "DMSO as a carrier agent? It penetrates tissue barriers like they're not even there—transdermal absorption in seconds."
 
-"THE BLADE IS NOT FINISHED." Raphael's tone carried the particular patience of someone relaying a message from an entity that was enjoying itself far too much. "DIMETHYL SULFOXIDE SERVETH AS DELIVERY MECHANISM. THE PAYLOAD NEED NOT BE A SINGLE COMPOUND. CONSIDER INSTEAD: DMSO CARRYING SODIUM HYPOCHLORITE IN ONE RESERVOIR, DMSO CARRYING HYDROCHLORIC ACID IN ANOTHER."
+"THE BLADE IS NOT FINISHED." Liaigh's tone carried the particular patience of someone relaying a message from an entity that was enjoying itself far too much. "DIMETHYL SULFOXIDE SERVETH AS DELIVERY MECHANISM. THE PAYLOAD NEED NOT BE A SINGLE COMPOUND. CONSIDER INSTEAD: DMSO CARRYING SODIUM HYPOCHLORITE IN ONE RESERVOIR, DMSO CARRYING HYDROCHLORIC ACID IN ANOTHER."
 
 Cian went very still.
 
@@ -454,7 +454,7 @@ Mo Chrá's presence radiated something that felt distinctly like *satisfaction*.
 
 What Cian did not hear:
 
-While the warrior hunched over his calculations, muttering about flow rates and reaction stoichiometry, Raphael turned his attention to the ancient blade leaning against the wall.
+While the warrior hunched over his calculations, muttering about flow rates and reaction stoichiometry, the angel turned his attention to the ancient blade leaning against the wall.
 
 "THOU ART IN FINE FORM THIS EVENING," the archangel observed, his voice pitched to frequencies that mortal ears could not detect. "THREE CENTURIES SINCE THOU HAST VOLUNTEERED TACTICAL INFORMATION UNPROMPTED."
 
@@ -480,7 +480,7 @@ The sword's harmonic shifted to something that, in a lesser entity, might have b
 
 *The Patriarch forged me with a sense of HUMOR, Healer. He would be AMUSED.*
 
-Raphael's attention flickered briefly to Cian, who was now muttering about dispersal patterns and wind compensation factors while occasionally pausing to touch his singed eyebrow with an expression of rueful resignation.
+The angel's attention flickered briefly to Cian, who was now muttering about dispersal patterns and wind compensation factors while occasionally pausing to touch his singed eyebrow with an expression of rueful resignation.
 
 "HE GROWETH MORE CREATIVE WITH EACH CENTURY. THE CRYO-GRENADE CONCEPTION... I HAD NOT ANTICIPATED THAT PARTICULAR INNOVATION."
 
@@ -494,7 +494,7 @@ Raphael's attention flickered briefly to Cian, who was now muttering about dispe
 
 *Precisely.*
 
-Raphael was silent for a moment—not the silence of consideration but the silence of an entity contemplating timescales that dwarfed mortal comprehension.
+The angel was silent for a moment—not the silence of consideration but the silence of an entity contemplating timescales that dwarfed mortal comprehension.
 
 "DOST THOU BELIEVE HE IS READY?"
 
@@ -514,7 +514,7 @@ The sword's response carried the particular resonance of ancient certainty tempe
 
 *My pedagogy hath produced the finest monster-slayer since Methuselah himself walked the earth. Results speak louder than methods.*
 
-Raphael's attention shifted as Cian suddenly swore and knocked over a beaker, sending green liquid cascading across the workbench in a pattern that would stain the surface for years.
+The angel's attention shifted as Cian suddenly swore and knocked over a beaker, sending green liquid cascading across the workbench in a pattern that would stain the surface for years.
 
 "Speaking of methods..."
 
@@ -546,7 +546,7 @@ Cian glanced at Mo Chrá. "You have consecrated materials just lying around?"
 
 The sword's hum carried something that felt like *amused condescension*.
 
-"THE BLADE OBSERVETH," Raphael translated, "THAT SHE WAS FORGED BY THE PATRIARCH HIMSELF FROM ORE THAT WITNESSED THE WATCHER COUNCIL AT MOUNT HERMON. EVERY ATOM OF HER SUBSTANCE HATH BEEN EXPOSED TO ANGELIC PRESENCE FOR FIVE MILLENNIA. SHE IS, IN A VERY REAL SENSE, THE MOST THOROUGHLY CONSECRATED OBJECT IN THE WESTERN HEMISPHERE."
+"THE BLADE OBSERVETH," Liaigh translated, "THAT SHE WAS FORGED BY THE PATRIARCH HIMSELF FROM ORE THAT WITNESSED THE WATCHER COUNCIL AT MOUNT HERMON. EVERY ATOM OF HER SUBSTANCE HATH BEEN EXPOSED TO ANGELIC PRESENCE FOR FIVE MILLENNIA. SHE IS, IN A VERY REAL SENSE, THE MOST THOROUGHLY CONSECRATED OBJECT IN THE WESTERN HEMISPHERE."
 
 "I'm not... I'm not going to *grind you up* for seed crystals."
 
@@ -570,7 +570,7 @@ The sword's presence radiated something that felt distinctly like *yes, and it h
 
 "That's not—that's not an excuse! That's just—"
 
-"THE BLADE SUGGESTETH," Raphael interrupted smoothly, "THAT PERHAPS THIS WOULD BE AN APPROPRIATE MOMENT TO FOCUS ON PRODUCTION RATHER THAN RECRIMINATION."
+"THE BLADE SUGGESTETH," Liaigh interrupted smoothly, "THAT PERHAPS THIS WOULD BE AN APPROPRIATE MOMENT TO FOCUS ON PRODUCTION RATHER THAN RECRIMINATION."
 
 Cian closed his eyes. Breathed deeply. Reminded himself that stabbing his own sword was both physically impossible and metaphysically inadvisable.
 
@@ -590,7 +590,7 @@ He stood, stretching muscles that had been stationary for too long, feeling the 
 
 "This is going to take weeks. Maybe months, if the crystal growth doesn't cooperate. Lord Vârcolac isn't going to wait politely while I gear up."
 
-"NO. HE SHALL NOT." Raphael's voice carried something that might have been concern. "THE INTELLIGENCE THOU HAST GATHERED SUGGESTETH THAT THE VAMPIRE ACCELERATETH HIS TIMELINE. PROJECT NIAMH REFERENCES A CULMINATION EVENT WITHIN THE NEXT EIGHTEEN MONTHS."
+"NO. HE SHALL NOT." Liaigh's voice carried something that might have been concern. "THE INTELLIGENCE THOU HAST GATHERED SUGGESTETH THAT THE VAMPIRE ACCELERATETH HIS TIMELINE. PROJECT NIAMH REFERENCES A CULMINATION EVENT WITHIN THE NEXT EIGHTEEN MONTHS."
 
 "Then I'll work faster." Cian moved toward the stairs. "I need coffee. Probably food. And about six hours of sleep before I can think clearly again."
 
@@ -602,7 +602,7 @@ The sword's hum carried something warm.
 
 "And Liaigh—" Cian hesitated. "The biology lesson. The way you explained the science. It... it helps. Knowing the *why* behind the weakness. Makes the killing feel less like murder and more like surgery."
 
-Raphael was silent for a long moment.
+The angel was silent for a long moment.
 
 "THOU DOST SEEK PERMISSION TO DESTROY."
 
@@ -624,7 +624,7 @@ Cian nodded slowly.
 
 The angel made a sound that, in a being of lesser dignity, might have been called a snort.
 
-Cian climbed the stairs, leaving Mo Chrá humming quietly on her rack and Raphael's presence dispersing into the safehouse's background frequency. Tomorrow he would begin fabrication. Tomorrow he would start building the weapons that would let him finally confront Lord Vârcolac.
+Cian climbed the stairs, leaving Mo Chrá humming quietly on her rack and the angel's presence dispersing into the safehouse's background frequency. Tomorrow he would begin fabrication. Tomorrow he would start building the weapons that would let him finally confront Lord Vârcolac.
 
 But tonight, he would rest.
 

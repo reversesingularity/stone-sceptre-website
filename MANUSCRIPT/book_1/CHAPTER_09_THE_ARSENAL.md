@@ -91,7 +91,7 @@ Mo Chrá's snort became a sustained vibration that Cian could only describe as *
 
 "Wonderful. I'll put it on my CV. 'Made an ancient weapon system laugh.' That'll play well at academic conferences."
 
-"PERHAPS," Raphael said — and Cian heard the carefully modulated neutrality that meant the angel was trying very hard not to join Mo Chrá's amusement — "THE DISCUSSION MIGHT BENEFIT FROM A TEMPORARY CESSATION IN HOSTILITIES."
+"PERHAPS," Liaigh said — and Cian heard the carefully modulated neutrality that meant the angel was trying very hard not to join Mo Chrá's amusement — "THE DISCUSSION MIGHT BENEFIT FROM A TEMPORARY CESSATION IN HOSTILITIES."
 
 "She started it," Cian said.
 
@@ -129,7 +129,7 @@ The argument resumed immediately.
 
 "Ninety-eight-point-seven. And the one-point-three percent that got away include the *specific vampire* that murdered my mother."
 
-"THAT IS," Raphael observed to no one in particular, "A STATISTICALLY VALID CRITICISM."
+"THAT IS," Liaigh observed to no one in particular, "A STATISTICALLY VALID CRITICISM."
 
 "You're not helping, Liaigh."
 
@@ -159,7 +159,7 @@ Miriam stared at him.
 
 "And he lives in your *chest plate*."
 
-"THE CHARACTERISATION IS IMPRECISE," Raphael said, "BUT NOT SUFFICIENTLY INCORRECT TO WARRANT CORRECTION AT THIS JUNCTURE."
+"THE CHARACTERISATION IS IMPRECISE," Liaigh said, "BUT NOT SUFFICIENTLY INCORRECT TO WARRANT CORRECTION AT THIS JUNCTURE."
 
 Miriam looked at the ceiling. Then at the floor. Then at Cian. Then at Mo Chrá, who was humming with the quiet satisfaction of someone watching a play they'd already seen and knew had a good second act.
 
@@ -179,7 +179,7 @@ Miriam looked at the ceiling. Then at the floor. Then at Cian. Then at Mo Chrá,
 
 She turned and walked back toward the staircase.
 
-"THE WHISKEY IS EXCELLENT," Raphael said helpfully. "TELL HER TO USE THE CRYSTAL GLASSES. THE STONEWARE MUGS DO IT AN INJUSTICE."
+"THE WHISKEY IS EXCELLENT," Liaigh said helpfully. "TELL HER TO USE THE CRYSTAL GLASSES. THE STONEWARE MUGS DO IT AN INJUSTICE."
 
 "Liaigh."
 
@@ -189,7 +189,7 @@ She turned and walked back toward the staircase.
 
 "I AM AN ANGEL OF THE MOST HIGH. 'HELPING' IS DEFINITIONALLY WHAT I DO."
 
-Mo Chrá's hum conveyed that she sided entirely with Raphael and that Cian was handling this badly.
+Mo Chrá's hum conveyed that she sided entirely with Liaigh and that Cian was handling this badly.
 
 ---
 
@@ -197,7 +197,7 @@ Mo Chrá's hum conveyed that she sided entirely with Raphael and that Cian was h
 
 Seventeen minutes.
 
-Cian used them to secure the exoskeleton on its armature, run diagnostics on the damaged back plate, reload magazines, and have a brief, intense conversation with Mo Chrá and Raphael about operational security that went approximately as well as every other conversation he'd had tonight.
+Cian used them to secure the exoskeleton on its armature, run diagnostics on the damaged back plate, reload magazines, and have a brief, intense conversation with Mo Chrá and Liaigh about operational security that went approximately as well as every other conversation he'd had tonight.
 
 "She's a civilian."
 
@@ -217,7 +217,7 @@ Mo Chrá hummed — the hum that meant *you had terrible judgement once, and I c
 
 Cian didn't answer. The honest answer was complicated, and complicated answers at 0300 after a combat operation that had expended over a hundred and fifty rounds of ammunition and one full deployment of chemical weapons was the kind of emotional gymnastics he didn't have the balance for.
 
-"SHE HEARETH THINGS," Raphael said quietly. "THE SWORD'S FREQUENCIES. MY VOICE. MORTAL EARS SHOULD NOT PERCEIVE EITHER. NOT WITHOUT—"
+"SHE HEARETH THINGS," Liaigh said quietly. "THE SWORD'S FREQUENCIES. MY VOICE. MORTAL EARS SHOULD NOT PERCEIVE EITHER. NOT WITHOUT—"
 
 "I know."
 
@@ -225,7 +225,7 @@ Cian didn't answer. The honest answer was complicated, and complicated answers a
 
 "I *know*, Liaigh."
 
-Silence. The angel didn't push it. Raphael had the patience of an entity that measured time in geological epochs. He could wait.
+Silence. The angel didn't push it. Liaigh had the patience of an entity that measured time in geological epochs. He could wait.
 
 Eighteen minutes after departing, Miriam came back downstairs.
 
@@ -297,7 +297,7 @@ Her mouth had achieved a configuration that Cian had previously only seen on the
 
 The Redbreast sat forgotten in her hand, tilted at a thirty-degree angle that was losing whiskey to gravity at a rate of about two drops per second. She didn't notice.
 
-"THE WHISKEY," Raphael observed. "SHE IS SPILLING THE WHISKEY."
+"THE WHISKEY," Liaigh observed. "SHE IS SPILLING THE WHISKEY."
 
 "I can see that."
 
@@ -369,7 +369,7 @@ Miriam replaced the Muromachi katana on its bracket with hands that were steady 
 
 It was the face of a woman whose entire worldview had just suffered a structural failure and was engaged in emergency reconstruction.
 
-"THE WHISKEY," Raphael reminded.
+"THE WHISKEY," Liaigh reminded.
 
 Miriam looked down at the glass in her hand. The tilt had increased to forty-five degrees. Approximately a third of the Redbreast had migrated to the armory floor.
 
@@ -423,7 +423,7 @@ Miriam looked at the sword. Then at the katanas. Then at the gladius. Then at th
 
 Miriam opened her mouth. Then closed it. Then opened it again, thought better of whatever she'd been about to say, and closed it once more.
 
-"FOUR TIMES," Raphael said quietly. "SHE HATH ATTEMPTED TO SPEAK AND CHOSEN SILENCE FOUR TIMES. A PERSONAL RECORD, I SUSPECT."
+"FOUR TIMES," Liaigh said quietly. "SHE HATH ATTEMPTED TO SPEAK AND CHOSEN SILENCE FOUR TIMES. A PERSONAL RECORD, I SUSPECT."
 
 "Liaigh."
 
@@ -447,7 +447,7 @@ Miriam was looking between Cian and apparently empty air with the expression of 
 
 "Tell your angel that I have killed things tonight and I am not in a mood to be *counted*."
 
-"SHE IS MAGNIFICENT," Raphael said, with the tone of someone revising an initial assessment significantly upward.
+"SHE IS MAGNIFICENT," Liaigh said, with the tone of someone revising an initial assessment significantly upward.
 
 "He says you're magnificent."
 
@@ -463,7 +463,7 @@ Cian stared at the sword.
 
 "Did she just—"
 
-"I BELIEVE THE SWORD JUST LAUGHED IN FULL HARMONIC," Raphael confirmed, and his voice carried something Cian hadn't heard in twenty-six centuries of partnership.
+"I BELIEVE THE SWORD JUST LAUGHED IN FULL HARMONIC," Liaigh confirmed, and his voice carried something Cian hadn't heard in twenty-six centuries of partnership.
 
 Wonder.
 
@@ -643,7 +643,7 @@ Mo Chrá hummed — low, resonant, the frequency she used when ancient truths we
 
 Miriam opened her mouth. Closed it.
 
-"SIX TIMES," Raphael said quietly.
+"SIX TIMES," Liaigh said quietly.
 
 "Liaigh, if you count her silences *one more time*—"
 
@@ -673,9 +673,9 @@ Miriam's head tilted — the intelligence analyst's reflex, the recognition that
 
 "A *Prince*. Manifested."
 
-"A celestial territorial authority. One of the seventy — or seventy-two, depending on whether you use the Masoretic or Septuagint count of Genesis 10. Each nation assigned an *elohim* at Babel. Most have corrupted their mandate. Many are allied with the Watchers' legacy system. But their jurisdiction is *real*. And when I cross into their territory, Raphael can't protect me fully."
+"A celestial territorial authority. One of the seventy — or seventy-two, depending on whether you use the Masoretic or Septuagint count of Genesis 10. Each nation assigned an *elohim* at Babel. Most have corrupted their mandate. Many are allied with the Watchers' legacy system. But their jurisdiction is *real*. And when I cross into their territory, Liaigh can't protect me fully."
 
-"THAT IS CORRECT," Raphael confirmed. "OUTSIDE MICHAEL'S JURISDICTION, I AM... DIMINISHED. THE PRINCES MAY BE CORRUPT, BUT THEIR AUTHORITY PREDATETH EVERY HUMAN NATION. IT WAS GRANTED BY THE MOST HIGH HIMSELF."
+"THAT IS CORRECT," Liaigh confirmed. "OUTSIDE MICHAEL'S JURISDICTION, I AM... DIMINISHED. THE PRINCES MAY BE CORRUPT, BUT THEIR AUTHORITY PREDATETH EVERY HUMAN NATION. IT WAS GRANTED BY THE MOST HIGH HIMSELF."
 
 "So there are territories on Earth," Miriam said slowly, "where Nephilim bloodlines operate with *impunity* — because you physically cannot reach them."
 
@@ -691,7 +691,7 @@ Miriam looked at him for a long moment. Behind her eyes, Cian could see the arch
 
 "I'm telling you what happened. The theology is God's problem."
 
-"MY PROBLEM, TECHNICALLY," Raphael corrected.
+"MY PROBLEM, TECHNICALLY," Liaigh corrected.
 
 Mo Chrá's hum carried a note of amusement that suggested the sword found the jurisdictional argument considerably less distressing than the humans did.
 
@@ -719,7 +719,7 @@ Cian shook his head. "The clock already ran. The Carpathian operation was the sa
 
 Mo Chrá hummed. Approval.
 
-"THE BLADE COUNTETH HER KILLS," Raphael said. "SHE WISHETH ME TO NOTE THAT SIX GHOULS WITH A NINE-MILLIMETRE AND A KNIFE IS, BY ANY REASONABLE STANDARD, HEROIC."
+"THE BLADE COUNTETH HER KILLS," Liaigh said. "SHE WISHETH ME TO NOTE THAT SIX GHOULS WITH A NINE-MILLIMETRE AND A KNIFE IS, BY ANY REASONABLE STANDARD, HEROIC."
 
 Cian almost smiled. Almost.
 
@@ -737,7 +737,7 @@ They drank.
 
 Mo Chrá hummed — warm, bright, anticipatory. The hum of a blade that had been waiting five thousand years for this specific moment and hadn't known she was waiting until it arrived.
 
-"THOU KNOWEST WHAT SHE IS," Raphael said privately, the words pitched below Miriam's hearing.
+"THOU KNOWEST WHAT SHE IS," Liaigh said privately, the words pitched below Miriam's hearing.
 
 *No. Tell me.*
 
@@ -795,7 +795,7 @@ Miriam set down the kilij with the careful deliberation of someone who was simul
 
 Cian was quiet for a beat.
 
-"THE QUESTION," Raphael observed, "IS POLITICALLY SENSITIVE."
+"THE QUESTION," Liaigh observed, "IS POLITICALLY SENSITIVE."
 
 "I was a neutral observer."
 
@@ -865,7 +865,7 @@ Cian unlocked one of the secondary cabinets. Inside: eight handguns in various c
 
 Mo Chrá's hum brightened considerably.
 
-"THE BLADE OFFERETH HER APPROVAL OF THIS PRAGMATISM," Raphael translated.
+"THE BLADE OFFERETH HER APPROVAL OF THIS PRAGMATISM," Liaigh translated.
 
 Cian moved to the edge weapons section. He considered the collection. The gladius was too short for someone of Miriam's height and reach. The seax was a specialist weapon. The claymore was absurd.
 
@@ -897,7 +897,7 @@ Then Mo Chrá hummed — warm, approving, and slightly smug — and the moment b
 
 "I've been trying for twenty-six centuries. She doesn't take direction well."
 
-"MUCH LIKE HER BEARER," Raphael added.
+"MUCH LIKE HER BEARER," Liaigh added.
 
 Miriam almost smiled. The *almost* was the key — the anger still there, the grief still there, the twelve years of weaponized solitude still there behind the expression. But the *almost* existed. And it was new.
 
@@ -937,7 +937,7 @@ Mo Chrá's hum had ceased entirely. The sword was silent — the silence of a bl
 
 The silence that followed was not the kind that existed between a question and an answer. It was the kind that existed between a wound and the blade that made it.
 
-Raphael said nothing. For the first time since the fortress, the angel offered no commentary. No counting. No observation. The silence from the breastplate was absolute — the silence of a celestial being who had watched this failure happen and carried his own share of the weight.
+Liaigh said nothing. For the first time since the fortress, the angel offered no commentary. No counting. No observation. The silence from the breastplate was absolute — the silence of a celestial being who had watched this failure happen and carried his own share of the weight.
 
 "I will," Cian said. His voice was rough. "I owe you that."
 
@@ -945,7 +945,7 @@ Raphael said nothing. For the first time since the fortress, the angel offered n
 
 Mo Chrá's hum returned — low, subsonic, a frequency that vibrated beneath the threshold of hearing. Not the warmth of earlier. Not the laughter, not the approval. The hum of ancient grief. The hum of a blade that had been present for too many failures and remembered every one.
 
-"WE SHOULD BEGIN." Raphael's voice was gentle now — the tactical commentator replaced by something older and more compassionate. "VÂRCOLAC WILL NOT WAIT FOR US TO FINISH OUR INTRODUCTIONS."
+"WE SHOULD BEGIN." Liaigh's voice was gentle now — the tactical commentator replaced by something older and more compassionate. "VÂRCOLAC WILL NOT WAIT FOR US TO FINISH OUR INTRODUCTIONS."
 
 "Where do we start?" Miriam asked.
 

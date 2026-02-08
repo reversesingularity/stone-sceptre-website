@@ -26,7 +26,7 @@ Cian sighed and put down his stylus. When Liaigh said attend, the lecture was co
 
 “GEMSTONES — WHETHER WROUGHT BY TERRESTRIAL PROCESSES OR ENGINEERED BY MORTAL ARTIFICE — ARE CONSTITUTED OF MINERALS, AND MINERALS ARE CONSTITUTED OF ATOMS ARRAYED IN CRYSTALLINE LATTICES OF GEOMETRIC PRECISION. THE SUPERACID THOU DOST CONTEMPLATE ATTACKETH NOT BY MECHANICAL FORCE BUT BY CHEMICAL COMPOSITION. HARDNESS AVAILETH THEE NOTHING.”
 
-Raphael’s voice shifted into what Cian privately called “the lecture register” — still empyreal, but with the patient cadence of a teacher who had explained thermodynamics to prophets.
+Liaigh's voice shifted into what Cian privately called "the lecture register" — still empyreal, but with the patient cadence of a teacher who had explained thermodynamics to prophets.
 
 “THE SILICATES — QUARTZ, AMETHYST, CITRINE, BERYL, EMERALD, AQUAMARINE, TOPAZ — THESE ARE EDIFICES BUILT UPON SILICON-OXYGEN BONDS. FLUOROANTIMONIC ACID DISSOLVETH SUCH BONDS WITH THE SAME ENTHUSIASM THAT FIRE CONSUMETH DRY TIMBER. THE OXIDES — CORUNDUM, FROM WHICH THY SAPPHIRES AND RUBIES DERIVE, AND SPINEL OF MAGNESIUM AND ALUMINUM — THESE ARE METAL OXIDES, AND THE SUPERACID STRIPPETH OXYGEN FROM METAL AS A WOLF STRIPPETH FLESH FROM BONE, LEAVING NAUGHT BUT FLUORIDE SALTS IN ITS WAKE.”
 
@@ -101,7 +101,7 @@ Cian glanced at the sword.
 
 The sword’s presence shifted — that particular vibration that meant it was thinking about communicating.
 
-“AH,” Raphael said, with what Cian could swear was amusement. “THE BLADE HATH OPINIONS.”
+"AH," Liaigh said, with what Cian could swear was amusement. "THE BLADE HATH OPINIONS."
 
 “The blade always has opinions. It just rarely shares them.”
 
@@ -109,7 +109,7 @@ The sword’s presence shifted — that particular vibration that meant it was t
 
 Mo Chrá hummed again — louder this time.
 
-“THE PATRIARCH’S BLADE OBSERVETH,” Raphael translated, his tone shifting to something almost… conversational, “THAT THOU DOST FOCUS UPON CHEMICAL DESTRUCTION WHEN THE NEPHILIM REGENERATIVE RESPONSE IS FUNDAMENTALLY SPIRITUAL IN NATURE.”
+“THE PATRIARCH’S BLADE OBSERVETH,” Liaigh translated, his tone shifting to something almost… conversational, “THAT THOU DOST FOCUS UPON CHEMICAL DESTRUCTION WHEN THE NEPHILIM REGENERATIVE RESPONSE IS FUNDAMENTALLY SPIRITUAL IN NATURE.”
 
 “I can’t fight spiritual problems with spiritual weapons. The sword kills them permanently, but I can’t be everywhere at once. I need ranged options.”
 
@@ -127,13 +127,13 @@ Cian stared at the sword.
 
 The sword’s presence radiated something that felt distinctly like a shrug.
 
-“THOU DIDST NOT INQUIRE,” Raphael supplied, his voice carrying the particular weight of someone who had watched this dynamic play out for twenty-six centuries. “THE BLADE POSSESSETH INFORMATION APLENTY. IT SIMPLY DECLINETH TO VOLUNTEER THAT WHICH IS NOT DIRECTLY SOLICITED.”
+“THOU DIDST NOT INQUIRE,” Liaigh supplied, his voice carrying the particular weight of someone who had watched this dynamic play out for twenty-six centuries. “THE BLADE POSSESSETH INFORMATION APLENTY. IT SIMPLY DECLINETH TO VOLUNTEER THAT WHICH IS NOT DIRECTLY SOLICITED.”
 
 “Petty. That’s what that is. Four thousand years old and petty.”
 
 Mo Chrá’s hum contained absolutely no denial whatsoever.
 
-“THE PATRIARCH’S BLADE,” Raphael continued, and Cian could hear the eye-roll in his voice despite the empyreal register, “FURTHER SUGGESTETH THAT IF THOU DOST TRULY WISH TO DISRUPT NEPHILIM REGENERATION WITH RANGED WEAPONS, THOU SHOULDST CONSIDER INCORPORATING MATERIALS THAT INTERFERE WITH SPIRITUAL COHERENCE. CERTAIN ACOUSTIC FREQUENCIES. SPECIFIC CRYSTALLINE STRUCTURES. ITEMS THAT HAVE BEEN BLESSED, CONSECRATED, OR EXPOSED TO SUSTAINED PRAYER.”
+“THE PATRIARCH’S BLADE,” Liaigh continued, and Cian could hear the eye-roll in his voice despite the empyreal register, “FURTHER SUGGESTETH THAT IF THOU DOST TRULY WISH TO DISRUPT NEPHILIM REGENERATION WITH RANGED WEAPONS, THOU SHOULDST CONSIDER INCORPORATING MATERIALS THAT INTERFERE WITH SPIRITUAL COHERENCE. CERTAIN ACOUSTIC FREQUENCIES. SPECIFIC CRYSTALLINE STRUCTURES. ITEMS THAT HAVE BEEN BLESSED, CONSECRATED, OR EXPOSED TO SUSTAINED PRAYER.”
 
 “Blessed thermite rounds.”
 
@@ -143,7 +143,7 @@ Cian rubbed his temples.
 
 “You two rehearse this, don’t you? The withholding of information until I’ve exhausted myself, then the perfectly timed revelation?”
 
-“I CANNOT SPEAK FOR THE BLADE,” Raphael said, “BUT I ASSURE THEE THAT MINE OWN PEDAGOGICAL APPROACH IS ENTIRELY SPONTANEOUS AND UTTERLY UNCOORDINATED.”
+"I CANNOT SPEAK FOR THE BLADE," Liaigh said, "BUT I ASSURE THEE THAT MINE OWN PEDAGOGICAL APPROACH IS ENTIRELY SPONTANEOUS AND UTTERLY UNCOORDINATED."
 
 From the corner, Mo Chrá made a sound that, in a lesser weapon, might have been called a snicker. 
 
@@ -185,7 +185,7 @@ From the corner, the sword’s presence shifted — not disagreement, exactly, b
 
 “Exactly.”
 
-Raphael was silent for a moment. When he spoke again, his voice had shifted — still empyreal, but with the particular gravity he reserved for matters of tactical significance.
+Liaigh was silent for a moment. When he spoke again, his voice had shifted — still empyreal, but with the particular gravity he reserved for matters of tactical significance.
 
 “THEN ATTEND, CHILD OF MORNA, FOR THIS DISCOURSE SHALL REQUIRE PRECISION. GHOULS ARE NOT NEPHILIM. THEY POSSESS NO SPIRITUAL ANCHOR, NO REGENERATIVE MATRIX DERIVED FROM WATCHER ESSENCE. THEY ARE ANIMATED FLESH — CORPSES GIVEN MOTION THROUGH NECROMANTIC BINDING RATHER THAN DIVINE CORRUPTION.”
 
@@ -203,7 +203,7 @@ Cian’s mind was already racing. “The sigil’s probably somewhere protected 
 
 “Exactly. I need something that doesn’t just burn — I need something that destroys.” He scrolled through chemical formulas. “Give me your assessment. Chlorine trifluoride.”
 
-“AH.” There was something in Raphael’s voice — not quite approval, but perhaps respect for the audacity of the suggestion. “CLFT — THE OXIDIZER THAT BURNETH SUBSTANCES WHICH OUGHT NOT TO BE COMBUSTIBLE. GLASS. SAND. ASBESTOS. MATERIALS THAT HAVE ALREADY BEEN CONSUMED BY FIRE.”
+“AH.” There was something in Liaigh’s voice — not quite approval, but perhaps respect for the audacity of the suggestion. “CLFT — THE OXIDIZER THAT BURNETH SUBSTANCES WHICH OUGHT NOT TO BE COMBUSTIBLE. GLASS. SAND. ASBESTOS. MATERIALS THAT HAVE ALREADY BEEN CONSUMED BY FIRE.”
 
 “It’s hypergolic with almost everything organic. Contact ignition, no external spark required. The Nazis developed it for flamethrowers but found it too dangerous to deploy.”
 
@@ -215,7 +215,7 @@ Cian’s mind was already racing. “The sigil’s probably somewhere protected 
 
 “Can it work?”
 
-Raphael paused — the kind of pause that meant he was actually considering it rather than dismissing it outright.
+Liaigh paused — the kind of pause that meant he was actually considering it rather than dismissing it outright.
 
 “CHLORINE TRIFLUORIDE POSSESSETH THEORETICAL EFFICACY AGAINST UNDEAD TISSUE. UPON CONTACT, IT WOULD INITIATE IMMEDIATE OXIDATION OF ORGANIC MATTER — NOT MERELY COMBUSTION BUT MOLECULAR DISSOLUTION. THE REACTION PRODUCETH HYDROGEN FLUORIDE AS A BYPRODUCT, WHICH WOULD FURTHER COMPROMISE TISSUE INTEGRITY EVEN IN AREAS NOT DIRECTLY CONTACTED.”
 
@@ -239,7 +239,7 @@ From the corner, Mo Chrá made a sound. Not quite a hum — more like a snort.
 
 Cian glanced at the sword. “If you have a better suggestion, I’m listening.”
 
-The sword’s presence shifted, and Raphael translated:
+The sword's presence shifted, and Liaigh translated:
 
 “THE BLADE OBSERVETH THAT THOU DOST OVERCOMPLICATE THE THERMAL APPROACH. IT SUGGESTETH THAT RATHER THAN PURSUING EXOTIC OXIDIZERS OF CATASTROPHIC VOLATILITY, THOU MIGHTEST CONSIDER WEAPONIZING COMPOUNDS THAT ACHIEVE SIMILAR EFFECTS THROUGH LESS… SUICIDAL… MECHANISMS.”
 
@@ -249,7 +249,7 @@ The sword’s presence shifted, and Raphael translated:
 
 Cian blinked. “DMSO-capsaicin? That’s a pain compliance compound. Ghouls don’t feel pain.”
 
-“THE BLADE IS NOT FINISHED.” Raphael’s tone carried the particular patience of someone relaying a message from an entity that was enjoying itself. 
+"THE BLADE IS NOT FINISHED." Liaigh's tone carried the particular patience of someone relaying a message from an entity that was enjoying itself.
 
 “DIMETHYL SULFOXIDE SERVETH AS A CARRIER AGENT — IT PENETRATETH TISSUE BARRIERS WITH REMARKABLE EFFICIENCY. THE PAYLOAD NEED NOT BE CAPSAICIN. 
 CONSIDER INSTEAD: DMSO AS DELIVERY MECHANISM FOR SODIUM AZIDE.”
@@ -270,7 +270,7 @@ Cian pulled up a new file and started calculating. “DMSO penetrates tissue at 
 
 “Compound A: DMSO carrying sodium hypochlorite. Compound B: DMSO carrying hydrochloric acid. Hit the same target with both, and inside the tissue you get…”
 
-“CHLORINE GAS GENERATION WITHIN THE TARGET’S STRUCTURAL MATRIX.” Raphael’s voice carried something that might have been grudging approval. “THE REACTION WOULD CAUSE RAPID TISSUE DESTRUCTION FROM THE INTERIOR, COMPROMISING STRUCTURAL INTEGRITY FAR MORE QUICKLY THAN EXTERNAL APPLICATION OF THE SAME COMPOUNDS.”
+“CHLORINE GAS GENERATION WITHIN THE TARGET’S STRUCTURAL MATRIX.” Liaigh’s voice carried something that might have been grudging approval. “THE REACTION WOULD CAUSE RAPID TISSUE DESTRUCTION FROM THE INTERIOR, COMPROMISING STRUCTURAL INTEGRITY FAR MORE QUICKLY THAN EXTERNAL APPLICATION OF THE SAME COMPOUNDS.”
 
 “And chlorine gas disrupts the necromantic binding?”
 
@@ -289,7 +289,7 @@ Mo Chrá’s presence radiated something that felt distinctly like satisfaction.
 
 What Cian did not hear:
 
-While the warrior hunched over his calculations, muttering about flow rates and reaction temperatures, Raphael turned his attention to the ancient blade leaning against the wall.
+While the warrior hunched over his calculations, muttering about flow rates and reaction temperatures, Liaigh turned his attention to the ancient blade leaning against the wall.
 
 “THOU ART IN FINE FORM THIS EVENING,” the archangel observed, his voice pitched to frequencies that mortal ears could not detect. “THREE CENTURIES SINCE THOU HAST VOLUNTEERED TACTICAL INFORMATION UNPROMPTED.”
 
@@ -314,7 +314,7 @@ The two possibilities are not mutually exclusive, Healer.
 
 The Patriarch forged me with a sense of HUMOR, Healer. He would be AMUSED.
 
-Raphael’s attention flickered briefly to Cian, who was now muttering about dispersal patterns and wind compensation factors.
+The angel's attention flickered briefly to Cian, who was now muttering about dispersal patterns and wind compensation factors.
 
 “HE GROWETH MORE CREATIVE WITH EACH CENTURY. THE GHOUL BOMB CONCEPTION… I HAD NOT ANTICIPATED THAT PARTICULAR INNOVATION.”
 
@@ -328,7 +328,7 @@ I believe, the sword’s resonance deepened, carrying the weight of memories tha
 
 Precisely.
 
-Raphael was silent for a moment — not the silence of consideration but the silence of an entity contemplating timescales that dwarfed mortal comprehension.
+The angel was silent for a moment — not the silence of consideration but the silence of an entity contemplating timescales that dwarfed mortal comprehension.
 
 “DOST THOU BELIEVE HE IS READY?”
 
@@ -346,7 +346,7 @@ Thou shalt do NO SUCH THING. The child already possesseth sufficient ego. He nee
 “THY PEDAGOGY REMAINETH… UNCONVENTIONAL.”
 
 My pedagogy hath produced the finest monster-slayer since Methuselah himself walked the earth. Results speak louder than methods.
-Raphael’s attention shifted as Cian suddenly swore and knocked over a beaker.
+The angel's attention shifted as Cian suddenly swore and knocked over a beaker.
 
 “Speaking of methods…”
 

@@ -25,7 +25,7 @@ Cian did the arithmetic.
 
 "A hundred and twenty. Minimum. Plus whatever he already had garrisoned at Dunluce."
 
-"TWENTY-THREE CONFIRMED GARRISON," Raphael said. "THERMAL SIGNATURES CONSISTENT WITH GHOUL PHYSIOLOGY, DETECTED DURING MY LAST RECONNAISSANCE OVERFLIGHT. THE WARDS PREVENTED DEEPER SCANNING, BUT SURFACE-LEVEL DETECTION REMAINETH POSSIBLE."
+"TWENTY-THREE CONFIRMED GARRISON," Liaigh said. "THERMAL SIGNATURES CONSISTENT WITH GHOUL PHYSIOLOGY, DETECTED DURING MY LAST RECONNAISSANCE OVERFLIGHT. THE WARDS PREVENTED DEEPER SCANNING, BUT SURFACE-LEVEL DETECTION REMAINETH POSSIBLE."
 
 "So we're looking at a hundred and fifty. Maybe more."
 
@@ -39,11 +39,11 @@ Miriam blinked. Once.
 
 "I'm telling you this is his last stand. He's committed everything. Every ghoul he can produce, every ward he can build, every resource he has left."
 
-"THERE IS ALSO," Raphael added, with the careful neutrality that meant he was about to deliver information that would make the operational picture significantly worse, "THE MATTER OF THE CHAMPION."
+"THERE IS ALSO," Liaigh added, with the careful neutrality that meant he was about to deliver information that would make the operational picture significantly worse, "THE MATTER OF THE CHAMPION."
 
 Miriam looked at Cian. "The what?"
 
-Cian pulled up a thermal capture on one of the monitors — a reconnaissance image that Raphael had produced during a high-altitude scan of the Dunluce promontory. The resolution was poor; the castle's ward network scattered the angel's sensing capabilities like a fogbank scattered searchlights. But even through the interference, the signature was unmistakable.
+Cian pulled up a thermal capture on one of the monitors — a reconnaissance image that Liaigh had produced during a high-altitude scan of the Dunluce promontory. The resolution was poor; the castle's ward network scattered the angel's sensing capabilities like a fogbank scattered searchlights. But even through the interference, the signature was unmistakable.
 
 Standard ghouls registered as dim thermal smudges — cooler than living humans, warmer than ambient rock, moving with the particular shambling gait of things that operated on necromantic binding rather than biological motor function. This signature was different.
 
@@ -65,7 +65,7 @@ It was *hot*. Considerably hotter than any ghoul Cian had encountered. And large
 
 Miriam was quiet for three seconds. This was, by her established standards, an eternity of silent processing.
 
-"SO," Raphael said, "THE ORDER OF BATTLE IS: APPROXIMATELY ONE HUNDRED AND FIFTY STANDARD GHOULS IN DEFENSIVE POSITIONS THROUGHOUT A WARD-PROTECTED MEDIEVAL FORTRESS WITH SEA CAVE TUNNEL NETWORKS RUNNING BENEATH BASALT CLIFFS. ONE GHOUL LORD CHAMPION GUARDING THE PRIMARY SUBSURFACE ACCESS POINT. ONE FOUR-THOUSAND-YEAR-OLD VAMPIRE LORD IN THE DEEPEST CHAMBER, BEHIND EIGHT CENTURIES OF ACOUSTIC WARD CONSTRUCTION. TWO OPERATORS."
+"SO," Liaigh said, "THE ORDER OF BATTLE IS: APPROXIMATELY ONE HUNDRED AND FIFTY STANDARD GHOULS IN DEFENSIVE POSITIONS THROUGHOUT A WARD-PROTECTED MEDIEVAL FORTRESS WITH SEA CAVE TUNNEL NETWORKS RUNNING BENEATH BASALT CLIFFS. ONE GHOUL LORD CHAMPION GUARDING THE PRIMARY SUBSURFACE ACCESS POINT. ONE FOUR-THOUSAND-YEAR-OLD VAMPIRE LORD IN THE DEEPEST CHAMBER, BEHIND EIGHT CENTURIES OF ACOUSTIC WARD CONSTRUCTION. TWO OPERATORS."
 
 "Two operators," Miriam repeated. "Against a hundred and fifty ghouls, a twelve-foot undead champion, and a vampire lord."
 
@@ -157,7 +157,7 @@ Inside the second locker, mounted on an adjustable armature, hung a suit of body
 
 "Tactical vest and extremity armour. Not a full exoskeleton — there's no power-assist frame, no integrated weapons systems. But the plate carrier is rated for 7.62 AP and the ward layer provides the same spiritual signature suppression as my heavy variant." He pulled it from the armature. "I built it in 2019. Before I knew who would wear it. I knew I'd need a partner eventually. The logistics of fighting alone against escalating threats—" He stopped.
 
-"YOU WERE LONELY," Raphael said quietly. "THOU DIDST BUILD IT BECAUSE THOU WERT LONELY AND HOPED."
+"YOU WERE LONELY," Liaigh said quietly. "THOU DIDST BUILD IT BECAUSE THOU WERT LONELY AND HOPED."
 
 "I built it because operational planning requires—"
 
@@ -173,7 +173,7 @@ Inside the second locker, mounted on an adjustable armature, hung a suit of body
 
 "It's not *sweet*. It's *preparedness*."
 
-"SWEET," Raphael confirmed.
+"SWEET," Liaigh confirmed.
 
 Mo Chrá hummed. The hum was gentle. Compassionate. The acoustic equivalent of patting someone on the head.
 
@@ -191,7 +191,7 @@ Miriam was already stripping the suit from its rack, examining the seals, testin
 
 "Year three of a training programme I'm still not going to talk about."
 
-"THE TRAINING PROGRAMME SHE REFERRETH TO," Raphael said, "EXHIBITETH CHARACTERISTICS CONSISTENT WITH—"
+"THE TRAINING PROGRAMME SHE REFERRETH TO," Liaigh said, "EXHIBITETH CHARACTERISTICS CONSISTENT WITH—"
 
 "*Liaigh*."
 
@@ -215,7 +215,7 @@ Miriam pulled the mask up again.
 
 She looked at the ceiling. Then at Cian. Then at the ceiling again.
 
-"FEAR NOT," Raphael said. "MY COMMENTARY IS UNIFORMLY CONSTRUCTIVE."
+"FEAR NOT," Liaigh said. "MY COMMENTARY IS UNIFORMLY CONSTRUCTIVE."
 
 "It really isn't," Cian said.
 
@@ -253,7 +253,7 @@ Miriam looked at him for a long moment.
 
 "Those aren't mutually exclusive."
 
-"THEY ARE, IN FACT, LARGELY SYNONYMOUS," Raphael observed. "TWO AND A HALF MILLENNIA OF THIS WORK DOTH PRODUCE EITHER MADNESS OR EXCELLENCE. CIAN HATH ACHIEVED BOTH SIMULTANEOUSLY."
+"THEY ARE, IN FACT, LARGELY SYNONYMOUS," Liaigh observed. "TWO AND A HALF MILLENNIA OF THIS WORK DOTH PRODUCE EITHER MADNESS OR EXCELLENCE. CIAN HATH ACHIEVED BOTH SIMULTANEOUSLY."
 
 Mo Chrá hummed. Agreement.
 
@@ -293,7 +293,7 @@ Cian went quiet for a beat.
 
 "And *you're* going to fight a hundred and fifty ghouls alone on a bridge. We've established that neither of us is making safe choices tonight."
 
-"SHE MAKETH A TACTICALLY SOUND ARGUMENT," Raphael said.
+"SHE MAKETH A TACTICALLY SOUND ARGUMENT," Liaigh said.
 
 "She makes a *suicidal* argument."
 
@@ -321,7 +321,7 @@ Miriam was watching him. Not arguing further. Waiting. She understood — perhap
 
 The word hung in the air between them.
 
-"QUITE PERCEPTIVE," Raphael said softly.
+"QUITE PERCEPTIVE," Liaigh said softly.
 
 Cian didn't deny it. In twenty-six centuries, he had learned that denying fear was the fastest way to be killed by the thing you were afraid of.
 
@@ -343,7 +343,7 @@ Cian breathed in. Breathed out.
 
 "MORTIS suit integrated. Liaigh links us — he can relay between my exoskeleton and your PAPR earpiece. Range isn't an issue; the angel doesn't operate on radio frequencies."
 
-"I OPERATE ON FREQUENCIES THAT PREDATE RADIO BY SEVERAL MILLENNIA," Raphael confirmed. "RANGE IS NOT A CONCERN."
+"I OPERATE ON FREQUENCIES THAT PREDATE RADIO BY SEVERAL MILLENNIA," Liaigh confirmed. "RANGE IS NOT A CONCERN."
 
 "Rules of engagement?"
 
@@ -365,7 +365,7 @@ The tourists saw a ruin. Cian saw a fortress.
 
 Through the exoskeleton's thermal overlay, the castle blazed with signatures. Ghouls — dozens of them, packed into the ground-level chambers and the foundations beneath. More in the sea caves below, moving with the coordinated purpose of a hive that had been given instructions. Vârcolac had positioned them with care. The bridge approach was layered — three defensive tiers between the mainland edge and the keep, each one designed to slow and attrite an attacker before they reached the inner structure.
 
-"MIRIAM IS IN POSITION," Raphael reported. "EASTERN CAVE MOUTH. MORTIS SUIT SEALED, PAPR FUNCTIONING, BODY ARMOUR SECURED. SHE REPORTETH READY."
+"MIRIAM IS IN POSITION," Liaigh reported. "EASTERN CAVE MOUTH. MORTIS SUIT SEALED, PAPR FUNCTIONING, BODY ARMOUR SECURED. SHE REPORTETH READY."
 
 "Bone Dry charges?"
 
@@ -461,7 +461,7 @@ The sound that followed was not screaming — ghouls did not scream in any human
 
 "One-point-two multiplier. Right on spec."
 
-He advanced through the gatehouse. The exoskeleton's PAPR filtered the chlorine residue without difficulty — the consecrated silver-alloy mesh adding a faint sweetness to the filtered air that Cian had never been able to explain and Raphael had never deigned to clarify.
+He advanced through the gatehouse. The exoskeleton's PAPR filtered the chlorine residue without difficulty — the consecrated silver-alloy mesh adding a faint sweetness to the filtered air that Cian had never been able to explain and the angel had never deigned to clarify.
 
 Beyond the gatehouse: the inner ward. A killing ground.
 
@@ -511,9 +511,9 @@ The MTS-7's respirator mask turned the cave into a filtered landscape of amber-l
 
 The icon was an angel.
 
-Specifically, it was a simplified representation of an angelic presence — a comm channel indicator that pulsed gently when Raphael's communication frequencies were active. Cian hadn't mentioned that the HUD would have a *visual representation* of the angel. She suspected he'd forgotten, or possibly he'd been so accustomed to angelic heads-up displays that he'd stopped noticing.
+Specifically, it was a simplified representation of an angelic presence — a comm channel indicator that pulsed gently when the angel's communication frequencies were active. Cian hadn't mentioned that the HUD would have a *visual representation* of the angel. She suspected he'd forgotten, or possibly he'd been so accustomed to angelic heads-up displays that he'd stopped noticing.
 
-"*MIRIAM.*" Raphael's voice came through the earpiece with startling clarity — no longer the resonant, room-filling voice she'd heard through Cian's armour, but a precise, directional communication that existed entirely inside her ear canal. "*FOUR GHOULS. SIXTY METRES AHEAD. TWO LEFT, TWO RIGHT. THEY HAVE NOT DETECTED THY APPROACH.*"
+"*MIRIAM.*" Liaigh's voice came through the earpiece with startling clarity — no longer the resonant, room-filling voice she'd heard through Cian's armour, but a precise, directional communication that existed entirely inside her ear canal. "*FOUR GHOULS. SIXTY METRES AHEAD. TWO LEFT, TWO RIGHT. THEY HAVE NOT DETECTED THY APPROACH.*"
 
 She unslung Bás Beag. The SCAR's weight was reassuring through the tactical vest's bulk — she'd spent four hours in the Austrian armoury familiarising herself with the weapon's balance, trigger, and recoil profile, and another hour at a makeshift range that Cian had set up in the farmhouse's lower level. She wasn't as fast as Cian. She didn't need to be. She needed to be *accurate*.
 
@@ -537,7 +537,7 @@ Silver-jacketed hollowpoints. The first round disrupted the motor function. The 
 
 The ghoul collapsed on top of her. She shoved it off with the controlled urgency of a woman who had just learned that ghouls were heavier than they looked and considerably less pleasant at intimate range.
 
-"*WELL STRUCK,*" Raphael said. And then, with something she would later identify as approval: "*THOU DOST RECALL THY CONTACT SHOOTING FROM THE CARPATHIANS. THE BRAIN STEM METHODOLOGY IS SOUND.*"
+"*WELL STRUCK,*" Liaigh said. And then, with something she would later identify as approval: "*THOU DOST RECALL THY CONTACT SHOOTING FROM THE CARPATHIANS. THE BRAIN STEM METHODOLOGY IS SOUND.*"
 
 "Glad you approve," she muttered, retrieving Bás Beag from the cave floor. "How many more?"
 
@@ -597,7 +597,7 @@ It spoke.
 
 "Your master," Miriam said, raising Bás Beag, "doesn't get a vote."
 
-"*MIRIAM.*" Raphael's voice in her earpiece. "*THE BONE PLATING WILL DEFLECT STANDARD CALIBRE ROUNDS AT OBLIQUE ANGLES. DIRECT PERPENDICULAR IMPACTS WILL PENETRATE BUT NOT RELIABLY. THE TINTREACH PIEZOELECTRIC DISCHARGE WILL BE ATTENUATED BY THE BONE DENSITY. TARGET THE JOINTS — SPECIFICALLY THE KNEE ARTICULATION, WHERE THE PLATES DO NOT OVERLAP.*"
+"*MIRIAM.*" Liaigh's voice in her earpiece. "*THE BONE PLATING WILL DEFLECT STANDARD CALIBRE ROUNDS AT OBLIQUE ANGLES. DIRECT PERPENDICULAR IMPACTS WILL PENETRATE BUT NOT RELIABLY. THE TINTREACH PIEZOELECTRIC DISCHARGE WILL BE ATTENUATED BY THE BONE DENSITY. TARGET THE JOINTS — SPECIFICALLY THE KNEE ARTICULATION, WHERE THE PLATES DO NOT OVERLAP.*"
 
 Miriam opened fire.
 
@@ -657,7 +657,7 @@ Then the body stood up.
 
 Not fell. Not collapsed. *Stood up*. Twelve feet of bone-armoured mass rising from its knees with the hydraulic inevitability of something that did not require a brain to receive its commands. The arms reached. The fingers gripped. The remaining functional leg compensated for the destroyed knees with raw mechanical force, and the headless Champion dragged itself upright and turned toward Miriam with a precision that should have been impossible for something without eyes.
 
-"*MIRIAM. FALL BACK.*" Raphael's voice in her earpiece, sharp with something she'd never heard from the angel before. Urgency. "*THE VAMPIRE BLOOD SATURATION HATH DISTRIBUTED THE NECROMANTIC BINDING THROUGHOUT THE ENTIRE TISSUE STRUCTURE. DECAPITATION HATH SEVERED THE BRAIN BUT NOT THE BINDING. THE BODY IS STILL ANIMATED.*"
+"*MIRIAM. FALL BACK.*" Liaigh's voice in her earpiece, sharp with something she'd never heard from the angel before. Urgency. "*THE VAMPIRE BLOOD SATURATION HATH DISTRIBUTED THE NECROMANTIC BINDING THROUGHOUT THE ENTIRE TISSUE STRUCTURE. DECAPITATION HATH SEVERED THE BRAIN BUT NOT THE BINDING. THE BODY IS STILL ANIMATED.*"
 
 "I can *see* that—"
 
@@ -689,7 +689,7 @@ A pause. One second. The gunfire stopped.
 
 Above, on the bridge, the battle was ending — and Cian was leaving it unfinished.
 
-He had fought through ninety-three ghouls in fourteen minutes. The mathematics were precise because Raphael counted everything and Cian had stopped asking him not to after the first millennium of partnership.
+He had fought through ninety-three ghouls in fourteen minutes. The mathematics were precise because the angel counted everything and Cian had stopped asking him not to after the first millennium of partnership.
 
 The outer ward was a charnel house. Cryo-grenades had frozen clusters that he'd shot apart like ice sculptures; Halogen Rain had dissolved defensive lines in rolling chlorine clouds that his PAPR handled without complaint; Bás Beag had accounted for sixty-one confirmed kills at ranges between two and eighty metres; An Béal Mór — the Origin-12 shotgun, loaded with blessed silver flechette rounds — had handled the close-quarters work when the ghouls breached his perimeter and came at him in waves.
 
@@ -745,29 +745,29 @@ The intelligence analyst behind Miriam's eyes arrived at the conclusion before C
 
 He looked at the CREMATOR rifle in his hands. Then at the Saxon sword in hers.
 
-"Both. Simultaneously."
+"Both. Together."
 
-"*EXPLAIN,*" Raphael said — the command of a being who understood battlefield engineering and recognised when a plan was being revised under fire.
+"*EXPLAIN,*" the angel said — the command of a being who understood battlefield engineering and recognised when a plan was being revised under fire.
 
-"I fire a CREMATOR round into his neck. The thermate ignites inside the throat — two thousand five hundred degrees, burning through the vertebral column and the surrounding tissue from the *inside*. At the exact same instant, Miriam cuts from the outside. The blade meets tissue that's already being destroyed by the thermate. The reinforced vertebrae that would stop a sword stroke — the contingencies that four thousand years of survival instinct have built — are already slag."
+"I put two CREMATOR rounds into his torso. Double-tap. Thirty grams of thermate burning simultaneously in his core mass — two thousand five hundred degrees in two wound channels at once. His regeneration has one priority: fight the fire. Every resource. Every blood reserve. Everything focused on keeping his torso from becoming ash." He looked at Miriam. "While every cell in his body is fighting to survive the burns, you take his head."
 
-"Without the CREMATOR, the sword fails," Miriam said. "And without the sword—"
+"Without the CREMATOR, the regeneration keeps the body intact and the reinforced vertebrae hold," Miriam said. "And without the decapitation—"
 
-"The thermate burns him, but the tissue above and below the wound channel reconnects. He heals around the damage. He's had four thousand years to optimise his regeneration against localised burns." Cian met her eyes. "Neither weapon kills him alone. Together — simultaneously — he can't survive both."
+"The thermate burns him, but he regenerates around the damage. He's had four thousand years to optimise against localised burns. Two CREMATOR rounds will overwhelm his healing for a window of ten, maybe fifteen seconds. That's your window." Cian met her eyes. "You cut while he burns. He can't survive both."
 
-"How do we time it?"
+Mo Chrá hummed.
 
-Cian looked at Mo Chrá. The blade's hum shifted — lower, harder, the frequency of a weapon that understood timing the way a conductor understood an orchestra.
+The hum was wrong.
 
-"Mo Chrá will signal. She reads the acoustic spectrum — the thermate's ignition has a distinctive thermal resonance. When the round hits and the thermate fires, she'll feel it through the air. When you hear her sing — not hum, *sing* — you cut. You'll have less than a second."
+Not wrong in the way a mis-struck note was wrong — wrong in the way a growl was wrong coming from a creature you'd assumed was domesticated. The frequency was low, vibrating through the cavern floor, and it carried something Cian hadn't heard from the blade in a very, very long time.
 
-"Less than a second," Miriam repeated.
+*Hatred.*
 
-"Less than a second between the thermate igniting inside his throat and the tissue weakening enough for the blade to pass through. After that second, his regeneration fights back. The window is *exactly* that narrow."
+Not combat eagerness. Not the anticipatory hunger she'd shown before every engagement in their twenty-six centuries together. This was *personal*. The specific, sustained fury of a blade that had been imprisoned — locked in stone and silence for centuries — and had never forgotten who put her there.
 
-Mo Chrá hummed. The hum was not warm. Not amused. Not eager. It was *precise*. The frequency of a blade that had made a promise and intended to keep it.
+"She wants this one," Cian said quietly.
 
-"THE PLAN IS SOUND," Raphael said. "THE THERMAL DESTRUCTION FROM WITHIN COMBINED WITH MECHANICAL SEVERANCE FROM WITHOUT WILL OVERWHELM ANY REGENERATIVE CONTINGENCY. EVEN ONE REFINED OVER FOUR MILLENNIA."
+"*I KNOW,*" the angel replied. And his voice carried something that might have been sympathy. "*THE BLADE REMEMBERETH WHAT WAS DONE TO HER. SHE HATH WAITED.*"
 
 Miriam looked at the reinforced blast door at the back of the cavern — steel, modern, completely incongruous in the ancient basalt chamber. Beyond it: the tunnel to Vârcolac's throne room.
 
@@ -775,7 +775,7 @@ Miriam looked at the reinforced blast door at the back of the cavern — steel, 
 
 "Together."
 
-They moved through the blast door. Side by side. The Hunter and the daughter of his last victim. Armed with fire and steel and the knowledge that neither alone was enough.
+They moved through the blast door. Side by side. The Hunter and the daughter of his last victim. Armed with fire and steel and a blade that had a score to settle that predated them both.
 
 ---
 
@@ -793,23 +793,41 @@ And Vârcolac.
 
 They entered together. Cian first — the exoskeleton filling the doorframe, Mo Chrá drawn and singing, the creation frequencies making the ward-lines crackle and dim. Miriam behind him and to the right — Bás Beag shouldered, the Saxon sword across her back, scanning the chamber for exits and threats with the practised sweep of a woman who'd been trained to assess kill zones before she'd been trained to assess vampires.
 
-Then she pushed the PAPR mask up onto her forehead.
+Mo Chrá stopped singing.
 
-She wanted him to see her face when she killed him.
+In twenty-six centuries, Cian had never heard the blade stop mid-song. She hummed. She sang. She laughed and snorted and expressed her considerable personality in frequencies that ranged from combat fury to smug satisfaction. But she had never — not once — simply *stopped*.
+
+Then she started again.
+
+The sound that came from Mo Chrá was not a song. Not a hum. Not any of the frequencies that Cian had catalogued over two and a half millennia of partnership. It was a *scream* — a sub-acoustic howl of recognition and rage that resonated through the obsidian walls and made the ward-lines flare and die. The sound of a blade that had been locked in stone and silence for centuries, stolen from her wielder, imprisoned in darkness by the creature now standing before her.
+
+And she *remembered* who did it.
+
+"Easy," Cian murmured — the instinctive soothing of a man who knew his blade's moods the way a horseman knew his mount's temper. But there was no soothing this. Mo Chrá's rage was structural. It ran through her the way creation frequencies ran through her — not emotion, but *identity*. She was a blade that had been wronged, and the one who had wronged her was twelve feet away.
+
+Miriam pushed the PAPR mask up onto her forehead.
+
+She wanted him to see her face.
 
 Vârcolac stood before his throne. He was wounded — the acid residue from the Carpathian engagement still visible in the puckered, improperly-healed tissue along his jaw and neck. His right arm moved stiffly. His eyes — ancient, calculating, the eyes of a predator that had been apex for four millennia — moved between Miriam and Cian with the rapid assessment of a creature running out of calculations that ended in survival.
 
-The exits were gone. The ghouls were gone. The Champion was ash. The wards were failing — Mo Chrá's presence was dissolving them the way sunlight dissolved shadows. The four-thousand-year-old debt collector, the enforcer of the Harlot system, the creature that had murdered Victoria Ashford and hunted her daughter across three continents—
+The exits were gone. The ghouls were gone. The Champion was ash. The wards were failing. The four-thousand-year-old debt collector, the enforcer of the Harlot system, the creature that had murdered Victoria Ashford and hunted her daughter across three continents—
 
 —was alone.
 
-"Victoria's daughter," Vârcolac said. His voice was cultured, precise — the voice of a being that had adopted civilisation as camouflage and wore it so well that the predator beneath was almost invisible. "And the Undying Hunter. Together. How... *sentimental*."
+But his eyes found Mo Chrá. And for the first time since they'd entered the chamber, something other than calculation moved behind them.
 
-"Your Champion is dead," Cian said. "It took a CREMATOR round to finish it after Miriam cut its head off. Eight centuries of vampire blood and it was still crawling without a skull." He raised the bolt-action .50 BMG, the second CREMATOR round chambered and ready. "You're four thousand years old. You'll be worse. So we're not going to give you the chance."
+*Recognition.*
+
+"Ah," Vârcolac said. His voice was cultured, precise — the voice of a being that had adopted civilisation as camouflage and wore it so well that the predator beneath was almost invisible. "The Patriarch's blade. I'd hoped the stone had swallowed you permanently." His gaze shifted. "Victoria's daughter. And the Undying Hunter. Together. With a blade that remembers its cage. How... *volatile*."
+
+"Your Champion is dead," Cian said. "It took a CREMATOR round to finish it after Miriam cut its head off. Eight centuries of vampire blood and it was still crawling without a skull." He raised the bolt-action .50 BMG, the CREMATOR round chambered and ready. "You're four thousand years old. You'll be worse. So we're not going to give you the chance."
 
 Vârcolac's eyes found the CREMATOR rifle. Then the Saxon sword on Miriam's back. In those ancient, calculating irises, something shifted — not fear, not yet, but the beginning of the arithmetic that led to fear.
 
 "Your mother begged," he said to Miriam. "At the end."
+
+Mo Chrá screamed again — the sub-acoustic fury making the obsidian walls vibrate. Cian felt the blade shaking in his grip, straining toward the vampire with a physical urgency he'd never felt from her before. She wanted Vârcolac the way fire wanted fuel — not with want but with *need*.
 
 Miriam didn't flinch. She didn't answer. She drew the Saxon sword.
 
@@ -833,41 +851,95 @@ She twisted free — breaking the vampire's grip with a technique that would hav
 
 "*Now,*" Miriam said.
 
-Cian had transitioned to the CREMATOR platform the moment Vârcolac went down — the bolt-action .50 BMG already shouldered against the exoskeleton's stabilised mount, the Nightforce scope unnecessary at twelve feet. He needed precision, not magnification. The reticle centred on Vârcolac's neck — left side, below the jaw. The round would enter through the reinforced musculature and drive the tungsten penetrator into the vertebral column that four millennia of survival engineering had built specifically to prevent decapitation.
+Cian fired.
 
-The reinforcement wouldn't matter. Not against fifteen grams of Thermate-TH3 igniting inside the wound channel.
+The first CREMATOR round hit Vârcolac in the centre of mass — sternum, slightly left of centre, the penetration angle calculated to maximise the thermate's burn radius within the torso cavity. The tungsten core punched through the vampire's chest. The thermate-TH3 charge ignited inside the wound channel.
 
-He fired.
+Two thousand five hundred degrees Celsius.
 
-The CREMATOR round crossed twelve feet of obsidian chamber and hit Vârcolac in the throat.
+The sound was not an explosion. It was a *hiss* — the sustained, vicious exhalation of thermite variant compound reaching ignition temperature and converting everything within its blast radius from biological tissue to superheated carbon. The wound didn't bleed. It *glowed*. Orange, then white, then a blue-white incandescence that threw sharp shadows across the obsidian walls.
 
-The tungsten penetrator breached the outer tissue — denser than human flesh, layered with the reinforced musculature of a creature that had spent centuries hardening itself against exactly this kind of attack. It drove through. Deeper. Into the vertebral column — modified, over four thousand years, into something closer to a solid pillar of bone than the articulated structure of a human spine. An anti-decapitation adaptation that no sword, no axe, no human-made blade could have cut through.
+The bolt cycled. Brass ejected.
 
-The thermate ignited.
+Second round. Right of centre, three inches from the first. Double-tap. Thirty grams of thermate burning simultaneously in two wound channels, the thermal blooms merging inside Vârcolac's torso into a single superheated catastrophe that was consuming him from the core outward.
 
-Two thousand five hundred degrees Celsius. Inside Vârcolac's throat.
+Vârcolac's body arched. His mouth opened in a scream that had no sound — the vocal cords fighting against thermal shock, four thousand years of regenerative capacity redirected entirely to the torso where thirty grams of thermite variant compound was converting his core mass to superheated carbon at a rate that left nothing for anything else. Every cell. Every reserve. Every emergency blood cache and regenerative pathway — all of it diverted to the two burning craters in his chest.
 
-The bone fortress he'd built around his vertebrae — the contingency that had survived crusaders, inquisitors, and Cian mac Morna's blade three hundred years ago — began to fail. Not slowly. Not gradually. The thermate didn't negotiate with biological defences. It *oxidised* them. The reinforced bone softened. The layered tissue charred. The emergency blood reserves positioned in the neck for rapid regeneration encountered two thousand five hundred degrees of sustained burn and became steam.
+Ten seconds. Maybe fifteen. The window she'd been promised.
 
-Mo Chrá sang.
+Miriam stepped in. Two-handed grip on the Saxon blade — thirty-two inches of twelfth-century battle steel — and swung.
 
-Not hummed. Not the warm approval or the fierce eagerness or the smug agreement. Mo Chrá *sang* — a single, clear, piercing note that cut through the sound of burning tissue and cracking bone and the scream that was trying to emerge from a throat that no longer existed as a functional structure. The note was ancient. Predating the Pyramids. Predating Sumer. The specific frequency of a blade that was witnessing the exact thermal resonance signature it had been told to listen for, and was now delivering the signal it had promised.
+Full rotation. Every pound of her weight. Every ounce of twelve years of rage and grief and the night her mother died. The cut aimed where it had always been aimed, where it had been aimed since the moment she'd lifted the sword from Cian's armoury wall: the neck.
 
-*Less than a second.*
+The blade hit.
 
-Miriam heard it. She'd been waiting — crouched where Vârcolac's lunge had thrown her, watching the vampire's throat glow orange then white then blue-white, watching four thousand years of anti-decapitation engineering being unmade from within. Waiting for the sword to sing.
+It hit the reinforced vertebral column — four thousand years of anti-decapitation engineering, a spine that had been modified over forty centuries into something closer to a solid pillar of bone than the articulated structure of a human neck. Physical reinforcement. Structural adaptation. Not maintained by regeneration — *built*, over millennia, the way coral built a reef: layer upon layer of hardened tissue, each generation denser than the last.
 
-Mo Chrá sang, and Miriam moved.
+The Saxon sword held for one-eighth of a second.
 
-The Saxon blade came around in a full-rotation arc — two-handed, every pound of her weight, every ounce of twelve years of rage and grief and the night her mother died. The cut was not elegant. It was not precise. It was a butcher's stroke aimed at a neck that was already burning, already compromised, already being unmade from within by fifteen grams of thermite variant compound at a temperature that turned bone to calcium powder.
+Then it broke.
 
-The blade met tissue that should have stopped it. Four thousand years of reinforced vertebrae. Layered neck musculature. The biological armour of a creature that had survived everything the human world and the supernatural world had thrown at it for longer than most recorded histories.
+The sound was catastrophic — the shriek of tempered steel exceeding its structural limit, the blade shattering at the point of contact with a force that sent fragments of twelfth-century carbon steel spinning across the obsidian chamber. The hilt bucked in Miriam's hands. The shock travelled through her wrists, her forearms, her shoulders. She staggered backward, holding eighteen inches of broken sword — the blade sheared clean, the edge that had hamstrung a four-thousand-year-old vampire reduced to a jagged stump of medieval metallurgy.
 
-The blade passed through.
+Nine centuries of history. Broken.
 
-Because the thermate had been there first. The reinforcements were slag. The vertebrae were calcium powder. The tissue that had been designed to resist cold steel was already burning at two thousand five hundred degrees, and the Saxon blade — thirty-two inches of twelfth-century battle steel — met not a fortress but a ruin.
+On a neck that mundane steel could not cut.
 
-"This is for my mother."
+Vârcolac's torso was still burning — the thermate's destructive work ongoing, his regeneration locked in its losing war with five thousand degrees of sustained chemistry. But his eyes found Miriam. And in those ancient, dying, *furious* eyes, she saw the arithmetic resolve.
+
+The decapitation had failed. The window was closing. His regeneration would stabilise. And then—
+
+"*MIRIAM!*"
+
+Cian threw Mo Chrá.
+
+He threw her the way you threw a javelin — overhand, full extension, the exoskeleton's power-assist adding velocity to an already considerable launch. The blade crossed twenty feet of obsidian chamber in a tumbling arc, singing as she flew.
+
+Not singing.
+
+*Screaming.*
+
+Mo Chrá was *furious*.
+
+The frequency that erupted from the spinning blade was volcanic — a harmonic of outraged dignity so pure and so profound that Miriam felt it in her teeth. The blade was five thousand years old. She had been forged by the man who walked with God. She had sung creation frequencies at the dawn of civilisation. She had been wielded by warriors and prophets and the longest-serving hunter in celestial history.
+
+And she had just been *thrown across a room like a cricket ball*.
+
+The indignation was spectacular. The acoustic output — a furious, sputtering harmonic that conveyed, with crystalline precision, *HOW. DARE. YOU.* — shook the portraits off the walls and made the obsidian floor resonate like a struck bell.
+
+Miriam caught her.
+
+Both hands. The grip was perfect — not because Miriam had been trained to catch ancient supernatural weaponry in mid-flight, but because Mo Chrá *adjusted*. The blade's tumbling rotation corrected in the last quarter-second, the sword inserting itself into Miriam's grip with the self-correcting precision of a weapon that was angry but not stupid. The pommel hit her palm. Her fingers closed. The blade settled.
+
+And Mo Chrá felt *him*.
+
+Not Cian. Not the comforting warmth of her twenty-six-century partner.
+
+*Vârcolac.*
+
+Twelve feet away. Burning. The creature who had taken her. Who had locked her in stone and silence for centuries — imprisoned, alone, severed from the music of creation that was her birthright. Centuries in the dark. Centuries without a voice. Centuries of stolen song.
+
+Mo Chrá's fury pivoted.
+
+The indignant rage at being thrown — the five-thousand-year-old pride, the *how-dare-you* that had shaken the chamber walls — evaporated. Replaced. Overwhelmed. Swallowed whole by something older and vaster and infinitely more dangerous.
+
+*Vengeance.*
+
+The blade began to sing.
+
+Not the combat song. Not the creation frequencies she used to unmake wards and dissolve necromantic binding. Something Miriam had never heard and Cian had heard only once — in a memory Mo Chrá had shared with him during a long, silent night in the Austrian safehouse, a memory of being taken, of being silenced, of the darkness that had lasted centuries.
+
+The sound of a blade remembering her cage. And seeing her jailer.
+
+Miriam didn't hesitate. She didn't think. She didn't calculate angles or timing or the window that was left before regeneration stabilised.
+
+She moved.
+
+The swing was a butcher's stroke — two-handed, full rotation, the same arc she'd used with the Saxon blade. But Mo Chrá was not the Saxon blade. Mo Chrá was a weapon forged by Enoch the Scribe with creation frequencies encoded into her molecular structure. Where mundane steel had broken against four thousand years of reinforced bone, Mo Chrá met the same bone and *unmade* it. The creation frequencies didn't cut through the reinforcement — they *denied* it. They spoke the original language of matter, the language that predated Watcher engineering, predated vampiric adaptation, predated four thousand years of survival contingencies built by a creature that had forgotten what creation sounded like.
+
+The vertebrae that had shattered the Saxon sword dissolved under Mo Chrá's edge like frost under sunlight. The reinforced musculature — layers of hardened tissue that no mundane blade could penetrate — parted. The emergency blood reserves that Vârcolac had positioned to reconnect severed tissue encountered creation frequencies and ceased to be blood at all.
+
+"This is for my mother," Miriam said.
 
 She said it as the blade completed its arc. Not before. Not as a threat. As a statement of fact — delivered with the devastating calm of a woman who had completed an intelligence assessment and was now executing the conclusion.
 
@@ -875,23 +947,33 @@ Vârcolac's head separated from his body.
 
 It hit the obsidian floor and rolled. The ancient eyes were open — the mouth still moving, still trying to speak, four thousand years of predatory intelligence refusing to accept the arithmetic of its own destruction. Then the thermate's burn reached the severed head through the residual tissue, and the eyes flared white-hot and went dark.
 
-Cian fired twice more. CREMATOR rounds into the body — torso, centre mass. The thermate charges ignited inside the collapsing remains, and what was left of Vârcolac became what the Champion had become before it: calcium ash, carbon residue, the superheated remnant of something that had parasitised the living for four thousand years. Neither weapon could have done it alone. The sword without the fire would have bounced off four millennia of reinforced bone. The fire without the sword would have burned a hole that regeneration sealed. Together — in the space of a single heartbeat, fire from within and steel from without — they had done what twenty-six centuries of solitary hunting never could.
+Mo Chrá *laughed*.
+
+Not the giggle from the car ride. Not the snort of the armoury. Not even the full harmonic amusement she'd shown when Miriam had first impressed her.
+
+This was *joy*. 
+
+Triumphant, delighted, *released* joy — the sound of a blade that had been waiting for this specific moment for longer than the castle above had existed. Centuries of imprisonment. Centuries of silence. Centuries of stolen song — and here, now, in a burning obsidian chamber sixty feet below sea level, held by a woman she'd chosen and aimed at the throat of the creature who had caged her—
+
+*Satisfied.*
+
+The laugh was enormous. It filled the chamber, bounced off the obsidian, shattered the remaining portraits, and rang through the basalt tunnels clear up to the castle ruins where the last of the ghouls were stumbling into Bone Dry charges. The creation frequencies in the laugh were so pure, so fundamental, that the ward-lines in the walls — the last surviving remnants of Watcher-derived acoustics in Dunluce — extinguished permanently.
+
+The indignation at being thrown? Gone. Not merely forgotten — *irrelevant*. Mo Chrá had been thrown across a room and caught by the right woman and aimed at the right throat and she had *cut*, and the cutting had been everything she'd waited centuries to feel.
+
+Cian fired twice more. CREMATOR rounds into the body — torso, centre mass. The thermate charges ignited inside the collapsing remains, and what was left of Vârcolac became what the Champion had become before it: calcium ash, carbon residue, the superheated remnant of something that had parasitised the living for four thousand years.
 
 Nothing left to regenerate. Nothing left to reconnect. Nothing left to come back to.
 
 In the obsidian chamber, sixty feet below sea level, beneath a castle that had been a stronghold for eight centuries and a trap for one night, the Lord of Ghouls died for the last time.
 
-Mo Chrá sang.
+Mo Chrá was still laughing.
 
-Not combat song. Not the signal note. Something older. Something that sounded like the end of a long march — the frequency of a blade that had been waiting not just for this kill, not just for this moment, but for *her*. For the woman who would stand over a dead monster with a ruined sword and eyes that burned with something that was not rage.
-
-Justice.
-
-Mo Chrá sang *justice*.
-
-"IT IS FINISHED," Raphael said. And for once, the angel's voice carried no commentary. No counting. No correction. Just three words, weighted with the gravity of a being who had watched humanity fight its monsters for as long as there had been humanity or monsters, and rarely saw the fight end this clearly.
+"IT IS FINISHED," the angel said. And for once, his voice carried no commentary. No counting. No correction. Just three words, weighted with the gravity of a being who had watched humanity fight its monsters for as long as there had been humanity or monsters, and rarely saw the fight end this clearly.
 
 "IT IS FINISHED."
+
+Mo Chrá hummed — finally quieting, the laughter fading into something warm and deep and permanent. The sound of a blade that was, for the first time in centuries, at peace.
 
 ---
 
@@ -901,25 +983,25 @@ They walked out of the caves as dawn broke over the Antrim coast.
 
 The Atlantic was burnished copper in the first light — waves crashing against the basalt cliffs with the patient, eternal fury of an ocean that had been sculpting this coastline since before the Watchers fell. The wind carried salt and cold and the smell of a world that had been, for one night, slightly safer.
 
-Miriam's MORTIS suit was filthy — ghoul residue, calcium hydroxide dust, chlorine staining, and something she preferred not to identify crusting the outer layer. The vest armour was cracked in three places where impacts had exceeded the ceramic's rating. The Saxon sword hung at her side, the blade discoloured by the vampire's acidic blood — the historical steel permanently marred, the twelfth-century temper chemistry reacting with compounds that the original swordsmith could not have imagined.
+Miriam's MORTIS suit was filthy — ghoul residue, calcium hydroxide dust, chlorine staining, and something she preferred not to identify crusting the outer layer. The vest armour was cracked in three places where impacts had exceeded the ceramic's rating. The broken Saxon sword hung at her side — eighteen inches of jagged stump where thirty-two inches of twelfth-century battle steel had been, the blade sheared clean at the point where it had met four thousand years of reinforced vertebral bone and lost the argument.
 
-She looked at the sword.
+She looked at the broken sword.
 
 "How much was this worth?" she asked.
 
 "As an artefact?" Cian considered. "Conservatively? Two hundred thousand euros. At auction, with provenance documentation, perhaps four hundred."
 
-"And I've ruined it."
+"And I've snapped it in half."
 
-"You've *used* it. There's a difference." He looked at her across the dawn-lit cliff. "Every weapon in my armoury was made to be used. Including the ones that were worth more than the buildings they were stored in. A blade that kills a four-thousand-year-old vampire is worth more than a blade that hangs on a wall."
+"You've *used* it. There's a difference." He looked at her across the dawn-lit cliff. "Every weapon in my armoury was made to be used. Including the ones that were worth more than the buildings they were stored in. A blade that hamstrings a four-thousand-year-old vampire is worth more than a blade that hangs on a wall. Even if it breaks on his neck afterward."
 
-Miriam looked at the sword in her hand. The acid-eaten edge. The stained fuller. The pommel that still fit perfectly in her grip.
+Miriam looked at the broken sword in her hand. The jagged fracture line. The shattered edge. The pommel that still fit perfectly in her grip even though the blade above it was a ruin.
 
 "I'll buy you a new one."
 
 "You can't *buy* a new one. It's a medieval—"
 
-"I said I'll buy you a new one." She met his eyes. Something in her expression had changed — not softened, exactly. Not warmed. But *settled*. The way ground settled after an earthquake — different than before, permanently altered, but stable. "Consider it the cost of doing business with a woman who puts priceless antiques through vampire necks."
+"I said I'll buy you a new one." She met his eyes. Something in her expression had changed — not softened, exactly. Not warmed. But *settled*. The way ground settled after an earthquake — different than before, permanently altered, but stable. "Consider it the cost of doing business with a woman who breaks priceless antiques on vampire necks."
 
 Mo Chrá's hum achieved a frequency that conveyed, with absolute clarity: *You may keep the human. She is acceptable.*
 
@@ -951,11 +1033,11 @@ She absorbed this. The intelligence analyst behind her eyes was already working 
 
 "That's not—"
 
-"Not a request." Her voice carried the weight of a woman who had walked into a sea cave in a chemical warfare suit, killed a twelve-foot ghoul champion, and decapitated a four-thousand-year-old vampire with a medieval sword. "My mother gave her life so I could be free. I'm choosing to use that freedom to fight."
+"Not a request." Her voice carried the weight of a woman who had walked into a sea cave in a chemical warfare suit, killed a twelve-foot ghoul champion, broken a medieval sword on a vampire's neck, and finished the job with a blade that laughed when she did. "My mother gave her life so I could be free. I'm choosing to use that freedom to fight."
 
 Mo Chrá hummed — warm, bright, the hum of welcome. The sound of a blade that had spent five thousand years with one partner and had just decided to acknowledge a second.
 
-"THE SWORD HATH CHOSEN," Raphael said softly.
+"THE SWORD HATH CHOSEN," the angel said softly.
 
 Cian looked at Mo Chrá. The blade's hum was unmistakable — not just approval, not just warmth, but *commitment*. The frequency of a blade that had witnessed something in the caves — something in the way Miriam fought, in the way she stood over the dead and did not flinch, in the way she spoke the word *justice* — that had met her criteria for something she had been waiting to find for longer than Cian could imagine.
 
@@ -1003,10 +1085,11 @@ Approximately 10,500 words
 - **Tag team tactics:** Cian takes bridge (distraction, main force engagement), Miriam takes sea caves (infiltration, Champion engagement); Cian descends when Champion survives headless
 - **Bone Dry deployed:** 2 charges used (of 12 total), both in cave tunnel chokepoints; remaining charges cover 26 bridge ghouls who follow Cian into tunnels
 - **Halogen Rain deployed:** 5 units used (1 bridge, 4 caves including Champion fight)
-- **CREMATOR deployed:** 4 rounds total (1 for Champion after headless survival, 1 into Vârcolac's throat for combo kill, 2 into body for total destruction)
-- **Combo kill:** CREMATOR round into Vârcolac's neck (thermate destroys reinforced vertebrae from inside) + simultaneous Saxon sword decapitation from outside — Mo Chrá signals the sub-second timing window; neither weapon alone could have killed him
-- **Vârcolac's anti-decapitation contingencies:** 4,000 years of reinforced vertebral column, emergency blood reserves in the neck for rapid healing, distributed consciousness — all neutralised by simultaneous fire-and-blade
-- **Saxon sword ruined** by vampire's acidic blood (historical steel corroded, edge destroyed)
+- **CREMATOR deployed:** 5 rounds total (1 for Champion after headless survival, 2 double-tap into Vârcolac's torso, 2 cleanup into body for total destruction)
+- **Kill sequence:** CREMATOR double-tap to torso (overwhelms regeneration) → Saxon sword decapitation attempt FAILS (blade breaks on reinforced vertebrae) → Cian throws Mo Chrá to Miriam → Mo Chrá furious at being thrown → senses Vârcolac (her centuries-old jailer) → vendetta overrides indignation → Miriam delivers final decapitation with Mo Chrá → creation frequencies cut through what broke the Saxon sword → Mo Chrá LAUGHS (vendetta fulfilled)
+- **Vârcolac's anti-decapitation contingencies:** 4,000 years of reinforced vertebral column — physical/structural, not regeneration-dependent. Saxon sword breaks on contact. Only Mo Chrá's creation frequencies can unmake the supernatural reinforcement.
+- **Mo Chrá's vendetta:** Vârcolac imprisoned Mo Chrá for centuries (Stone and Sceptre backstory). The blade remembers. Personal fury established in Section VII, full payoff in Section VIII.
+- **Saxon sword BROKEN** on Vârcolac's reinforced vertebrae (blade shears clean, 18 inches of stump remaining)
 - **"Mars" closing line** bridges to Book 1 Act III (the mission)
 
 ### Weapons Expenditure — Chapter 10
@@ -1014,7 +1097,7 @@ Approximately 10,500 words
 | System | Start | Used Ch10 | End |
 |--------|-------|-----------|-----|
 | Bás Mór (.408 Tintreach) | 20 | 5 (bridge sniping) | 15 |
-| Bás Mór (CREMATOR .50 BMG) | 10 | 4 (1 Champion + 1 Vârcolac neck + 2 body) | 6 |
+| Bás Mór (CREMATOR .50 BMG) | 10 | 5 (1 Champion + 2 Vârcolac torso double-tap + 2 body cleanup) | 5 |
 | Bás Beag (7.62 Tintreach) | 153 | ~93 (bridge + cave) | ~60 |
 | An Béal Mór (12ga flechette) | 79 | ~30 (CQB bridge) | ~49 |
 | Tine Láimhe (10mm) | 64 | 0 | 64 |
@@ -1030,7 +1113,7 @@ Approximately 10,500 words
 |--------|-------|------|-----|
 | Bás Beag (Tintreach 7.62) | Cian's reserve supply | ~60 rounds | Recovered |
 | SIG P226 Legion (silver HP) | 45 (3 mags) | 2 (contact kill) | 43 |
-| Saxon long sword | — | Vârcolac decapitation | Ruined (acid damage) |
+| Saxon long sword | — | Champion hamstring + Vârcolac hamstring + decapitation attempt | BROKEN (sheared on reinforced vertebrae) |
 | Halogen Rain (HR-7) | 4 | 3 (tunnel + Champion) | 1 |
 | Bone Dry (BD-4) | Remote trigger | 1 charge | N/A |
 
@@ -1041,7 +1124,7 @@ Approximately 10,500 words
 | Total ghoul kills (Cian) | ~126 |
 | Total ghoul kills (Miriam) | ~21 (12 cave + Champion + 8 Bone Dry/Halogen cascade) |
 | Ghoul Lord Champion | Miriam decapitates — body survives headless — Cian CREMATOR finishes |
-| Vârcolac | Simultaneous combo: Cian CREMATOR to neck + Miriam decapitation + 2 cleanup rounds |
+| Vârcolac | Cian CREMATOR double-tap (torso) + Saxon sword breaks + Mo Chrá thrown to Miriam → final decapitation + 2 cleanup rounds |
 | Total engagement time | ~25 minutes (bridge 14 min + cave 11 min) |
 | Injuries (Cian) | None significant |
 | Injuries (Miriam) | Vest ceramic cracked x3, minor bruising |
@@ -1053,9 +1136,9 @@ Approximately 10,500 words
 - **Section IV (The Bridge):** Cian's frontal assault. Bob Lee Swagger sniping + Clancy CQB + Mo Chrá melee. 93 ghoul kills in 14 minutes.
 - **Section V (The Caves):** Miriam's infiltration. Solo combat with Raphael as tactical support. Contact kill callback. Bone Dry deployment.
 - **Section VI (The Champion):** Miriam vs. Ghoul Lord. Halogen Rain + Saxon sword kneecap + decapitation — BUT BODY SURVIVES HEADLESS. Horror beat. Miriam calls Cian.
-- **Section VII (The Reckoning):** Bridge battle summary (93 kills). Cian descends on Miriam's distress call. CREMATOR finishes headless Champion. Combo kill planning (thermate + blade simultaneously). Mo Chrá assigned as timing signal.
-- **Section VIII (The Rat):** Vârcolac confrontation. Combo kill — CREMATOR to throat (destroys reinforced vertebrae from within) + simultaneous Saxon sword decapitation (Mo Chrá sings the signal). Neither weapon alone could have killed him. Mo Chrá sings justice.
-- **Section IX (The Dawn):** Aftermath. Saxon sword ruined. Alliance cemented. "Mars" closing line.
+- **Section VII (The Reckoning):** Bridge battle summary (93 kills). Cian descends on Miriam's distress call. CREMATOR finishes headless Champion. Combo kill planning: CREMATOR double-tap to body (overwhelm regeneration) → decapitate during window. Mo Chrá's vendetta against Vârcolac hinted — personal fury, not just combat eagerness.
+- **Section VIII (The Rat):** Vârcolac confrontation. Mo Chrá's vendetta erupts (centuries of imprisonment remembered). CREMATOR double-tap to torso overwhelms regeneration. Saxon sword BREAKS on reinforced vertebrae. Cian throws Mo Chrá to Miriam — sword FURIOUS at being thrown. Mo Chrá senses Vârcolac (her jailer) — vendetta overrides indignation. Miriam decapitates with Mo Chrá. Creation frequencies unmake what broke the Saxon sword. Mo Chrá LAUGHS — centuries of imprisonment avenged, anger at being thrown forgotten.
+- **Section IX (The Dawn):** Aftermath. Saxon sword broken. Alliance cemented. "Mars" closing line.
 
 ### Canon Compliance Verified
 - [x] CREMATOR rounds: tungsten + Thermate-TH3, 2,500°C, 8-12 sec burn
@@ -1063,11 +1146,11 @@ Approximately 10,500 words
 - [x] HALOGEN RAIN: 200g calcium hypochlorite, 8m radius, chlorine cloud, 2-4 min active
 - [x] MTS-7 suit: butyl rubber / activated carbon + silver-thread / Nomex III, PAPR, 8hr battery
 - [x] Ghoul Lord: 12ft, bone-armored, fed vampire blood for centuries, intelligent, can speak
-- [x] Vârcolac kill method: simultaneous CREMATOR (neck, thermate destroys reinforced vertebrae from within) + decapitation (blade from without) — combo kill, neither weapon sufficient alone
+- [x] Vârcolac kill method: CREMATOR double-tap to torso (overwhelms regeneration) → Saxon sword breaks on reinforced vertebrae → Mo Chrá thrown to Miriam → creation frequencies unmake supernatural reinforcement → decapitation. Mo Chrá's vendetta against her jailer fulfilled.
 - [x] Dunluce Castle: basalt headland, single bridge, 200ft cliffs, sea caves below
 - [x] Northern Ireland = Michael's full jurisdiction — no clock
 - [x] Mo Chrá cuts through wards (creation frequencies vs. Watcher-derived copies)
-- [x] Raphael identity: "Liaigh" in all dialogue, "Raphael" in narration only (see Liaigh Reveal Question below)
+- [x] Raphael identity: "Liaigh" in all dialogue, "Liaigh"/"the angel" in narration (Option B: full identity concealment for Books 4-5 reveal)
 - [x] Miriam's Saxon sword = the kill weapon (established Ch9)
 - [x] Halogen efficacy: chlorine disrupts necromantic binding (canon §8.4)
 - [x] Ghoul Bomb cascade effect: 1.2 multiplier per direct kill
@@ -1087,9 +1170,5 @@ Approximately 10,500 words
 - **Mark Greaney:** One-vs-many bridge assault, overwhelming odds, methodical kill progression
 - **Jack Carr:** CQB in caves, contact kills, practical combat psychology, veteran's emotional weight
 
-### Liaigh Identity Reveal — Narrative Decision Pending
-Currently, narration uses "Raphael" (reader knows identity) while all dialogue uses "Liaigh" (characters' name for him). This creates dramatic irony: the reader knows who Liaigh is, but the characters treat it as unremarkable. Two options:
-1. **Early reader knowledge (current approach):** Narration says "Raphael said" — reader knows from Ch5 onward. The dramatic tension comes from *characters* not knowing his rank (archangel), not his name.
-2. **Hidden identity for big reveal:** Change ALL narration to "Liaigh" or "the angel." Reader discovers he's Raphael when he reveals himself saving Miriam from the Asmodeus-type demon in a later book — maximum dramatic impact.
-
-If Option 2 is chosen, ~20 narration attributions across Ch5-Ch10 need changing from "Raphael said/confirmed/observed" to "Liaigh said" or "the angel said."
+### Liaigh Identity Reveal — OPTION B CONFIRMED
+All narration uses "Liaigh" or "the angel" — reader does NOT know he is Raphael. Full identity reveal RESERVED for Books 4-5 climax (per BOOK_1_FORWARD_OUTLINE.md). Maximum dramatic impact when he reveals himself saving Miriam from an Asmodeus-type demon.

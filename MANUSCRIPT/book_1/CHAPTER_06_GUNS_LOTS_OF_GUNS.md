@@ -15,7 +15,7 @@ So Cian had done what he'd done a hundred times across twenty-six centuries: pac
 
 Brennan had handled the heavy logistics from Austin — crystal growth chambers, chemical precursors, ammunition components — shipping them through the Josephite network's freight channels, which had the considerable advantage of never being inspected by customs agencies that didn't know they existed.
 
-Three weeks of fabrication. Three weeks of eighteen-hour days, of crystal growth chambers humming at frequencies that made the fillings in his teeth vibrate, of metallurgical processes that combined medieval smithing techniques with twenty-first-century materials science and a healthy dose of what Raphael called "consecrated interference" and Cian called "cheating."
+Three weeks of fabrication. Three weeks of eighteen-hour days, of crystal growth chambers humming at frequencies that made the fillings in his teeth vibrate, of metallurgical processes that combined medieval smithing techniques with twenty-first-century materials science and a healthy dose of what Liaigh called "consecrated interference" and Cian called "cheating."
 
 The Tintreach rounds had been the hardest. Growing gallium orthophosphate crystals around a seed of blessed metal was not, as it turned out, a process that responded well to impatience. The crystals grew at their own pace — approximately 0.3 millimeters per day in the hydrothermal autoclave — and no amount of glaring, swearing, or increasingly creative threats had accelerated the timeline.
 
@@ -53,7 +53,7 @@ Japanese katanas — three of them, each representing a century of the art form.
 
 Ottoman kilij, Safavid shamshir, Crusader arming sword with a blade cross still sharp enough to draw blood. An Indian tulwar with a hilt wrapped in silver wire. A Chinese jian that predated the Qin dynasty. A Scottish claymore — not the basket-hilted version Hollywood liked, but the true two-handed great sword, five feet of murderous intent that had cleared more than one battlefield of things that had no business walking on it.
 
-Not all of these had been easy to come by. The Eastern blades in particular — the katanas, the jian, the tulwar — each represented territory that wasn't his. The Archons who governed those lands under the Deuteronomy 32 mandate were ferociously protective of their jurisdictional borders, and every incursion into foreign domain had required Michael or Raphael to negotiate passage with the local Prince beforehand. Weeks of celestial diplomacy exchanged for days of hunting. The cooperation was never free, never friendly, and never offered twice at the same price. In twenty-six centuries, Cian could count his extra-territorial operations on both hands, and every one of them had cost Michael something he never discussed.
+Not all of these had been easy to come by. The Eastern blades in particular — the katanas, the jian, the tulwar — each represented territory that wasn't his. The Archons who governed those lands under the Deuteronomy 32 mandate were ferociously protective of their jurisdictional borders, and every incursion into foreign domain had required Michael or Liaigh to negotiate passage with the local Prince beforehand. Weeks of celestial diplomacy exchanged for days of hunting. The cooperation was never free, never friendly, and never offered twice at the same price. In twenty-six centuries, Cian could count his extra-territorial operations on both hands, and every one of them had cost Michael something he never discussed.
 
 These were his history. His autobiography, written in steel — and in debts settled in courts no mortal would ever see.
 
@@ -101,7 +101,7 @@ He threaded the suppressor onto the muzzle, checking alignment with a bore rod t
 
 **The trigger.** Two-stage Jewel, adjusted to a first-stage weight of twelve ounces and a second-stage break of six ounces. Clean. Crisp. The kind of trigger pull that felt like thinking about shooting and having the rifle agree that yes, now would be an excellent time.
 
-"THE WEAPON PLEASETH THEE," Raphael observed.
+"THE WEAPON PLEASETH THEE," Liaigh observed.
 
 "The weapon is a tool, Liaigh." Cian seated the trigger group and tightened the guard screws to thirty-two inch-pounds. "I don't get emotional about tools."
 
@@ -127,7 +127,7 @@ Cian mounted the scope in its Spuhr rings — one-piece aluminum, torqued to eig
 
 "Range?"
 
-"THOU DOST INTEND TO TEST THE WEAPON HERE?" There was something in Raphael's voice that might have been alarm.
+"THOU DOST INTEND TO TEST THE WEAPON HERE?" There was something in Liaigh's voice that might have been alarm.
 
 "The basement range, Liaigh. Not the living room."
 
@@ -187,7 +187,7 @@ He loaded the first five rounds into a custom magazine — CNC-machined from 707
 
 Cian held up the loaded magazine. Five rounds. Each containing a blessed crystal capable of generating 47,000 volts on impact.
 
-"THE LIGHTNING CONTAINETH WITHIN THE THUNDER," Raphael observed.
+"THE LIGHTNING CONTAINETH WITHIN THE THUNDER," Liaigh observed.
 
 "That's almost poetic, Liaigh."
 
@@ -197,7 +197,7 @@ Cian held up the loaded magazine. Five rounds. Each containing a blessed crystal
 
 "MODESTY IS A MORTAL VIRTUE. WE OPERATE UNDER NO SUCH CONSTRAINT."
 
-Mo Chrá's hum somehow managed to convey agreement with Raphael's sentiment while simultaneously implying that the entire three-week crystal growth process could have been avoided if Cian had simply asked her to cut things more often. She was nothing if not consistent.
+Mo Chrá's hum somehow managed to convey agreement with the angel's sentiment while simultaneously implying that the entire three-week crystal growth process could have been avoided if Cian had simply asked her to cut things more often. She was nothing if not consistent.
 
 ---
 
@@ -269,7 +269,7 @@ The magazine held fifteen rounds. Cian carried four spares.
 
 Seventy-five rounds of 10mm. His minimum comfort level for a sidearm.
 
-"A MAN WHO CARRYETH SEVENTY-FIVE ROUNDS FOR A WEAPON OF LAST RESORT," Raphael observed, "DOTH HARBOR EITHER TREMENDOUS PESSIMISM OR COMMENDABLE FORESIGHT."
+"A MAN WHO CARRYETH SEVENTY-FIVE ROUNDS FOR A WEAPON OF LAST RESORT," Liaigh observed, "DOTH HARBOR EITHER TREMENDOUS PESSIMISM OR COMMENDABLE FORESIGHT."
 
 "The two are indistinguishable in my line of work."
 
@@ -285,7 +285,7 @@ Each casing was machined from 7075-T6 aluminum — the same aerospace alloy used
 
 The lathe had survived. Cian's coffee, which had been sitting on the adjacent bench, had become an ice sculpture of considerable artistic merit.
 
-"THOU DOST CONTINUE THE TRADITION OF LEARNING THROUGH CATASTROPHE," Raphael had observed at the time.
+"THOU DOST CONTINUE THE TRADITION OF LEARNING THROUGH CATASTROPHE," Liaigh had observed at the time.
 
 "It's a *method*."
 
@@ -345,7 +345,7 @@ The buzz intensified. Mo Chrá's position on Roman weaponry had been firmly esta
 
 The hum shifted — contemplative now, almost nostalgic. She was remembering. Six hundred years before Christ, when a young man named Cian had first picked up a blade that hummed with an intelligence older than civilization, and the blade had decided — with the instantaneous certainty that only an entity forged by the longest-lived man in biblical history could exhibit — that this particular mortal was *worthy*.
 
-"THE BLADE CONSIDERETH THY PROPOSAL," Raphael supplied.
+"THE BLADE CONSIDERETH THY PROPOSAL," Liaigh supplied.
 
 "She's being dramatic."
 
@@ -381,7 +381,7 @@ He slid her into the dorsal sheath mount on the exoskeleton's back panel. The ma
 
 He looked at the complete loadout, laid out on the workbench in precise order.
 
-"THOU ART FORGETTING SOMETHING," Raphael said.
+"THOU ART FORGETTING SOMETHING," Liaigh said.
 
 Cian frowned. He ran through the inventory mentally — ammunition, magazines, grenades, binary system canisters, weapon maintenance kit, first aid, comms equipment—
 
@@ -401,7 +401,7 @@ The Enochian micro-wards etched into the frame weren't decorative. They were the
 
 Cian ran through the pre-mission checklist. Motor response: nominal. Battery: full charge, 400-kilometer range. Holy oil seals on the tires: intact. Sonic emitter: functional. MOLLE attachment points for the rifle cases: secure.
 
-"THE SHADOW HOUND IS PREPARED," Raphael confirmed.
+"THE SHADOW HOUND IS PREPARED," Liaigh confirmed.
 
 "Then so am I."
 
@@ -437,7 +437,7 @@ But now, in the stillness of preparation, there was only clarity.
 
 He lifted Mo Chrá from the workbench and seated her in the dorsal sheath. She hummed against his back — ready, eager, her ancient intelligence buzzing with the particular frequency she reserved for violence.
 
-"THOU ART PREPARED," Raphael said.
+"THOU ART PREPARED," Liaigh said.
 
 It wasn't a question.
 
@@ -447,15 +447,15 @@ He paused, one hand resting on the rifle case.
 
 "Liaigh — have you confirmed with Michael that we're cleared to operate in the area?" He kept his voice measured, but the question wasn't casual. Romania was contested ground. The Carpathian Mountains fell under the authority of an Archon who had ruled that territory since Babel — one of the seventy, a Prince who guarded his borders with the ferocity of a sovereign who remembered being given dominion by God Himself. The Ashkenazi diaspora bubbles that gave Michael jurisdictional footholds in the region's cities and towns didn't extend into the deep mountain wilderness where Vârcolac had built his fortress. That was the Prince's domain, pure and untouched by Israelite settlement. "The last thing I want is to cause a diplomatic row in God's council meetings."
 
-Raphael was quiet for a beat — the particular quiet that meant the answer was complicated.
+Liaigh was quiet for a beat — the particular quiet that meant the answer was complicated.
 
-"WE ARE PERMITTED," Raphael said at last. "A VERY TIGHT AND VERY NARROW WINDOW OF OPERATIONS. NONE LONGER THAN THREE DAYS HENCE."
+"WE ARE PERMITTED," Liaigh said at last. "A VERY TIGHT AND VERY NARROW WINDOW OF OPERATIONS. NONE LONGER THAN THREE DAYS HENCE."
 
 Three days. Cian ran the arithmetic. Fourteen hours' ride from Graz to the Carpathian target zone. That left roughly fifty-eight hours for reconnaissance, infiltration, engagement, and extraction. Tight. Very tight.
 
 "How did Michael manage that? The Prince of Dacia isn't exactly known for his hospitality toward Israel's interests."
 
-"THE NEGOTIATION WAS... PROTRACTED." Raphael's tone carried the weight of celestial diplomacy conducted at a level mortals couldn't comprehend. "MICHAEL PRESENTED THE THREAT ASSESSMENT — VÂRCOLAC'S NETWORK REACHING INTO MANASSITE AND EPHRAIMITE TERRITORIES, THE TARGETING OF THY SISTER'S BLOODLINE, THE NEPHILIM TRAFFICKING OPERATIONS THAT VIOLATE THE PRINCE'S OWN SUBJECTS AS MUCH AS OURS. THE PRINCE OF DACIA DOTH NOT LOVE THE NEPHILIM ANY MORE THAN WE DO. HIS PEOPLE HAVE SUFFERED UNDER VÂRCOLAC'S PREDATION FOR SEVEN CENTURIES."
+"THE NEGOTIATION WAS... PROTRACTED." The angel's tone carried the weight of celestial diplomacy conducted at a level mortals couldn't comprehend. "MICHAEL PRESENTED THE THREAT ASSESSMENT — VÂRCOLAC'S NETWORK REACHING INTO MANASSITE AND EPHRAIMITE TERRITORIES, THE TARGETING OF THY SISTER'S BLOODLINE, THE NEPHILIM TRAFFICKING OPERATIONS THAT VIOLATE THE PRINCE'S OWN SUBJECTS AS MUCH AS OURS. THE PRINCE OF DACIA DOTH NOT LOVE THE NEPHILIM ANY MORE THAN WE DO. HIS PEOPLE HAVE SUFFERED UNDER VÂRCOLAC'S PREDATION FOR SEVEN CENTURIES."
 
 "So the Prince wants Vârcolac gone too."
 
@@ -473,7 +473,7 @@ Cian nodded. He'd operated under sanctioned incursion terms before — in Persia
 
 "Three days," he said. "Then we'd better not waste any of them."
 
-"AND NOW?" Raphael asked.
+"AND NOW?" Liaigh asked.
 
 Cian swung onto the motorcycle. The electric motors responded instantly, a surge of torque that pressed him forward against the handlebars. Silent. Powerful. Ready.
 
