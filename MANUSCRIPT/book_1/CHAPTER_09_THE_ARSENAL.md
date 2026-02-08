@@ -915,15 +915,35 @@ She sat down. Put the sword on the table. Opened her laptop — the one she'd re
 
 "Yes?"
 
-"After this is done — after we've killed the thing that murdered my mother—" Her voice was steady. Not calm. Steady. "—you're going to sit down and tell me exactly why you — with your twenty-six centuries, your angel, your magic sword, and your *insane* weapons collection — weren't there the night she died."
+She didn't look up from the laptop. Her voice was steady. Not calm. Steady. The steadiness of a woman who had been saving a question and had just acquired the ammunition to make it lethal.
 
-The silence that followed was the kind that existed between a question and the answer that would change everything.
+"You told me tonight that Michael's protection follows Judah wherever they dwell. That Jewish diaspora communities fall within your jurisdiction. That wherever Israel's children live, you can operate."
 
-"I will," Cian said. "I owe you that."
+"I did."
 
-"You owe me more than that. But it's a start."
+"My mother was a *Jew*." Now she looked up. Her eyes were dry and burning. "Victoria Ashford. Born Victoria Mizrachi. Sephardic. Devout. She kept Shabbat every week of her life, even when she was running intelligence operations that would have gotten her killed if anyone had found out. She raised me on Torah and tradecraft in equal measure. She lit candles on Friday nights in a flat in *London* — which, according to your theology, is Ephraim's territory. Michael's jurisdiction."
 
-Mo Chrá hummed. Low. Warm. The hum that existed between grief and hope, between the end of one thing and the uncertain beginning of another.
+Cian said nothing. There was nothing to say. He could see where this was going, and he deserved every word of it.
+
+"She wasn't just Jewish, Cian. She was fighting the *Harlot system*. The exact network you've been hunting for twenty-six centuries. The financial structures. The trafficking operations. The Synagogue of Satan — your words, not mine. She spent fifteen years mapping the same enemy you claim to have been warring against since before Rome was *founded*."
+
+The armoury felt smaller. The weapons on the walls — three thousand years of curated violence, every blade a testament to Cian's commitment to the fight — suddenly looked like exhibits in a prosecution.
+
+"So by your *own rules*—" Miriam's voice didn't crack. It *sharpened*. "—my mother was a daughter of Judah, living in Michael's territory, actively opposing the Beast system's financial infrastructure. She was *triply* within your jurisdiction. She was doing *your job*. And she was murdered by a vampire that you've been chasing for seven hundred years and failing to catch."
+
+Mo Chrá's hum had ceased entirely. The sword was silent — the silence of a blade that understood guilt when it heard it spoken aloud.
+
+"So after this is done — after we've killed the thing that took her from me — you're going to sit down at this table and tell me exactly why a twenty-six-hundred-year-old immortal warrior with an angel, a magic sword, and the most insane weapons collection in human history — operating within his *own jurisdiction*, fighting his *own war* — wasn't there the night a Jewish woman died fighting *his* enemy."
+
+The silence that followed was not the kind that existed between a question and an answer. It was the kind that existed between a wound and the blade that made it.
+
+Raphael said nothing. For the first time since the fortress, the angel offered no commentary. No counting. No observation. The silence from the breastplate was absolute — the silence of a celestial being who had watched this failure happen and carried his own share of the weight.
+
+"I will," Cian said. His voice was rough. "I owe you that."
+
+"You owe me more than that. You owe *her* more than that." Miriam's jaw set. "But it's a start."
+
+Mo Chrá's hum returned — low, subsonic, a frequency that vibrated beneath the threshold of hearing. Not the warmth of earlier. Not the laughter, not the approval. The hum of ancient grief. The hum of a blade that had been present for too many failures and remembered every one.
 
 "WE SHOULD BEGIN." Raphael's voice was gentle now — the tactical commentator replaced by something older and more compassionate. "VÂRCOLAC WILL NOT WAIT FOR US TO FINISH OUR INTRODUCTIONS."
 
@@ -950,7 +970,7 @@ Together.
 ## CHAPTER NOTES
 
 ### Word Count
-Approximately 8,400 words
+Approximately 8,800 words
 
 ### Key Decisions Locked
 - **Chapter numbering shift:** Ch9 = The Arsenal (was "Arsenal" / Ch8 in framework), Ch10 = The Reckoning
@@ -962,7 +982,7 @@ Approximately 8,400 words
 - **Cian's Manassite lineage revealed to Miriam:** Machir → Manasseh → Joseph. Jeremiah revealed at Tara, 586 BCE
 - **Ten-tribes debate:** Miriam challenges British-Israelism as debunked pseudo-archaeology; Cian counters with eyewitness testimony of 500-year migration
 - **Jurisdictional system explained:** Michael = Prince of Israel → Cian can only operate where scattered tribes settled. Failed operations in Persia, Egypt, India, China, Ottoman territory establish hard limits
-- **The "why weren't you there" question:** Deferred — will be answered later in the series, creates sustained tension
+- **The "why weren't you there" question:** Now weaponized with jurisdiction framework — Victoria was Jewish (Judah), in London (Ephraim/Michael's territory), fighting the Harlot system (Cian's war). Triply within jurisdiction. Deferred answer creates devastating sustained tension
 
 ### Comedy Beats (Tracked)
 1. Mo Chrá *snorts* for the first time in history (car ride)
@@ -1002,6 +1022,7 @@ Approximately 8,400 words
 - [x] Territorial jurisdiction: 70 Princes at Babel, Michael guards Israel, failed ops outside territory (canon THE_ANGEL.md)
 - [x] Miriam's Jewish skepticism: cites Ezra/Nehemiah return, challenges British-Israelism as pseudo-archaeology
 - [x] Jeremiah at Tara: revealed lineage + Stone of Destiny (canon PROTAGONIST_DOSSIERS.md)
+- [x] Victoria Ashford née Mizrachi: Sephardic Jew, devout, in London (Michael's territory), fighting Harlot network — triply within Cian's jurisdiction
 - [x] Historical weapons from Ch6 armory all referenced
 - [x] Diplomatic Incursion Protocol: Japanese incursions mentioned (sanctioned ops)
 
