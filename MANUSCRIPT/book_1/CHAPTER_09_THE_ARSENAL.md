@@ -589,6 +589,112 @@ Miriam's breath caught. "Designed to survive. They *knew* the Flood was coming a
 
 "Four thousand years old. Give or take. The Harlot system. It's gone by many names — Babel, Babylon, the mystery schools, the Templars, the banking houses, the East India companies. More recently: the Club of Rome. The World Economic Forum. The branding changes every few centuries. The bloodlines don't."
 
+Miriam was quiet for a moment — not processing the Harlot system, which she'd largely deduced herself through twelve years of financial forensics. Processing something else.
+
+"You said you were commissioned by the prophet Jeremiah," she said. "Jeremiah. Kingdom of Judah. 586 BCE."
+
+"Yes."
+
+"And you were born in 611 BCE."
+
+"Approximately."
+
+"In *Ireland*."
+
+The way she said it — flat, precise, the prosecutorial inflection of a woman who had spotted the inconsistency in a witness statement and was choosing the exact angle from which to drive a wedge through it.
+
+"Yes."
+
+"So explain to me — because my grandmother was a Torah scholar and she would rise from her grave and strangle me if I didn't ask — how a man commissioned by a Hebrew prophet at the fall of Jerusalem was born twenty-five years earlier on an island in the North Atlantic that no Israelite had any business being anywhere *near*."
+
+Cian took a slow breath. He'd known this question was coming. With Brennan, it hadn't arisen — the engineer's mind had latched onto the *mechanism* (the sword, the longevity, the Mars coordinates) and cheerfully skipped the genealogy. Miriam's mind worked differently. She parsed identity the way Brennan parsed schematics.
+
+"Because the Irish aren't entirely what modern academics believe they are," he said. "My lineage — Jeremiah revealed it to me before the quest for the sword — traces to Machir, firstborn of Manasseh, firstborn of Joseph. The tribe of Manasseh."
+
+Miriam's expression underwent a transformation that Cian would have found fascinating if it hadn't been directed at him. It was the expression of a woman who had just watched someone she was beginning to take seriously say something that belonged on a conspiracy forum.
+
+"That's British-Israelism," she said.
+
+Not a question. A diagnosis.
+
+"It's—"
+
+"Herbert W. Armstrong. *The United States and Britain in Prophecy*. Edward Hine. *Forty-Seven Identifications of the British Nation with the Lost Ten Tribes of Israel*." Her voice had shifted to a register Cian recognized — the academic demolishing a thesis. "Pseudo-archaeology, pseudo-linguistics, and pseudo-genetics dressed up in nineteenth-century racial theory. Every serious Assyriologist, every geneticist, every biblical historian working in the field today has dismissed the identification of Anglo-Saxons as lost Israelites. The ten tribes were deported by Assyria in 722 BCE. The consensus — and my grandmother, who had *no* patience for gentile appropriation of Jewish identity — is clear: the remnant who maintained their identity returned under Ezra and Nehemiah. End of story. Settled history."
+
+"Some returned," Cian said. "Not all."
+
+"The Book of Ezra—"
+
+"Documents the return of a *portion*. Judah. Benjamin. Some Levites. Check the text carefully — it doesn't claim all twelve tribes came back. It names specific families from specific tribes. And the northern ten? The ones Assyria scattered across the upper Euphrates, across Media, across the territories that became — in Greek parlance — *Scythia*?"
+
+"The Scythians were Indo-Iranian nomads. The material culture, the linguistic evidence—"
+
+"The material culture was *acquired*. The language adapted. I know this because I was *there*, Miriam."
+
+The room went very still.
+
+"I spent five hundred years helping them migrate," Cian said. His voice had changed — quieter, heavier, the voice of a man describing something he had carried for millennia. "After the Assyrian deportation, the northern tribes scattered into the Eurasian steppes. Some kept their identity. Some forgot it within two generations. But the tribal structures survived — clans, kinship groups, the pattern of covenant life that Israel had practiced since Sinai. I was their pathfinder. Their rear guard. When Gog-Magog hordes attacked the migrating columns — and they weren't merely human, Miriam, they were Nephilim remnants breeding true in the northern wastes — I held the Caucasus passes."
+
+"You're telling me you *personally*—"
+
+"Six centuries. Caucasus. Scythian steppes. Germanic territories. And finally, the islands. Ireland. Britain. Scandinavia. The last waves settling between 100 BCE and 100 CE."
+
+Mo Chrá hummed — low, resonant, the frequency she used when ancient truths were spoken aloud. The vibration carried something Cian couldn't name. Memory, perhaps. The sword had been present at Tara when Jeremiah spoke. She remembered.
+
+Miriam opened her mouth. Closed it.
+
+"SIX TIMES," Raphael said quietly.
+
+"Liaigh, if you count her silences *one more time*—"
+
+"I AM COUNTING BECAUSE THE ALTERNATIVE IS INTERVENING IN A THEOLOGICAL DEBATE THAT HATH BEEN CONDUCTED POORLY BY MORTALS FOR TWO CENTURIES, AND I LACK THE PATIENCE."
+
+"He's counting again," Miriam said, without looking away from Cian.
+
+"He does that."
+
+"I don't care about his counting. I care about your claim." She leaned forward, and her eyes held the particular intensity of someone defending ground they'd stood on their entire intellectual life. "I am a *Jew*, Cian. My grandmother taught me Torah in the original Hebrew before I could read English. The idea that Irish warriors are secretly Israelite is not just academically unsound — it is *theologically offensive*. It appropriates Jewish identity for populations that have no historical, genetic, or cultural connection to—"
+
+"I'm not appropriating anything. I'm telling you what Jeremiah told *me*." Cian met her gaze without flinching. "The prophet came to Tara. To the High King's court. He brought with him certain artifacts — the Stone of Destiny among them — and he told me my lineage. Not Anglo-Saxon identity politics. Not nineteenth-century racial theory. A Hebrew prophet, standing in an Irish hall in 586 BCE, who had no interest in flattering an Irish warrior, looked me in the eye and said I was of the blood of Machir son of Manasseh. And that the sword of Methuselah had been waiting for someone of that line."
+
+"And you just... *believed* him?"
+
+"He'd predicted the fall of Jerusalem a decade before it happened. He'd survived being thrown into a cistern, imprisoned by kings, and ignored by every ruler who should have listened. When a man like that tells you who your ancestors were, you listen. And then you spend the next twenty-six centuries watching the evidence confirm it."
+
+"What evidence?"
+
+"The fact that I can only fight where Israel's children happen to live."
+
+Miriam's head tilted — the intelligence analyst's reflex, the recognition that a data point had just shifted from theological abstraction to operational reality.
+
+"What do you mean, *only*?"
+
+"Michael is the Prince of Israel. Daniel chapter ten — Gabriel tells Daniel that Michael is 'your prince.' He guards all twelve tribes, wherever they scattered. My jurisdiction aligns with his. Where Michael's authority extends, I can operate. Where it doesn't—" He stopped. "I've tried, Miriam. Persia, 400 BCE — ambushed by spirits, barely escaped alive. Egypt, deep interior — supernatural interference at every stage, weapons failed, intelligence wrong. India, 50 CE — a Prince manifested *directly* and gave me three days to leave. Tang Dynasty China — reality itself hid my targets. Ottoman territory — captured within hours."
+
+"A *Prince*. Manifested."
+
+"A celestial territorial authority. One of the seventy — or seventy-two, depending on whether you use the Masoretic or Septuagint count of Genesis 10. Each nation assigned an *elohim* at Babel. Most have corrupted their mandate. Many are allied with the Watchers' legacy system. But their jurisdiction is *real*. And when I cross into their territory, Raphael can't protect me fully."
+
+"THAT IS CORRECT," Raphael confirmed. "OUTSIDE MICHAEL'S JURISDICTION, I AM... DIMINISHED. THE PRINCES MAY BE CORRUPT, BUT THEIR AUTHORITY PREDATETH EVERY HUMAN NATION. IT WAS GRANTED BY THE MOST HIGH HIMSELF."
+
+"So there are territories on Earth," Miriam said slowly, "where Nephilim bloodlines operate with *impunity* — because you physically cannot reach them."
+
+"Yes." The single word carried twenty-six centuries of frustration. "Asia. Most of Africa. The deep Middle East outside Jewish communities. South America. Vast territories where bloodlines I've tracked for centuries operate freely, and I can do *nothing* because the Prince who governs that region will destroy me faster than any Nephilim ever could."
+
+"And your operational territory — the places you *can* operate — just happens to be Europe, the Anglosphere, and Israel."
+
+"And wherever Jewish diaspora communities exist. Michael's protection follows Judah as well as the northern tribes."
+
+Miriam looked at him for a long moment. Behind her eyes, Cian could see the architecture of her worldview undergoing careful renovation — not demolition, not yet, but the discovery that the structure stood on foundations she hadn't known existed.
+
+"You're telling me," she said, "that the geographic distribution of your operational capability — an Irish-born, allegedly Israelite immortal warrior who can *only* fight in specific territories — is itself evidence that the ten tribes migrated to exactly those territories."
+
+"I'm telling you what happened. The theology is God's problem."
+
+"MY PROBLEM, TECHNICALLY," Raphael corrected.
+
+Mo Chrá's hum carried a note of amusement that suggested the sword found the jurisdictional argument considerably less distressing than the humans did.
+
 Miriam sat down slowly. Not the controlled sit of a woman choosing a tactical position. The gravity-assisted sit of a woman whose legs had made an executive decision about load-bearing.
 
 "And Vârcolac," she said.
@@ -844,7 +950,7 @@ Together.
 ## CHAPTER NOTES
 
 ### Word Count
-Approximately 6,800 words
+Approximately 8,400 words
 
 ### Key Decisions Locked
 - **Chapter numbering shift:** Ch9 = The Arsenal (was "Arsenal" / Ch8 in framework), Ch10 = The Reckoning
@@ -853,6 +959,9 @@ Approximately 6,800 words
 - **Miriam qualified on L85A3** during an unspecified British military training programme (connects to her Year 1 SAS training under James)
 - **Mo Chrá's unprecedented laugh:** Full harmonic laughter — first time in 5,000 years of existence
 - **Raphael hints at Miriam's significance:** Privately tells Cian she "meaneth something" and that he'll understand "in time" — cryptic, preserving the hidden identity
+- **Cian's Manassite lineage revealed to Miriam:** Machir → Manasseh → Joseph. Jeremiah revealed at Tara, 586 BCE
+- **Ten-tribes debate:** Miriam challenges British-Israelism as debunked pseudo-archaeology; Cian counters with eyewitness testimony of 500-year migration
+- **Jurisdictional system explained:** Michael = Prince of Israel → Cian can only operate where scattered tribes settled. Failed operations in Persia, Egypt, India, China, Ottoman territory establish hard limits
 - **The "why weren't you there" question:** Deferred — will be answered later in the series, creates sustained tension
 
 ### Comedy Beats (Tracked)
@@ -866,12 +975,14 @@ Approximately 6,800 words
 8. "Tell him I'm *armed*" / Raphael: "Armament is one of the more reliable indicators of magnificence" (armoury)
 9. Bannockburn: "Which side?" / "Neutral observer" / "With a five-foot sword" (inventory)
 10. "I don't believe in magic swords" → "I believe in sharp things that kill monsters. The theological origin is negotiable" (weapons selection)
+11. Raphael counting silences — "SIX TIMES" / Cian: "if you count her silences one more time—" / Raphael: theological debate conducted poorly for two centuries (the proof)
+12. "The theology is God's problem" / Raphael: "MY PROBLEM, TECHNICALLY" (the proof)
 
 ### Tonal Structure
 - **Section I (The Ride):** Rapid-fire argument. Comedy builds from friction. Mo Chrá snorts/giggles for the first time.
 - **Section II (The Argument):** Arrival at safehouse. Heat continues. Raphael introduced. Miriam requests 17 minutes and whiskey.
 - **Section III (The Arsenal):** THE COMEDY SET-PIECE. Miriam stops mid-argument, sees the weapons, and undergoes visible neurological crisis. Eyes twitching. Mouth opening and closing. Whiskey spilling. Escalates to Mo Chrá's full harmonic laugh.
-- **Section IV (The Proof):** Tonal shift to serious. The exposition chapter — Watchers, Nephilim, Acoustic Paradigm, Oiketerion, Apkallu, Cainan, Sumerian Problem, Harlot system. Miriam processes at speed.
+- **Section IV (The Proof):** Tonal shift to serious. The exposition chapter — Watchers, Nephilim, Acoustic Paradigm, Oiketerion, Apkallu, Cainan, Sumerian Problem, Harlot system. Then Miriam challenges Cian's Israelite identity (ten-tribes debate) and the jurisdictional system is explained. Full heated exchange — Miriam cites Ezra/Nehemiah, Cian drops the eyewitness hammer.
 - **Section V (The Inventory):** Blend of comedy and mission prep. Miriam armed. Saxon sword selected. "Why weren't you there" question establishes ongoing tension. Alliance cemented.
 
 ### Canon Compliance Verified
@@ -886,6 +997,11 @@ Approximately 6,800 words
 - [x] Naamah as origin of vampiric creation (pharmakeia rituals)
 - [x] WEF/Club of Rome as modern Harlot fronts
 - [x] Jurisdictional awareness: back in Austrian territory = Michael's jurisdiction
+- [x] Cian's Manassite lineage (Machir → Manasseh → Joseph → Jacob/Israel)
+- [x] Ten-tribes migration: Assyrian deportation → Scythian steppes → Europe (canon CIAN_MAC_MORNA.md)
+- [x] Territorial jurisdiction: 70 Princes at Babel, Michael guards Israel, failed ops outside territory (canon THE_ANGEL.md)
+- [x] Miriam's Jewish skepticism: cites Ezra/Nehemiah return, challenges British-Israelism as pseudo-archaeology
+- [x] Jeremiah at Tara: revealed lineage + Stone of Destiny (canon PROTAGONIST_DOSSIERS.md)
 - [x] Historical weapons from Ch6 armory all referenced
 - [x] Diplomatic Incursion Protocol: Japanese incursions mentioned (sanctioned ops)
 
