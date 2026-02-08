@@ -231,13 +231,13 @@ Before writing ANY scene, verify:
 - Destroys those who would protect her
 - Pattern mirrors Sarah in Book of Tobit
 
-## §4.5 Brennan mac Niamh
+## §4.5 Brennan mac Niamh (McNeeve)
 
 | Attribute | Value |
 |-----------|-------|
 | **Relation to Cian** | Descendant of Niamh (Cian's sister) |
 | **Role** | Mars mission lead |
-| **Bloodline** | Josephite (excluded from Beast system) |
+| **Bloodline** | Josephite specifically from Machir "The Man of War" (excluded from Beast system) |
 | **Function** | Key revelation vector for Cydonia discovery |
 
 ---

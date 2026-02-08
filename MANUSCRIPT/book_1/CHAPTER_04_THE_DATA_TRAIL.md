@@ -764,7 +764,7 @@ But the folder was what mattered.
 
 Project Niamh.
 
-Seven centuries of hunting. Seven centuries of *patience*. Seven centuries of watching and waiting and planning, all focused on a single bloodline that had the misfortune of descending from his sister—the woman Cian had failed to protect when it mattered most.
+Seven centuries of hunting. Seven centuries of *patience*. Seven centuries of watching and waiting and planning, all focused on a single bloodline that had the misfortune of descending from his sister—the woman Cian had failed to protect as a child when it mattered most. Now..now they're after another child - Emma, a lineal decendant of Niamh.
 
 Lord Vârcolac.
 

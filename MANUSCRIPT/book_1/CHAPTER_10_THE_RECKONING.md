@@ -901,7 +901,7 @@ Not singing.
 
 Mo Chrá was *furious*.
 
-The frequency that erupted from the spinning blade was volcanic — a harmonic of outraged dignity so pure and so profound that Miriam felt it in her teeth. The blade was five thousand years old. She had been forged by the man who walked with God. She had sung creation frequencies at the dawn of civilisation. She had been wielded by warriors and prophets and the longest-serving hunter in celestial history.
+The frequency that erupted from the spinning blade was volcanic — a harmonic of outraged dignity so pure and so profound that Miriam felt it in her teeth. The blade was five thousand years old. She had been forged by the man who walked with God. She had sung creation frequencies at the dawn of civilisation. She had been wielded by a long-lived antediluvian warrior and the longest-serving hunter in celestial history.
 
 And she had just been *thrown across a room like a cricket ball*.
 

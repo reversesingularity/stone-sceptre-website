@@ -202,7 +202,9 @@ Mo Chrá's hum became something Miriam had never heard before. Not the sardonic 
 
 The question hung in the cabin, suspended between them like a bridge that hadn't been crossed in twenty-six centuries.
 
-"Cian mac Morna." His voice was quiet. "A Gael. A warrior of the Craobh Ruadh. The boy who watched his family's *ráth* burn when the Babylonians came."
+"Cian mac Morna." His voice was quiet. "A Gael. A warrior of the Craobh Ruadh. The boy who watched his family's *ráth* burn when King Aodhan's ally Morrigan the Shadow-weaver came for them."
+
+The words settled between them. Miriam heard the shape of something familiar in his loss — a family destroyed by a supernatural predator sent by a human master. The same architecture of grief that had defined her own life since New Mexico.
 
 Not Sean Morna the consultant. Not the cover identity that had served him through a hundred different aliases across a hundred different centuries. The man underneath. The one that Mo Chrá remembered.
 
