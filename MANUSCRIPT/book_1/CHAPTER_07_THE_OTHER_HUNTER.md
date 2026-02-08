@@ -213,7 +213,7 @@ Not literally. Her passport was still valid, her university records still on fil
 
 What rose from the ashes was something else entirely.
 
-*Uncle James* — James Whitfield, a retired SAS sergeant who had served with a man who owed Victoria a debt — gave Miriam three things when she arrived at his cottage in the Scottish Highlands with nothing but a backpack, a flash drive, and eyes that had seen things no nineteen-year-old should see.
+*Uncle James* — James Madigan, a retired SAS sergeant who had served with a man who owed Victoria a debt — gave Miriam three things when she arrived at his cottage in the Scottish Highlands with nothing but a backpack, a flash drive, and eyes that had seen things no nineteen-year-old should see.
 
 The first was a roof over her head.
 

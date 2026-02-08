@@ -1,6 +1,6 @@
 # THE REVELATION SEQUENCE
 
-## Chapters 12-13 Draft — The Oaths of the Twenty Chiefs
+## Chapters 10-12 Draft — The Oaths of the Twenty Chiefs
 
 **Status:** DRAFT — For Integration  
 **Word Count:** ~6,500 words  
@@ -8,7 +8,7 @@
 
 -----
 
-## CHAPTER 12 (PARTIAL): THE FREQUENCY
+## CHAPTER 10 (PARTIAL): THE FREQUENCY
 
 ### Scene: McNeeve Secure Facility, Austin — Night
 
@@ -146,7 +146,7 @@ The holographic inscriptions *blazed*.
 
 -----
 
-## CHAPTER 13: THE OATHS
+## CHAPTER 11: THE OATHS
 
 What came next was not sound.
 
@@ -225,6 +225,20 @@ They had always been real.
 
 -----
 
+**THE VOICE OF AZAZEL:**
+
+**“I AM ASAÊL, CALLED AZAZEL, THE SCAPEGOAT.**
+**I SHALL TEACH THE DAUGHTERS OF MEN**
+**TO PAINT THEIR EYES WITH CORRUPTION,**
+**TO ADORN THEMSELVES FOR SLAUGHTER.**
+**I SHALL TEACH THE SONS OF MEN**
+**TO FORGE WEAPONS OF WAR,**
+**TO SPILL THE BLOOD OF THEIR BROTHERS.**
+**UPON MY HEAD LET THE SINS OF THE WORLD BE PLACED,**
+**FOR I SHALL MAKE SINNERS OF THEM ALL.**
+**I BIND MYSELF TO THIS COVENANT…”**
+
+-----
 
 Cian tried to lower Mo Chrá. Tried to break the connection.
 
