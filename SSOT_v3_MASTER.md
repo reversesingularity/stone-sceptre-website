@@ -249,16 +249,16 @@ Before writing ANY scene, verify:
 | # | Name | Sin Domain | Status | Key Note |
 |---|------|-----------|--------|----------|
 | 1 | **SHEMYAZA** | Commander; sorcery | Imprisoned (Tartarus) | Broken by what he became |
-| 2 | **[VACANT]** | — | — | Azazel promoted but is NEPHILIM |
+| 2 | **ARMAROS** | Counter-magic, oaths, binding | Imprisoned | **XO / Consigliere** — Shemyaza's second-in-command |
 | 3 | **ARAQIEL** | Earth signs, geomancy | Imprisoned | Taught sacred geography |
 | 4 | **KOKABEL** | Constellations | Imprisoned | Star-worship, astrology |
 | 5 | **TAMIEL** | Demons, abortion | Imprisoned | Taught spiritual access |
 | 6 | **RAMIEL** | Visions | Imprisoned | False prophecy |
-| 7 | **DANEL** | Writing | Imprisoned | Corrupted knowledge |
+| 7 | **DANEL** | Legal judgment, signs | Imprisoned | Corrupted justice |
 | 8 | **EZEQEEL** | Cloud knowledge | Imprisoned | Weather manipulation |
 | 9 | **BARAQIEL** | Lightning | Imprisoned | Energy manipulation |
 | 10 | **ASAEL** | Cosmetics, vanity | Imprisoned | Azazel's lieutenant |
-| 11 | **ARMAROS** | Counter-magic, oaths | Imprisoned | Binding specialist |
+| 11 | **PENEMUE** | Writing, forbidden wisdom | Imprisoned | Taught "the bitter and the sweet" |
 | 12 | **BATAREL** | Unknown | Imprisoned | — |
 | 13 | **ANANEL** | Unknown | Imprisoned | — |
 | 14 | **ZAQIEL** | Unknown | Imprisoned | — |

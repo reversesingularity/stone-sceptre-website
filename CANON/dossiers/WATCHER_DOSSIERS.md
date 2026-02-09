@@ -630,8 +630,8 @@ Bound with Shemyaza and the other Watchers for seventy generations in the Abyss.
 | **Alternate Names** | Armârôs, Pharmaros, Abaros, Armers, Hermani, Armumahel |
 | **Mythological Aliases** | **Greek:** Asclepius (healing/pharmakeia — note "Pharmaros" variant), Circe (witch who uses pharmaka), Medea (sorceress, poison/counter-magic); **Roman:** Angitia (goddess of healing and poison, snake-charming); **Egyptian:** Serqet (scorpion goddess, healing poison bites), Isis (in her magical healing aspect); **Hindu:** Dhanvantari (divine physician), but corrupted — teaches counter-curse rather than healing; **Persian:** Haoma (sacred/healing plant — corrupted); **Celtic:** Brigid (in her healing aspect, corrupted); **General Pattern:** Armaros appears fragmentarily across traditions as "the counter-curse expert" — the sorcerer's sorcerer, the one witches call when they've been cursed. His name "Pharmaros" directly connects to Greek φάρμακον (pharmakon) — drug, medicine, or poison |
 | **Name Etymology** | **PRE-FALL:** "Devoted One" (from חרם cherem in its positive sense — consecrated, set apart, devoted to sacred purpose). Armaros was the angelic overseer of sacred oaths, covenants, and binding agreements — the celestial notary, the one invoked when making unbreakable promises, who sealed agreements with divine authority. **POST-FALL:** The same root חרם became associated with "devoted to destruction" / "cursed" — the meaning inverted when his gift was perverted. His knowledge of binding became knowledge of cursing; his authority over oaths became power over enchantments. |
-| **Rank** | Chief of Tens |
-| **Position in Hierarchy** | 10th of 20 Chiefs / Counter-Magic Instructor |
+| **Rank** | Executive Officer / Consigliere (2nd-in-command) |
+| **Position in Hierarchy** | **#2 of 20 Chiefs / XO to Shemyaza** / Counter-Magic Instructor |
 | **Current Status** | IMPRISONED — Bound in the Abyss with Shemyaza |
 | **Prison Location** | The Abyss (Tartarus) — Bound for seventy generations |
 
@@ -1313,12 +1313,12 @@ Gadreel is bound in the Abyss with the other Watchers, awaiting the Day of Judgm
 # APPENDIX A: SUMMARY TABLE OF THE WATCHER CHIEFS
 
 **⚠️ HIERARCHY NOTE:**  
-Shemyaza is the **CAPTAIN** (supreme commander). The remaining 19 are **LIEUTENANTS** (Chiefs of Tens) — equal in rank to each other, distinguished only by their domains. The numbering below is for reference only, not hierarchical position.
+Shemyaza is the **CAPTAIN** (supreme commander). **Armaros** is the **EXECUTIVE OFFICER / CONSIGLIERE** (second-in-command, position #2). The remaining 18 are **LIEUTENANTS** (Chiefs of Tens) — equal in rank to each other, distinguished only by their domains. The numbering below is for reference only, not hierarchical position (except #1 Shemyaza and #2 Armaros).
 
 | # | Name | Primary Teaching | Threat Level | Notes |
 |---|------|------------------|--------------|-------|
 | C | **SHEMYAZA** | Sorcery, Enchantments | LOW to NEGLIGIBLE | CAPTAIN — Broken; origin story only |
-| L | **ARAKIBA** | Unknown (probable earth-related) | UNKNOWN | Listed 2nd in 1 Enoch 6:7 |
+| XO | **ARMAROS** | Counter-Magic, Binding, Oaths | MODERATE | **XO / Consigliere** — Proposed the mutual oath |
 | L | **ARAQIEL** | Earth Signs, Geomancy | HIGH | |
 | L | **KOKABEL** | Constellations, Astrology | MODERATE | |
 | L | **TAMIEL** | Demons, Abortion, Astronomy | HIGH | |
@@ -1327,7 +1327,6 @@ Shemyaza is the **CAPTAIN** (supreme commander). The remaining 19 are **LIEUTENA
 | L | **EZEQUEEL** | Cloud Knowledge | MODERATE | |
 | L | **BARAQIEL** | Astrology, Lightning | MODERATE | Father of Mahway |
 | L | **ASAEL** | Unknown | UNKNOWN | NOT Azazel — see note below |
-| L | **ARMAROS** | Counter-Magic | MODERATE | |
 | L | **SHAMSIEL** | Sun Signs | MODERATE | |
 | L | **SARIEL** | Lunar Knowledge | MODERATE | |
 | L | **BATAREL** | Unknown | UNKNOWN | |
@@ -1351,7 +1350,7 @@ Previous scholarship conflated these two names due to spelling similarities. How
 - **AZAZEL** was Gadreel's son who expanded his father's weapons teachings into a complete corruption curriculum
 - Different prison (Dudael vs. Abyss) and different judge (Raphael vs. Michael) confirm different categories
 
-**Note:** The claim that "Azazel was listed second" is erroneous. 1 Enoch 6:7 lists **Arakiba** second after Shemyaza. The 19 lieutenants were equal in rank; there was no "#2 position" in the command structure.
+**Note:** 1 Enoch 6:7 lists **Arakiba** second after Shemyaza. However, for this series, **Armaros** holds the #2 position as Shemyaza's XO/consigliere — the one who proposed and constructed the mutual binding oath. The remaining 18 lieutenants were equal in rank.
 
 For Azazel's complete profile, see **NEPHILIM_DOSSIERS, Dossier N-004**.
 

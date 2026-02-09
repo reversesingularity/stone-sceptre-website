@@ -6,7 +6,7 @@
 
 The Austrian safehouse had become a different place with James Madigan in it.
 
-Where before it had been Cian's solitary command post — a converted wine cellar fitted with technology that would have seemed like sorcery to anyone who didn't know Brennan Webb — now it hummed with the particular energy of a team. Miriam's intelligence feeds ran on one console. James's tactical planning documents occupied another. Video feeds connected them to Brennan's Austin facility, where the engineer was working around the clock to solve a problem that had been vexing him for eighteen months.
+Where before it had been Cian's solitary command post — a converted wine cellar fitted with technology that would have seemed like sorcery to anyone who didn't know Brennan McNeeve — now it hummed with the particular energy of a team. Miriam's intelligence feeds ran on one console. James's tactical planning documents occupied another. Video feeds connected them to Brennan's Austin facility, where the engineer was working around the clock to solve a problem that had been vexing him for eighteen months.
 
 Mars.
 
@@ -258,7 +258,7 @@ Cian looked at him.
 
 ## V. THE WITNESSES
 
-In Austin, Texas, Brennan Webb sat frozen at his console.
+In Austin, Texas, Brennan McNeeve sat frozen at his console.
 
 The audio feed from the Austrian safehouse had been running in the background — standard security protocol, maintained in case of emergencies. He'd been half-listening while he worked on the Cydonia problem, his attention split between spectral analysis and the quiet murmur of his team's conversation.
 
@@ -454,7 +454,7 @@ The silence that followed was different from the silences of the night before. T
 
 Cian looked at the display — the red planet rendered in satellite imagery, the Cydonia complex highlighted with its twenty ancient steles. Somewhere in those angular pillars, the voices of fallen angels waited to speak.
 
-"We're starting with Mars," he confirmed. "And then we're going to Antarctica."
+"We're starting with Mars," he confirmed. "And then we're going to wherever the find leads us."
 
 Mo Chrá hummed — anticipation and warning intertwined.
 
@@ -483,7 +483,7 @@ This chapter resolves a core emotional thread established in THE_BRIDE_OF_CHRIST
 **Witnesses:**
 - James Madigan — Primary confessor, former Catholic, understands the weight of faith
 - Miriam Ashford — Overhears from upstairs, recognises the same wound in different form
-- Brennan Webb — Audio feed running in background, standard security protocol
+- Brennan McNeeve — Audio feed running in background, standard security protocol
 - Marcus Reeves — Present with Brennan, hears everything
 
 **Mo Chrá's role:** Comforting hum throughout. She's watched this grief for two thousand years and has never stopped trying to help.
