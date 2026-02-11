@@ -14,9 +14,9 @@
 | Act | Chapters | Focus | Climax |
 |-----|----------|-------|--------|
 | **I: The Descent** | Prologue + Ch 1-2 | Vision; obsession; family reconnection; truth revealed | Brennan learns the truth |
-| **II: The Commission** | Ch 3-8 | Guardian calling explained; Mars mission planning; Enemy countermoves | Cian accepts the Guardian mantle |
-| **III: The Preparation** | Ch 9-15 | Mission preparation; flashbacks; partnership deepens | Mission parameters locked |
-| **IV: The Awakening** | Ch 16-20 | Launch; waiting; coordinates discovered; search begins | Eden coordinates revealed |
+| **II: The Commission** | Ch 3-8 | Naamah hunt intensifies; Mars connection emerges; Guardian calling seeded (private) | Cian commits to Mars mission |
+| **III: The Preparation** | Ch 9-15 | Mission preparation; flashbacks; partnership deepens; stele activation | Anti-singularity event |
+| **IV: The Awakening** | Ch 16-20 | Aftermath; silence chapters; 2nd dream-vision; data decoding begins | Cian receives vision; search begins |
 
 ### Key Structural Changes from Original Outline
 
@@ -170,20 +170,20 @@
 ## CHAPTER 6: THE BREAK IN THE ROUTINE
 *Austin, Texas — Night 4-5*
 
-**Opening:** Cian sleeps. The vision comes again — but different.
+**Opening:** Cian sleeps. Restless — the vision from Chapter 1 still reverberates.
 
 **Plot Points:**
-- Second vision — not the Watchers' fall, but their imprisonment
-- He sees Michael binding Shemyaza — the chains, the pit, the darkness
-- He sees Azazel cast into Dudael — the desert that became Antarctica
-- He sees the Abyss — the prison of the Nephilim spirits
-- And he sees something new: two figures standing in light — one ancient, one younger
-- "THESE ARE THE WITNESSES. AND THOU ART THEIR SHIELD."
+- Cian can't shake the vision — it's been weeks, and the details aren't fading the way dreams should
+- Mo Chrá is behaving strangely — humming at frequencies Cian hasn't heard before
+- He digs deeper into the Naamah financial trail — the thread from the Houston kill
+- A lead surfaces: Brennan's Mars project coordinates overlap with something in the sword's resonance map
+- Coincidence? Cian doesn't believe in coincidence
+- Liaigh: "THE TIME OF PREPARATION IS ENDED. THE TIME OF REVELATION BEGINNETH."
 
 **The Disruption:**
-- Cian wakes to Liaigh's voice — urgent, serious
-- "THE TIME OF PREPARATION IS ENDED. THE TIME OF REVELATION BEGINNETH."
 - For the first time in centuries, something has changed
+- Cian doesn't understand what's coming — but he knows the sword's behaviour is unprecedented
+- He decides to look more closely at Brennan's Cydonia data
 
 **Closing Line:** "Twenty-six hundred years of the same war. The same targets. The same hollow victories. And now, tonight, the angel was telling him everything he knew was about to change."
 
@@ -278,79 +278,75 @@
 ## CHAPTER 10: THE GUARDIAN'S LESSON
 *Austin, Texas — Day 6-7*
 
-**Opening:** Cian refuses the commission. Liaigh persists.
-
-**Plot Points:**
-- Cian argues: "I'm a hunter, not a nursemaid."
-- Liaigh: "DOST THOU THINK THE TWO WITNESSES NEED PROTECTION FROM THAT WHICH THOU CANST HANDLE?"
-- Explanation: The Witnesses can call fire, stop rain, turn water to blood
-- But they can be killed. They WILL be killed (Rev 11:7).
-- The Guardian's role: extend their ministry as long as possible
-- "EVERY DAY THEY PREACH IS A DAY SOULS MAY HEAR. EVERY DAY THOU GUARDEST IS A DAY GAINED."
-
-**The Turning Point:**
-- Cian asks about the Witnesses — who are they?
-- Liaigh explains Enoch and Elijah — the two men who never died
-- Cian: "Enoch... the one who made my sword?"
-- Liaigh: "THE SAME. HE FORGED IT FOR THEE. HE SAW THEE IN VISION, FIVE THOUSAND YEARS BEFORE THY BIRTH."
-
-**Character Work:**
-- The personal connection — Enoch made the sword *for Cian*
-- Everything in his life has been preparation
-- Maybe the commission isn't lesser — maybe it's central
-
-**Closing Line:** "The man who made the sword had seen him coming. Five thousand years of preparation. And Cian still wanted to argue."
-
----
-
-## CHAPTER 11: THE ACCEPTANCE (CONDITIONAL)
-*Austin, Texas — Day 8*
-
-**Opening:** Cian concedes — conditionally.
-
-**Plot Points:**
-- "Fine. Tell me what I need to do."
-- Liaigh: "FIRST, THOU MUST UNDERSTAND WHAT THOU ART FACING."
-- Full briefing: The Unholy Trinity (Shemyaza's son Ohya as Beast, Azazel as False Prophet, Naamah as Whore)
-- The timeline: The Beast emerges from the Abyss at God's timing
-- Azazel will be released first — someone will find his prison
-- Naamah's network is already active — the Synagogue of Satan
-- Cian: "And where are the Witnesses now?"
-- Liaigh: "IN EDEN. WAITING."
-
-**The Task:**
-- Cian must find Eden's location
-- He must retrieve both Witnesses — or give them the signal to emerge
-- He must protect them for 1,260 days
-- He must accept that he will not survive
-
-**Closing Line:** "Eden. The garden that had been sealed since Adam's exile. And Liaigh expected him to just... find it."
-
----
-
-## CHAPTER 12: THE PATTERN RECOGNIZED
-*Austin, Texas — Day 9-10*
-
-**Opening:** Cian begins research. The pattern emerges.
+**Opening:** Cian digs deeper into the Mars-Naamah connection.
 
 **Plot Points:**
 - The sword responds to certain locations — vibrations, resonances
 - Over centuries, Cian has noted these responses but never understood them
 - Now he maps them: Jerusalem. Sinai. Ararat. Hermon.
 - And one more: a location on Mars that makes no logical sense
-- Brennan's company has been working on Mars exploration
-- Cian realizes: the vision showed him Mars for a reason
+- Brennan's company has been working on Mars exploration — those exact coordinates
+- "The vision showed me Naamah and the Watchers' fall. Brennan's project is photographing the place where they fell FROM. That's not coincidence."
 
-**The Connection:**
-- The Watchers had a station on Mars — Cydonia
-- They left records, coordinates, information
-- Information that might include Eden's location — or the prison coordinates
-- "The enemy left a map. And Brennan might be able to read it."
+**The Turning Point:**
+- Cian asks about the sword's origins — who made it, and why
+- Liaigh: "ENOCH FORGED IT FROM THE DEBRIS OF THE WATCHERS' TRANSIT. HE SAW THEE IN VISION."
+- Cian: "He saw *me*? Five thousand years before I was born?"
+- The personal connection — everything in his life has been preparation for *something*
+- But Liaigh won't say WHAT
 
 **Character Work:**
 - Cian's strategic mind — twenty-six centuries of pattern recognition
+- Growing suspicion that there's a larger purpose he hasn't been told
 - The reluctant decision: he needs Brennan's help
-- Which means he needs to tell Brennan the truth
+
+**Closing Line:** "The man who made the sword had seen him coming. Five thousand years of preparation. And Cian still didn't know what for."
+
+---
+
+## CHAPTER 11: THE ACCEPTANCE (CONDITIONAL)
+*Austin, Texas — Day 8*
+
+**Opening:** Cian confronts the evidence — the Mars connection is too precise to ignore.
+
+**Plot Points:**
+- "Fine. I need to talk to Brennan about Mars. But I need to understand what I'm looking for."
+- Liaigh provides limited tactical briefing:
+  - The Watchers had a station on Mars — Cydonia
+  - They left records, coordinates, territorial claims
+  - The material is the same substance as Mo Chrá's blade
+- Cian: "So the steles on Mars might contain... what? Maps? Records?"
+- Liaigh: "THEY CONTAIN THE OATHS. THE WATCHERS RECORDED THEIR OWN REBELLION."
+- Cian processes this: "And you want me to find a way to make them speak."
+- Liaigh: "I WANT THEE TO FOLLOW THE THREAD. WHERE IT LEADETH IS NOT YET FOR ME TO SAY."
+
+**The Task:**
+- Cian needs Brennan's engineering capability to access Cydonia data
+- Which means he needs to tell Brennan the truth about their family
+- Cian: "And what happens after the steles? What's the larger picture?"
+- Liaigh: "THOU SHALT KNOW WHEN THE FATHER WILLS IT."
+
+**Closing Line:** "The thread was Mars. The tool was Brennan. And the answers — as always — were hidden behind the angel's maddening silence."
+
+---
+
+## CHAPTER 12: THE PATTERN RECOGNIZED
+*Austin, Texas — Day 9-10*
+
+**Opening:** Cian maps the sword's resonance patterns against Brennan's Mars data.
+
+**Plot Points:**
+- The overlap is unmistakable — Mo Chrá resonates with the exact coordinates Brennan is targeting
+- Cian traces the Naamah financial architecture: it's not just crime, it's a *system*
+- The Harlot's network touches everything — banking, politics, church hierarchies
+- He realises the scope: "She's not hiding. She's *governing*."
+- The connection crystallises: vision showed Naamah + Watchers. Brennan found Watcher ruins. Mo Chrá was forged FROM those ruins.
+- "It's all connected. The vision, the sword, Mars, Naamah. And I need Brennan to help me understand how."
+
+**Character Work:**
+- Cian's strategic mind — pieces falling into place
+- The reluctant decision: he needs Brennan's help
+- Which means telling Brennan the truth about their family
 
 **Closing Line:** "He had kept the secret for fifteen years. Brennan didn't know his 'consultant' was his mother's brother — or that his mother had been born in 586 BCE. That was about to change."
 
@@ -359,24 +355,25 @@
 ## CHAPTER 13: THE DECISION
 *Austin, Texas — Day 11*
 
-**Opening:** Cian prepares to tell Brennan everything.
+**Opening:** Cian prepares to tell Brennan everything he can.
 
 **Plot Points:**
 - Mental preparation — how do you tell someone their family history is a lie?
 - Rehearsing: the Nephilim, the sword, his identity, Brennan's mother
-- The weight of what he's about to ask — not just belief, but *action*
+- He can't tell Brennan everything — because he doesn't KNOW everything
+- He knows: Naamah is the Harlot. The Watchers were real. Mars holds their records.
+- He suspects: there's a larger purpose he hasn't been told
+- He doesn't know: what the steles contain, what his commission is, or where this leads
 - Liaigh: "HE HATH THE RIGHT TO KNOW. AND THE RIGHT TO REFUSE."
 - Cian: "And if he refuses?"
 - Liaigh: "THEN THOU FINDEST ANOTHER WAY. BUT THOU GIVEST HIM THE CHOICE."
 
 **The Decision:**
-- Cian accepts his commission fully — not conditionally
-- He will be the Guardian
-- He will find Eden
-- He will protect the Witnesses
-- And he will die doing it, if that's what it takes
+- Cian commits to the hunt — wherever it leads
+- Not a cosmic commission he's accepted, but a warrior's instinct: the connected threads MEAN something
+- He will follow them
 
-**Closing Line:** "The Guardian's commission. John 15:13 made flesh. Greater love hath no man than this, that a man lay down his life for his friends. Cian had been laying down his life for twenty-six centuries. Maybe it was time he knew what he was dying for."
+**Closing Line:** "He didn't know what the steles would say. He didn't know what role he was meant to play. But for the first time in centuries, the thread was pulling — and Cian mac Morna was done resisting it."
 
 ---
 
@@ -654,41 +651,47 @@
 ## CHAPTER 25: THE AWAKENING
 *Austin / Mars — Day 121*
 
-**Opening:** The rover lands. The first images arrive.
+> **REVISION NOTE (February 2026):** This chapter has been completely restructured. The original plan had Cian receiving specific Antarctic coordinates and Eden location from Mars photographs. The new structure withholds these reveals — Antarctica/Dudael is a late Book 1 / Book 2 reveal from decoded data. The Eden coordinates are a later-series discovery. This chapter now focuses on the 2nd dream-vision.
 
-**Plot Points:**
-- Signal acquired — eighteen-minute delay, then photographs
-- The Face on Mars: exterior, then interior access through collapsed section
-- The chamber: obsidian walls, crystalline matrices, Enochian inscriptions
-- And there, carved in stone five thousand years ago: coordinates
-- "79°58'39.25"S 81°57'32.21"W" — Antarctica
-- Cian: "Dudael. Azazel's prison."
-- Liaigh: "THE COORDINATES OF THE FIRST SEAL TO BE BROKEN."
+**Opening:** Nineteen days after the anti-singularity event. Mo Chrá stirs. Liaigh returns.
 
-**The Revelation:**
-- More images: the territorial tablets, the twenty marker stones
-- Each stone naming a Watcher chief, each marking a territorial claim
-- And one more set of coordinates — not on Earth
-- A location described in Enochian: "THE GARDEN WHERE THE FIRST WALKED"
-- Liaigh: "EDEN."
+**THE 2ND DREAM-VISION (full chapter — Prologue-length):**
 
-**The Commitment:**
-- Cian: "We have what we need. Now I find the Witnesses."
-- Brennan: "We find them. You're not doing this alone anymore."
-- Cian looks at his descendant — his family — and nods
-- "Then let's begin."
+**Source:** Authorised revelation from the Lord of Hosts, delivered through Raphael/Liaigh. Cian perceives it as a direct revelation from God — Liaigh and Mo Chrá confirm this interpretation without revealing Liaigh as the conduit.
 
-**CLOSING SCENE:**
-- Cian, alone, sword in hand, looking at the Eden coordinates
-- Liaigh: "THE JOURNEY WILL BE LONG. THE COST WILL BE HIGH."
-- Cian: "I've been paying costs for twenty-six centuries. I can handle a few more."
-- Liaigh: "THE FINAL COST... THOU KNOWEST WHAT IT WILL BE."
-- Cian: "Greater love hath no man than this."
-- He sheathes the sword. He takes a breath. He steps forward into purpose.
+**Content:**
+- Cian sees the aftermath of the Watcher descent — NOT what he saw in the first vision
+- He sees a specific Watcher — Gadreel — and a Nephilim son born from him
+- The son's teachings — metallurgy, cosmetics, enchantments, pharmakeia — expanding his father's curriculum
+- The son's binding — chained by Raphael, cast into a place of darkness and sharp stones
+- The name: **AZAZEL**
+- But the vision does NOT reveal: Azazel's prison location, his end-time role, or why this matters NOW
+- The vision ends with a sense of unfinished business — something Cian can't articulate
+
+**Post-Vision Dialogue:**
+- Cian, shaken: "That was... different from the first. Clearer. More... directed."
+- Liaigh (now recovered): "IT WAS."
+- Mo Chrá hums in confirmation
+- Cian: "Gadreel had a son. A Nephilim. Named Azazel. Why was I shown this?"
+- Liaigh: "THOU WERT SHOWN WHAT THOU NEEDEST TO KNOW. THE MEANING WILL COME."
+- Cian: "That's not an answer."
+- Liaigh: "IT IS THE ONLY ANSWER I AM PERMITTED TO GIVE."
+
+**The Gadreel-Azazel Connection:**
+- Cian now knows the parentage — but NOT the significance
+- He doesn't connect Azazel to the False Prophet role
+- He doesn't know where Azazel is imprisoned
+- He files it away: another piece of a puzzle he can't see
+
+**Closing:**
+- Cian, with Mo Chrá humming again and Liaigh restored, feels something he hasn't felt in centuries: purpose
+- Not the cynical purpose of a professional killer — but the sense that the threads are converging
+- Naamah. Mars. The oaths. Gadreel's son. The 7-second recording still waiting to be decoded.
+- "There's a pattern. I can almost see it."
 
 **FINAL LINE:**
 
-"The Guardian was awake. The search had begun. And somewhere in a garden sealed since the expulsion of Adam, two men who had never died were waiting for a warrior who had been dying for twenty-six centuries to finally bring them home."
+"The Guardian was awake. The search had begun. And somewhere in seven seconds of compressed acoustic data, the answers to questions he hadn't thought to ask were waiting."
 
 ---
 
@@ -721,21 +724,25 @@
 
 | Scene | Chapter Location | Status |
 |-------|------------------|--------|
-| The Cydonia Vision | Prologue + Ch 6 | ✅ Outlined |
-| Raphael's lesson: "Is my role less than thine?" | Ch 7 + 10 | ✅ Outlined |
+| The Cydonia Vision | Prologue + Ch 1 | ✅ Outlined |
+| Guardian commission seeded (private) | Ch 5 §7 | ✅ Drafted |
+| Mars-Naamah connection recognised | Ch 10-12 | ✅ Outlined |
 | "I Am Your Uncle" revelation | Ch 17 | ✅ Outlined |
 | Brennan launches Mars mission | Ch 23 | ✅ Outlined |
-| First coordinates discovered | Ch 25 | ✅ Outlined |
+| Stele activation / anti-singularity | Drafted Ch 13 | ✅ Drafted |
+| 2nd dream-vision (Gadreel-Azazel) | Ch 25 | ✅ Outlined |
 
 ## Book 2 Setup Elements
 
 | Setup | Chapter | Payoff (Book 2) |
-|-------|---------|-----------------|
+|-------|---------|------------------|
 | Rothmore mentioned in intel | Ch 4 | Miriam convergence |
 | European banking families | Ch 4, 22 | Harlot network investigation |
 | Marcus Aurelius Tiberinus | Ch 22 | Beast vessel rising |
-| Eden coordinates discovered | Ch 25 | Journey to Eden |
-| Antarctica/Dudael coordinates | Ch 25 | Azazel prison expedition (Book 3) |
+| Gadreel-Azazel parentage established | Ch 25 (vision) | False Prophet identity (Book 2 primary antagonist) |
+| Titan-5's 7-second recording | Ch 13 (drafted) | 20 Watcher territorial pings decoded (Book 2 Ch1) |
+| Dudael/Antarctica coordinates | NOT in Book 1 | Decoded from 7-sec data (Book 2) |
+| Guardian commission | Ch 5 (seeded) | Fully revealed to Cian (Book 2) |
 
 ---
 

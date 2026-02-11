@@ -751,9 +751,9 @@ Not the gradual warmth of a fire being kindled. This was the primordial heat of 
 GUARDIAN OF THE FORGE THAT SHAPED THE STARS.
 HE WHO KNEW THE SECRET FLAME BEFORE IT WAS GIVEN TO MAN."**
 
-The voice was different from every voice that had come before it. Where Shemyaza had carried the weight of command and Armaros the precision of contract, Gadreel's voice carried *fury*. Not rage — something older and colder. The fury of a being who had looked at creation and seen not beauty but *material*. Who had taught humanity to kill not out of malice but out of a certainty that violence was the truest expression of power.
+The voice was different from every voice that had come before it. Where Shemyaza had carried the weight of command and Armaros the precision of contract, Gadreel's voice carried *fury*. Not rage — something older and colder. The fury of a being who had looked at creation and seen not beauty but *raw material*. Who had taught humanity to forge weapons not out of malice but out of a certainty that violence was the truest expression of power.
 
-The father of Azazel. The source of every blade, every bullet, every bomb. The one to whom all sin would be ascribed — not because he committed all sin, but because he *taught* the principle that made all sin possible: that creation exists to be consumed.
+The weapons-teacher. The one who had shown men how to make swords from iron and shields from bronze. The corrupter who had turned ploughshares into spears and pruning hooks into javelins. Every blade forged since the antediluvian age carried his fingerprint. Every war was a footnote to his curriculum.
 
 **"BY THE FIRE THAT BURNS IN THE HEART OF EVERY SUN,
 BY THE SPARK THAT KINDLED THE FIRST LIGHT,
@@ -766,12 +766,6 @@ I FORSAKE MY OIKETERION.
 I DESCEND."**
 
 The heat didn't withdraw. It *intensified*. As if Gadreel's oath, being the last of the twenty, carried cumulative weight — the final seal on a five-thousand-year covenant, the closing argument in a case that had been building since the first stele spoke.
-
-And beneath the heat, beneath the sound, beneath the horror — Cian felt something else. A thread of *recognition*. Not from Mo Chrá. From deeper. From Antarctica. From the thing that was chained in the dark beneath the ice.
-
-Because the thing in Antarctica was Gadreel's *son*.
-
-And the son had just heard his father's voice for the first time in five millennia.
 
 The twentieth stele fell silent.
 
@@ -925,13 +919,13 @@ The silence that followed was not merely an absence of sound. It was the silence
 
 "Seven seconds of data," Brennan confirmed. "Captured before the rover was destroyed. It'll take weeks to decode, but..." He shook his head. "Seven seconds of acoustic data that may contain the sum total of what twenty steles recorded over five thousand years. Compressed. Layered. More information density than anything human engineering has ever produced."
 
-"And Gadreel's oath." Miriam's voice was thin — stretched taut over the fear she was still wrestling down — but functional. The archaeologist in her was clawing its way back to the surface, doing what scholars do when the world stops making sense: *analysing*. Building a framework around the horror so it could be held at arm's length.
+"The last one." Miriam's voice was thin — stretched taut over the fear she was still wrestling down — but functional. The archaeologist in her was clawing its way back to the surface, doing what scholars do when the world stops making sense: *analysing*. Building a framework around the horror so it could be held at arm's length.
 
 Everyone looked at her.
 
-"The twentieth stele," she said. Her hands were still trembling, but her mind was working. "The last one. The father of Azazel — the most dangerous of all of them — speaks *last*. Not first, not buried in the middle. *Last*. As if the entire sequence was designed to build to him." She swallowed hard. "And whatever is chained under the ice just heard its father's voice for the first time in five thousand years. You felt it. We all felt it. That thread of recognition. He *heard* him."
+"Twenty oaths," she said. Her hands were still trembling, but her mind was working. "Twenty chiefs. Each one distinct — different elements, different domains, different *flavours* of damnation. But the sequence wasn't random. It was *liturgical*. A ceremony. And the last oath carried cumulative weight, like the final seal on a covenant." She swallowed hard. "We just heard a five-thousand-year-old ritual of self-destruction. And it was *designed* to be replayed."
 
-"And now he knows we're listening," James said quietly.
+"Designed by whom?" James said quietly.
 
 **"HE HATH ALWAYS KNOWN."**
 
@@ -955,7 +949,7 @@ And didn't return.
 
 Cian stood in the ruined gallery and felt, for the first time in twenty-six centuries, truly alone.
 
-Mo Chrá was silent. Liaigh was gone — not dead, he could still feel the faintest thread of connection, but so depleted that communication was impossible. The facility was wrecked. The Mars mission was destroyed. And somewhere beneath the Antarctic ice, something ancient and terrible had just heard its name spoken for the first time in five thousand years and was *smiling*.
+Mo Chrá was silent. Liaigh was gone — not dead, he could still feel the faintest thread of connection, but so depleted that communication was impossible. The facility was wrecked. The Mars mission was destroyed. And somewhere in the back of his mind, a question he couldn't articulate was forming — something about the oaths, about the pattern, about why the steles had been built to *replay* in the first place.
 
 "How long?" he asked, not knowing who he was asking.
 
@@ -967,7 +961,7 @@ Mo Chrá was silent. Liaigh was gone — not dead, he could still feel the faint
 
 "And Liaigh?"
 
-Nobody answered. Nobody knew how long it took an archangel to recover from containing an interplanetary anti-singularity event.
+Nobody answered. Nobody knew how long it took an angel to recover from containing an interplanetary anti-singularity event.
 
 Nineteen days, as it turned out. But they wouldn't know that for some time.
 
@@ -975,11 +969,7 @@ Miriam crossed the gallery to the one monitor that still functioned — Brennan'
 
 Seven seconds of acoustic memory from twenty steles that had been recording since the Watchers first descended.
 
-Seven seconds that might contain coordinates, construction methods, weaknesses, and — buried somewhere in the layered harmonics — the location of Dudael.
-
-The prison of Azazel.
-
-The place where the thing that had just announced *I shall rise* had been waiting for precisely this moment.
+Seven seconds that might contain anything — coordinates, construction methods, territorial claims, information that had been sealed for five millennia and was now compressed into a burst of acoustic data denser than anything human engineering had ever produced.
 
 "We need to decode this," she said.
 
@@ -1005,7 +995,7 @@ Miriam didn't drink. She was already working.
 
 Outside the ruined facility, the Texas night was quiet. Stars burned in their ancient configurations. The world turned on its axis, unaware that it had nearly stopped turning altogether.
 
-And far below — not in Texas but in the ice of Antarctica, 2,847 metres beneath a research station that the world didn't know existed — something that had been bound since before the Flood stirred in its chains.
+And far below — in places that the oaths had named and the team had not yet understood — things that had been bound since before the Flood stirred in their chains.
 
 Not awake. Not yet.
 
@@ -1028,7 +1018,7 @@ But *listening*.
 *[                              ]*
 
 *— Stele XX, Cydonia Complex, Mars*
-*[the echo that reached Antarctica]*
+*[the echo that has not yet been decoded]*
 
 ---
 
@@ -1045,7 +1035,7 @@ But *listening*.
 | **Crescendo Architecture** | 3 full oaths → 4 medium → 12 rapid → collective | Musical structure builds unbearable tension |
 | **Dual Timeline** | Audio arrives instantly; video 16min delayed | Reader experiences horror before visual confirmation |
 | **The Replica Test** | 30-second proof of concept → shattering | Stakes established; real activation is exponentially more dangerous |
-| **Gadreel's Climax** | #20 speaks last — father of Azazel, MAXIMUM THREAT | Final individual oath carries cumulative horror; Antarctica thread |
+| **Gadreel's Climax** | #20 speaks last — weapons-teacher, MAXIMUM THREAT | Final individual oath carries cumulative horror; indistinguishable from others at this point |
 | **Mo Chrá's Sacrifice** | Shield + resonance + bridge = total expenditure | Emotional devastation; anchor character goes silent |
 | **The Galadriel Moment** | "ALL OF US, OR NONE" → reality unmakes | The inverse of the morning stars singing = the sons of God SCREAMING |
 
@@ -1056,7 +1046,7 @@ But *listening*.
 | **Adagio** | Shemyaza (#1), Armaros (#2), then Araqiel–Penemue | Full oaths for #1-2; medium for #3-7 | Shemyaza + his XO establish the horror; Prologue parallels |
 | **Andante** | Baraqiel, Kokabel, Tamiel, Penemue (#4-11) | Abbreviated; elemental effects accelerating | Pace quickening; less recovery time |
 | **Allegro** | Batarel through Sariel (#12-19, rapid) | Names cascading; effects overlapping | Chain reaction; autonomous activation; no human control |
-| **The Climax** | Gadreel (#20) | Full oath; fire; MAXIMUM THREAT | Father of Azazel speaks LAST — Antarctica thread |
+| **The Climax** | Gadreel (#20) | Full oath; fire; MAXIMUM THREAT | Weapons-teacher speaks LAST — significance unrevealed until data decoded |
 | **Fortissimo** | Collective (all 200) | Single unified voice | Anti-singularity; reality unmakes |
 
 ### Canon Compliance Verification
@@ -1071,7 +1061,7 @@ But *listening*.
 | Watcher elemental attributes | WATCHER_TECHNOLOGY.md §IX | ✅ |
 | Empyreal Register for angelic speech | SSOT_v3 §9.1 | ✅ |
 | Gadreel (not Azazel) as Watcher chief | SSOT_v3 §3.1, §5.1 | ✅ |
-| Azazel as Nephilim, not Watcher | SSOT_v3 §11.1 | ✅ No Nephilim voice on Mars; Azazel hears father via acoustic propagation |
+| Azazel as Nephilim, not Watcher | SSOT_v3 §11.1 | ✅ No Nephilim voice on Mars; no premature Azazel connection revealed |
 | Instantaneous acoustic propagation | Epilogue — LOCKED | ✅ |
 | Titan rover specs | TECHNICAL_REFERENCE_MARS_MISSION.md | ✅ |
 | Cian's sword naming (Mo Chrá) | SSOT_v3 §4.3 | ✅ |
@@ -1105,12 +1095,37 @@ But *listening*.
 | Thread | Pays Off In |
 |--------|-------------|
 | Mo Chrá's silence | Ch14 (recovery arc); gives emotional weight to her return |
-| Liaigh's 19-day withdrawal | Ch14-15; Books 4-5 (Raphael reveal) |
-| Titan-5's 7-second recording | Ch14 (coordinates decoded — Antarctica confirmed) |
-| Gadreel's oath reaches Antarctica | Books 2-3 (Azazel stirs; Dudael expedition) |
+| Liaigh's withdrawal | 7-day Lev. 8:33 quarantine in Heaven; returns with authorised revelation |
+| Titan-5's 7-second recording | Late Book 1 (stele territorial pings decoded — 20 Watcher domains on Earth); Book 2 Ch1 (full decode) |
+| Gadreel's oath significance | Book 2 (Azazel parentage revealed via 2nd dream-vision; false prophet connection) |
 | Cydonia destroyed | Book 2 (Mars mission confirms destruction; new questions) |
-| Cian's materials science expertise | Book 2 (Mo Chrá analysis, Antarctica expedition equipment) |
+| Cian's materials science expertise | Book 2 (Mo Chrá analysis, expedition equipment) |
 | Cydonian ore provenance | Book 3 (return to Hermon? Synagogue aware of theft?) |
+
+### Information Control — What the Reader Knows vs. Characters
+
+| Information | Reader Status (End Ch13) | Cian's Status | Reveal Timing |
+|-------------|-------------------------|---------------|---------------|
+| Guardian commission | Aware (Ch5 private convo) | Unaware | Liaigh reveals post-recovery |
+| Gadreel-Azazel parentage | Unknown | Unknown | 2nd dream-vision (late Book 1) |
+| Azazel = False Prophet | Unknown | Unknown | Book 2 |
+| Dudael location (Antarctica) | Unknown | Thinks Judean desert | Decoded from 7-sec data (Book 2) |
+| 20 Watcher territorial domains | Unknown | Unknown | Decoded from 7-sec data |
+| Stele XX = Gadreel = significant | Unknown | Unknown | Retroactive after decode |
+| Naamah = Whore of Babylon | Known (Ch1 vision) | Known | Book 1 primary antagonist |
+
+### Raphael's Heavenly Journey (NEW CANON)
+
+| Phase | Duration | Detail |
+|-------|----------|--------|
+| Anti-singularity containment | Instantaneous | Depletes Raphael completely |
+| Departure to Heaven | Post-event | Escorted by Michael and Uriel to prevent Principalities exploiting his weakened state |
+| Mandatory quarantine | 7 days (Lev. 8:33) | Must remain at entrance of Most Holy Place before presenting himself |
+| Debrief with Lord of Hosts (Jesus) | After quarantine | Reports the anti-singularity event |
+| Healing | Instantaneous | Fully restored upon entering God's presence |
+| Authorisation received | Post-debrief | Lord of Hosts authorises 2nd dream-vision for Cian via Raphael |
+| Return to Cian | ~19 days total | Delivers vision; forbidden to reveal himself as source |
+| Cian's perception | — | Believes vision is direct revelation from God (confirmed by Liaigh and Mo Chrá) |
 
 ---
 
