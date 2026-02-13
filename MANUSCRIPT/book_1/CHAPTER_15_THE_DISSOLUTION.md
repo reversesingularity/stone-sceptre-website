@@ -90,15 +90,15 @@ They gathered in the main lab — the same space where Brennan had characterised
 
 Brennan stood at the head of the table and looked at his people.
 
-**Dr. Elena Vasquez.** Flight dynamics. Orbital mechanics. The woman who had calculated Titan-1's Mars transfer orbit by hand on a napkin during a late-night pizza session and been right to seven decimal places. Forty-one years old, Salvadoran-American, two doctorates from MIT, a laugh that could be heard through bulkheads. She'd designed the trajectory that put five rovers on Mars. She was also the one who, during the anti-singularity, had thrown herself over the youngest member of the team and shielded him with her body.
+**Dr. Siorse Mercer.** Flight dynamics. Orbital mechanics. The woman who had calculated Titan-1's Mars transfer orbit by hand on a napkin during a late-night pizza session and been right to seven decimal places. Forty-one years old, Welsh-American, two doctorates from MIT, a laugh that could be heard through bulkheads. She'd designed the trajectory that put five rovers on Mars. During the anti-singularity, Chris had thrown himself over her — the team's mother-figure, the one who remembered everyone's birthdays and brought Welsh cakes to late-night debugging sessions — and shielded her with his body.
 
 She sat now with her hands folded in her lap, her usual energy compressed into something watchful.
 
-**Tomás Navarro.** Software architecture. The AI systems that ran the Titan rovers — the autonomous navigation, the adaptive decision trees, the machine learning subroutines that let a robot on Mars make independent choices seventeen light-minutes from human oversight — all Tomás. Twenty-nine years old, the youngest on the team, a Mexican-American kid from El Paso who'd been writing operating systems since he was fourteen and had turned down Google three times because, in his words, "Google builds ad platforms. Brennan builds things that *matter*." He'd been the one Elena shielded. He hadn't spoken in two days.
+**Chris Guilder.** Software architecture. The AI systems that ran the Titan rovers — the autonomous navigation, the adaptive decision trees, the machine learning subroutines that let a robot on Mars make independent choices seventeen light-minutes from human oversight — all Chris'. Twenty-nine years old, the youngest on the team, a German-American kid from El Paso who'd been writing operating systems since he was fourteen and had turned down Google three times because, in his words, "Google builds ad platforms. Brennan builds things that *matter*." He'd been the one that shielded Siorse from the full brunt of the anti-singularity back-lash. He hadn't spoken in two days.
 
 **Dr. Jian-Wei "JW" Chen.** Materials and structures. If Brennan was the architect of the Titan programme, JW was the man who decided what the architecture was built *from*. Every alloy selection, every thermal protection system, every structural calculation that kept a rover intact through Mars atmospheric entry — JW's work. Fifty-three, Taiwanese-American, seventeen patents, preternaturally calm. During the anti-singularity, the only person in the gallery besides Marcus who hadn't screamed.
 
-**Priya Chandrasekaran.** Communications and deep space network liaison. The woman who had built McNeeve's comm relay architecture — the system that kept five rovers in constant contact with Earth across forty million miles of void. Thirty-six, Indian-American, a former ISRO engineer who'd crossed an ocean for the chance to work on a Mars mission that wasn't mired in government bureaucracy. When the telemetry feeds died, Priya had spent four straight hours trying to re-establish contact with the Titans, cycling through every frequency, every protocol, every backup channel — systematically, methodically, refusing to accept silence as an answer until the physics left her no choice.
+**Adrienne Prescott.** Communications and deep space network liaison. The woman who had built McNeeve's comm relay architecture — the system that kept five rovers in constant contact with Earth across forty million miles of void. Thirty-six, British-American, a former ESA engineer who'd crossed the Atlantic for the chance to work on a Mars mission that wasn't mired in government bureaucracy. When the telemetry feeds died, Adrienne had spent four straight hours trying to re-establish contact with the Titans, cycling through every frequency, every protocol, every backup channel — systematically, methodically, refusing to accept silence as an answer until the physics left her no choice.
 
 **Hal Okonkwo.** Robotics and mechanical systems. The man who had designed the Titan rovers' physical bodies — the articulated limbs, the drill assemblies, the sample collection mechanisms, the acoustic emitter array that Marcus had specified and Hal had turned into hardware. Forty-four, Nigerian-American, built like a rugby prop, hands that could thread a needle or strip a transmission. He'd been the one to discover, during the post-event assessment, that every fastener in the facility had loosened by exactly three-quarters of a turn. Armaros's doing. Hal had spent two days re-torquing every bolt in the building, quietly and without complaint, because when Hal encountered a problem he fixed it.
 
@@ -114,7 +114,7 @@ Brennan looked at them. Six faces — seven including Marcus — all watching hi
 
 "I'm going to tell you three things," he said. "The first is the truth. The second is a lie. And the third is a choice."
 
-Elena's eyebrows rose. Tomás looked up for the first time in two days.
+Siorse's eyebrows rose. Chris looked up for the first time in two days.
 
 "The truth: what you experienced six days ago was real. Not a gas leak. Not an equipment malfunction. Not a shared psychotic episode, which is what a very expensive therapist would tell you if any of you were foolish enough to describe it to one." He paused. "You heard voices that weren't human. You felt reality destabilise. You saw my instruments record acoustic data that violates every physical law I've ever published a paper on. Some of you bled. Some of you lost consciousness. All of you survived something that should have been unsurvivable."
 
@@ -132,7 +132,7 @@ Brennan nodded. "The sword."
 
 "Outside, you wouldn't have." Brennan kept his voice flat. Clinical. The voice he used when presenting failure-mode analyses to review boards. "The containment was provided by the sword and by another... asset... that I cannot identify. Without both, the propagation would have been uncontained. Austin would be a crater. Not a blast crater — a *nothing* crater. Pre-differentiated substrate. Matter that has been returned to a state prior to its organisation into atoms."
 
-"That's not possible," Priya said.
+"That's not possible," Adrienne said.
 
 "No," Brennan agreed. "It's not. And yet your ears bled and my rovers don't exist anymore."
 
@@ -140,7 +140,7 @@ The second silence was longer than the first.
 
 "The lie," Brennan continued. "McNeeve Space Systems is going to file for Chapter 7 bankruptcy. The official story: catastrophic server failure destroyed our Mars telemetry archive. Equipment malfunction. Financial overextension. Poor management — specifically, *my* poor management. The narrative will be that Brennan McNeeve reached too far, built too fast, and when the technology failed, the company couldn't survive the loss."
 
-"That's—" Elena started.
+"That's—" Siorse started.
 
 "A lie. Yes. A carefully constructed, legally defensible, forensically consistent lie that my wife is currently engineering with a precision that would make Lockheed's legal department weep." A ghost of a smile. "Sarah is very good at her job."
 
@@ -148,7 +148,7 @@ The second silence was longer than the first.
 
 "Because every government agency with a three-letter acronym is going to want to know why a private Mars mission lost five rovers simultaneously. Because Lockheed Martin has a contractual right to mission data that, if they ever accessed it, would expose them to information that would either get them killed or make them complicit in something they cannot comprehend. Because NASA's Deep Space Network logged anomalous readings during the event that their physicists are already trying to explain. And because the organisations that *can* comprehend what happened — the ones my uncle has been fighting for twenty-six centuries — are watching. They are always watching."
 
-"You said three things," Tomás said quietly. It was the first sentence he'd spoken in forty-eight hours. "Truth. Lie. Choice."
+"You said three things," Chris said quietly. It was the first sentence he'd spoken in forty-eight hours, delivered with the flat precision of a man parsing a function call. "Truth. Lie. Choice."
 
 Brennan reached into his back pocket and pulled out a stack of envelopes. Seven of them. One for each person in the room besides himself.
 
@@ -176,7 +176,7 @@ Marcus, from the back of the room, raised his hand. "I'm already in. For the rec
 
 "I'm asking you to build the infrastructure for one. There's a difference. Cian — my uncle — has been fighting the war for twenty-six centuries. He doesn't need more fighters. He needs support. He needs minds, and hands, and the kind of the stubborn creative genius that made McNeeve Space Systems the most improbable success story in aerospace history."
 
-"And the pay?" Elena asked, with the pragmatism of a woman who had two kids and a mortgage.
+"And the pay?" Siorse asked, with the pragmatism of a woman who had two kids and a mortgage.
 
 "Better than McNeeve. Significantly better. My uncle's operational budget is... substantial."
 
@@ -184,7 +184,7 @@ Marcus, from the back of the room, raised his hand. "I'm already in. For the rec
 
 "Twenty-six centuries of compound interest substantial."
 
-Elena blinked.
+Siorse blinked.
 
 "Take the envelopes," Brennan said. "Go home. Talk to your families, if you have them. Think about what you saw six days ago. Think about whether you can go back to building weather satellites and Mars rovers for NASA after hearing the voice of a being that helped create the universe."
 
@@ -307,7 +307,7 @@ She turned back to her legal pad, and she didn't stop until the sun came up.
 
 The envelopes sat on the conference table until Friday.
 
-Brennan spent those three days doing what he always did when he couldn't work on engineering — he worked on people. Quiet conversations in the facility's break room. A lunch run with Elena. An hour sitting next to Tomás in the server room, not talking, just *being there*, because Tomás processed things in silence and Brennan had learned years ago that the kid needed proximity rather than words.
+Brennan spent those three days doing what he always did when he couldn't work on engineering — he worked on people. Quiet conversations in the facility's break room. A lunch run with Siorse. An hour sitting next to Chris in the server room, not talking, just *being there* — though Chris's version of silence involved typing at a speed that made the keyboard sound like rainfall, occasionally muttering fragments of code as though arguing with a compiler only he could see. Brennan had learned years ago that the kid processed stress through work, and needed proximity rather than words.
 
 He didn't push. He didn't recruit. He answered questions when asked and changed the subject when the questions got too close to information that would put them at risk.
 
@@ -333,33 +333,37 @@ Friday morning. 0800. The same conference room. The same seven faces.
 
 Brennan stood at the head of the table. He'd asked for answers. He was about to get them.
 
-Elena first. She placed her envelope on the table — opened, read, considered.
+Siorse first. She placed her envelope on the table — opened, read, considered.
 
 "Eighteen months' salary, fully vested options, and a letter that gets me hired anywhere." She tapped the envelope. "That's generous, Brennan. Genuinely generous. You're a good boss."
 
 "I try."
 
-"I called my husband last night. Told him I might be changing jobs. He asked if it paid well. I said yes. He asked if it was dangerous. I said probably. He said—" She paused, and for just a moment, the formidable Dr. Elena Vasquez looked like a woman who was scared and choosing to act anyway. "'Elena, the last time you came home this excited about work was the night you calculated the Mars orbit. Whatever this is, do it.'"
+"I called my husband last night. Told him I might be changing jobs. He asked if it paid well. I said yes. He asked if it was dangerous. I said probably. He said—" She paused, and for just a moment, the formidable Dr. Siorse Mercer looked like a woman who was scared and choosing to act anyway. "'Siorse, the last time you came home this excited about work was the night you calculated the Mars orbit. Whatever this is, do it.'"
 
 She pushed the envelope back across the table.
 
 "I don't understand what I saw six days ago. I don't understand how a sword can produce a frequency that shouldn't exist. I don't understand how voices can travel forty million miles instantaneously. But I understand orbital mechanics, and I understand that whatever your uncle is doing, he's going to need someone who can move things through space." She looked at Brennan. "I'm in."
 
-Tomás next. He didn't speak — he almost never spoke when a gesture would do. He simply placed his unopened envelope on the table, pulled out his laptop, and turned the screen toward Brennan.
+Chris next. He stood up — the first voluntary movement he'd made in forty-eight hours — and plugged his laptop into the presentation screen with the efficiency of a man whose relationship with hardware was more fluent than his relationship with most social situations. He turned the display toward the room.
 
 On it: a software architecture diagram. Dense, complex, spanning three displays' worth of system design. At the top, a header:
 
 **AUTONOMOUS INTELLIGENCE NETWORK — DISTRIBUTED, ENCRYPTED, SOVEREIGN**
 
-"I started designing it on Wednesday," Tomás said. "Couldn't sleep anyway. If your uncle's fighting a network that's been operating for five thousand years, he needs a command-and-control system they can't penetrate, can't subvert, and can't shut down. This is the skeleton. I need six months and access to your cybersecurity person to build it."
+"So, I haven't slept since Wednesday," Chris said, in the tone of someone reporting a minor scheduling conflict. "Because once a problem gets interesting enough, sleep becomes — not *optional* exactly, but *deprioritised*." He pushed his glasses up his nose — a gesture so habitual it had worn a smooth patch in the frames. "Your uncle's fighting a network that's been operating for five thousand years. That predates TCP/IP by about four thousand nine hundred and seventy years, which means they've had time to build redundancy we haven't even conceptualised yet. So you don't fight a network like that. You build a *better* network. Distributed, encrypted, sovereign — can't be penetrated, can't be subverted, can't be shut down." He tapped the screen with the back of a pen. "This is the skeleton. I need six months and access to your cybersecurity person to make it walk."
 
-Brennan looked at Anya. Anya was already studying Tomás's screen with the focus of a woman who had found something worth breaking into — or, in this case, worth making unbreakable.
+Marcus snorted from the back of the room. "Make it *walk*?"
+
+"It's a skeleton. Skeletons walk. That's the whole point of skeletons." Chris looked genuinely confused by the laughter this produced, which made it worse.
+
+Brennan looked at Anya. Anya was already studying Chris's screen with the focus of a woman who had found something worth breaking into — or, in this case, worth making unbreakable.
 
 "I was going to give myself until Friday," Anya said, not looking away from the diagram. "But that architecture needs me. I'm in since Wednesday."
 
 JW: already committed. Envelope returned.
 
-Priya placed her envelope on the table carefully, as if it contained something fragile.
+Adrienne placed her envelope on the table carefully, as if it contained something fragile.
 
 "I need to ask one question."
 
@@ -375,13 +379,13 @@ He unrolled the scroll — carefully, reverently, the way he handled it every ti
 
 "*The war is coming. The final war, the one the prophets wrote of and the angels whisper about in the halls of heaven. Stand with my brother. He will need you more than he knows.*"
 
-Priya read the words. Read them again.
+Adrienne read the words. Read them again.
 
 "*You are Machirite. You are mac Morna. You are a giant slayer. Now rise, and hunt.*"
 
 "That was written to me," Brennan said. "But the fight she's describing — the fight against what you heard six days ago — that fight needs more than one bloodline. It needs people who build things. People who solve impossible problems. People who look at the end of the world and say *right, what's the communications architecture?*"
 
-Priya folded the scroll back carefully and returned it to its cylinder. Then she pushed her envelope across the table.
+Adrienne folded the scroll back carefully and returned it to its cylinder. Then she pushed her envelope across the table.
 
 "I'll need better encryption than anything I've worked with before."
 
@@ -415,7 +419,7 @@ Not alone. Not anymore.
 
 He was composing the operational brief for Cian — skill sets, clearance levels, personnel assessments — when the knock came. Three precise impacts, evenly spaced. Military cadence.
 
-James Harrington stood in the doorway in running shoes and a plain grey t-shirt, his SAS-hardened frame filling the space with the particular economy of a man who never occupied more room than necessary but whose body was permanently calibrated for violence.
+James Madigan stood in the doorway in running shoes and a plain grey t-shirt, his SAS-hardened frame filling the space with the particular economy of a man who never occupied more room than necessary but whose body was permanently calibrated for violence.
 
 "Got a minute?" James said.
 
@@ -691,10 +695,10 @@ Waiting for the giant slayers to listen.
 
 | Name | Role | Specialty | Future Application |
 |------|------|-----------|-------------------|
-| **Dr. Elena Vasquez** | Flight Dynamics | Orbital mechanics, trajectory calculation | Transport logistics; satellite repositioning; any operation requiring precision movement through space |
-| **Tomás Navarro** | Software Architecture | AI systems, autonomous navigation, machine learning | Cian's command-and-control network; autonomous surveillance; AI countermeasures against Synagogue digital operations |
+| **Dr. Siorse Mercer** | Flight Dynamics | Orbital mechanics, trajectory calculation | Transport logistics; satellite repositioning; any operation requiring precision movement through space |
+| **Chris Guilder** | Software Architecture | AI systems, autonomous navigation, machine learning | Cian's command-and-control network; autonomous surveillance; AI countermeasures against Synagogue digital operations |
 | **Dr. Jian-Wei "JW" Chen** | Materials & Structures | Metamaterials, alloys, thermal protection, structural analysis | Cydonian ore analysis; anti-Nephilim equipment development; structural engineering for field operations |
-| **Priya Chandrasekaran** | Communications | Deep space network, comm relay architecture, signal processing | Independent communications infrastructure; encrypted networks; signal interception/analysis |
+| **Adrienne Prescott** | Communications | Deep space network, comm relay architecture, signal processing | Independent communications infrastructure; encrypted networks; signal interception/analysis |
 | **Hal Okonkwo** | Robotics & Mechanical | Rover design, articulated systems, hardware fabrication | Field equipment builds; weapon systems hardware; tactical robotics |
 | **Dr. Anya Petrov** | Cybersecurity & Data | Air-gapped systems, encryption, forensic trail construction | Digital warfare; Synagogue network penetration; data security; cover operations |
 | **Marcus Reeves** | Acoustic Engineering | Sonar, acoustic analysis, signal processing | Primary acoustic specialist; stele data interpretation; creation harmonic research |
@@ -750,12 +754,12 @@ Waiting for the giant slayers to listen.
 
 | Thread | Pays Off In |
 |--------|-------------|
-| Tomás's autonomous intelligence network | Books 2-5 — Cian's C2 infrastructure |
+| Chris's autonomous intelligence network | Books 2-5 — Cian's C2 infrastructure |
 | Anya's "vault" data location | Book 2 — data retrieval under hostile conditions |
 | JW's metamaterial hunger | Book 2 — Cydonian ore analysis, equipment development |
 | Hal's grandfather's Igbo Nephilim tradition | Book 3 — African theatre of operations; independent Nephilim cultural memory |
-| Elena's orbital mechanics | Book 2-3 — satellite operations; potential Mars return mission logistics |
-| Priya's independent comm network | Books 2-5 — operates outside government control |
+| Siorse's orbital mechanics | Book 2-3 — satellite operations; potential Mars return mission logistics |
+| Adrienne's independent comm network | Books 2-5 — operates outside government control |
 | James's assessment of Brennan's bloodline | Book 2 — Brennan in field operations; combat application |
 | Sarah's legal architecture | Book 2 — Lockheed litigation; government investigation subplot |
 | Titan-5's 7-second recording | Book 2 Ch1 — full decode; 20 territorial pings |
@@ -764,7 +768,7 @@ Waiting for the giant slayers to listen.
 
 | Element | For Approval |
 |---------|-------------|
-| McNeeve staff roster (7 named characters) | Elena, Tomás, JW, Priya, Hal, Anya + Marcus |
+| McNeeve staff roster (7 named characters) | Siorse, Chris, JW, Adrienne, Hal, Anya + Marcus |
 | Staff skill set applications | Per table above |
 | Sarah's cover story architecture | Acoustic experiment malfunction; Chapter 7 filing |
 | Machirite bloodline = enhanced combat learning | Genetic memory; accelerated skill acquisition |
