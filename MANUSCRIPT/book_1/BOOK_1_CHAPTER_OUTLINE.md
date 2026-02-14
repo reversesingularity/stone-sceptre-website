@@ -1,750 +1,317 @@
 # BOOK 1: THE AWAKENING
-## Complete 25-Chapter Outline
+## Master Chapter Outline — Updated February 14, 2026
 
-**Word Target:** 80,000-100,000 words (~3,200-4,000 words per chapter)
-**POV:** Third-person limited, Cian mac Morna
-**Timeline:** 2020 (modern day), with flashbacks to 586 BCE – 1847 CE
+**Structure:** Prologue + 17 Chapters (18 sections)
+**Actual Word Count (drafted):** ~141,500 words across Prologue + 15 chapters
+**POV:** Third-person limited (Cian mac Morna primary; Miriam Ashford Ch7; Naamah Ch16)
+**Timeline:** 2024–2027, with flashbacks woven into chapters
 
 ---
 
 ## STRUCTURAL OVERVIEW
 
-> **REVISION NOTE (January 2026):** The drafted Chapters 1-2 use compressed pacing rather than granular day-by-day structure. Chapter 2 covers 2020-2023 in a single chapter, including the "I am your uncle" revelation. This outline is retained for reference but the manuscript takes precedence where they diverge. The three-year obsession montage and early revelation work better tonally.
-
 | Act | Chapters | Focus | Climax |
 |-----|----------|-------|--------|
-| **I: The Descent** | Prologue + Ch 1-2 | Vision; obsession; family reconnection; truth revealed | Brennan learns the truth |
-| **II: The Commission** | Ch 3-8 | Naamah hunt intensifies; Mars connection emerges; Guardian calling seeded (private) | Cian commits to Mars mission |
-| **III: The Preparation** | Ch 9-15 | Mission preparation; flashbacks; partnership deepens; stele activation | Anti-singularity event |
-| **IV: The Awakening** | Ch 16-20 | Aftermath; silence chapters; 2nd dream-vision; data decoding begins | Cian receives vision; search begins |
-
-### Key Structural Changes from Original Outline
-
-| Original Plan | Manuscript Reality | Rationale |
-|---------------|-------------------|----------|
-| Revelation in Ch 17 | Revelation in Ch 2 | Allows Brennan as informed partner for 18+ chapters |
-| Day-by-day pacing (Ch 2-6) | Three-year montage (Ch 2) | Avoids reader fatigue; shows obsession efficiently |
-| 25 chapters | ~20 chapters | Compressed pacing serves the narrative better |
+| **I: The Revelation** | Prologue + Ch 1-3 | Ancient oath; Cian's vision; Mars discovery; first alliance | Brennan learns the truth |
+| **II: The Hunt** | Ch 4-10 | Stealth infiltration; arsenal; Miriam converges; Vârcolac killed | Miriam decapitates Vârcolac at Dunluce |
+| **III: The Frequency** | Ch 11-14 | Team forms; tech fails; acoustic breakthrough; anti-singularity; silence | Anti-singularity event; Liaigh goes silent |
+| **IV: The Gathering Storm** | Ch 15-17 | Dissolution; Naamah mobilises; Antarctic breach; departure | "God help them all" |
 
 ---
 
-# ACT I: THE DESCENT
+## MANUSCRIPT STATUS SUMMARY
 
-**Arc Theme:** Twenty-six centuries of fighting, and nothing has changed. Hope is a luxury Cian abandoned long ago.
+| # | Title | Word Count | Status |
+|---|-------|-----------|--------|
+| **P** | The Oath | ~5,000 | **COMPLETE** |
+| **1** | The Awakening | ~7,600 | **COMPLETE** |
+| **2** | The Hunter | ~6,600 | **COMPLETE** |
+| **3** | The Coordinates | ~4,900 | **COMPLETE** |
+| **4** | The Data Trail | ~6,300 | **COMPLETE** |
+| **5** | The Celestial Biology Lesson | ~6,800 | **COMPLETE** |
+| **6** | Guns. Lots of Guns | ~8,100 | **COMPLETE** |
+| **7** | The Other Hunter | ~7,800 | **COMPLETE** (Miriam POV) |
+| **8** | The Collision | ~12,300 | **COMPLETE** |
+| **9** | The Arsenal | ~10,800 | **COMPLETE** |
+| **10** | The Reckoning | ~14,900 | **COMPLETE** |
+| **11** | The Debt Repaid | ~10,700 | **COMPLETE** |
+| **12** | The Question | ~5,100 | **COMPLETE** |
+| **13** | The Frequency | ~12,200 | **COMPLETE** |
+| **14** | The Silence | ~11,800 | **COMPLETE** |
+| **15** | The Dissolution | ~10,600 | **COMPLETE** |
+| **16** | The Queen Moves | ~7,800 | **COMPLETE** |
+| **17** | The Digging Begins | — | **DRAFT EXISTS** (Epilogue file) |
+| | **TOTAL DRAFTED** | **~149,300** | **16 of 17 chapters complete** |
+
+### Legacy/Superseded Files (Reference Only)
+
+| File | Notes |
+|------|-------|
+| CHAPTER_05_THE_CELESTIAL_BIOLOGY_LESSON_DRAFT.md | Earlier partial draft; superseded by full Ch5 |
+| CHAPTER_10-12_DRAFT.md | Earlier draft material; superseded by individual chapters |
+| CHAPTER_12-13_DRAFT.md | Earlier draft material; superseded by individual chapters |
+| CHAPTER_13_THE_CONTAINMENT_DRAFT.md | Earlier draft; superseded by Ch13/Ch14 |
+| CHAPTER_11_THE_DEBT_REPAID_..._IN_FULL | Planning notes/framework, not prose |
+| BOOK_1_EPILOGUE_THE_DIGGING_BEGINS.md | Material partly absorbed into Ch15; remainder feeds Ch16-17 |
+| BOOK_1_CHAPTERS_4-9_FRAMEWORK.md | Original framework; superseded by drafted chapters |
 
 ---
 
-## PROLOGUE: THE DESCENT
+# ACT I: THE REVELATION (Prologue + Chapters 1–3) — COMPLETE
+
+**Arc Theme:** The ancient war erupts into the modern world. Cian's vision, the Mars discovery, and the first alliance.
+
+---
+
+## PROLOGUE: THE OATH ✅ COMPLETE (~5,000 words)
 *Before the Flood — Cydonia, Mars / Mount Hermon, Earth*
 
-**Content:** See BOOK_1_PROLOGUE.md — The Watchers' council, descent, oath, and the women who waited. Ends on Naamah's predatory smile.
+**POV:** Omniscient (Empyreal register throughout)
 
-**Word Count:** ~4,000 words
-**POV:** Omniscient
-**Speech Register:** Empyreal throughout
+**Content:** The 200 Watchers' council at Cydonia. The descent to Mount Hermon. The Oiketerion-Forsaking oath — each Watcher shedding celestial form. The women who waited below. Ends on Naamah's predatory smile.
 
 ---
 
-## CHAPTER 1: THE AWAKENING
-*2020 — Austin, Texas*
+## CHAPTER 1: THE AWAKENING ✅ COMPLETE (~7,600 words)
+*January 2024 — Austin, Texas*
 
-**Opening:** Cian wakes with a start, the vision burning in his mind.
+**POV:** Cian mac Morna
 
-**Plot Points:**
-- Hard cut from ancient history to modern day — Cian in his safehouse
-- Sword is *humming* — something unprecedented
-- Calls to Liaigh (Raphael) — demands explanation
-- Liaigh reveals: "THAT WAS NO DREAM, CHILD OF MORNA. THE GUARDIAN'S COMMISSION BEGINNETH."
-- First mention of "Two Witnesses" — Cian doesn't understand
-- Cian dismisses it — "I've been fighting for twenty-six centuries. What commission?"
-
-**Character Work:**
-- Establish Cian's exhaustion, cynicism, functional despair
-- Show the routine of a 2,600-year-old warrior: weapons check, perimeter check, news scan
-- The contrast between his powerful existence and his emotional emptiness
-
-**Flashback Hook:** Liaigh mentions Cian's pattern of denial — seeds future flashback
-
-**Closing Line:** "The sword was still singing. And somewhere in the back of his mind, a name he had never known was burning like a brand: *Naamah.*"
+**Content:** Cian wakes from the Cydonia Revelation — a vision of the Watchers' complete history, delivered through Mo Chrá. 2,636 years of war compressed into one man's exhaustion. Mo Chrá humming unprecedented frequencies. Liaigh's confirmation: the Guardian's commission has begun. The name *Naamah* burns in his mind. Establishes Cian's world: safehouse routines, weapons checks, the grinding loneliness of immortal warfare.
 
 ---
 
-## CHAPTER 2: THE HUNTER
-*Austin, Texas — Day 1*
+## CHAPTER 2: THE HUNTER ✅ COMPLETE (~6,600 words)
+*2026–2027 — Austin, Texas*
 
-**Opening:** Cian goes about his cover identity as "Sean Morna," tech consultant.
+**POV:** Cian mac Morna
 
-**Plot Points:**
-- Introduce Brennan's company — the cover Cian has used for 15 years
-- Brennan himself appears — brilliant, driven, *related to Cian* (though he doesn't know it)
-- The routine: Cian monitors Nephilim activity, tracks bloodline families, maintains hunter networks
-- A lead comes in — Nephilim activity in the Houston financial sector
-- Cian prepares to investigate — business as usual
-- But the vision haunts him — he keeps seeing Naamah's face
-
-**Character Work:**
-- Establish the "Guardian Network" — mortal operatives Cian has cultivated
-- Show Cian's professional competence vs. emotional isolation
-- Brennan as brilliant but unaware — dramatic irony setup
-
-**Flashback Hook:** Cian looks at Brennan and thinks about family he's lost
-
-**Closing Line:** "Twenty-six centuries. A thousand false identities. And still, sometimes, when he looked at Brennan, he saw his sister's eyes."
+**Content:** Shedim attack on Brennan's family. Cian's operational methodology on full display — monster hunting as professional discipline. Establishes the modern threat environment and Brennan's role. Time compression covers the period between vision and Mars discovery.
 
 ---
 
-## CHAPTER 3: THE HUNT
-*Houston, Texas — Day 2-3*
+## CHAPTER 3: THE COORDINATES ✅ COMPLETE (~4,900 words)
+*2027 — Austin, Texas*
 
-**Opening:** Cian tracks the Nephilim lead to a financial district highrise.
+**POV:** Cian mac Morna
 
-**Plot Points:**
-- Classic hunter operation: surveillance, infiltration, intelligence gathering
-- The target: a Nephilim bloodline operative funneling money through shell companies
-- Cian eliminates the threat efficiently — this is routine for him
-- But during the kill, the Nephilim speaks: "The Lady knows you're coming, Undying One."
-- First direct reference to the Harlot in modern context
-- Cian extracts intelligence before the kill — network coordinates, payment schedules
-
-**Combat Sequence:**
-- Showcase Cian's millennia of combat experience
-- The sword cuts what mortal weapons cannot
-- Efficiency over spectacle — he's done this thousands of times
-
-**Character Work:**
-- The hollow victory — another Nephilim dead, another in line behind it
-- "This is what I do. This is all I am."
-
-**Closing Line:** "He cleaned the blade. He burned the body. He drove home in silence. Another day. Another monster. And tomorrow there would be more."
+**Content:** Titan-1 photographs the Cydonia steles on Mars. Watcher script confirmed. The Brennan revelation — Cian tells Brennan who he really is. The "I am your uncle" moment (moved here from the original Ch17 plan). First alliance formed. Mars data triggers the hunt for what the inscriptions contain.
 
 ---
 
-## CHAPTER 4: THE INTERROGATION
-*Austin, Texas — Day 4*
+# ACT II: THE HUNT (Chapters 4–10) — COMPLETE
 
-**Opening:** Cian analyzes the intelligence from the Houston kill.
-
-**Plot Points:**
-- The financial trail leads to something bigger — a network, not just a cell
-- Cian traces connections to European banking families (setup for Rothmore/Book 2)
-- He asks Liaigh about "the Lady" — the Harlot, Naamah
-- Liaigh's response is unusually detailed — describes Naamah's survival, her power
-- "SHE WHO WAITETH AT THE BASE OF HERMON HATH NEVER CEASED HER WAITING."
-- Cian realizes the vision showed him something real — the Whore of Babylon is *Naamah*
-
-**Character Work:**
-- Cian confronts the scale of what he's fighting — not just Nephilim, but the system
-- His cynicism deepens — "We're not winning. We're barely holding the line."
-
-**Flashback Hook:** Liaigh mentions "the line" — triggers memory of another time Cian felt hopeless
+**Arc Theme:** A personal enemy emerges. A second hunter converges. Solo becomes partnership.
 
 ---
 
-## CHAPTER 5: THE ORPHAN'S RAGE
-*FLASHBACK — 586 BCE, Ireland / 2020, Austin*
+## CHAPTER 4: THE DATA TRAIL ✅ COMPLETE (~6,300 words)
+*2027 — Austin, Texas*
 
-**Opening:** Liaigh challenges Cian's isolation — "THOU HAST BUILT WALLS SINCE CHILDHOOD."
+**POV:** Cian mac Morna
 
-**FLASHBACK — 586 BCE:**
-- Young Cian (age 8) watches his family's ráth burning
-- Nephilim warriors — the "Fomori" in Irish legend — slaughter his clan
-- His sister Niamh is taken — not killed, *taken* (setup for prequel)
-- Cian survives by hiding — the shame that shaped him
-- Found by kinsmen, raised as a weapon, trained to hunt
+**Content:** Full Tom Clancy-style tactical infiltration of a Synagogue of Satan network data centre. Cian deploys the Stealth Variant exoskeleton — Vantablack coating, internalized heat dampeners, amber HUD with spiritual signature overlay. Spirit warfare montage woven through the mission (Lindisfarne 793, Jerusalem 1099, Black Death 1347, Worms 1520, London 1666, Whitechapel 1888). Discovers "Project Niamh" — a centuries-old bounty on his bloodline. Lord Vârcolac identified as the Debt Collector.
 
-**Present Interwoven:**
-- Cian sitting in silence, remembering
-- Liaigh: "THE CHILD WHO HID BECAME THE MAN WHO FIGHTS ALONE."
-- Cian: "I don't fight alone. I have you."
-- Liaigh: "THOU HAST ME. BUT THOU PERMITTEST NONE OTHER."
-
-**Character Work:**
-- Foundation of Cian's trauma — loss, survivor's guilt, weaponized rage
-- Why he can't connect — everyone he loves dies or betrays
-- The orphan who became the warrior
-
-**Closing Line:** "The fire had been twenty-six centuries ago. The rage was still burning."
+**Flashback:** 1347 CE — Carpathian blood cult. First encounter with Vârcolac's shadow.
 
 ---
 
-## CHAPTER 6: THE BREAK IN THE ROUTINE
-*Austin, Texas — Night 4-5*
+## CHAPTER 5: THE CELESTIAL BIOLOGY LESSON ✅ COMPLETE (~6,800 words)
+*2027 — European Safehouse*
 
-**Opening:** Cian sleeps. Restless — the vision from Chapter 1 still reverberates.
+**POV:** Cian mac Morna
 
-**Plot Points:**
-- Cian can't shake the vision — it's been weeks, and the details aren't fading the way dreams should
-- Mo Chrá is behaving strangely — humming at frequencies Cian hasn't heard before
-- He digs deeper into the Naamah financial trail — the thread from the Houston kill
-- A lead surfaces: Brennan's Mars project coordinates overlap with something in the sword's resonance map
-- Coincidence? Cian doesn't believe in coincidence
-- Liaigh: "THE TIME OF PREPARATION IS ENDED. THE TIME OF REVELATION BEGINNETH."
-
-**The Disruption:**
-- For the first time in centuries, something has changed
-- Cian doesn't understand what's coming — but he knows the sword's behaviour is unprecedented
-- He decides to look more closely at Brennan's Cydonia data
-
-**Closing Line:** "Twenty-six hundred years of the same war. The same targets. The same hollow victories. And now, tonight, the angel was telling him everything he knew was about to change."
+**Content:** Nephilim regeneration science — Liaigh teaches Cian the biology of what he hunts. Ghoul crowd-control weapons development. The "blessed thermite" breakthrough. Mo Chrá/Raphael banter. Mo Chrá and Raphael's private conversation about Cian's readiness (Cian absent — unique scene). 300 years of anti-regeneration R&D referenced in flashback montages.
 
 ---
 
-# ACT II: THE COMMISSION
+## CHAPTER 6: GUNS. LOTS OF GUNS. ✅ COMPLETE (~8,100 words)
+*2027 — European Safehouse, Outside Graz, Austria*
 
-**Arc Theme:** Cian learns he is NOT a Witness — he is the Guardian. The struggle to accept a "lesser" role.
+**POV:** Cian mac Morna
 
----
+**Content:** Three weeks of weapon fabrication at the Austrian safehouse. Crystal growth chambers, Tintreach rounds, metallurgical processes combining medieval smithing with 21st-century materials science. Brennan's logistics via the Josephite network. Mo Chrá's running commentary throughout ("I told you so" hum when crystal batch shatters). Arsenal evolution from concept to combat-ready hardware. The banter chapters at their finest.
 
-## CHAPTER 7: THE REVELATION
-*Austin, Texas — Day 5*
-
-**Opening:** Liaigh explains the vision. Cian doesn't want to hear it.
-
-**Plot Points:**
-- Full explanation of the Two Witnesses — Enoch and Elijah
-- Their 1,260-day ministry, their powers, their martyrdom
-- Cian's role: NOT a Witness. A Guardian. "The Shield, not the Voice."
-- Cian's reaction: anger, rejection, confusion
-- "I've been fighting for twenty-six centuries and I'm a *bodyguard*?"
-- Liaigh's response: "DOST THOU CONSIDER ME DIMINISHED THAT I HAVE GUARDED THEE?"
-
-**Character Work:**
-- The core wound: Cian measures his worth by what he kills
-- The challenge: to value protection over destruction
-- "Is being a protector enough? Am I enough?"
-
-**Closing Line:** "The angel's question hung in the air like smoke. And Cian had no answer."
+**Flashback:** 1467 CE — Ōnin War, acquiring the Masamune katana.
 
 ---
 
-## CHAPTER 8: THE PRICE OF ATTACHMENT
-*FLASHBACK — 1312 CE, England / 2020, Austin*
+## CHAPTER 7: THE OTHER HUNTER ✅ COMPLETE (~7,800 words)
+*November 2024 — Bucharest, Romania*
 
-**Opening:** Liaigh mentions mortality. Cian remembers.
+**POV:** Miriam Ashford (first and only non-Cian POV chapter in Act II)
 
-**FLASHBACK — 1312 CE:**
-- Cian under a different name — an English knight's squire
-- A friend — Thomas — who accepted Cian's strangeness
-- Years of genuine friendship — someone who saw Cian as a person, not a weapon
-- Thomas ages. Cian doesn't. The questions begin.
-- Thomas's death — old age, surrounded by family — while Cian watches from the shadows
-- The decision: never again. Never get close. Never let anyone see him age.
+**Content:** Miriam's introduction as an independent operative. GCHQ-trained intelligence background. Tracking Dragomir Petrescu through Bucharest's financial underground. Her methodology — meticulous, lethal, driven by a decade of hunting her mother's killers. Converging on the same Vârcolac network Cian has identified. A parallel hunter the reader doesn't know is heading for collision.
 
-**Present Interwoven:**
-- Cian thinking about Brennan — the descendant he keeps at arm's length
-- Liaigh: "THOU THINKEST DISTANCE PROTECTS THEM. IT PROTECTS ONLY THEE."
-- Cian: "I've buried everyone I've ever loved."
-- Liaigh: "THEN LOVE MORE DEEPLY. LOSS IS THE PRICE OF CONNECTION, NOT ITS CONTRADICTION."
-
-**Character Work:**
-- Why Cian isolates — not cruelty, but fear
-- The cost of immortality — watching everyone age and die
-- The challenge of Brennan — family he's trying not to love
-
-**Closing Line:** "Thomas had been dead for seven hundred years. Cian still remembered his laugh."
+**Flashback:** Miriam age 19 — her mother's death in New Mexico.
 
 ---
 
-## CHAPTER 9: THE FIRST NEPHILIM KILL
-*FLASHBACK — 580 BCE, Ireland / 2020, Austin*
+## CHAPTER 8: THE COLLISION ✅ COMPLETE (~12,300 words)
+*2027 — The Carpathian Mountains, Romania*
 
-**Opening:** Preparation for another hunt triggers the memory.
+**POV:** Cian mac Morna
 
-**FLASHBACK — 580 BCE:**
-- Young Cian (age 14) — six years after his family's death
-- Training complete. Rage honed to a blade.
-- The target: a surviving Fomori — one of those who killed his clan
-- The hunt. The confrontation. The terror.
-- The Nephilim is *huge* — twelve feet of nightmare muscle and ancient malice
-- The fight should be hopeless. But Cian has the sword.
-- His first kill. The blood. The silence afterward.
-- And then Liaigh's voice — the first time he heard it: "WELL STRUCK, CHILD OF MORNA."
-
-**Present Interwoven:**
-- Cian checking the sword's edge — ritual before every hunt
-- Liaigh: "THOU WERT AFRAID THAT NIGHT."
-- Cian: "I was fourteen."
-- Liaigh: "THOU ART STILL AFRAID. ONLY NOW THOU HIDEST IT BETTER."
-
-**Character Work:**
-- The birth of the warrior — rage made lethal
-- First contact with Liaigh — the beginning of their relationship
-- The sword: proof that he was chosen, even then
-
-**Closing Line:** "The first kill had been the hardest. The next thousand had been practice. Now he didn't even feel the blade go in."
+**Content:** 72-hour sanctioned incursion into Archon Territory of the Prince of Dacia. Full combat sequence: Heavy Combat Variant exoskeleton, silver-thread mesh underlayer, consecrated aramid weave. Ghoul army in the fortress. Mo Chrá cuts the Enochian wards. Miriam's interference ruins Cian's kill shot. Cian rescues Miriam. Clock expires, forced withdrawal. The reluctant partnership begins in fury.
 
 ---
 
-## CHAPTER 10: THE GUARDIAN'S LESSON
-*Austin, Texas — Day 6-7*
+## CHAPTER 9: THE ARSENAL ✅ COMPLETE (~10,800 words)
+*2027 — European Safehouse, Outside Graz, Austria*
 
-**Opening:** Cian digs deeper into the Mars-Naamah connection.
+**POV:** Cian mac Morna
 
-**Plot Points:**
-- The sword responds to certain locations — vibrations, resonances
-- Over centuries, Cian has noted these responses but never understood them
-- Now he maps them: Jerusalem. Sinai. Ararat. Hermon.
-- And one more: a location on Mars that makes no logical sense
-- Brennan's company has been working on Mars exploration — those exact coordinates
-- "The vision showed me Naamah and the Watchers' fall. Brennan's project is photographing the place where they fell FROM. That's not coincidence."
+**Content:** The four-hour argument on the drive from Carpathians to Austria — Miriam vs. Cian, verbal combat as fierce as the physical. The bonding that follows conflict. Cian's big reveal to Miriam: his age, his origin, the 586 BCE commission, Vârcolac's blood debt. Cainan/Apkallu exposition — the knowledge transmission chain explained. Miriam doesn't flinch. She calculates.
 
-**The Turning Point:**
-- Cian asks about the sword's origins — who made it, and why
-- Liaigh: "ENOCH FORGED IT FROM THE DEBRIS OF THE WATCHERS' TRANSIT. HE SAW THEE IN VISION."
-- Cian: "He saw *me*? Five thousand years before I was born?"
-- The personal connection — everything in his life has been preparation for *something*
-- But Liaigh won't say WHAT
-
-**Character Work:**
-- Cian's strategic mind — twenty-six centuries of pattern recognition
-- Growing suspicion that there's a larger purpose he hasn't been told
-- The reluctant decision: he needs Brennan's help
-
-**Closing Line:** "The man who made the sword had seen him coming. Five thousand years of preparation. And Cian still didn't know what for."
+**Flashback:** 586 BCE — Cian's origin. The quest for Mo Chrá. His first kill.
 
 ---
 
-## CHAPTER 11: THE ACCEPTANCE (CONDITIONAL)
-*Austin, Texas — Day 8*
+## CHAPTER 10: THE RECKONING ✅ COMPLETE (~14,900 words)
+*2027 — Dunluce Castle, County Antrim, Northern Ireland*
 
-**Opening:** Cian confronts the evidence — the Mars connection is too precise to ignore.
+**POV:** Cian mac Morna
 
-**Plot Points:**
-- "Fine. I need to talk to Brennan about Mars. But I need to understand what I'm looking for."
-- Liaigh provides limited tactical briefing:
-  - The Watchers had a station on Mars — Cydonia
-  - They left records, coordinates, territorial claims
-  - The material is the same substance as Mo Chrá's blade
-- Cian: "So the steles on Mars might contain... what? Maps? Records?"
-- Liaigh: "THEY CONTAIN THE OATHS. THE WATCHERS RECORDED THEIR OWN REBELLION."
-- Cian processes this: "And you want me to find a way to make them speak."
-- Liaigh: "I WANT THEE TO FOLLOW THE THREAD. WHERE IT LEADETH IS NOT YET FOR ME TO SAY."
-
-**The Task:**
-- Cian needs Brennan's engineering capability to access Cydonia data
-- Which means he needs to tell Brennan the truth about their family
-- Cian: "And what happens after the steles? What's the larger picture?"
-- Liaigh: "THOU SHALT KNOW WHEN THE FATHER WILLS IT."
-
-**Closing Line:** "The thread was Mars. The tool was Brennan. And the answers — as always — were hidden behind the angel's maddening silence."
+**Content:** The Act II climax. Vârcolac has fled to Dunluce Castle on the Antrim coast — full Michael jurisdiction, no clock restriction. Tag-team assault through basalt sea caves. Miriam's intelligence tracks refrigerated containers of dormant ghouls shipped through Belfast. Ghoul Lord champion fight. The final confrontation with Lord Vârcolac — four thousand years of predation ended. Miriam Elizabeth Ashford decapitates the vampire that murdered her mother, using a Saxon sword.
 
 ---
 
-## CHAPTER 12: THE PATTERN RECOGNIZED
-*Austin, Texas — Day 9-10*
+# ACT III: THE FREQUENCY (Chapters 11–14) — COMPLETE
 
-**Opening:** Cian maps the sword's resonance patterns against Brennan's Mars data.
-
-**Plot Points:**
-- The overlap is unmistakable — Mo Chrá resonates with the exact coordinates Brennan is targeting
-- Cian traces the Naamah financial architecture: it's not just crime, it's a *system*
-- The Harlot's network touches everything — banking, politics, church hierarchies
-- He realises the scope: "She's not hiding. She's *governing*."
-- The connection crystallises: vision showed Naamah + Watchers. Brennan found Watcher ruins. Mo Chrá was forged FROM those ruins.
-- "It's all connected. The vision, the sword, Mars, Naamah. And I need Brennan to help me understand how."
-
-**Character Work:**
-- Cian's strategic mind — pieces falling into place
-- The reluctant decision: he needs Brennan's help
-- Which means telling Brennan the truth about their family
-
-**Closing Line:** "He had kept the secret for fifteen years. Brennan didn't know his 'consultant' was his mother's brother — or that his mother had been born in 586 BCE. That was about to change."
+**Arc Theme:** The team attempts to decode the Cydonia inscriptions. Human technology fails utterly. Mo Chrá provides the breakthrough — and inadvertently triggers the anti-singularity.
 
 ---
 
-## CHAPTER 13: THE DECISION
-*Austin, Texas — Day 11*
+## CHAPTER 11: THE DEBT REPAID ✅ COMPLETE (~10,700 words)
+*2027 — Austrian Safehouse*
 
-**Opening:** Cian prepares to tell Brennan everything he can.
+**POV:** Cian mac Morna
 
-**Plot Points:**
-- Mental preparation — how do you tell someone their family history is a lie?
-- Rehearsing: the Nephilim, the sword, his identity, Brennan's mother
-- He can't tell Brennan everything — because he doesn't KNOW everything
-- He knows: Naamah is the Harlot. The Watchers were real. Mars holds their records.
-- He suspects: there's a larger purpose he hasn't been told
-- He doesn't know: what the steles contain, what his commission is, or where this leads
-- Liaigh: "HE HATH THE RIGHT TO KNOW. AND THE RIGHT TO REFUSE."
-- Cian: "And if he refuses?"
-- Liaigh: "THEN THOU FINDEST ANOTHER WAY. BUT THOU GIVEST HIM THE CHOICE."
-
-**The Decision:**
-- Cian commits to the hunt — wherever it leads
-- Not a cosmic commission he's accepted, but a warrior's instinct: the connected threads MEAN something
-- He will follow them
-
-**Closing Line:** "He didn't know what the steles would say. He didn't know what role he was meant to play. But for the first time in centuries, the thread was pulling — and Cian mac Morna was done resisting it."
+**Content:** 36 hours after Dunluce. The aftermath of victory that doesn't feel like victory. Miriam's reckoning: "You've known about this creature for seven centuries. Seven hundred years, and it was still alive to take a contract on my mother." Cian takes the accusation without defence. James Madigan introduced — the SAS veteran who raised Miriam after her mother's death, now targeted by the Synagogue. Emergency extraction to Scotland. The team expands: Cian, Miriam, James, Brennan, Marcus.
 
 ---
 
-# ACT III: THE PREPARATION
+## CHAPTER 12: THE QUESTION ✅ COMPLETE (~5,100 words)
+*2027 — Austin, Texas / Austrian Safehouse*
 
-**Arc Theme:** Cian prepares Brennan for the truth. The "I Am Your Uncle" revelation. The Cydonia mission takes shape.
+**POV:** Cian mac Morna
 
----
-
-## CHAPTER 14: THE APPROACH
-*Austin, Texas — Day 12*
-
-**Opening:** Cian visits Brennan's office — for more than business.
-
-**Plot Points:**
-- The cover: reviewing security for Brennan's Mars project
-- The reality: assessing how to tell him the truth
-- Brennan shows off the project — the rover, the coordinates, the mission parameters
-- Cian: "Those coordinates on Cydonia — where did they come from?"
-- Brennan: "Old research. Conspiracy theorists, mostly. But the imagery was compelling."
-- Cian realizes: someone is guiding Brennan toward the Watcher site
-
-**Character Work:**
-- Cian watching Brennan — the descendant he's kept distant
-- The family resemblance — Niamh's eyes, Niamh's determination
-- Twenty-six centuries of protecting this bloodline from the shadows
-
-**Closing Line:** "Brennan had no idea he was descended from Irish royalty who fled to freedom. No idea his mother had been carried to safety by the prophet Jeremiah himself. And he had absolutely no idea his 'security consultant' had killed a hundred men to make that escape possible."
+**Content:** The Cydonia steles resist every attempt at translation. Brennan works three days straight with Marcus providing sandwiches and moral support. James Madigan integrates into the team — his Veteran's Frame exoskeleton, his forty years of intelligence experience. The Mars data has photographs and acoustic readings, but no one can read them. Tension builds toward the acoustic breakthrough.
 
 ---
 
-## CHAPTER 15: THE LAST TIME HE HOPED
-*FLASHBACK — 1847 CE, Ireland / 2020, Austin*
+## CHAPTER 13: THE FREQUENCY ✅ COMPLETE (~12,200 words)
+*2027 — McNeeve Space Systems, Austin, Texas*
 
-**Opening:** Brennan asks about Cian's past. Memory surges.
+**POV:** Cian mac Morna
 
-**FLASHBACK — 1847 CE:**
-- Ireland — the Great Famine
-- Cian watching his homeland starve — the descendants of the people he'd protected
-- A priest who suspected the truth — Father Michael O'Brien
-- "You're the one they speak of, aren't you? The Undying Hunter."
-- A moment of hope — someone who believed, who might understand
-- Father Michael's death — disease, not violence — in Cian's arms
-- "God has a plan for you, mo chara. Don't lose faith."
-- Cian standing in the rain at the grave, faith bleeding away
-
-**Present Interwoven:**
-- Brennan asking about family, about history
-- Cian deflecting — "Old Irish stock. Nothing special."
-- Liaigh: "THOU COULDEST TELL HIM."
-- Cian: "And watch him look at me like Father Michael did? Right before he died believing in something that didn't save him?"
-
-**Character Work:**
-- Why Cian stopped hoping — hope kills you slower
-- The famine as personal failure — he couldn't stop it
-- Father Michael's faith vs. Cian's despair
-
-**Closing Line:** "Father Michael had died believing God had a plan. Cian had spent the next 173 years trying to prove him right."
+**Content:** The Acoustic Paradigm made narrative. The team flies to Austin. Brennan and Marcus deploy every technology Earth has to offer: AI photonic scanning, spectral analysis, infrared thermography, LIDAR, computational linguistics, X-ray diffraction. ALL FAIL. The inscriptions resist electromagnetic analysis entirely. Marcus's breakthrough: "We're looking at something that was never meant to be READ. It was meant to be HEARD." Mo Chrá produces the creation frequency. The inscriptions activate. The twenty chiefs' Oaths play back across five thousand years. The anti-singularity triggers inadvertently — reality cracking. Mo Chrá shields the humans (visible). Raphael contains the void at the chamber walls (hidden — mystery preserved for Books 4-5). Miriam's "Good that I know" — hearing the voices her abusers worshipped, choosing war over destruction.
 
 ---
 
-## CHAPTER 16: THE TRUTH APPROACHES
-*Austin, Texas — Day 13-14*
+## CHAPTER 14: THE SILENCE ✅ COMPLETE (~11,800 words)
+*2027 — Austin, Texas*
 
-**Opening:** Cian prepares the evidence.
+**POV:** Cian mac Morna
 
-**Plot Points:**
-- Gathering proof: photographs from across centuries, documents, the sword itself
-- Rehearsing what to say — "Your mother was my sister. She was born in 586 BCE."
-- Liaigh: "THE WORDS MATTER LESS THAN THE TRUTH THEY CARRY."
-- Cian chooses the location — Brennan's home, private, secure
-- Sets the meeting: "I need to tell you something. About your family."
-
-**Character Work:**
-- The vulnerability of truth-telling — Cian is terrified
-- Not of rejection, but of what revealing himself will cost
-- Once Brennan knows, he can never un-know
-
-**Closing Line:** "Tomorrow, he would tell Brennan McNeeve who he really was. And nothing would ever be the same."
+**Content:** Mo Chrá is cold. For the first time in 2,600 years, the sword is inert metal. Liaigh is silent — 19-day recovery from containing the anti-singularity. Cian alone in the Austin safehouse, holding a dead sword, probing for a voice that isn't there. The team works through the acoustic data without him: the inscriptions aren't just oaths — they're COORDINATES. Prison sites. Twenty chiefs, twenty locations. Antarctica identified. Marcus traces the return signal: "Come to me." The emotional devastation of isolation after weeks of partnership.
 
 ---
 
-## CHAPTER 17: "I AM YOUR UNCLE"
-*Brennan's Home — Day 15*
+# ACT IV: THE GATHERING STORM (Chapters 15–17) — PARTIALLY DRAFTED
 
-**Opening:** Cian arrives. Brennan is waiting.
-
-**THE REVELATION SCENE:**
-
-- Cian: "What do you know about your mother's family?"
-- Brennan: "She never talked about them. Said they were all gone."
-- Cian: "They're not all gone. I'm not gone."
-- The proof: documents, photographs, and finally — the sword
-- Cian draws Methuselah's Sword — the blade that glows in Nephilim presence
-- He tells the story: Ireland, Jeremiah, Tea Tephi, Niamh, the flight, the sword
-- "Your mother was my sister. I've been watching over your bloodline for twenty-six centuries."
-
-**Brennan's Reaction:**
-- Disbelief → Evidence → Shock → Slow acceptance
-- "The sword... I've seen it react. When you thought I wasn't watching."
-- "You've been lying to me for fifteen years."
-- Cian: "I've been protecting you for fifteen years. There's a difference."
-
-**The Ask:**
-- "I need your help. The Mars mission — I need you to photograph something on Cydonia."
-- Brennan: "You're asking me to trust you after you just told me everything I know is a lie?"
-- Cian: "I'm asking you to help me save the world. You can hate me afterward."
-
-**Closing Line:** "Brennan stared at the sword. At the photographs. At the man who had been 'Sean Morna' for fifteen years. And for the first time, Cian saw his sister's eyes looking at him with something other than polite distance. He saw recognition. He saw anger. And beneath it all — he saw family."
+**Arc Theme:** Sacrifice. Mobilisation. The enemy heard the oaths too. The race begins.
 
 ---
 
-## CHAPTER 18: THE AFTERMATH
-*Austin, Texas — Day 16-18*
+## CHAPTER 15: THE DISSOLUTION ✅ COMPLETE (~10,600 words)
+*2027 — Austin, Texas*
 
-**Opening:** Brennan needs time. Cian gives it.
+**POV:** Multiple (Brennan primary)
 
-**Plot Points:**
-- Three days of silence — Brennan processing
-- Cian continuing his work — a hunter's life doesn't stop
-- Liaigh: "HE WILL COME TO THEE. HE IS OF THY BLOOD."
-- Cian monitoring the Nephilim networks — the Harlot's activity increasing
-- Something is happening — the enemy knows something is coming too
-- Finally, Brennan calls: "I have questions. A lot of questions."
-
-**Character Work:**
-- Cian's vulnerability — waiting to see if he's lost another family member
-- The parallel to past losses — everyone he reveals himself to dies or leaves
-- Hope returning, despite his resistance
-
-**Closing Line:** "Brennan wanted to meet. He had questions. After twenty-six centuries of answers for everyone else, Cian finally had to answer for himself."
+**Content:** Brennan McNeeve destroys his life's work. Press conference: financial difficulties, server failure, Chapter 7 liquidation. The real data distributed across air-gapped systems in three countries. McNeeve Space Systems dies so the mission can live. Marcus's whiskey scene — commitment earned by witnessing the Oaths firsthand. The horror: the anti-singularity propagated globally. The enemy has the coordinates too. Naamah's fleet is already mobilising.
 
 ---
 
-## CHAPTER 19: THE QUESTIONS
-*Austin, Texas — Day 19*
+## CHAPTER 16: THE QUEEN MOVES ✅ COMPLETE (~7,800 words)
+*2027 — Mediterranean / Austin*
 
-**Opening:** Brennan and Cian meet. The interrogation begins.
+**POV:** Naamah / Sarah (intercut)
 
-**Plot Points:**
-- Brennan's questions: "How does the sword work? What exactly are Nephilim? Who is Liaigh?"
-- Cian answers everything — no more secrets (except Liaigh's true identity)
-- Brennan: "And you want me to photograph Watcher ruins on Mars. To find... Eden?"
-- Cian: "To find coordinates. Information. Anything they left behind."
-- Brennan: "And if I do this — if I help you — what happens then?"
-- Cian: "Then I find the Witnesses. I protect them. And I probably die doing it."
+**Content:** Naamah on her yacht *Ashtoreth*, hearing Shemyaza's voice in the oaths for the first time in 5,000 years. Deploys seven of the Thirteen Houses with specific operational directives (Satar: surveillance; Kokabel: satellites; Khem: Antarctic excavation; Baraqel: financial architecture; Aram: security; Ramiel: media cover; Danel: legal framework). Reveals Asmodeus as Tamiel's son (not Shemyaza's), Naamah as strategic breeder, Ohya/Asmodeus half-brother tension. Her contempt for Azazel — needed as False Prophet but despised. Intercut: Sarah McNeeve decides to join the Antarctica expedition after Miriam recruits her as structural engineer. Thematic parallel: two mothers, two architectures of power. Chapter ends with Naamah departing for Antarctica personally.
 
-**The Commitment:**
-- Brennan: "You've been protecting my family for twenty-six centuries. Maybe it's time I returned the favor."
-- Cian: "This isn't about debt—"
-- Brennan: "No. It's about family. You taught me that just now. Even if you didn't mean to."
-
-**Character Work:**
-- Brennan accepting his heritage — embracing rather than running
-- The beginning of true partnership — not guardian and ward, but family
-
-**Closing Line:** "For the first time in centuries, Cian wasn't alone. He had family. He had purpose. And somewhere in Mars orbit, a rover was waiting to show him where it all began."
+**File:** CHAPTER_16_THE_QUEEN_MOVES.md
 
 ---
 
-# ACT IV: THE AWAKENING
+## CHAPTER 17: THE DIGGING BEGINS ⚠️ DRAFT EXISTS (Epilogue file, ~4,700 words)
+*2027 — Antarctica / Austin*
 
-**Arc Theme:** The Cydonia mission launches. Cian embraces his purpose. The search for Eden begins in earnest.
+**POV:** Split POV
 
----
+**Planned Content:** Antarctic drilling breach at 2,847 metres — 1,900°C inside. Brief Azazel POV ("Finally, you come"). Team assembles and departs Austin. Mo Chrá's final hum: steady, fierce, *ready*.
 
-## CHAPTER 20: THE MISSION PARAMETERS
-*Austin, Texas — Day 20-25*
-
-**Opening:** Brennan presents the Cydonia mission plan.
-
-**Plot Points:**
-- Technical briefing: the rover, the delivery system, the timeline
-- Cian provides targeting coordinates — from the sword's resonance patterns
-- Primary target: The Face on Mars — interior chamber access
-- Secondary: D&M Pyramid and surrounding marker stones
-- The 18-minute signal delay — autonomous operations required
-- "We won't know what it finds until eighteen minutes after it finds it."
-
-**Character Work:**
-- Cian learning to trust Brennan's expertise
-- The partnership becoming real — two skillsets combining
-- Hope crystallizing into action
-
-**Closing Line:** "In six months, if everything worked, a robot on Mars would photograph the ruins of an alien civilization. And somewhere in those photographs, Cian would find the key to Eden."
-
----
-
-## CHAPTER 21: THE PREPARATIONS
-*Austin — Day 26-30*
-
-**Opening:** While waiting for launch, Cian trains differently.
-
-**Plot Points:**
-- Not just hunting — studying, preparing, understanding
-- The Two Witnesses' prophecies — what will they preach?
-- The Beast's identity — Ohya, son of Shemyaza, king of Nephilim spirits
-- The timeline — first Azazel's release, then the Beast's emergence
-- Cian: "How long do I have?"
-- Liaigh: "THE ENEMY KNOWETH NOT THE DAY NOR HOUR. NOR DO I. NOR DOST THOU."
-
-**Character Work:**
-- Cian shifting from reactive to proactive
-- Learning to think in terms of mission, not just survival
-- The warrior becoming a strategist
-
-**Closing Line:** "For twenty-six centuries, he had killed what was in front of him. Now he was learning to see what was coming."
-
----
-
-## CHAPTER 22: THE ENEMY'S MOVES
-*Austin — Day 31-40*
-
-**Opening:** Cian detects increased Nephilim activity.
-
-**Plot Points:**
-- Network reports: unusual movement among bloodline families
-- Financial consolidation — the Harlot's network preparing for something
-- A name surfaces: Marcus Aurelius Tiberinus — rising star in Italian politics
-- Liaigh: "OBSERVE. DO NOT ENGAGE."
-- Cian recognizes the pattern — they're creating a vessel
-
-**Character Work:**
-- The strategic perspective — seeing the whole board
-- Restraint — not charging in, not acting alone
-- Trusting the larger plan
-
-**Closing Line:** "Somewhere in Rome, something that had never been born was learning to be human. And Cian could only watch, and wait, and prepare."
-
----
-
-## CHAPTER 23: THE LAUNCH
-*Brennan's Facility — Day 41*
-
-**Opening:** The Cydonia mission launches.
-
-**Plot Points:**
-- The rover aboard Starship — three months to Mars
-- Brennan monitoring telemetry — everything nominal
-- Cian standing in mission control, watching screens
-- Liaigh: "THE FIRST STEP OF A JOURNEY THAT SHALL END ONLY WHEN ALL IS REVEALED."
-- Cian: "Or when I'm dead."
-- Liaigh: "THOSE ARE NOT MUTUALLY EXCLUSIVE."
-
-**Character Work:**
-- The weight of commitment — there's no going back
-- Partnership with Brennan deepening
-- Hope becoming faith — against Cian's nature
-
-**Closing Line:** "The rocket climbed toward the stars. And Cian mac Morna, who had walked the earth since Babylon's fall, stood watching and believed — for the first time in a very long time — that what he was doing mattered."
-
----
-
-## CHAPTER 24: THE WAITING
-*Austin — Day 42-120 (three months compressed)*
-
-**Opening:** The rover is en route. Cian continues his work.
-
-**Plot Points:**
-- Montage of waiting: hunts, investigations, training, planning
-- Deepening relationship with Brennan — family forming
-- Continued monitoring of enemy activity — Marcus rising in power
-- Liaigh: "THE ENEMY PREPARETH. SO MUST THOU."
-- Three months compressed — nothing wasted, everything building
-
-**Character Work:**
-- Cian learning patience — twenty-six centuries of immediate action vs. strategic waiting
-- The joy of family — genuine connection with Brennan
-- Purpose crystallizing — the Guardian's role becoming real
-
-**Closing Line:** "In orbit around Mars, a rover was falling toward ancient ruins. And Cian, for the first time since Father Michael died in his arms, allowed himself to believe that God might actually have a plan."
-
----
-
-## CHAPTER 25: THE AWAKENING
-*Austin / Mars — Day 121*
-
-> **REVISION NOTE (February 2026):** This chapter has been completely restructured. The original plan had Cian receiving specific Antarctic coordinates and Eden location from Mars photographs. The new structure withholds these reveals — Antarctica/Dudael is a late Book 1 / Book 2 reveal from decoded data. The Eden coordinates are a later-series discovery. This chapter now focuses on the 2nd dream-vision.
-
-**Opening:** Nineteen days after the anti-singularity event. Mo Chrá stirs. Liaigh returns.
-
-**THE 2ND DREAM-VISION (full chapter — Prologue-length):**
-
-**Source:** Authorised revelation from the Lord of Hosts, delivered through Raphael/Liaigh. Cian perceives it as a direct revelation from God — Liaigh and Mo Chrá confirm this interpretation without revealing Liaigh as the conduit.
-
-**Content:**
-- Cian sees the aftermath of the Watcher descent — NOT what he saw in the first vision
-- He sees a specific Watcher — Gadreel — and a Nephilim son born from him
-- The son's teachings — metallurgy, cosmetics, enchantments, pharmakeia — expanding his father's curriculum
-- The son's binding — chained by Raphael, cast into a place of darkness and sharp stones
-- The name: **AZAZEL**
-- But the vision does NOT reveal: Azazel's prison location, his end-time role, or why this matters NOW
-- The vision ends with a sense of unfinished business — something Cian can't articulate
-
-**Post-Vision Dialogue:**
-- Cian, shaken: "That was... different from the first. Clearer. More... directed."
-- Liaigh (now recovered): "IT WAS."
-- Mo Chrá hums in confirmation
-- Cian: "Gadreel had a son. A Nephilim. Named Azazel. Why was I shown this?"
-- Liaigh: "THOU WERT SHOWN WHAT THOU NEEDEST TO KNOW. THE MEANING WILL COME."
-- Cian: "That's not an answer."
-- Liaigh: "IT IS THE ONLY ANSWER I AM PERMITTED TO GIVE."
-
-**The Gadreel-Azazel Connection:**
-- Cian now knows the parentage — but NOT the significance
-- He doesn't connect Azazel to the False Prophet role
-- He doesn't know where Azazel is imprisoned
-- He files it away: another piece of a puzzle he can't see
-
-**Closing:**
-- Cian, with Mo Chrá humming again and Liaigh restored, feels something he hasn't felt in centuries: purpose
-- Not the cynical purpose of a professional killer — but the sense that the threads are converging
-- Naamah. Mars. The oaths. Gadreel's son. The 7-second recording still waiting to be decoded.
-- "There's a pattern. I can almost see it."
-
-**FINAL LINE:**
-
-"The Guardian was awake. The search had begun. And somewhere in seven seconds of compressed acoustic data, the answers to questions he hadn't thought to ask were waiting."
-
----
-
-**[END BOOK 1: THE AWAKENING]**
+**Final Line:** "God help them all."
 
 ---
 
 # APPENDIX: STRUCTURAL NOTES
 
-## Flashback Distribution
+## Flashback Distribution (As Drafted)
 
 | Chapter | Flashback Era | Trigger | Purpose |
 |---------|---------------|---------|---------|
-| 5 | 586 BCE — The Orphan's Rage | Liaigh challenges isolation | Foundation trauma |
-| 8 | 1312 CE — The Price of Attachment | Liaigh mentions mortality | Why Cian isolates |
-| 9 | 580 BCE — First Nephilim Kill | Combat preparation | Stakes + Liaigh origin |
-| 15 | 1847 CE — The Last Time He Hoped | Brennan asks about past | Why hope died |
+| 4 | 1347 CE — Carpathian blood cult | Infiltration downtime | Establishes Vârcolac history |
+| 4 | Spirit Warfare Montage (793-1888 CE) | Server download wait | Centuries of warfare scope |
+| 5 | Multiple eras of anti-regen research | Weapons R&D | 300 years of evolution |
+| 6 | 1467 CE — Ōnin War, Masamune katana | Weapon builds | Collecting weapons across centuries |
+| 7 | Miriam age 19 — mother's death | Her hunt | Miriam's origin |
+| 9 | 586 BCE — the quest for Mo Chrá | Big reveal to Miriam | Cian's origin |
 
-## Chapter Word Targets
+## Word Count by Act
 
-| Act | Chapters | Target Words | Running Total |
-|-----|----------|--------------|---------------|
-| I | P + 1-6 | 28,000 | 28,000 |
-| II | 7-13 | 24,500 | 52,500 |
-| III | 14-19 | 21,000 | 73,500 |
-| IV | 20-25 | 21,000 | 94,500 |
-| **Total** | **25 + P** | **~95,000** | **Target Met** |
+| Act | Chapters | Drafted Words | Avg/Chapter |
+|-----|----------|--------------|-------------|
+| I: The Revelation | P + Ch 1-3 | ~24,100 | ~6,025 |
+| II: The Hunt | Ch 4-10 | ~66,700 | ~9,529 |
+| III: The Frequency | Ch 11-14 | ~39,800 | ~9,950 |
+| IV: The Gathering Storm | Ch 15-17 | ~10,600 (+drafts) | TBD |
+| **TOTAL** | **P + 15 chapters** | **~141,200** | **~8,825** |
 
-## Key Scenes Cross-Reference (from FIVE_BOOK_STRUCTURE.md)
+## Key Scenes Cross-Reference
 
-| Scene | Chapter Location | Status |
-|-------|------------------|--------|
-| The Cydonia Vision | Prologue + Ch 1 | ✅ Outlined |
-| Guardian commission seeded (private) | Ch 5 §7 | ✅ Drafted |
-| Mars-Naamah connection recognised | Ch 10-12 | ✅ Outlined |
-| "I Am Your Uncle" revelation | Ch 17 | ✅ Outlined |
-| Brennan launches Mars mission | Ch 23 | ✅ Outlined |
-| Stele activation / anti-singularity | Drafted Ch 13 | ✅ Drafted |
-| 2nd dream-vision (Gadreel-Azazel) | Ch 25 | ✅ Outlined |
+| Scene | Chapter | Status |
+|-------|---------|--------|
+| The Cydonia Vision | Prologue + Ch 1 | ✅ Complete |
+| "I Am Your Uncle" revelation | Ch 3 | ✅ Complete |
+| Tom Clancy infiltration / Stealth Variant | Ch 4 | ✅ Complete |
+| Mo Chrá/Raphael private conversation | Ch 5 | ✅ Complete |
+| Spirit warfare montage (26 centuries) | Ch 4 | ✅ Complete |
+| Miriam introduction (full POV) | Ch 7 | ✅ Complete |
+| Carpathian assault (72hr incursion) | Ch 8 | ✅ Complete |
+| Vârcolac death / Miriam decapitation | Ch 10 | ✅ Complete |
+| Tech failure → acoustic breakthrough | Ch 13 | ✅ Complete |
+| Anti-singularity / Oaths playback | Ch 13 | ✅ Complete |
+| "Good that I know" — Miriam's transformation | Ch 13 | ✅ Complete |
+| Mo Chrá cold / Liaigh silent | Ch 14 | ✅ Complete |
+| Brennan dissolves McNeeve | Ch 15 | ✅ Complete |
+| Naamah mobilises | Ch 16 | ❌ Not written |
+| Antarctic breach / "God help them all" | Ch 17 | ⚠️ Draft exists |
 
-## Book 2 Setup Elements
+## Book 2 Setup Elements (As Planted in Manuscript)
 
-| Setup | Chapter | Payoff (Book 2) |
+| Setup | Chapter | Payoff (Book 2+) |
 |-------|---------|------------------|
-| Rothmore mentioned in intel | Ch 4 | Miriam convergence |
-| European banking families | Ch 4, 22 | Harlot network investigation |
-| Marcus Aurelius Tiberinus | Ch 22 | Beast vessel rising |
-| Gadreel-Azazel parentage established | Ch 25 (vision) | False Prophet identity (Book 2 primary antagonist) |
-| Titan-5's 7-second recording | Ch 13 (drafted) | 20 Watcher territorial pings decoded (Book 2 Ch1) |
-| Dudael/Antarctica coordinates | NOT in Book 1 | Decoded from 7-sec data (Book 2) |
-| Guardian commission | Ch 5 (seeded) | Fully revealed to Cian (Book 2) |
+| Synagogue of Satan network data | Ch 4 | Harlot network investigation |
+| Vârcolac's "Project Niamh" bounty system | Ch 4 | Wider bloodline hunting revealed |
+| James Madigan / SAS veteran | Ch 11 | Full team member for Antarctica |
+| Marcus Reeves / acoustic specialist | Ch 12-13 | Mars data interpretation continues |
+| 20 Watcher prison coordinates | Ch 14 | Decoded in Book 2 |
+| Antarctic "Come to me" signal | Ch 14 | Azazel's prison (Dudael) |
+| Global anti-singularity propagation | Ch 15 | Enemy knows the coordinates too |
+| Guardian commission (seeded privately) | Ch 5 | Fully revealed to Cian (Book 2) |
 
 ---
 
-*Outline completed: January 10, 2026*
-*Ready for manuscript development*
+*Original outline: January 10, 2026*
+*Updated to reflect manuscript reality: February 14, 2026*

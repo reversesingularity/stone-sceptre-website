@@ -110,7 +110,7 @@ Before writing ANY scene, verify:
 ## §3.4 Cosmological Locks
 
 - Literal fulfillment of 1 Enoch + canonical Bible
-- Watchers bound until release window (Tribulation)
+- Watchers permanently bound — fates sealed, reserved for lake of fire (Jude 1:6: "everlasting chains under darkness unto the judgment of the great day"). No release window. They go straight from the Abyss to Gehenna.
 - Siren transformation mechanics as established
 - Dragon's anointing, Hades release, Four Horsemen sequence fixed
 - Stone has memory — Cydonian materials witness and testify

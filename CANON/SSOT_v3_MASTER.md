@@ -110,7 +110,7 @@ Before writing ANY scene, verify:
 ## §3.4 Cosmological Locks
 
 - Literal fulfillment of 1 Enoch + canonical Bible
-- Watchers bound until release window (Tribulation)
+- Watchers permanently bound — fates sealed, reserved for lake of fire (Jude 1:6: "everlasting chains under darkness unto the judgment of the great day"). No release window. They go straight from the Abyss to Gehenna.
 - Siren transformation mechanics as established
 - Dragon's anointing, Hades release, Four Horsemen sequence fixed
 - Stone has memory — Cydonian materials witness and testify
@@ -304,6 +304,21 @@ Before writing ANY scene, verify:
 - Subsonic to harmonic chord (7.83 Hz Schumann resonance + overtones)
 - Cydonian inscriptions respond: glow, broadcast 20 chiefs' oaths
 - Reality cracks under the weight of testimony
+
+### The Stele Network (Mars–Earth Paired System)
+
+| Component | Location | Function | Condition |
+|-----------|----------|----------|-----------|
+| **Cydonia Steles** (20) | Mars, Cydonia-1 complex | Covenant markers — record original oaths + identifying sigils | Pristine (sealed environment, no geological trauma) |
+| **Earth Domain Steles** (20) | Scattered across post-Flood continents | Territorial markers — each chief's claim over domain | **Degraded**: sigils diminished, cracked, undecipherable; 5,000 years of tectonic displacement, burial, erosion |
+
+**Key Dynamics:**
+- Each Watcher chief erected an Earth domain stele of Cydonian metamaterial inscribed with personal sigil + oath of descent
+- When the Mars steles reactivated (Ch13 anti-singularity), the Earth steles **resonated** — Kokabel's satellites detected 20 simultaneous acoustic pings
+- Earth stele locations now known (within 50m) but **unidentifiable** — the sigils that would match each stele to its chief are too degraded to read
+- **Mars sigils are the key**: Brennan's rover recordings captured the pristine Cydonian inscriptions including all 20 identifying sigils
+- **Cross-referencing** Mars sigils against Earth acoustic signatures → identifies which domain belongs to which chief → locates Dudael (Gadreel's domain / Azazel's prison)
+- This makes Brennan's rover data **uniquely precious** — the only intact copy of the identification key. Naamah will kill to obtain it.
 
 ## §6.2 Nephilim Regeneration Mechanics
 
