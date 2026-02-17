@@ -566,7 +566,7 @@ BY THE BREATH THAT MOVED UPON THE FACE OF THE DEEP:"**
 Each line struck like a physical blow. The words were not merely heard — they were *experienced*, as acoustic events that interacted with matter at a level that human engineering couldn't measure and human minds could barely survive. The wind intensified with each declaration, howling through the sealed chamber as if Mount Hermon itself had opened a passage into the room.
 
 **"I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 The final three lines were different. They were not proclamation — they were *enactment*. The words didn't describe what Shemyaza had done five thousand years ago. They *did it again*. The acoustic memory carried the original power of the oath, and that power, reawakened, rippled through the gallery like a shockwave of wrongness.
@@ -609,7 +609,7 @@ BY THE WORDS THAT CANNOT BE UNSPOKEN:"**
 Marcus clutched his monitoring station as the bolts holding it to the floor began to vibrate loose.
 
 **"I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 "The irony," Miriam whispered, her voice raw. "The master of binding used his gift to bind himself to destruction."
@@ -630,7 +630,7 @@ A fissure opened in the reinforced concrete — hairline, superficial, but *real
 **"BY THE STONE THAT BEARS THE WEIGHT OF THE WORLD,
 BY THE FOUNDATIONS THAT WERE LAID BEFORE THE SEA:
 I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 ---
@@ -645,7 +645,7 @@ Darkness. Every light in the facility died — not flickering, not failing, *ext
 **"BY THE LIGHT THAT BURNS IN THE VOID BETWEEN WORLDS,
 BY THE FIRE THAT MARKS THE PATH OF AGES:
 I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 The lights returned — dimmer, uncertain, as if they'd been reminded that their existence was conditional.
@@ -662,7 +662,7 @@ Static discharge arced between every piece of metal in the gallery. Blue-white s
 **"BY THE FLASH THAT SPLITS THE SKY IN TWO,
 BY THE FIRE THAT FALLS FROM HEAVEN:
 I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 ---
@@ -678,7 +678,7 @@ Every screen in the facility — dead, alive, broken, intact — flickered to li
 **"BY THE WORD THAT WAS WRITTEN BEFORE PAPER WAS FORMED,
 BY THE TRUTH THAT MEN HAVE DENIED SINCE THE BEGINNING:
 I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 The text vanished. The screens died. The knowledge, offered for a moment, withdrew back into the acoustic memory of stone.
@@ -762,7 +762,7 @@ BY THE FLAME THAT CANNOT BE QUENCHED:"**
 Something in the console ignited. An actual flame — small, blue-white, burning without fuel on the surface of a monitor that shouldn't have been able to combust. Marcus slapped it out with his bare hand, then stared at the burn on his palm without comprehension.
 
 **"I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 The heat didn't withdraw. It *intensified*. As if Gadreel's oath, being the last of the twenty, carried cumulative weight — the final seal on a five-thousand-year covenant, the closing argument in a case that had been building since the first stele spoke.
@@ -793,7 +793,7 @@ The fundamental forces of the universe *stuttered*. Gravity flickered. Electroma
 
 Every person not inside Mo Chrá's shield would have ceased to exist. Not died — *unexisted*. Returned to the pre-creation state where matter had not yet learned to be matter.
 
-**"I FORSAKE MY OIKETERION."**
+**"I FORSAKE MY MA'ON."**
 
 Light itself went wrong. Not darkness — Kokabel had brought darkness. This was *un-light*. The absence not of illumination but of the *concept* of illumination. Photons stopped behaving like photons. The wavelengths that defined colour ceased to have meaning. For three heartbeats, the humans inside Mo Chrá's shield perceived the world in a way that no mortal had perceived it since the void before creation — formless, empty, *waiting for a Word that had already departed*.
 
@@ -1057,7 +1057,7 @@ But *listening*.
 | Mo Chrá shields humans | SSOT_v3 §6.1, Ch13 Draft | ✅ |
 | Raphael (hidden) contains anti-singularity | Ch13 Draft — LOCKED | ✅ |
 | 19-day silence | Ch13 Draft — LOCKED | ✅ |
-| Oiketerion principle | WATCHER_TECHNOLOGY.md §X | ✅ |
+| Ma'on principle | WATCHER_TECHNOLOGY.md §X | ✅ |
 | Watcher elemental attributes | WATCHER_TECHNOLOGY.md §IX | ✅ |
 | Empyreal Register for angelic speech | SSOT_v3 §9.1 | ✅ |
 | Gadreel (not Azazel) as Watcher chief | SSOT_v3 §3.1, §5.1 | ✅ |

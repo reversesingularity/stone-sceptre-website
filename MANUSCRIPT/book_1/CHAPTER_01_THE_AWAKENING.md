@@ -279,6 +279,70 @@ Cian pulled up the vision's details on the largest screen, transcribing every fr
 
 *You are mine.*
 
+But that wasn't what stuck in his throat.
+
+It was the other words. The words that had shaken Mount Hermon and made the stars flinch. Two hundred voices in unison, speaking in the sacred tongue — the language that predated Babel, predated the nations, predated everything except the Voice that had used it to call light from darkness.
+
+*I FORSAKE MY MA'ON.*
+
+He knew the word. Of course he knew it. Twenty-six centuries of Hebrew scholarship, and *ma'on* was as familiar to him as his own name. Habitation. Dwelling place. The word Moses had used in the psalm: *Adonai, ma'on atah hayita lanu* — "Lord, Thou hast been our dwelling place in all generations." The word the Levites had sung over the Temple sacrifices. The word that described where the Almighty *lived*.
+
+But hearing it spoken — not read, not studied, not parsed across a desk with lexicons and concordances — *spoken*, by beings who had once worn that dwelling like skin...
+
+Something cold settled in his chest.
+
+He stood and crossed to the shelves. His fingers found the volume without looking — a leather-bound Septuagint from the eleventh century, one of only three surviving copies of the Codex Basilensis, acquired from a private collection in Constantinople in 1437 before the city fell. He'd had it rebound twice. The Greek text was still crisp.
+
+He opened to the Catholic Epistles. Jude. Verse six.
+
+*Ἀγγέλους τε τοὺς μὴ τηρήσαντας τὴν ἑαυτῶν ἀρχὴν ἀλλ' ἀπολιπόντας τὸ ἴδιον οἰκητήριον...*
+
+*The angels which kept not their first estate, but left their own* ***oiketerion***...
+
+There it was. The Greek rendering. Jude — writing in the first century, drawing on traditions older than his language — had reached for the closest Greek equivalent of what the Watchers had actually said. *Oiketerion.* From *oikeo* — to dwell, to inhabit. The Septuagint translators had used the same root when they rendered *ma'on* in Deuteronomy: *"Look down from thy holy habitation, from heaven."*
+
+The Hebrew original. The Greek translation. The same concept: a dwelling one *inhabits*. A body-as-house. A garment of glory that the Almighty Himself wore.
+
+And the Watchers had torn it off.
+
+"Liaigh."
+
+**"AYE."**
+
+"Second Corinthians. Chapter five. Verse two."
+
+A pause. The particular quality of silence that meant the angel knew exactly where this was going.
+
+**"THOU HAST THY OWN COPY."**
+
+"I want to hear you say it."
+
+Another pause. Then, quietly — almost gently:
+
+**"'FOR IN THIS WE GROAN, EARNESTLY DESIRING TO BE CLOTHED UPON WITH OUR HOUSE WHICH IS FROM HEAVEN.'"**
+
+"The Greek word Paul uses for 'house' in that verse."
+
+**"OIKETERION."**
+
+The word hung in the air between them. The same word. The identical Greek term — used exactly twice in the entire New Testament. Once by Jude, describing what the Watchers had *thrown away*. Once by Paul, describing what the saints *ache to receive*.
+
+Cian set the Codex down. His hands were steady. His voice was not.
+
+"They had His *ma'on* sewn into their being," he said. "The same habitation the Almighty dwells in. The same glory that Paul says the redeemed will one day put on like a garment. The Watchers *wore* it. They walked in it. They breathed in it for however long they served at their station — and then they stood on Hermon and *stripped it off*." His voice dropped to something low and dangerous. "For flesh. For fatherhood they were never created to have. For women they should never have touched."
+
+Liaigh said nothing.
+
+"And Paul's people — the believers dying in Roman arenas, the saints being torn apart for their faith — they were *groaning* for the very thing these creatures discarded like a soiled garment? Groaning to be clothed with the heavenly dwelling that two hundred angels couldn't be bothered to *keep*?"
+
+**"AYE."**
+
+The single word was enough. It confirmed what Cian's scholarship had constructed and what his heart already knew: the shedding of the ma'on was not merely rebellion. It was the most obscene waste in the history of creation. A gift beyond mortal comprehension, surrendered for a transaction that would corrupt the world and damn everyone involved.
+
+He turned back to the screen. The vision data stared back at him. The woman's face. The calculating eyes.
+
+*Naamah.*
+
 "LIAIGH."
 
 **"AYE."**

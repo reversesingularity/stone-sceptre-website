@@ -21,7 +21,7 @@ But when the oaths echoed across the planet — when the acoustic memory activat
 
 His voice. His *power*. The resonant authority of a being who had once commanded two hundred of heaven's finest, speaking himself into chains that would hold until time itself ran out.
 
-*I FORSAKE MY OIKETERION.*
+*I FORSAKE MY MA'ON.*
 
 She had been in the stateroom of the *Ashtoreth* — 97 metres of naval architecture disguised as a private superyacht, registered in the Marshall Islands through a House Sariel shell company, crewed by half-breeds who served her without question or complaint. The Mediterranean stretched around her like dark silk. She had been reading financial reports from House Baraqel — quarterly summaries of sovereign debt movements across the European Central Bank, the kind of data that decided whether nations prospered or starved.
 
@@ -343,7 +343,7 @@ One had not receded.
 
 One had lodged in her mind like a splinter of glass, and every time she closed her eyes, she heard it again.
 
-*I, TAMIEL, FORSAKE MY OIKETERION. I TAKE THE OATH OF SHEMYAZA. I SHALL DESCEND. I SHALL TEACH THEM THE BORDERS BETWEEN FLESH AND SPIRIT — HOW THE VEIL MAY BE PARTED, HOW THE UNSEEN MAY ENTER THE SEEN, HOW A SOUL MAY BE OPENED TO RECEIVE THAT WHICH WAS NEVER MEANT TO DWELL WITHIN IT.*
+*I, TAMIEL, FORSAKE MY MA'ON. I TAKE THE OATH OF SHEMYAZA. I SHALL DESCEND. I SHALL TEACH THEM THE BORDERS BETWEEN FLESH AND SPIRIT — HOW THE VEIL MAY BE PARTED, HOW THE UNSEEN MAY ENTER THE SEEN, HOW A SOUL MAY BE OPENED TO RECEIVE THAT WHICH WAS NEVER MEANT TO DWELL WITHIN IT.*
 
 The oath of the demon-teacher. The Watcher who had taught humanity how to summon, how to bind, how to create the conditions under which a spirit could enter and *inhabit* a human being.
 

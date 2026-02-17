@@ -500,10 +500,12 @@ Before writing ANY scene, verify:
 
 ## §9.3 Watcher Oath Structure
 
-Key phrase: **"I FORSAKE MY OIKETERION"**
-- Dis legomenon from Jude 1:6
-- Appears only twice in NT (Jude 1:6, 2 Cor 5:2)
-- Watchers' oath deliberately inverts the word
+Key phrase: **"I FORSAKE MY MA'ON"**
+- Hebrew מָעוֹן (*ma'on*) = God's dwelling place (Deut 26:15, Ps 68:5, Ps 90:1)
+- Greek rendering: οἰκητήριον (*oiketerion*) — dis legomenon from Jude 1:6 / 2 Cor 5:2
+- Watchers speak the Hebrew original in their oaths
+- Cian traces the Hebrew → Greek → English chain in Chapter 1
+- Miriam recognises both terms in Chapter 9
 - 20 chiefs speak individual vows
 - Collective seal: "ALL OF US, OR NONE"
 

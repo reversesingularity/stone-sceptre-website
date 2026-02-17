@@ -590,7 +590,7 @@ The long version took four hours.
 
 James listened with the focused stillness of a man receiving the most consequential operational briefing of his career. He asked no questions until the first telling was complete — the soldier's discipline, the operator's patience. *Give me the full picture first. Then I'll pick it apart.*
 
-When Cian finished — the Watchers, the Nephilim, the Acoustic Paradigm, the Oiketerion, the Commission of 586 BCE, the twenty-six centuries of hunting monsters while the world changed around him — James poured another round of whiskey and considered.
+When Cian finished — the Watchers, the Nephilim, the Acoustic Paradigm, the shedding of the ma'on, the Commission of 586 BCE, the twenty-six centuries of hunting monsters while the world changed around him — James poured another round of whiskey and considered.
 
 "How many of them are there?"
 

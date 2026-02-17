@@ -189,15 +189,17 @@ Naamah's brother Tubal-Cain was already "an instructor of every artificer in bra
 - **The Sirens became the goddesses of mythology.** Post-Flood, these transformed beings manifested as the goddess figures of every ancient culture.
 - **Naamah is the source of all Mother Goddess traditions.** Isis, Ishtar, Inanna, Astarte, Cybele, Rhea, Aphrodite, Hecate — all are corrupted memories of the original Naamah.
 
-### §2.7 — The Oiketerion: Gift Lost, Knowledge Retained — LOCKED
+### §2.7 — The Ma'on (Oiketerion): Gift Lost, Knowledge Retained — LOCKED
 
-**The shedding of the oiketerion (heavenly habitation/body) resulted in the LOSS of inherent supernatural abilities, but the RETENTION of knowledge regarding how those abilities functioned.**
+**The shedding of the ma'on (מָעוֹן — heavenly habitation/body) resulted in the LOSS of inherent supernatural abilities, but the RETENTION of knowledge regarding how those abilities functioned.**
 
 #### Scriptural Foundation
 
 > *"And the angels which kept not their first estate, but left their own habitation (οἰκητήριον — oiketerion)..."* — Jude 1:6
 
-The Greek οἰκητήριον refers to a dwelling or habitation — in this context, the celestial body/form the Watchers possessed before their descent. This is theologically inverted from 2 Corinthians 5:2, where saints *aspire* to be "clothed upon with our house (οἰκητήριον) which is from heaven."
+The Greek οἰκητήριον is the Septuagint-era rendering of the Hebrew מָעוֹן (*ma'on*) — a dwelling or habitation. In the Hebrew scriptures, *ma'on* describes God's own dwelling place (Deuteronomy 26:15, Psalm 68:5, Psalm 90:1). In the Watcher context, it refers to the celestial body/form the Watchers possessed before their descent — a habitation-garment of divine origin. This is theologically inverted from 2 Corinthians 5:2, where saints *aspire* to be "clothed upon with our house (οἰκητήριον) which is from heaven."
+
+**The Three-Language Chain:** The Watchers spoke the oath in Hebrew (*ma'on*) on Mount Hermon. Jude rendered it in Greek (*oiketerion*) in his epistle. English translations flatten both to "habitation," losing the resonance. The manuscript uses the Hebrew original in all oath dialogue and traces the Greek rendering through Cian's scholarship in Chapter 1.
 
 #### The Consequence of Shedding — LOCKED
 
@@ -210,7 +212,7 @@ The Greek οἰκητήριον refers to a dwelling or habitation — in this c
 
 #### The Critical Distinction — LOCKED
 
-- **GIFT**: The inherent supernatural ability to directly command acoustic harmonics and elemental forces. This was **LOST** when the Watchers forsook their oiketerion.
+- **GIFT**: The inherent supernatural ability to directly command acoustic harmonics and elemental forces. This was **LOST** when the Watchers forsook their ma'on.
 - **KNOWLEDGE**: The understanding of *how* those abilities worked — the frequencies, the resonances, the principles by which creation responds to specific inputs. This was **RETAINED**.
 
 #### Why This Matters — Theological Implications
@@ -231,7 +233,7 @@ The Book 1 Prologue depicts this loss viscerally:
 
 > *"Shemyaza felt himself CONFINED — pressed into a form so small, so fragile, so terribly mortal in its architecture. He tried to spread wings that were no longer there. He tried to perceive with senses that had been stripped away. He tried to touch the infinite — and found only the boundaries of a skull made of calcium and carbon."*
 
-The oaths spoken on Mount Hermon — including "I FORSAKE MY OIKETERION" — were not merely ceremonial. They were *causative*. The speaking of the oath *enacted* the stripping of their celestial nature.
+The oaths spoken on Mount Hermon — including "I FORSAKE MY MA'ON" — were not merely ceremonial. They were *causative*. The speaking of the oath *enacted* the stripping of their celestial nature.
 
 ---
 
@@ -4748,7 +4750,7 @@ The descent was not a footnote — it was the *cosmic annexation*, the formal tr
 
 | Condition | Meaning |
 |-----------|---------|
-| **No celestial powers** | They shed their *oiketerion* permanently — it cannot be reclaimed |
+| **No celestial powers** | They shed their *ma'on* permanently — it cannot be reclaimed |
 | **Serve God's purposes first** | They must aid the restoration of Abraham's descendants |
 | **Serve the Lost Sheep specifically** | They must bless the nations where the scattered House of Israel dwells |
 | **Operate within divine timing** | They cannot force the Tribulation; they await God's markers |
@@ -4884,11 +4886,11 @@ The Watchers' restraint is tied to "the fullness of the Gentiles." They could co
 
 ---
 
-### The Oiketerion: Permanent Loss
+### The Ma'on: Permanent Loss
 
 **Jude 1:6 / 2 Corinthians 5:2:**
 
-The Watchers *abandoned* their heavenly dwelling (*oiketerion*). This was irreversible:
+The Watchers *abandoned* their heavenly dwelling (*ma'on* / Greek: *oiketerion*). This was irreversible:
 
 | State | Before the Fall | After the Fall |
 |-------|-----------------|----------------|

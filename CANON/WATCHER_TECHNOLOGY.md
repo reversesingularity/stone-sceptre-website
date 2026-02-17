@@ -278,7 +278,7 @@ No wonder she's exasperated.
 
 While ALL Watchers (sons of God) share the **universal acoustic-harmonic resonance ability** derived from their presence at creation — "the morning stars sang together, and all the sons of God shouted for joy" (Job 38:7) — each Watcher was ALSO gifted with **specific elemental or domain attributes** unique to their assigned function.
 
-**⚠️ CRITICAL CANON (See §X below):** These abilities were LOST when the Watchers shed their oiketerion. What they RETAINED was the KNOWLEDGE of how these gifts functioned.
+**⚠️ CRITICAL CANON (See §X below):** These abilities were LOST when the Watchers shed their ma'on. What they RETAINED was the KNOWLEDGE of how these gifts functioned.
 
 ### The Principle
 
@@ -340,11 +340,11 @@ When facing Nephilim or Watcher-influenced entities, the elemental attribute aff
 
 ---
 
-## X. THE OIKETERION PRINCIPLE: GIFT LOST, KNOWLEDGE RETAINED (LOCKED)
+## X. THE MA'ON PRINCIPLE (OIKETERION): GIFT LOST, KNOWLEDGE RETAINED (LOCKED)
 
 ### The Core Doctrine
 
-**When the 200 Watchers shed their oiketerion (heavenly habitation/celestial body), they LOST their inherent supernatural abilities but RETAINED the knowledge of how those abilities functioned.**
+**When the 200 Watchers shed their ma'on (מָעוֹן — heavenly habitation/celestial body; Greek: οἰκητήριον, oiketerion), they LOST their inherent supernatural abilities but RETAINED the knowledge of how those abilities functioned.**
 
 This single principle explains the entire mechanism of forbidden knowledge transmission and Watcher technology development.
 
@@ -352,7 +352,9 @@ This single principle explains the entire mechanism of forbidden knowledge trans
 
 > *"And the angels which kept not their first estate, but left their own habitation (οἰκητήριον — oiketerion)..."* — Jude 1:6
 
-The Greek οἰκητήριον refers to a dwelling or habitation — the celestial body/form that enabled direct acoustic-harmonic manipulation. When they spoke "I FORSAKE MY OIKETERION" on Mount Hermon, the oath was *causative* — the speaking enacted the stripping.
+The Greek οἰκητήριον is the Septuagint-era rendering of the Hebrew מָעוֹן (*ma'on*) — a dwelling or habitation. In the Hebrew scriptures, *ma'on* describes God's own dwelling place (Deut 26:15, Ps 68:5, Ps 90:1). The Watchers spoke the oath in Hebrew on Mount Hermon: "I FORSAKE MY MA'ON." The speaking was *causative* — the oath enacted the stripping.
+
+Jude, writing in Greek, rendered the Hebrew concept as *oiketerion*. Paul used the same Greek word in 2 Corinthians 5:2, where saints *long* to be clothed with their heavenly habitation — the theological inversion of the Watchers' forsaking.
 
 ### Before and After the Descent
 
@@ -366,12 +368,12 @@ The Greek οἰκητήριον refers to a dwelling or habitation — the celes
 
 ### Why This Matters for the Acoustic Paradigm
 
-The Acoustic Paradigm (Section III) establishes that all Watcher technology is sound-based. The Oiketerion Principle explains *why*:
+The Acoustic Paradigm (Section III) establishes that all Watcher technology is sound-based. The Ma'on Principle explains *why*:
 
 | Question | Answer |
 |----------|--------|
 | **Why is Watcher tech acoustic?** | Because acoustic manipulation was their INHERENT gift. They built technology to replicate what they'd lost. |
-| **Why couldn't they just DO it?** | The oiketerion contained the celestial apparatus for producing pure frequencies. Flesh cannot. |
+| **Why couldn't they just DO it?** | The ma'on contained the celestial apparatus for producing pure frequencies. Flesh cannot. |
 | **Why did they TEACH instead of DEMONSTRATE?** | They remembered the theory perfectly but could no longer perform the practice directly. |
 | **Why are the inscriptions acoustic notation?** | They encoded what they could no longer produce — hoping the technology would preserve their lost power. |
 
@@ -393,7 +395,7 @@ HUMANITY (Sumer onward) → Knowledge received; no ability = must build TECHNOLO
 
 | Entity | Knowledge Level | Ability Level | How They Access Power |
 |--------|-----------------|---------------|----------------------|
-| **Unfallen Angels** | Complete | Complete | Inherent — still possess oiketerion |
+| **Unfallen Angels** | Complete | Complete | Inherent — still possess ma'on |
 | **Fallen Watchers (Bound)** | Complete | ZERO | Cannot — imprisoned in Abyss |
 | **Nephilim (Physical, Pre-Flood)** | High (taught by fathers) | Partial (hybrid physiology) | Limited innate ability + technology |
 | **Nephilim Spirits (Demons)** | High (retained from life) | ZERO (incorporeal) | Must possess hosts or influence humans to build |
@@ -422,13 +424,14 @@ The sword is not merely a weapon forged from unusual materials. She represents:
 
 | Document | Relevant Section | Connection |
 |----------|------------------|------------|
-| **SERIES_BIBLE.md** | §2.7 (The Oiketerion) | Constitutional foundation |
+| **SERIES_BIBLE.md** | §2.7 (The Ma'on / Oiketerion) | Constitutional foundation |
 | **BOOK_1_PROLOGUE.md** | Section III (The Shedding of Garments) | Narrative depiction of the loss |
-| **SSOT_v2.md** | §11 (Watcher Oath Structure) | "I FORSAKE MY OIKETERION" as Element 6 |
+| **SSOT_v3.md** | §9.3 (Watcher Oath Structure) | "I FORSAKE MY MA'ON" as Element 6 |
 | **WATCHER_DOSSIERS.md** | Individual teaching sections | What each Watcher TAUGHT (not what they could still DO) |
 
 ---
 
 *Document Created: January 20, 2026*
-*Updated: February 6, 2026 — Added Section IX (Individual Watcher Attributes), Section X (Oiketerion Principle)*
+*Updated: February 6, 2026 — Added Section IX (Individual Watcher Attributes), Section X (Ma'on/Oiketerion Principle)*
+*Updated: February 17, 2026 — Primary terminology changed from Greek oiketerion to Hebrew ma'on; three-language chain established*
 *Status: LOCKED — Foundational Series Canon*

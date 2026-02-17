@@ -681,7 +681,7 @@ The sigil was intact. Pristine. Legible.
 
 Naamah pressed her hand against the stele's surface and felt the creation frequency — the remnant of heaven's chord, distorted by the oath, twisted by the descent — thrumming through the metamaterial like a pulse. A heartbeat. Her husband's voice, echoing through the stone from five thousand years ago, from a council chamber on Mars where two hundred angels had sworn themselves to damnation:
 
-*I FORSAKE MY OIKETERION.*
+*I FORSAKE MY MA'ON.*
 
 The stele pulsed warm beneath her fingers.
 

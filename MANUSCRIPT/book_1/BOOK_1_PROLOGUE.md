@@ -155,7 +155,7 @@ KEEPER OF THE FOUR WINDS THAT CIRCLE THE THRONE.
 BY THE WINDS THAT CARRIED THE VOICE OF THE ALMIGHTY,
 BY THE BREATH THAT MOVED UPON THE FACE OF THE DEEP:
 I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 A gale erupted from nowhere—hurricane force in a space that should have been still. The mountain itself seemed to groan beneath the weight of what had been spoken.
@@ -169,7 +169,7 @@ HE WHO KNEW THE SECRET FLAME BEFORE IT WAS GIVEN TO MAN.
 BY THE FIRE THAT BURNS IN THE HEART OF EVERY SUN,
 BY THE SPARK THAT KINDLED THE FIRST LIGHT:
 I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 Heat washed over the assembly—impossible, searing—as though the words themselves had called forth flame.
@@ -183,7 +183,7 @@ HE WHO BINDS AND RESOLVES.
 BY THE SEALS THAT LOCK AND LOOSE,
 BY THE WORDS THAT CANNOT BE UNSPOKEN:
 I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND."**
 
 Twenty chiefs. Twenty oaths. Twenty bindings that could never be undone.
@@ -197,7 +197,7 @@ When the last chief had spoken, Shemyaza raised his hand one final time.
 Two hundred voices answered as one. The sound shook dust from stones that had not moved in ten thousand years.
 
 **"I BIND MYSELF TO THE EARTH.
-I FORSAKE MY OIKETERION.
+I FORSAKE MY MA'ON.
 I DESCEND.
 ALL OF US, OR NONE."**
 

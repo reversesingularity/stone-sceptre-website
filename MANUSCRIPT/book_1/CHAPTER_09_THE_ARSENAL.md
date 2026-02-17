@@ -499,11 +499,11 @@ He looked at her with renewed respect. "You know the text?"
 
 "Azazel taught metalwork and weapons. Shemyaza taught enchantment and herbalism. Others taught astronomy, astrology, the working of precious stones. Every domain of knowledge that the Watchers possessed — knowledge they'd gained as celestial beings — they gave to women they wanted to impress and a world that wasn't ready for it."
 
-Miriam's eyes narrowed. "The Oiketerion."
+Miriam's eyes narrowed. "The *ma'on*."
 
-Cian set down his glass. "Where did you learn that word?"
+Cian set down his glass. Very slowly. "Where did you learn that word?"
 
-"Book of Jude. Verse six. '*The angels which kept not their first estate.*' The Greek word is *oiketerion* — it means 'habitation.' Their celestial bodies. The Watchers left their celestial bodies." She leaned forward. "But your angel said something earlier — in the car. Something about the sword's frequencies and mortal ears. If the Watchers gave up their celestial bodies, they gave up the abilities that came with those bodies."
+"Book of Jude. Verse six. '*The angels which kept not their first estate.*' The Greek word Jude uses is *oiketerion* — 'habitation.' But the concept he's rendering is Hebrew. *Ma'on.* God's dwelling place. Deuteronomy, Psalms — it's the same word. The Watchers' celestial bodies weren't just forms. They were habitations — the Almighty's own garment-type, worn by His servants." She leaned forward. "But your angel said something earlier — in the car. Something about the sword's frequencies and mortal ears. If the Watchers gave up their ma'on — their celestial habitation — they gave up the abilities that came with it."
 
 "Yes."
 
@@ -511,7 +511,7 @@ Cian set down his glass. "Where did you learn that word?"
 
 Cian stared at her.
 
-In twenty-six centuries, he had explained the Oiketerion principle to perhaps forty people. Most had required hours of exposition. Miriam had arrived at it in thirty seconds through textual analysis and logical deduction.
+In twenty-six centuries, he had explained the ma'on principle to perhaps forty people. Most had required hours of exposition. Miriam had arrived at it in thirty seconds through textual analysis and logical deduction.
 
 "That's exactly right," he said.
 
@@ -1002,11 +1002,11 @@ Approximately 8,800 words
 - **Section I (The Ride):** Rapid-fire argument. Comedy builds from friction. Mo Chrá snorts/giggles for the first time.
 - **Section II (The Argument):** Arrival at safehouse. Heat continues. Raphael introduced. Miriam requests 17 minutes and whiskey.
 - **Section III (The Arsenal):** THE COMEDY SET-PIECE. Miriam stops mid-argument, sees the weapons, and undergoes visible neurological crisis. Eyes twitching. Mouth opening and closing. Whiskey spilling. Escalates to Mo Chrá's full harmonic laugh.
-- **Section IV (The Proof):** Tonal shift to serious. The exposition chapter — Watchers, Nephilim, Acoustic Paradigm, Oiketerion, Apkallu, Cainan, Sumerian Problem, Harlot system. Then Miriam challenges Cian's Israelite identity (ten-tribes debate) and the jurisdictional system is explained. Full heated exchange — Miriam cites Ezra/Nehemiah, Cian drops the eyewitness hammer.
+- **Section IV (The Proof):** Tonal shift to serious. The exposition chapter — Watchers, Nephilim, Acoustic Paradigm, ma'on principle, Apkallu, Cainan, Sumerian Problem, Harlot system. Then Miriam challenges Cian's Israelite identity (ten-tribes debate) and the jurisdictional system is explained. Full heated exchange — Miriam cites Ezra/Nehemiah, Cian drops the eyewitness hammer.
 - **Section V (The Inventory):** Blend of comedy and mission prep. Miriam armed. Saxon sword selected. "Why weren't you there" question establishes ongoing tension. Alliance cemented.
 
 ### Canon Compliance Verified
-- [x] Oiketerion principle explained correctly (Jude 1:6)
+- [x] Ma'on principle explained correctly (Jude 1:6, Hebrew → Greek trace)
 - [x] Acoustic Paradigm referenced (Genesis 1, God SPOKE creation)
 - [x] Watcher descent at Mount Hermon (200 Watchers, led by Shemyaza)
 - [x] Knowledge Transmission Chain: Watchers → Nephilim → Apkallu → Sumerians → Harlot System

@@ -89,7 +89,7 @@ The humans *worshipped*.
 
 The vision shifted. Time compressed. Decades collapsed into moments, and Cian watched the knowledge cascade unfold like a contagion.
 
-The Watchers had lost their inherent power when they shed their celestial habitations — the oiketerion, the luminous bodies that had allowed them to manipulate creation's frequencies by will alone. They had traded glory for flesh. But the *knowledge* remained. Every acoustic principle, every harmonic pattern, every blueprint for technologies that had been woven into the fabric of reality since the morning stars sang together — all of it, preserved in minds that had been old before humanity drew its first breath.
+The Watchers had lost their inherent power when they shed their celestial habitations — the ma'on, the luminous bodies that had allowed them to manipulate creation's frequencies by will alone. They had traded glory for flesh. But the *knowledge* remained. Every acoustic principle, every harmonic pattern, every blueprint for technologies that had been woven into the fabric of reality since the morning stars sang together — all of it, preserved in minds that had been old before humanity drew its first breath.
 
 And they *taught*.
 
@@ -153,7 +153,7 @@ The chiefs maintained a semblance of restraint. Shemyaza, Armaros, Gadreel, Koka
 
 The lesser Watchers — the hundred and eighty who had not been chiefs but had sworn the oath nonetheless — possessed no such discipline.
 
-Something had cracked in them. The shedding of the oiketerion had stripped away not only their celestial power but some essential part of their restraint. They had been angels. They had dwelt in the presence of the Almighty. They had sung the creation frequency as its harmonics still rang through the infant universe. And they had *thrown it away* — traded it for bodies of flesh that contained drives and hungers their celestial minds were not equipped to manage.
+Something had cracked in them. The shedding of the ma'on had stripped away not only their celestial power but some essential part of their restraint. They had been angels. They had dwelt in the presence of the Almighty. They had sung the creation frequency as its harmonics still rang through the infant universe. And they had *thrown it away* — traded it for bodies of flesh that contained drives and hungers their celestial minds were not equipped to manage.
 
 The desire that had initially fixed upon women — bad enough, catastrophic enough — metastasised.
 
@@ -495,7 +495,7 @@ Cian felt no pity. He could not afford it. These were the beings whose descendan
 
 But he *understood*. For the first time, standing in a memory five thousand years old, watching an angel weep over dying children, Cian understood the full horror of what the oath at Cydonia had cost.
 
-Not just heaven. Not just oiketerion. Not just glory and power and eternal purpose.
+Not just heaven. Not just ma'on. Not just glory and power and eternal purpose.
 
 *Everything.*
 
@@ -824,7 +824,7 @@ The chapter accomplishes seven functions:
 
 | Element | Canon Source | Status |
 |---------|-------------|--------|
-| Oiketerion Principle (lost power, retained knowledge) | WATCHER_TECHNOLOGY §X | ✅ |
+| Ma'on Principle (lost power, retained knowledge) | WATCHER_TECHNOLOGY §X | ✅ |
 | Acoustic Paradigm (all tech sound-based) | WATCHER_TECHNOLOGY §II | ✅ |
 | Mo Chrá forged by Enoch from Cydonian debris | SSOT §4.3; MO_CHRA_SWORD_LORE I-II | ✅ |
 | Stone has memory | WATCHER_TECHNOLOGY §IV | ✅ |
