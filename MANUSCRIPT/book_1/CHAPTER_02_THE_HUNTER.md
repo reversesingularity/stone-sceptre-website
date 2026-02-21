@@ -609,7 +609,7 @@ Not fragile hope. Not desperate hope.
 
 | Character | Role | Function |
 |-----------|------|----------|
-| **Sarah McNeeve** | Brennan's wife, aerospace engineer | Grounded skepticism â†’ acceptance; technical expertise |
+| **Sarah McNeeve** | Brennan's wife, corporate lawyer | Grounded skepticism → acceptance; lawfare (legal/financial warfare against the Synagogue) |
 | **Emma McNeeve** | Daughter, ~8 years | Target of attack; perceptive (notices sword's song) |
 | **Liam McNeeve** | Son, ~5 years | Stakes; innocence in danger |
 

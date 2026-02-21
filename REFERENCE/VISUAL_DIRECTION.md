@@ -337,10 +337,24 @@ twin figures of death and sleep carrying fallen warrior between them, one with d
 
 ## Category F: Book Cover Concepts
 
-### Prompt F1: Book 1 Cover — The Awakening
+### Prompt F1: Book 1 Cover — The Cydonian Oaths
 ```
 lone warrior silhouette standing before massive ancient alien ruins beginning to glow with reawakening power, bronze sword in hand, Martian/otherworldly landscape, structures of impossible geometry emerging from dust, sacred geometry patterns in the sky like cracks in reality, title space at top, cinematic book cover composition, epic biblical sci-fi fantasy --ar 2:3 --v 6.1
 ```
+
+### Back-Cover Blurb — Book 1: The Cydonian Oaths (LOCKED)
+
+> Twenty-six centuries of war. One vision that changes everything.
+>
+> Cian mac Morna has hunted the nephilim since before the Roman Empire. He thought he understood the enemy. He did not know about Mars.
+>
+> A divine vision shatters his world: the true history of the Watchers' fall, the oaths that unmade creation, and the ancient citadel beneath Cydonia's crimson dunes — still alive, still waiting.
+>
+> He is not the weapon he thought he was.
+> He is the Shield.
+> And the Witnesses are coming.
+
+---
 
 ### Prompt F2: Book 5 Cover — The Final Battle
 ```

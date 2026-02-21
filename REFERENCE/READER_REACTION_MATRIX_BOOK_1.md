@@ -1,4 +1,4 @@
-# READER REACTION MATRIX — BOOK 1: THE AWAKENING
+# READER REACTION MATRIX — BOOK 1: THE CYDONIAN OATHS
 ## The Nephilim Chronicles
 
 **Prepared:** February 18, 2026
@@ -303,7 +303,7 @@ This matrix adds a new voice to the assessment: **Claude**, functioning not as a
 | **Insufferable Scrutiny** | 🧠🧠 Financial plausibility. Chapter 7 liquidation mechanics. Air-gapped data distribution across three countries. The insufferables who work in finance, law, or tech will check the dissolution process. |
 | **Niamh's Letter** | 🔥🔥🔥 The brass cylinder. Niamh mac Morna's letter to her descendant, written across centuries and carried by Mo Chrá: *"You are Machirite. You are mac Morna. You are a giant slayer. Now rise, and hunt."* The bloodline made personal. |
 | **Horror Element** | 💀💀 The anti-singularity propagated GLOBALLY. The enemy has the coordinates too. Every step the team took to decode the steles — the enemy tracked simultaneously. The race was lost before they knew it was a race. |
-| **McNeeve Space Systems Team** | 🧠 Eleven profiles. Each specialist chosen for the Antarctic/Mars mission. The insufferables will track these people into Book 2. Sarah McNeeve's structural engineering expertise is a planted seed. |
+| **McNeeve Space Systems Team** | 🧠 Eleven profiles. Each specialist chosen for the Antarctic/Mars mission. The insufferables will track these people into Book 2. Sarah McNeeve's lawfare expertise — corporate law deployed as a weapon against the Synagogue's financial and legal infrastructure — is a planted seed. |
 | **Hook** | 🎣 Naamah's fleet is already mobilising. The enemy has a HEAD START. |
 | **Reader Question Planted** | ❓ *How does the team compete with an ancient network with unlimited resources and a centuries-long head start?* |
 | **Predicted Reaction** | *"Brennan destroying his company hurt more than any combat scene. And the horror — the enemy already KNOWS. This is not a fair fight."* |
@@ -449,7 +449,7 @@ This matrix adds a new voice to the assessment: **Claude**, functioning not as a
 | **Mo Chrá's dormant layers** | Epilogue | 🟢 EXPLICIT — Killing → memory → healing/binding. What's NEXT? | Books 2-5 |
 | **Naamah's genetic programme** | Ch16, Epilogue | 🔴 LOW — Giant remains for "genetic analysis" is a BOMB | Book 3+ |
 | **The Guardian Commission** | Ch5 | 🔴 LOW — Cian's FULL commission unrevealed | Book 2 |
-| **Sarah McNeeve** | Ch15 | 🟡 MEDIUM — Structural engineer. Seems supportive. She's more. | Book 2 |
+| **Sarah McNeeve** | Ch15 | 🟡 MEDIUM — Corporate lawyer. Stays home with the children. Commands the legal war from the rear. She's more. | Book 2 |
 
 ---
 

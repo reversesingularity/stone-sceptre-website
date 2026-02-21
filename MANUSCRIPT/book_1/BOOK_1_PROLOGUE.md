@@ -1,6 +1,6 @@
 # PROLOGUE: THE DESCENT
 
-## THE NEPHILIM CHRONICLES — BOOK 1: THE AWAKENING
+## THE NEPHILIM CHRONICLES — BOOK 1: THE CYDONIAN OATHS
 
 ---
 
@@ -515,7 +515,7 @@ Liaigh paused. In all the centuries of their partnership, Cian had never heard t
 
 ---
 
-*[Book 1: The Awakening continues...]*
+*[Book 1: The Cydonian Oaths continues...]*
 
 ---
 

@@ -2,8 +2,10 @@
 ## Series Bible - Master Document
 
 **Genre**: Biblical Fantasy / Apocalyptic Thriller  
-**Setting**: Present Day (2020+) with historical flashbacks spanning 2,600 years  
-**Tone**: Epic, theological, action-driven with deep mythological foundation
+**Setting**: Present Day (2024+) with historical flashbacks spanning 2,600 years  
+**Tone**: Epic, theological, action-driven with deep mythological foundation  
+**Author (pen name)**: Kerman Gild *(used for all published works — both The Nephilim Chronicles and The Stone and the Sceptre Chronicles)*  
+**Copyright holder**: Kerman Gild © 2026
 
 ---
 
@@ -898,7 +900,7 @@ This self-awareness should inform all dialogue and characterization:
 
 ### §11.7 — Five-Book Horsemen Appearance Schedule (LOCKED)
 
-#### BOOK 1: THE AWAKENING
+#### BOOK 1: THE CYDONIAN OATHS
 
 **Appearances:** None direct — foreshadowing only
 
@@ -1132,7 +1134,7 @@ When Raphael challenges Cian about his current struggles, Cian's mind naturally 
 
 ### §10.5 — Book 1 Scope and Boundaries
 
-**Book 1: THE AWAKENING** covers the period from Cian's 2024 Texas existence through receiving the Guardian commission and beginning the search for Eden. The book ends with:
+**Book 1: THE CYDONIAN OATHS** covers the period from Cian's 2024 Texas existence through receiving the Guardian commission and beginning the search for Eden. The book ends with:
 
 - Cian accepting his role as Guardian (not Witness)
 - Brennan learning the truth ("I Am Not Your Cousin")
@@ -1281,7 +1283,7 @@ This section establishes which documents are authoritative, their order of prece
 | Book | Primary Documents | Key Content |
 |------|-------------------|-------------|
 | **Prequel: The Stone and the Sceptre** | reference_materials/prequels/THE_STONE_AND_THE_SCEPTRE.md | 586 BCE Ireland, Jeremiah, Tea Tephi, sword quest, Niamh rescue |
-| **Book 1: The Awakening** | SERIES_BIBLE.md, characters/*.md | 2020 awakening, Cian's commission, Brennan revelation, divine vision |
+| **Book 1: The Cydonian Oaths** | SERIES_BIBLE.md, characters/*.md | 2024 awakening, Cian's commission, Brennan revelation, divine vision |
 | **Book 2: The Gathering** | MARS_ANTARCTICA_INTEGRATION.md, STRATEGIC_DEPLOYMENT_MARS_ANTARCTICA.md | Mars investigation, stele analysis, Eden journey |
 | **Book 3: The Rising** | ATMOSPHERIC_SCENES_MARS_ANTARCTICA.md, AZAZELS_PRISON_DUDAEL_ANTARCTICA.md | Antarctic expedition, Dudael discovery, Azazel release |
 | **Book 4: The Testimony** | characters/CIAN_MAC_MORNA.md (Principalities Battle) | Witnesses emerge, Eden, 1,260 days, principalities |
@@ -1297,7 +1299,7 @@ This section establishes which documents are authoritative, their order of prece
 | **Elijah** | characters/ELIJAH_THE_PROPHET.md | THE_SECOND_WITNESS_CONFIRMED.md, ENDGAME_FATES.md |
 | **Raphael** | characters/THE_ANGEL.md | SERIES_BIBLE.md (Angelology) |
 | **Brennan McNeeve** | book_1_chapters/CHAPTER_02_THE_HUNTER.md | ENDGAME_FATES.md |
-| **Sarah McNeeve** | book_1_chapters/CHAPTER_03_THE_COORDINATES.md | Brennan's wife, aerospace engineer |
+| **Sarah McNeeve** | book_1_chapters/CHAPTER_03_THE_COORDINATES.md | Brennan's wife, corporate lawyer; series role: lawfare (legal/financial warfare against the Synagogue of Satan); never leaves children for kinetic operations |
 | **Emma McNeeve** | book_1_chapters/CHAPTER_02_THE_HUNTER.md | Brennan's daughter (~8), target of shedim attack |
 | **Liam McNeeve** | book_1_chapters/CHAPTER_02_THE_HUNTER.md | Brennan's son (~5) |
 | **Ohya (Beast)** | NEPHILIM_DOSSIERS.md | BEAST_VESSEL_DOSSIER.md, ENDGAME_FATES.md |

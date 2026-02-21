@@ -13,7 +13,7 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 
 ## THE FIVE-BOOK ARC
 
-### Book 1: THE AWAKENING
+### Book 1: THE CYDONIAN OATHS
 
 **Focus:** Cian receives the Guardian calling — struggles with "just" being a protector
 

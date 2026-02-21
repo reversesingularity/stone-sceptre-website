@@ -532,7 +532,7 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 
 | Book | Title | Focus | Horsemen |
 |------|-------|-------|----------|
-| 1 | THE AWAKENING | Cian receives Guardian calling; Cydonia vision | Foreshadowing only |
+| 1 | THE CYDONIAN OATHS | Cian receives Guardian calling; Cydonia vision | Foreshadowing only |
 | 2 | THE GATHERING | Finding Eden; retrieving BOTH Witnesses; Cian + Miriam | CONQUEST rides |
 | 3 | THE RISING | Azazel released; war begins | WAR + FAMINE ride |
 | 4 | THE TESTIMONY | 1,260 days; daily protection of Witnesses | THANATOS rides, HADES follows |
