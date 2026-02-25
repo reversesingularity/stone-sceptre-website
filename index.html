@@ -507,6 +507,163 @@
             margin: 2rem auto;
             max-width: 300px;
         }
+
+        /* ═══════════════════════════════════════════════════════
+           THE NEPHILIM CHRONICLES — Dark Amber/Teal Theme
+           Distinct from Stone & Sceptre's Blue/Gold palette
+           ═══════════════════════════════════════════════════════ */
+        .nephilim-series {
+            background: linear-gradient(
+                135deg,
+                rgba(10, 10, 15, 0.97) 0%,
+                rgba(26, 15, 5, 0.93) 50%,
+                rgba(10, 10, 15, 0.97) 100%
+            );
+            border-top: 2px solid rgba(201, 135, 30, 0.45);
+            border-bottom: 2px solid rgba(201, 135, 30, 0.45);
+            margin-top: 3rem;
+            padding: 3rem 2rem;
+        }
+
+        .nephilim-series .series-header h2 {
+            color: #c9871e;
+        }
+
+        .nephilim-series .series-header p {
+            color: #f0e8d0;
+        }
+
+        .nephilim-series p.series-genre {
+            color: #9a9a8a;
+            font-style: italic;
+        }
+
+        .nephilim-series .series-header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .nephilim-series .series-ornament {
+            color: #c9871e;
+            margin-top: 1rem;
+            font-size: 1.1rem;
+            letter-spacing: 4px;
+        }
+
+        .nephilim-series .series-meta {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .nephilim-series .series-meta h2 {
+            font-family: var(--font-heading);
+            font-size: 1.3rem;
+            color: #c9871e;
+            margin-bottom: 0.3rem;
+        }
+
+        .nephilim-card {
+            background: rgba(201, 135, 30, 0.06);
+            border: 2px solid rgba(201, 135, 30, 0.2);
+        }
+
+        .nephilim-card:hover {
+            border-color: rgba(201, 135, 30, 0.55);
+            box-shadow: 0 8px 30px rgba(201, 135, 30, 0.18);
+        }
+
+        .nephilim-card .book-card-header {
+            background: linear-gradient(
+                180deg,
+                rgba(201, 135, 30, 0.12) 0%,
+                transparent 100%
+            );
+        }
+
+        .nephilim-card .book-number {
+            color: #c9871e;
+        }
+
+        .nephilim-card .book-title {
+            color: #c9871e;
+        }
+
+        .nephilim-card .book-quote {
+            background: rgba(42, 157, 143, 0.08);
+            border-left: 4px solid #2a9d8f;
+        }
+
+        .nephilim-card .book-quote p {
+            color: #e8c97a;
+        }
+
+        .nephilim-card .btn-primary {
+            background: linear-gradient(135deg, #c9871e, #d4891a);
+            color: #0a0a0f;
+        }
+
+        .nephilim-card .btn-primary:hover {
+            background: linear-gradient(135deg, #e8c97a, #c9871e);
+            box-shadow: 0 5px 20px rgba(201, 135, 30, 0.5);
+        }
+
+        .nephilim-card .btn-secondary {
+            border-color: #c9871e;
+            color: #c9871e;
+        }
+
+        .nephilim-card .btn-secondary:hover {
+            background: rgba(201, 135, 30, 0.12);
+            box-shadow: 0 0 15px rgba(42, 157, 143, 0.25);
+        }
+
+        /* Nephilim book-card-body layout (mirrors standard) */
+        .nephilim-card .book-card-body {
+            padding: 1.5rem 2rem 2rem;
+        }
+
+        .nephilim-card .book-card-body p {
+            font-size: 1.1rem;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+            color: #f0e8d0;
+        }
+
+        .nephilim-card .book-card-buttons {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .nephilim-card .book-stats {
+            font-family: var(--font-body);
+            font-size: 0.9rem;
+            color: #f0e8d0;
+            opacity: 0.7;
+            font-style: italic;
+        }
+
+        .nephilim-card .book-subtitle {
+            font-style: italic;
+            color: #f0e8d0;
+        }
+
+        .nephilim-card .book-number-label {
+            font-family: var(--font-heading);
+            font-size: 0.85rem;
+            color: #c9871e;
+            opacity: 0.8;
+            letter-spacing: 2px;
+            display: block;
+            margin-bottom: 0.4rem;
+        }
+
+        .nephilim-card .book-card-info h3 {
+            font-family: var(--font-heading);
+            font-size: 1.5rem;
+            color: #c9871e;
+            margin-bottom: 0.4rem;
+        }
     </style>
 </head>
 <body>
@@ -608,6 +765,66 @@
         </div>
     </section>
 
+    <!-- ═══════════════════════════════════════════════════════ -->
+    <!-- THE NEPHILIM CHRONICLES — New Series Section           -->
+    <!-- ═══════════════════════════════════════════════════════ -->
+    <section class="nephilim-series">
+        <div style="max-width:1400px;margin:0 auto;">
+
+            <div class="series-header">
+                <h2>The Nephilim Chronicles</h2>
+                <p>When ancient oaths meet prophetic destiny, the last war begins.
+                A 2,631-year-old Celtic warrior discovers he is one of the Two Witnesses
+                of Revelation — and the imprisoned Watchers are about to be released.</p>
+                <div class="series-ornament">──── ✦ ────</div>
+            </div>
+
+            <div class="series-meta">
+                <h2>The Chronicles Series</h2>
+                <p class="series-genre">Christian Biblical Thriller &bull; Supernatural Fiction &bull;
+                Apocalyptic Fantasy</p>
+            </div>
+
+            <div class="books-grid">
+                <article class="book-card nephilim-card">
+                    <div class="book-card-header">
+                        <div class="book-cover-container">
+                            <img src="./nephilim/images/book-cover.jpg"
+                                 alt="The Cydonian Oaths — Book 1 of The Nephilim Chronicles by Kerman Gild" />
+                        </div>
+                        <div class="book-card-info">
+                            <span class="book-number-label">BOOK ONE</span>
+                            <h3>The Cydonian Oaths</h3>
+                            <p class="book-subtitle">The Nephilim Chronicles</p>
+                            <p class="book-stats">~165,000 words &bull; Available Now</p>
+                        </div>
+                    </div>
+                    <div class="book-card-body">
+                        <p>He has hunted monsters for 2,600 years. Sustained by Methuselah's
+                        ancient sword, Celtic warrior Cian mac Morna has waged shadow warfare
+                        against the Nephilim — the giant offspring of the fallen Watchers —
+                        since the fall of Jerusalem in 586 BCE. Now, on the eve of the final
+                        conflict prophesied in Revelation, he discovers he is not merely a
+                        hunter. He is one of the Two Witnesses. And the imprisoned Watchers
+                        are about to be released.</p>
+                        <div class="book-quote">
+                            <p>&ldquo;The outcome of the war was decided at Calvary.
+                            The final battle begins now.&rdquo;</p>
+                        </div>
+                        <div class="book-card-buttons">
+                            <a href="https://www.amazon.com.au/dp/B0GHMMJ16R"
+                               class="btn btn-primary"
+                               target="_blank"
+                               rel="noopener">Buy on Amazon</a>
+                            <a href="./nephilim/" class="btn btn-secondary">Explore Book 1</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+        </div>
+    </section>
+
     <!-- About Section -->
     <section class="about-section">
         <h2>About the Author</h2>
@@ -628,6 +845,7 @@
         <nav class="footer-links">
             <a href="./book1/">Book 1: The Stone and the Sceptre</a>
             <a href="./book2/">Book 2: The Red Hand Chronicle</a>
+            <a href="./nephilim/">The Cydonian Oaths (Nephilim Chronicles)</a>
         </nav>
         <p class="footer-copyright">&copy; 2025-2026 Kerman Gild Publishing. All rights reserved.</p>
     </footer>
