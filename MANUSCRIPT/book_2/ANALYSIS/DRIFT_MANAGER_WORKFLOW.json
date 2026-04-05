@@ -1,0 +1,160 @@
+{
+  "name": "DRIFT_MANAGER",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "drift-check",
+        "responseMode": "lastNode",
+        "options": {}
+      },
+      "id": "a1b2c3d4-0001-0001-0001-000000000001",
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [200, 300],
+      "webhookId": "drift-check-webhook-tnc"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================================\n// DRIFT MANAGER — Step 1: Read all canon files + chapter\n// Canon hierarchy: Series Bible > SSOT > Watcher Tech >\n//                  Dossiers > Constitution > Chapter\n// ============================================================\nconst fs = require('fs');\n\n// --- Determine chapter from webhook body ---\nconst body = $input.first().json.body || $input.first().json;\nconst chapterInput = (body.chapter || 'CHAPTER_01').toUpperCase().replace('.MD','');\nconst chapterPath = `/data/TNC/MANUSCRIPT/book_2/CHAPTERS/${chapterInput}.md`;\n\n// --- Safe file reader ---\nconst readFile = (path, label) => {\n  try {\n    const content = fs.readFileSync(path, 'utf8');\n    return { content, found: true, label };\n  } catch(e) {\n    return { content: `[FILE NOT FOUND: ${path}]`, found: false, label };\n  }\n};\n\n// --- Read all canon files (tiered token budgets) ---\nconst seriesBible    = readFile('/data/TNC/CANON/SERIES_BIBLE.md',                                         'SERIES_BIBLE');\nconst ssot           = readFile('/data/TNC/CANON/SSOT_v3_MASTER.md',                                       'SSOT_v3');\nconst watcherTech    = readFile('/data/TNC/CANON/WATCHER_TECHNOLOGY.md',                                    'WATCHER_TECHNOLOGY');\nconst constitution   = readFile('/data/TNC/MANUSCRIPT/book_2/ANALYSIS/CONSTITUTION.md',                     'CONSTITUTION_B2');\nconst protagonists   = readFile('/data/TNC/CANON/dossiers/PROTAGONIST_DOSSIERS.md',                         'PROTAGONIST_DOSSIERS');\nconst antagonists    = readFile('/data/TNC/CANON/dossiers/ANTAGONIST_DOSSIERS.md',                          'ANTAGONIST_DOSSIERS');\nconst watchers       = readFile('/data/TNC/CANON/dossiers/WATCHER_DOSSIERS.md',                             'WATCHER_DOSSIERS');\nconst nephilim       = readFile('/data/TNC/CANON/dossiers/NEPHILIM_DOSSIERS.md',                            'NEPHILIM_DOSSIERS');\nconst chapter        = readFile(chapterPath,                                                                 chapterInput);\n\n// --- Warn if chapter not found ---\nif (!chapter.found) {\n  return [{ json: {\n    error: true,\n    message: `Chapter file not found: ${chapterPath}. Create the file first.`,\n    chapter: chapterInput\n  }}];\n}\n\n// --- Token budget per tier (chars — approx 4 chars/token, mistral 32k ctx)\n// Total budget ~24,000 chars for canon, leaving room for chapter + prompt\nconst BUDGET = {\n  seriesBible:  6000,   // Tier 1 — INVIOLABLE — highest priority\n  ssot:         5000,   // Tier 2 — Master facts\n  watcherTech:  2000,   // Tier 2a — Acoustic Paradigm\n  constitution: 3000,   // Book 2 specific — critical for continuity\n  protagonists: 2500,   // Character details\n  antagonists:  2000,   // Antagonist details\n  watchers:     1500,   // Watcher dossiers\n  nephilim:     1000,   // Nephilim dossiers\n  chapter:      15000   // The actual chapter — needs full read\n};\n\nconst trim = (text, limit) => text.length > limit ? text.substring(0, limit) + '\\n...[TRUNCATED — see full file]' : text;\n\n// --- Build master prompt ---\nconst today = new Date().toISOString().split('T')[0];\n\nconst prompt = `You are the DRIFT MANAGER for The Nephilim Chronicles Book 2 by Kerman Gild.\n\nYOUR SINGLE JOB: Identify every continuity, theological, or character drift issue in the chapter below.\nCross-reference against ALL canon documents provided in order of authority.\n\n====================================================================\nSEVERITY GUIDE:\n  HIGH   = Theological contradiction, major plot inconsistency, character identity error\n  MED    = Character voice drift, timeline error, Acoustic Paradigm violation, pacing/logic issue\n  LOW    = Minor factual inconsistency, style drift, anachronism\n====================================================================\n\nCRITICAL DRIFT RULES — CHECK EVERY CHAPTER:\n  1. Azazel = NEPHILIM (son of Gadreel the Watcher) — NOT a Watcher himself [HIGH if wrong]\n  2. Cian = GUARDIAN of the Two Witnesses — NOT a Witness himself [HIGH if wrong]\n  3. Ohya = THE BEAST / APOLLYON — son of Shemyaza + Naamah [HIGH if wrong]\n  4. Naamah = THE WHORE OF BABYLON — Siren; survived the Flood [HIGH if wrong]\n  5. Raphael/Liaigh speaks ONLY in empyreal register: thee/thou, KJV vocab, ALL CAPS direct address [HIGH if casual/modern]\n  6. Raphael/Liaigh CANNOT intervene against mortal humans — supernatural threats only [HIGH if violated]\n  7. Cian does NOT know Liaigh is Raphael or an Archangel — not until canonical reveal [HIGH if violated early]\n  8. ALL Watcher/Nephilim technology operates via SOUND (Acoustic Paradigm) — not EM/digital [MED if violated]\n  9. Timeline: Series present 2025-2030; Book 2 opens Late 2027 [MED if wrong]\n  10. Cian is ~2,631 years old (2025 CE); born ~611 BCE; commissioned 586 BCE [MED if wrong]\n  11. Mo Chrá (the sword) named 532 CE in Constantinople — teal/gold luminescence [LOW if wrong]\n  12. God is SOVEREIGN — no entity forces His hand; prophecy will be fulfilled exactly [HIGH if violated]\n  13. 1 Enoch and Jubilees are treated as HISTORICAL FACT within the narrative [HIGH if contradicted]\n\n====================================================================\n=== TIER 1 — SERIES BIBLE (INVIOLABLE AXIOMS) ===\n====================================================================\n${trim(seriesBible.content, BUDGET.seriesBible)}\n\n====================================================================\n=== TIER 2 — SSOT v3 MASTER (CONSOLIDATED FACTS) ===\n====================================================================\n${trim(ssot.content, BUDGET.ssot)}\n\n====================================================================\n=== TIER 2a — WATCHER TECHNOLOGY / ACOUSTIC PARADIGM ===\n====================================================================\n${trim(watcherTech.content, BUDGET.watcherTech)}\n\n====================================================================\n=== BOOK 2 CONSTITUTION (CONTINUITY BRIDGE + BOOK 2 DECISIONS) ===\n====================================================================\n${trim(constitution.content, BUDGET.constitution)}\n\n====================================================================\n=== PROTAGONIST DOSSIERS ===\n====================================================================\n${trim(protagonists.content, BUDGET.protagonists)}\n\n====================================================================\n=== ANTAGONIST DOSSIERS ===\n====================================================================\n${trim(antagonists.content, BUDGET.antagonists)}\n\n====================================================================\n=== WATCHER DOSSIERS ===\n====================================================================\n${trim(watchers.content, BUDGET.watchers)}\n\n====================================================================\n=== NEPHILIM DOSSIERS ===\n====================================================================\n${trim(nephilim.content, BUDGET.nephilim)}\n\n====================================================================\n=== CHAPTER UNDER ANALYSIS: ${chapterInput} ===\n====================================================================\n${trim(chapter.content, BUDGET.chapter)}\n\n====================================================================\n=== YOUR OUTPUT — USE THIS EXACT FORMAT ===\n====================================================================\n\n## DRIFT REPORT — ${chapterInput} — ${today}\n\n| Issue | Location | Canon Rule | Severity | Recommendation |\n|-------|----------|------------|----------|----------------|\n| [description of issue] | [scene/paragraph ref] | [source doc + section] | HIGH/MED/LOW | [specific fix] |\n\nRULES FOR YOUR REPORT:\n- If NO issues found: output \"✅ NO DRIFT DETECTED — Chapter is canon-compliant.\"\n- List issues in order: HIGH first, then MED, then LOW\n- Be specific about location (e.g. \"Scene 3, paragraph 2\" or \"Page X, dialogue between Cian and Liaigh\")\n- Cite the exact canon source for each issue (e.g. \"SSOT §3.3\" or \"SERIES_BIBLE Article I §1.2\")\n- Do NOT suggest fixes that alter established theology\n- Do NOT edit chapter files — flag and recommend only\n- Do NOT invent issues — only flag genuine contradictions with the canon provided\n`;\n\nreturn [{\n  json: {\n    chapter: chapterInput,\n    chapterPath,\n    prompt,\n    canonFilesLoaded: [\n      { file: 'SERIES_BIBLE.md', found: seriesBible.found },\n      { file: 'SSOT_v3_MASTER.md', found: ssot.found },\n      { file: 'WATCHER_TECHNOLOGY.md', found: watcherTech.found },\n      { file: 'CONSTITUTION.md', found: constitution.found },\n      { file: 'PROTAGONIST_DOSSIERS.md', found: protagonists.found },\n      { file: 'ANTAGONIST_DOSSIERS.md', found: antagonists.found },\n      { file: 'WATCHER_DOSSIERS.md', found: watchers.found },\n      { file: 'NEPHILIM_DOSSIERS.md', found: nephilim.found },\n      { file: `${chapterInput}.md`, found: chapter.found }\n    ],\n    today\n  }\n}];"
+      },
+      "id": "a1b2c3d4-0002-0002-0002-000000000002",
+      "name": "Load Canon + Build Prompt",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [440, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "error-check",
+              "leftValue": "={{ $json.error }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "a1b2c3d4-0003-0003-0003-000000000003",
+      "name": "Chapter Found?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [660, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { \"status\": \"error\", \"message\": $json.message, \"chapter\": $json.chapter } }}"
+      },
+      "id": "a1b2c3d4-0004-0004-0004-000000000004",
+      "name": "Return Error",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [880, 160]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://ollama:11434/api/generate",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": \"mistral\",\n  \"prompt\": {{ JSON.stringify($json.prompt) }},\n  \"stream\": false,\n  \"options\": {\n    \"temperature\": 0.1,\n    \"num_ctx\": 32768\n  }\n}",
+        "options": {
+          "timeout": 300000,
+          "response": {
+            "response": {
+              "fullResponse": false
+            }
+          }
+        }
+      },
+      "id": "a1b2c3d4-0005-0005-0005-000000000005",
+      "name": "Ollama — mistral",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [880, 420]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Extract and validate Ollama response\nconst ollamaJson = $input.first().json;\nconst chapter    = $('Load Canon + Build Prompt').first().json.chapter;\nconst today      = $('Load Canon + Build Prompt').first().json.today;\nconst filesLoaded = $('Load Canon + Build Prompt').first().json.canonFilesLoaded;\n\n// Ollama /api/generate returns { response: \"...\", done: true, ... }\nconst driftReport = ollamaJson.response || ollamaJson.message?.content || '[ERROR: No response from Ollama]';\n\n// Build the log entry\nconst missingFiles = filesLoaded.filter(f => !f.found).map(f => f.file);\nconst fileWarning  = missingFiles.length > 0 \n  ? `\\n> ⚠️ WARNING: These canon files were not found: ${missingFiles.join(', ')}\\n` \n  : '';\n\nconst logEntry = `\\n\\n---\\n\\n${driftReport}\\n${fileWarning}\\n*Model: mistral | Analysed: ${new Date().toISOString()} | Canon files: ${filesLoaded.filter(f=>f.found).length}/${filesLoaded.length}*\\n`;\n\nreturn [{\n  json: {\n    chapter,\n    today,\n    driftReport,\n    logEntry,\n    missingFiles,\n    canonFilesLoaded: filesLoaded\n  }\n}];"
+      },
+      "id": "a1b2c3d4-0006-0006-0006-000000000006",
+      "name": "Extract Response",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1100, 420]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Append drift report to DRIFT_LOG.md\nconst fs      = require('fs');\nconst logPath = '/data/TNC/MANUSCRIPT/book_2/ANALYSIS/DRIFT_LOG.md';\nconst entry   = $input.first().json.logEntry;\nconst chapter = $input.first().json.chapter;\n\ntry {\n  fs.appendFileSync(logPath, entry, 'utf8');\n  return [{ json: {\n    success: true,\n    chapter,\n    message: `Drift report for ${chapter} appended to DRIFT_LOG.md`,\n    driftReport: $input.first().json.driftReport,\n    missingFiles: $input.first().json.missingFiles,\n    canonFilesLoaded: $input.first().json.canonFilesLoaded\n  }}];\n} catch(e) {\n  return [{ json: {\n    success: false,\n    chapter,\n    error: `Failed to write DRIFT_LOG.md: ${e.message}`,\n    driftReport: $input.first().json.driftReport\n  }}];\n}"
+      },
+      "id": "a1b2c3d4-0007-0007-0007-000000000007",
+      "name": "Append to DRIFT_LOG",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1320, 420]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={\n  \"status\": \"{{ $json.success ? 'complete' : 'partial' }}\",\n  \"chapter\": \"{{ $json.chapter }}\",\n  \"message\": \"{{ $json.message || $json.error }}\",\n  \"missingCanonFiles\": {{ JSON.stringify($json.missingFiles) }},\n  \"driftReport\": {{ JSON.stringify($json.driftReport) }}\n}"
+      },
+      "id": "a1b2c3d4-0008-0008-0008-000000000008",
+      "name": "Respond to Webhook",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [1540, 420]
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [
+        [{ "node": "Load Canon + Build Prompt", "type": "main", "index": 0 }]
+      ]
+    },
+    "Load Canon + Build Prompt": {
+      "main": [
+        [{ "node": "Chapter Found?", "type": "main", "index": 0 }]
+      ]
+    },
+    "Chapter Found?": {
+      "main": [
+        [{ "node": "Return Error", "type": "main", "index": 0 }],
+        [{ "node": "Ollama — mistral", "type": "main", "index": 0 }]
+      ]
+    },
+    "Ollama — mistral": {
+      "main": [
+        [{ "node": "Extract Response", "type": "main", "index": 0 }]
+      ]
+    },
+    "Extract Response": {
+      "main": [
+        [{ "node": "Append to DRIFT_LOG", "type": "main", "index": 0 }]
+      ]
+    },
+    "Append to DRIFT_LOG": {
+      "main": [
+        [{ "node": "Respond to Webhook", "type": "main", "index": 0 }]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "drift-manager-v1-tnc"
+}

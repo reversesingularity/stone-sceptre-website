@@ -1,8 +1,8 @@
 # NEPHILIM CHRONICLES — SINGLE SOURCE OF TRUTH v3
 ## SSOT_v3_MASTER.md
-**Version:** 3.0  
+**Version:** 3.1  
 **Status:** CANONICAL MASTER REFERENCE  
-**Last Updated:** February 6, 2026  
+**Last Updated:** March 4, 2026  
 **Purpose:** The definitive, authoritative consolidation of ALL canon facts. All other documents defer to SSOT_v3 where conflicts arise.
 
 ---
@@ -69,6 +69,25 @@ Before writing ANY scene, verify:
 | Sword Naming | **532 CE** | LOCKED |
 | Cydonian Revelation | **2020 CE** | LOCKED |
 | Series Present Day | **2025-2030** | LOCKED |
+| Cian's Vision (Book 1 Ch1) | **January 2024** | LOCKED |
+| Titan-1–5 Launch | **October 15, 2026** | LOCKED |
+| Titan-1 Mars Arrival | **May 2027** | LOCKED |
+| Miriam arrives at safehouse | **~September 8, 2027** | LOCKED |
+| **Anti-Singularity Event (Book 1 Ch10)** | **September 15, 2027** | LOCKED |
+| Mo Chrá / Liaigh recovery (19 days) | **~October 4, 2027** | LOCKED |
+| Book 1 Epilogue (aftermath) | **Late Sept–Oct 2027** | LOCKED |
+| **Book 2 Chapter 1** | **November 3, 2027 (Monday)** | LOCKED |
+| **Book 2 Chapter 2** | **November 3–4, 2027 (Mon–Tue)** | LOCKED |
+| **Book 2 Chapter 3** | **~November 11, 2027 (Tuesday)** | LOCKED |
+| **Book 2 Chapter 4** | **~November 14, 2027 (Friday)** | LOCKED |
+| **Book 2 Chapter 5** | **~November 19-20, 2027** | LOCKED |
+| **Book 2 Chapter 6** | **~November 20, 2027 (same night as Ch5)** | LOCKED |
+| Antarctic expedition departs | **~December 2027** | Projected |
+| Dudael approach | **January 2028** | Projected |
+| Austral summer closes (hard deadline) | **~February 2028** | Projected |
+| 1,260-day ministry begins | **2028** | Projected |
+
+**NOTE:** "October 2026" in the Book 1 epilogue refers to the *Titan-1 launch*, NOT the epilogue itself. The Book 1 epilogue is late September–October 2027.
 
 ---
 
@@ -93,7 +112,7 @@ Before writing ANY scene, verify:
 | **First Witness** | ENOCH | In Eden; returns for ministry |
 | **Second Witness** | ELIJAH | In Eden; returns for ministry |
 | **Cian's Guardian Angel** | RAPHAEL | One of Seven Archangels (Cian doesn't know) |
-| **Cian's Love Interest** | MIRIAM ASHFORD | Marries Cian in Book 2 |
+| **Cian's Love Interest** | MIRIAM ASHFORD | Baptised with Cian in Eden (Book 3); marries Cian in Jerusalem safehouse (Book 4) |
 
 ## §3.3 Endgame Fates (LOCKED)
 
@@ -127,6 +146,7 @@ Before writing ANY scene, verify:
 | **Birth** | ~611 BCE |
 | **Commission Date** | **586 BCE** |
 | **Biological Age** | ~28-30 years |
+| **Aging Rate** | **1 biological year per 1,000 chronological years** (CANONICAL — locked Feb 2026) |
 | **Chronological Age** | 2,636 years (as of 2025) |
 | **Lineage** | Descendant of Machir ben Manasseh (giant-slayer heritage) |
 | **Role** | Guardian of the Two Witnesses |
@@ -196,9 +216,13 @@ Before writing ANY scene, verify:
 | **Longevity Transfer** | Ages ~1 year per millennium |
 | **Nephilim-Slaying** | Can harm/kill supernatural entities |
 | **Memory Revelation** | Grants visions of Methuselah's experiences |
-| **Shape-Shifting** | Can change form (requires negotiation) |
+| **Shape-Shifting** | Can change form via metallic memory polymers (bastard sword ↔ tantō ↔ dagger; requires negotiation) |
 | **Ward-Breaking** | Learned to unravel wards during 586 BCE imprisonment |
 | **Acoustic Testimony** | Can produce pure creation frequency; inscriptions respond |
+| **Chains of Abyssal Damnation** | Book 2 Ch6: Mo Chrá extends physical chains from blade via Cydonian ore shape memory. Chainsword/flail hybrid — launched, extended, massive damage. Burns with Gehenna fire (judgment fire). Acoustic ward-shatter frequency calibrated to Armaros-class wards. Triggered by accessing acoustic memory of Liaigh chaining Scáthgheal (Ireland, pre-586 BCE). Cost: total exhaustion of sword + wielder |
+| **Post-Chain Dormancy** | After Chains deployment: Mo Chrá goes completely dark (first time in 2,600 years). Hum, luminescence, all acoustic output = silent. Faintest teal pulse at "You held the line" exchange (ember, not flame — instrument intact, capacity will return). Weight-reflex when Miriam tries to move her in An Daingean (Ch7: first sign of life post-Chains). Full recovery: Ch7 — Siobhan's lullaby, then smug teal glow. |
+| **Anti-Ward Counter-Frequency** | Book 2 Ch7.5: Mo Chrá exposed to Armaros-class cancellation formula (decoded from Dragan's hilt). Autonomously developed pre-emptive counter-frequency hack in ~90 seconds. Arrives at ward standing wave before cancellation can establish coherent destructive interference. Integrated into base acoustic architecture. Passive. Permanent. Cannot be silenced by Armaros-class wards again. |
+| **Adaptive Sheath (External)** | Book 2 Ch7.5: JW Chen constructed adaptive dorsal sheath from 8% Cydonian obsidian composite. Ferrite ring array harvests planetary magnetic rotation → passive 7.83 Hz resonance. Sheath adapts geometry via acoustic feedback when Mo Chrá shifts form (~0.7s cycle). Emergent trickle-charge property: +0.4 dB/40 min passive energy transfer through composite interface. |
 
 ### Personality
 - Stubborn, cryptic, possibly amused
@@ -224,12 +248,44 @@ Before writing ANY scene, verify:
 - Victoria's sacrifice interrupted before completion
 - Demon assigned but **CANNOT POSSESS** (mother's prayers created shield)
 
+### Victoria Ashford's Intelligence Legacy
+Victoria left Miriam an encrypted drive with three-layer intelligence, delivered with a 32-character memorised passphrase in a kitchen in New Mexico at 3am — "You will not write this down ... you will leave and not come back."
+
+| Layer | Contents |
+|-------|----------|
+| **Layer 1** | Complete Synagogue shell company UBO chain — 20 years of work; 62 jurisdictions, 11 countries, every shell company and nominee directorship |
+| **Layer 2** | Antarctic drilling programme — 7 years, Ross Ice Shelf, Gadreel's coordinates (79°58'22"S, 81°57'18"W), full logistics and financial chain |
+| **Layer 3** | Paracas genetics supply chain — elongated cranial specimens routed through Peru/Brazil/Bolivia; annotated "not human"; same beneficial owner as Layers 1 and 2 |
+
+Victoria found the drilling programme in her final months. She died knowing coordinates but not the Watcher context. Her only act was to encrypt it and tell Miriam to run.
+
+### Miriam-Cian Romance Initialization (Book 2)
+
+| Beat | Chapter | Description |
+|------|---------|-------------|
+| **Sarah "notices first"** | Ch1 §VII | Security feed: Cian stood motionless in corridor for the full hour Miriam worked. Files observation. No label. |
+| **"I need Mac Morna" tell** | Ch2 Mvmt II | First activation — Miriam uses formal address under emotional exposure (Victoria's drive). Sarah notices the formality. Says nothing. |
+| **Awe beat** | Ch2 Mvmt III | Miriam watches Cian work cartographic display with 2,631 years of accumulated knowledge. First time seeing him without Book 1 anger filter. |
+| **Mo Chrá perceives** | Ch2 close | Sword hums warm, knowing tone when Cian hesitates at door. "Not now." Sword hums louder. Comedy seed established. |
+| **Katana gift + Shield Position** | Ch5 Mvmt IV | Cian presents Muromachi katana to Miriam (warrior's protocol — presenting, not handing). Shield Position seeded: Cian reflexively places himself between Miriam and threat axis. Mo Chrá hum shifts to approval. Neither character names it. |
+| **Fianna declaration (unintentional)** | Ch6 Mvmt VII | Miriam places Mo Chrá across unconscious Cian's chest — traditional Fianna bean-choimhdeachta (Iron Age guardianship). She doesn't know the protocol. Mo Chrá acknowledges with teal pulse. James files it. Miriam used "Cian" (first name) during collapse — unconscious; reverts to "Mac Morna" when composure returns (Ch7). |
+| **Cian first-name milestone** | TBD (Ch7+) | Miriam using "Cian" unprompted AND consciously is a canonical milestone event. Unconscious usage during Ch6 collapse confirmed by Liaigh (Ch7). Conscious milestone DEFERRED. |
+
+**Red lines (permanent):** No team member tells either character. Comedy never at Miriam's expense. Neither acts on feelings through Books 1–3.
+
 ### The Demon's Claim
 - Director (demon-possessed) marked Miriam for "acquisition"
 - Demon of the order of Asmodeus
 - Cannot possess her — can only pursue
 - Destroys those who would protect her
 - Pattern mirrors Sarah in Book of Tobit
+
+### Acoustic Compatibility (MYSTERY SEED — Book 2 Ch6)
+- Gehenna/judgment frequency (Chains of Abyssal Damnation) passes through Miriam as **COMPATIBLE**
+- James: driven to one knee by hierarchical weight (angelic response)
+- Brennan: electronics flatline (electromagnetic disruption)
+- Miriam: stands untouched — no explanation offered
+- **No character comments on this.** Seed for Books 3–5. Do not resolve prematurely.
 
 ## §4.5 Brennan mac Niamh
 
@@ -249,8 +305,8 @@ Before writing ANY scene, verify:
 | # | Name | Sin Domain | Status | Key Note |
 |---|------|-----------|--------|----------|
 | 1 | **SHEMYAZA** | Commander; sorcery | Imprisoned (Tartarus) | Broken by what he became |
-| 2 | **ARMAROS** | Counter-magic, oaths, binding | Imprisoned | **XO / Consigliere** — Shemyaza's second-in-command |
-| 3 | **ARAQIEL** | Earth signs, geomancy | Imprisoned | Taught sacred geography |
+| 2 | **ARMAROS** | Counter-magic, oaths, binding | Imprisoned | **XO / Consigliere** — Shemyaza's second-in-command. **Earth domain: House Aram, Carpathian Mountains, Romania.** Domain CLEARED Book 2 Ch6 (all wards shattered, champion destroyed, stele intact for intel harvest). LOCKED April 4, 2026. |
+| 3 | **ARAQIEL** | Earth signs, geomancy | Imprisoned | Taught sacred geography. **Earth domain: Greenland — Isua Greenstone Belt** (3.8 Ga Archean gneiss). Planar Gate = Watcher transit network hub. Under Michael's territorial interdict (acoustic counter-frequency). LOCKED April 4, 2026. |
 | 4 | **KOKABEL** | Constellations | Imprisoned | Star-worship, astrology |
 | 5 | **TAMIEL** | Demons, abortion | Imprisoned | Taught spiritual access |
 | 6 | **RAMIEL** | Visions | Imprisoned | False prophecy |
@@ -278,6 +334,9 @@ Before writing ANY scene, verify:
 | **1 Enoch Attribution** | "Ascribe ALL sin" to Azazel — refers to expansion, not original teaching |
 | **Eve Incident** | Moral corruption (separate from Genesis 3 serpent = Satan) |
 | **Threat Level** | MAXIMUM — most militarily dangerous of the chiefs |
+| **Earth Domain Coordinates** | **79°58'22"S, 81°57'18"W** — Antarctic; confirmed Ch2 Movement III via Cian's cartographic overlay against Victoria Ashford's drilling data |
+| **Stele Status** | Beneath Ross Ice Shelf; Naamah has been drilling toward it for 7 years as of Book 2 Ch1 |
+| **Acoustic Status** | As of Book 2 Ch2: acoustic returns from the stele have changed — something beneath the ice is *responding* (not merely absorbing) |
 
 ---
 
@@ -311,6 +370,19 @@ Before writing ANY scene, verify:
 |-----------|----------|----------|-----------|
 | **Cydonia Steles** (20) | Mars, Cydonia-1 complex | Covenant markers — record original oaths + identifying sigils | Pristine (sealed environment, no geological trauma) |
 | **Earth Domain Steles** (20) | Scattered across post-Flood continents | Territorial markers — each chief's claim over domain | **Degraded**: sigils diminished, cracked, undecipherable; 5,000 years of tectonic displacement, burial, erosion |
+
+### Titan-5 Acoustic Data — Structure (Book 2 Ch1 Discovery)
+
+| Element | Detail |
+|---------|--------|
+| **Data Type** | 7-second upload from Titan-5 (final act before destruction) |
+| **Original Assumption** | Compressed archive — 20 signals mashed into one stream |
+| **Actual Structure** | 20-part **liturgical round** (ceremony) — signals are woven, not compressed |
+| **Key Property** | Each voice carries harmonic echoes of all other voices; cannot be pulled apart with standard signal processing |
+| **Decode Method** | Learn the ceremony's structure; follow each voice through the round (not decompression) |
+| **Harmonic Pattern** | Voice 1: foundation (deepest frequency). Voice 2: perfect fifth (3:2). Voice 3: tritone (diabolus in musica — deliberate tension). Voices 4–20: expanding tonality to full consonant/dissonant spectrum simultaneously |
+| **Discovery Credit** | Chris Guilder, Book 2 Ch1 "The Twenty Names" — breakthrough after 49 days of failed decompression attempts |
+| **Result** | All 20 Watcher oaths isolated; all 20 sigils identified; 20 Earth domain coordinates extracted |
 
 **Key Dynamics:**
 - Each Watcher chief erected an Earth domain stele of Cydonian metamaterial inscribed with personal sigil + oath of descent
@@ -426,6 +498,18 @@ Before writing ANY scene, verify:
 ### Endgame Fate
 **Sealed alive in ephah vessel** (Zechariah 5 literalized)
 
+### Book 2 Operational Status (Current)
+
+| Element | Detail |
+|---------|--------|
+| **Vessel** | Research vessel *Ashtoreth* |
+| **Position** | Ross Sea, Antarctica — 78°14'S, 179°22'W |
+| **Operation** | Drilling toward Gadreel's Earth domain stele for **7 years** |
+| **Coordinates Source** | Dead reckoning from Tamiel's Peru stele (continental drift calibration) — narrowed from 300km to 12km via seismic mapping then drill acoustics |
+| **Intelligence Gap** | Has coordinates, not name. Does not know Gadreel, Azazel, or Dudael context — only that something immense and old lies below |
+| **Drilling Status** | Acoustic returns changed character in Book 2 Ch2: something beneath is *responding*, not merely absorbing. Drill speed: maximum sustainable |
+| **Shell Company Layer** | Antarctic drilling programme fully documented in Victoria Ashford's Layer 2 intelligence (same UBO chain as Synagogue corporate network) |
+
 ---
 
 # PART 8: WEAPONS & TACTICAL DOCTRINE
@@ -448,7 +532,7 @@ Before writing ANY scene, verify:
 - Dying ghouls release chlorine from ongoing reaction
 - Released chlorine damages nearby ghouls
 - Chain reaction propagates through pack
-- Multiplier: 1.2 additional casualties per direct kill
+- Multiplier: 1.2× theoretical (Book 1 Belfast/Vatican data); **1.4× field-validated** (Book 2 Ch5 Carpathian deployment — 206 ghouls, 41 minutes, zero team casualties)
 
 ### Delivery System
 - Backpack dual-reservoir (5L each, 14kg total)
@@ -519,10 +603,15 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 - Hebrew מָעוֹן (*ma'on*) = God's dwelling place (Deut 26:15, Ps 68:5, Ps 90:1)
 - Greek rendering: οἰκητήριον (*oiketerion*) — dis legomenon from Jude 1:6 / 2 Cor 5:2
 - Watchers speak the Hebrew original in their oaths
-- Cian traces the Hebrew → Greek → English chain in Chapter 1
-- Miriam recognises both terms in Chapter 9
+- Cian traces the Hebrew → Greek → English chain in **Book 2 Ch3** (Vatican preparation scene — quieter pacing; deferred from Ch2 due to operational intensity)
+- Miriam recognises both terms; Torah-literate via grandmother Sarah; tracks the LXX selective-translation argument in real time
 - 20 chiefs speak individual vows
 - Collective seal: "ALL OF US, OR NONE"
+
+**Gibbor Word Study (Book 2 Ch3, deferred from Ch2):**
+- Core text: Genesis 10:8 — *he'chel* (Hiphil of חלל = profaned/defiled, not merely "began") + *gibbor* (Nephilim-category, Genesis 6:4 parallel) + *liphnei YHWH* ("against" per LXX: ἐναντίον κυρίου)
+- LXX selective translation: gibborim of David's warriors → **δυνατοί** (dunatoi, human-scale); Nimrod → **γίγας** (gigas, Nephilim-scale). Conscious contextual choice by the same Genesis translation team.
+- Canon document: `MANUSCRIPT/book_2/ANALYSIS/GENESIS_10_8-9_HEBREW_ANALYSIS.md` (v1.1)
 
 ---
 
@@ -537,6 +626,51 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 | 3 | THE RISING | Azazel released; war begins | WAR + FAMINE ride |
 | 4 | THE TESTIMONY | 1,260 days; daily protection of Witnesses | THANATOS rides, HADES follows |
 | 5 | THE GLORY | Deaths, resurrection, vindication | Hades receives/releases Cian |
+
+## §10.4 Book 2 Chapter Framework (Confirmed)
+
+| Chapter | Title | Structure | Key Canon Events |
+|---------|-------|-----------|------------------|
+| **Prologue Scene 1** | The Fountains of the Deep | Naamah POV — Flood day; choice to survive | Naamah origin; Ohya's last moments |
+| **Prologue Scene 2** | The Tower and the Throne | Nimrod possession event; Babel | Ohya spirit → Nimrod vessel; pharmakeia-blood-invocation |
+| **Ch1** | The Twenty Names | Chris decodes Titan-5 as 20-part liturgical round | All 20 Watcher sigils identified; Gadreel's Earth domain located (79°58'22"S, 81°57'18"W); Sarah's corridor observation (romance beat 1) |
+| **Ch2** | Dead Reckoning | Three movements: Naamah/Ashtoreth → Victoria's drive → coordinate overlay | Acoustic returns changed (stele responding); Victoria's three-layer intel revealed; "I need Mac Morna" tell (romance beat 2); awe beat (beat 3); "Vatican first" decision |
+| **Ch3** | The Captain's Domain | Cian solo infil/exfil Vatican Palace (0214h–0347h, 93 min) | Shemyaza stele located (below nave/north transept junction, Vatican Grottoes depth); Mo Chrá first field use of binding frequency (3 shedim bound + released); Mo Chrá first cardiac arrest/restart (3.9 s, alarm glyph crossing — no tissue damage); Apkallu priest-commander bound and released; Liaigh dampens stele output 40% (Ban-compliant: acoustic device, not combatant); full binding protocol scan complete (all 20 domains; Dudael acoustic specs extracted); operational pivot: "She is already through" (Naamah drill has breached outer perimeter / Watcher-era substrate); romance beat 4: Miriam-Cian phone call 0347h — "Your operational profile was flawless"/"Come home safe" — Mo Chrá knowing hum (louder than Ch2); comedy coda: "You're both fired"/"Thou canst not fire an archangel"; Gibbor word study deferred to Ch4+; 586 BCE courtship gesture deferred (comedy delivered via Mo Chrá/Liaigh teasing instead) |
+| **Ch4** | The Same Word | QUIET register. Two movements + Liaigh precedent beat + Sarah coda. November 14, 2027. | Gibbor word study: chalal/gibbor/liphnei YHWH (Gen 10:8). LXX selective-translation discovery: dunatoi (David's warriors) vs gigas (Nimrod) = two ontological categories. Miriam counterargues (David's gibbor) → Cian answers with LXX evidence → intellectual partnership established (romance beat). "The Room After": Cian/Miriam work alone, unaware room has cleared; Mo Chrá hums; Liaigh: "IT HATH BEEN SOME TIME." Miriam interrogates Liaigh relationship — six textual witnesses: Gen 48:16, Ps 91:11, Tobit 5–12 (TOBIT DRAMATIC IRONY: Cian cites Raphael's self-reveal WITHOUT connecting to his own guardian — loaded gun for Book 5), Jubilees 35:17, Testament of Judah 25:2, Matt 18:10. Miriam: "That's not precedent. That's something else." Sarah coda: six data points, folder unnamed. Courtship gestures (Gift of Provision, Declaration to James) DEFERRED to Ch6+/Ch7+ — see DEFERRED_ROMANCE_BEATS.md. |
+| **Ch5** | The Armaros Domain | TENSION register. Five movements. ~November 19-20, 2027. | Celestial prologue: Principality of Romania + Michael + Raphael ("the Healer") negotiate Territorial Accord — Liaigh COMPLETELY banned from intervention in Carpathians. Gear-up at McNeeve safehouse: full WEAPONS_REGISTRY loadout + 50 AI hunter-killer drones on An Daingean (6x6 armored vehicle). Team: Cian, James, Brennan, Miriam (carries Muromachi katana from Ch9 Book 1), Chris Guilder (AI swarm commander). Transit: McNeeve Galway → C-130J → decommissioned Carpathian airfield (Cian used 1989 Revolution). Insertion: ward anomalies, Mo Chrá reads ward architecture. Drone eradication: Chris deploys 50 AI drones, HALOGEN RAIN payloads, Ghoul Bomb cascade (1.4× field-validated), 206 ghouls neutralised in 41 minutes, zero casualties. "Together, then" — Miriam refuses to stay behind at threshold. Quiet: Shield Position (Romance Beat 5) seeded; Cian/Miriam conversation about fear; Mo Chrá compensating for Liaigh's absence. Chris reports 5 cold sub-foundation signatures. Marcus + Sarah at safehouse. |
+| **Ch6** | Hallowed Conflagration | COMBAT → AFTERMATH register. Seven movements. Same night as Ch5. | Descent into Armaros acoustic chambers (pre-Flood infrastructure, Cydonian ore-infused granite). Emergence: 4× elite Nephilim hybrid guards (warded exoskeletons, Armaros-class enchantments) + Voivode Dragan (champion, nine feet, older than Vârcolac, cursed greatsword with counter-Enochian ward-work). Four simultaneous engagements: James/Brennan/Miriam each kill one elite (Miriam's first blade kill with Muromachi katana — *she was shaking; the blade was not*); Chris's last surviving drone (motors melting, targeting suite cold-band reprogrammed) saves Cian's blind side — fourth elite dissolved. Cognitive fossil concept: under extreme stress, martial doctrine peels back to pre-civilisation substrate. Champion duel: Dragan vs Cian — Mo Chrá's standard frequency cannot penetrate Armaros-class wards. Mo Chrá evolution: flashback to Liaigh chaining Scáthgheal (Ireland) → Chains of Abyssal Damnation (physical chains via metallic shape memory + Gehenna fire + acoustic ward-shatter). Dragan killed — 5,000 years of deferred biology released in seconds. Cost: Cian collapses, Mo Chrá goes completely dark (first time in 2,600 years). Team Gehenna reaction: James on one knee (hierarchical weight), Brennan comms flatline, Miriam stands COMPATIBLE (see §4.4 Acoustic Compatibility). "Did we hold the line?" / "You held the line" — emotional peak of Book 2 Ch1-6. Aftermath: Miriam's composure breaks (first time); emergency exoskeleton extraction. Intelligence harvest: Armaros stele reveals (1) inter-domain transit tech existed but blueprint LOST, (2) Greenland Gate — intact, physical coordinates = KEY DISCOVERY, (3) Naamah acoustic discovery: 8 subsidiary frequencies collapse into single cold unison tone — 8 aliases, one entity confirmed. Hilt inscription: anti-Mo Chrá ward frequency formula — SEED for counter-frequency + ward-piercing ammo. Mo Chrá placed across Cian's chest by Miriam (Fianna guardianship declaration, unknown to her). Extraction via An Daingean. Cian's last whisper: "Liaigh." No response. |
+| **Ch7** | The Accidental Fianna | QUIET register. Four beats. ~November 20-21, 2027. | Dopamine relief valley. C-130J (Beats 1-2) + McNeeve Galway (Beats 3-4). Beat 1: Fianna misunderstanding — Miriam's sword placement = bean-choimhdeachta (Iron Age guardianship declaration); Cian's cognitive fossil short-circuits; Mo Chrá dormant but weight-reflex when Miriam tries to move her (first sign of life post-Chains). Beat 2: Liaigh returns HARD CUT at Romanian airspace boundary — "I ADVISE SURRENDER"; deadpan romantic commentary; confirms Miriam used first name during Ch6 collapse. Beat 3: James corners Cian — "operational compromise" assessment; "She'll get herself killed trying to save you again"; "Sort it out or I will shoot you myself." Beat 4: Gift of Provision — Cian ignores injuries to bring Miriam blanket + Barry's Gold Blend tea; "You held the line for me. Now let me hold it for you." Miriam sleeps. Cian watches door. Mo Chrá hums Siobhan's lullaby (first sustained frequency post-Chains). Liaigh: "WELL DONE." Miriam REVERTS to "Mac Morna" — conscious first-name milestone DEFERRED. |
+| **Ch7.5** | The Counter-Harmonic | PREPARATION/INTEL REVELATION register (Tom Clancy pacing). ~November 22-24, 2027 (Days 2-4 of McNeeve Galway recovery window). | Interstitial R&D chapter. POV: Marcus Reeves / JW Chen / Hal Okonkwo (alternating). Brennan McNeeve present throughout — foundational contributions to all four beats. JW Chen and Hal Okonkwo flown in from Austin. Beat 1 (Marcus): Acoustic decryption of Dragan's surviving cursed greatsword hilt — isolates anti-Mo Chrá ward cancellation formula (point-for-point frequency negation of Mo Chrá's full range). Mo Chrá exposed to formula, hum stutters (proof of concept), then autonomously develops pre-emptive counter-frequency hack in ~90 seconds (acoustic countermeasures — jams her own jammer). Armaros-class wards can never silence her again. Beat 2 (JW): Engineers Tintreach Mk II — GaPO₄ crystals grown under cancellation frequency in CVD chamber, biased lattice emits ward-disruption frequency on impact. Shatters Armaros-class wards, then kills. 60 rounds only (30× .408, 30× 7.62). Armaros-specific; 19 other ward types unprofilied. Extreme fire discipline required for Greenland + Mars + Antarctica. Beat 3 (JW): Constructs adaptive sheath from 8% Cydonian obsidian composite (Brennan's stele replica formulation). Ferrite ring array harvests planetary magnetic rotation → passive 7.83 Hz resonance (Schumann/Mo Chrá baseline). Acoustic feedback loop: sword shifts form → sheath composite adapts geometry in ~0.7s. Tested: bastard sword ✅, tantō ✅, great sword ✅, Chains declined (sword reserves insufficient). Emergent property: sheath acts as trickle charger — feeds Mo Chrá's baseline frequency back through composite (+0.4 dB/40 min). Not designed; materials did it themselves. Beat 4 (Hal): HCV exoskeleton battle damage repair — shattered left lateral plate replaced (4-ply ceramoplastic + aramid), compressed left pauldron rebuilt with vulnerability gap bridge (-3° shoulder rotation trade-off). Propulsive dash system: 12× Inconel 718 N₂ micro-thrusters (hips, calves, dorsal), 310 bar accumulators, neural haptic control (6.2ms latency). Lateral dash: 2.1m in 0.25s (3× baseline). Vertical jump: 3.5m from standing. 14 bursts before recharge. Trade-off: binary chlorine 8L → 6L. Designed from Dragan duel telemetry — the 0.7m displacement gap that caused the wound now closed. Coda: briefing with Cian. "You built her a home." / "I built an adaptive metamaterial housing with passive acoustic resonance. But yes." Hal: "I reinforced the vehicle bay walls." Team deploys to Greenland fully equipped with all four Ch7.5 upgrades. |
+| **Ch8** | The Gate | WONDER/DREAD register. Five beats. ~November 25-28, 2027. | Greenland Planar Gate mission. Araqiel domain = Isua Greenstone Belt (3.8-billion-year-old Archean gneiss). Team: Cian, James, Miriam, Brennan (field) + Chris Guilder (remote Galway). Transport: Gulfstream → Storm Herald (helo) → Abyss Warden (extraction contingency). Liaigh pre-mission briefing: "THOU WILT FIND THE SITE UNDISTURBED" / "THE GROUND ITSELF SHALL REFUSE THEM." Beat 3: House Satar disaster — 6-person recon unit destroyed by Michael's territorial interdict (acoustic counter-frequency targeting Watcher-tainted signatures); 2 dead, 1 catatonic survivor repeating Michael's frequency; equipment shattered by resonance fractures. Cian identifies symptoms but does NOT name Michael (dramatic irony preserved). Thematic payload: Heaven's jurisdictional law = devastating strength. Beat 4: Gate discovery — Cydonian metamaterial structure carved into Archean gneiss; Mo Chrá sings (recognition); gate responds. Brennan assessment: 3-4 transits before catastrophic failure (micro-fractures from 5,000 years of thermal cycling). Chris Guilder cracks acoustic activation sequence remotely. Mo Chrá = activation instrument (only Cydonian-grade acoustic source). NO test transit — each use too precious. Beat 5: Titan-3 rover redirected to Noctis Labyrinthus for recon (~2-3 weeks). Liaigh foreshadows: "WHAT THOU FINDEST IN THE LABYRINTH OF NIGHT SHALL SHOW THEE THE SHAPE OF THE PRISON I BUILT." |
+| **Ch9** | The Labyrinth of Night | WONDER → TENSION register. Three beats. ~December 2027. | Gate activation: Mo Chrá performs multi-tonal harmonic progression; gate reveals full 20-destination transit network in vibrating stone; standing wave locks (~6 hour window). Transit = Use 1 of 3-4. Team fully cut off from Earth (no comms through gate threshold). Liaigh accompanies — first time on Mars since he executed judgment: "I HAVE NOT STOOD UPON THIS WORLD SINCE THE DAY I EXECUTED JUDGMENT." Noctis Labyrinthus bunker: NOT a proud stronghold — a pressurised escape protocol. Araqiel clan fled the Flood; brought families, children. Nursery discovered. SOS communications carved in stone (no one answered). Architecture of panic: storage, family quarters, long-range acoustic transmitters aimed at Earth. Outer bunker = navigation-optimised (Araqiel's cartographic genius). Inner chambers carry fear imprint. Cartographer's Library: Araqiel's acoustic archive — frequency maps of both worlds, pre-Flood continental positions + predicted post-cataclysm drift. Gadreel's fortress blueprint found — original Dudael layout. CRITICAL REVELATION: Liaigh confirms he INVERTED the acoustic geometry when converting fortress to prison. Distances/scale TRUE; ward orientation/trap direction REVERSED. Intel invaluable AND fatally incomplete. Liaigh dramatic irony: "THEY CALCULATED THE FLOOD WATERS COULD NOT REACH THIS ELEVATION. THEY WERE CORRECT. THE WATERS DID NOT REACH THEM." Chapter ends at threshold of sealed inner chambers. |
+| **Ch10** | Echoes of Judgment | DREAD register. Four beats. Same day as Ch9 (hours 3-6 of transit window). | Sealed inner chambers: last-stand position, wards SHATTERED with surgical precision (each unravelled individually — not siege, an *audit*). NO REMAINS — ontological reversal. Creative Word withdrawn. "THEY WERE UNMADE." Liaigh: "THE JUDGMENT WAS COMPLETE." Mo Chrá accidentally triggers acoustic memory playback: full annihilation sequence preserved in Cydonian ore for 5,000 years. The team HEARS: Araqiel's evacuation orders, children's voices, blast doors sealing, ward-crafters chanting, Michael's destroying angels arriving (creation frequency at FULL power — Mo Chrá's is only an echo), ward-unravelling sequence, screaming, voices ceasing mid-syllable (ontological reversal). Aftermath: Brennan on knees, James hands over ears, Miriam standing (she grew up knowing monsters are real — God's *response* to monsters is worse). Liaigh: "THE PRISON WAS NOT BUILT TO BE CRUEL. IT WAS BUILT BECAUSE THE ALTERNATIVE WAS THIS." Playback triggers residual acoustic lockdown — bunker destabilises. Mo Chrá enters acoustic processing shock (overloaded by annihilation data + her own creation frequency at full power). Cian argues her back to function ("Constantinople" threat). Frantic retreat through acoustically hostile corridors (~90 min remaining). Gate redirect: Mo Chrá produces degraded frequency; standing wave redirects to Antarctica (Use 2). Gate degrading faster than estimated — maybe 1 use left. One-way transit to Dudael. Sub-ice. Cold. Naamah's drill audible. Liaigh: "WELCOME TO THE PRISON I BUILT. MAY GOD FORGIVE ME FOR WHAT I MUST NOW WATCH THEE FAIL TO PREVENT." |
+| **Ch11** | The Breach | DEVASTATION/TENSION register. Four movements. Naamah POV. Same timeframe as Ch9-10 (overlap). | Naamah redlines hybrid acoustic-mechanical drill (Watcher-derived frequency emitter at 100% — single use). Drill breaches Cydonian metamaterial layer into Dudael cavern (3km, sub-ice). 12-person descent: 6 House Satar (intelligence/mapping) + 6 House Tamiel (spiritual warfare/pharmakeia). Dudael revealed: antediluvian Watcher ruins, crystal matrices, genetic laboratories, pre-prison Archive. Raphael's seal encountered — sustained perfect note for 5,000 years, creating separate acoustic reality. Naamah feels Azazel's acoustic mass (heat, pressure) but cannot reach him. House Tamiel begins seal analysis. Gate residual discovered — Naamah knows Mo Chrá/team is in her prison. Pre-prison Archive: Gadreel weapons specs, Nephilim hybridisation data, Cydonia-2 plans. Multi-house deployment orders: Satar (satellites), Tamiel (second echelon, 24 operatives), Aram (48-person security detail), Shinar (Calendar of Immanence ACCELERATED). Closing: Naamah does not sleep; patience indistinguishable from certainty. |
+| **Ch12** | The Josephite Gambit | TENSION/ESCALATION register. Four movements. Chris Guilder POV. Same timeframe as Ch9-11. | Opens at exact moment team enters Greenland gate — Chris at Galway signals lab watches SIGNAL LOST on every screen. Marcus Reeves calls from Austin (McNeeve Safehouse — FININT + orbital telemetry): Ashtoreth drill thermal GONE, subsurface thermal blooms in geometric pattern. FININT surge: wire transfers from House Baraqel accounts, chartered Antonov An-74s from Punta Arenas (Chile), personnel matching House Satar/Tamiel front companies. Chris runs kill-zone arithmetic: team will gate into occupied position. Chris takes executive command (6th in chain of command, only one with data + comms). Sarah McNeeve authorises Guardian Network emergency protocols + deploys Antarctic legal architecture built in Ch4 (mineral rights, NZ-incorporated survey front, "emergency scientific equipment deployment" cover) to mask unsanctioned military drop into treaty zone. NZ Josephite Tier-1 team (12 operators, three 4-person fire teams) activated from Christchurch — RNZAF C-130 to coastal staging (~4 hrs) + NZ Storm Herald shuttle to drill site (~90 min), total ~6 hrs. Standard Guardian Network loadout only; HCV already with field team (deployed through Greenland gate per Ch7.5/Ch8). Force disposition: 12 Josephites vs ~28 enemy surface combatants (8 Ashtoreth security + 16 House Aram first wave + 4 Satar logistics); 12 enemy inside Dudael; ~40 total; 80-100 projected within 72 hrs. Moral weight: "they don't die / they expend their operational utility" — words taste different deploying *people*. Mirrored closing with Ch11: Naamah waits with certainty; Chris waits with discipline indistinguishable from courage. |
+
+**Status as of April 5, 2026:**
+- Prologue Scene 1: ✅ Approved (~4,350 words)
+- Prologue Scene 2: ✅ Approved (~3,070 words)
+- Chapter 1: ✅ Revised (~5,270 words) — date LOCKED: November 3, 2027
+- Chapter 2: ✅ First draft (~3,860 words) — date LOCKED: November 3–4, 2027
+- Chapter 3: ✅ First draft (~6,500 words / 767 lines confirmed) — date LOCKED: ~November 11, 2027; drift check PENDING
+- Chapter 4: 📋 Architecture complete (revised, Agent 1, March 6, 2026) — PENDING author decisions before draft
+- Chapter 5: ✅ First draft COMPLETE (~11,000 words) — "The Armaros Domain" — date LOCKED: ~November 19-20, 2027.
+- Chapter 6: ✅ COMPLETE + REVISED (~17,590 words / 796 lines) — "Hallowed Conflagration" — date LOCKED: ~November 20, 2027 (same night as Ch5).
+- Chapter 7: ✅ COMPLETE (~8,717 words) — "The Accidental Fianna" — date LOCKED: ~November 20-21, 2027. QUIET register (dopamine relief valley). Four beats: Fianna misunderstanding, Liaigh returns, James's intervention, Gift of Provision.
+- Chapter 7.5: ✅ First draft COMPLETE (~10,965 words) — "The Counter-Harmonic" — date LOCKED: ~November 22-24, 2027 (Days 2-4 of Galway recovery window). PREPARATION/INTEL REVELATION register. POV: Marcus Reeves / JW Chen / Hal Okonkwo (Brennan McNeeve present throughout — contributes to all four beats). Four beats + coda: acoustic decryption (Mo Chrá counter-frequency), Tintreach Mk II (60 ward-piercing rounds), adaptive Cydonian composite sheath (passive 7.83 Hz, multi-form, trickle-charge emergent), HCV exoskeleton repair + propulsive dash system (12× N₂ micro-thrusters, 2.1m lateral / 3.5m vertical). Team deploys to Greenland fully equipped.
+- Chapter 8: ✅ COMPLETE + ENHANCED (~12,715 words) — "The Gate" — date LOCKED: ~November 25-28, 2027. WONDER/DREAD register. Five beats: Departure, Arctic approach, House Satar graveyard, gate discovery + assessment, rover recon + strategic commitment.
+- Chapter 9: ✅ First draft COMPLETE (~7,855 words) — "The Labyrinth of Night" — date LOCKED: ~December 2027 (after rover recon). WONDER→TENSION register. Three beats: Gate activation + transit (Use 1), Mars bunker exploration (Araqiel escape protocol, nursery, SOS logs), Cartographer's Library (Gadreel blueprints, Raphael inversion revealed, Liaigh dramatic irony).
+- Chapter 10: ✅ First draft COMPLETE (~11,767 words) — "Echoes of Judgment" — date: same day as Ch9 (hours 3-6 of transit window). DREAD register. Four beats: Sealed chambers (ontological reversal evidence), Mo Chra triggers annihilation playback (acoustic memory), acoustic lockdown + escape (Mo Chra overload, Cian argues her back), gate redirect to Antarctica (Use 2) + transit to Dudael (one-way).
+- Chapter 11: ✅ First draft COMPLETE (~6,800 words) — "The Breach" — Naamah POV. DEVASTATION/TENSION register. Four movements: The Redline (emitter burn to 108%), The Breach (descent, 12 operatives, cavern revealed, Raphael's seal; Ohya drowning micro-flashback at breach moment), The Arithmetic (Archive discovery, gate residual = Mo Chrá detected + sword-bearer *interred* — no exit; Ward Protocol deployed with Armaros anti-creation-frequency kill-boxes — DRAMATIC IRONY: formula expired in Galway signals lab), The Occupation (four House directives via Punta Arenas logistics, Calendar of Immanence accelerated, closing: "patience indistinguishable from certainty"). All crew nameless (faceless principle). Architecture at `MANUSCRIPT/book_2/SESSION_NOTES/CHAPTER_11_12_ARCHITECTURE_BREACH_GAMBIT.md`.
+- Chapter 12: 📋 Architecture APPROVED (Session 5, April 5, 2026; re-calibrated Session 5b) — "The Josephite Gambit" — Chris Guilder POV. TENSION/ESCALATION register. Four movements: The Empty Room, The Alert, The Executive Decision, The Cost. Target ~9,000 words. Marcus in Austin. Sarah expands (Antarctic legal architecture from Ch4). NZ Josephites (12 Tier-1) as surface reinforcement only; HCV with field team per Ch7.5/Ch8. Architecture at same file as Ch11.
+
+**Open author decisions (BLOCKING Chapter 4 draft):**
+- Liaigh in Ch4 Movement II: Present (one line: "IT HATH BEEN SOME TIME") or absent?
+- Tobit dramatic irony thickness: thin / medium (Agent 1 recommends) / thick?
+- Miriam's "that's something else" line: spoken aloud or internal?
+- Sarah closer: alone (Agent 1 recommends) or with full team?
+- Tamid constraint beat: include in Ch4 as short exchange, or defer to Ch5 operational planning?
+- Beneficial ownership non-human name (Ch2 — Naamah corporate identity, Watcher name, or new front entity)
 
 ## §10.2 Mars-Antarctica Integration
 
@@ -609,6 +743,81 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 ---
 
 # CHANGELOG
+
+## v3.4 → v3.5 (April 5, 2026 — Ch7.5 "The Counter-Harmonic" Added)
+
+- New interstitial chapter: Ch7.5 "The Counter-Harmonic" — first draft complete (~10,965 words)
+- §10.4: Ch7.5 entry added between Ch7 and Ch8 in Book 2 chapter framework (four beats + coda)
+- §4.3 Mo Chrá capabilities: Added Anti-Ward Counter-Frequency (autonomous, Armaros-class specific, permanent)
+- §4.3 Mo Chrá capabilities: Added Adaptive Sheath (external — JW Chen, 8% Cydonian composite, ferrite-powered 7.83 Hz, trickle-charge emergent)
+- Anti-Mo Chrá Ward Formula status: SEED → RESOLVED (all three outputs operational: counter-frequency, Tintreach Mk II, adaptive sheath)
+- HCV exoskeleton: Beat 4 added — Hal Okonkwo repairs Carpathian battle damage (4-ply lamination, pauldron gap bridge) + propulsive dash system (12× N₂ micro-thrusters, 14 bursts, 2.1m lateral / 3.5m vertical, chlorine 8L → 6L trade-off)
+- WEAPONS_REGISTRY.md updated: Tintreach Mk II spec, Adaptive Cydonian Composite Sheath spec, Ward Formula status resolved, HCV Propulsive Dash System spec, HCV Battle Damage Repair spec, HCV platform table updated
+- Brennan McNeeve: woven throughout all four beats — arrives in signals lab for hilt decryption, validates CVD crystal-biasing (descending amplitude envelope, +12% piezoelectric fidelity), proposes 8%+carrier-wave control mechanism for adaptive composite, provides structural mounting points for thruster accumulators, observes sheath test and provides trickle-charge hypothesis (Cydonian memory recognition)
+- File: `MANUSCRIPT/book_2/CHAPTERS/CHAPTER_07_5_TheCounterHarmonic.md`
+
+## v3.3 → v3.4 (April 5, 2026 — Ch11/Ch12 Author Decisions Locked)
+
+- Ch11 word target compressed: ~10,000 → ~4,500 words (matches Naamah Prologue register — cold, clinical, propulsive)
+- Ch12 Marcus Reeves: confirmed Austin (McNeeve Industries Safehouse, FININT + orbital telemetry)
+- Ch12 Sarah McNeeve: expanded — deploys Antarctic legal architecture built in Ch4 (mineral rights, NZ survey front, emergency scientific cover)
+- Ch12 HCV logistics: single-wave deployment — Brennan pre-positioned HCV at Christchurch staging cache; loaded onto Storm Herald with NZ Josephites (no split deployment) **(SUPERSEDED by v3.5 — HCV with field team per Ch7.5/Ch8)**
+- Ch11-Ch12 status: AWAITING AUTHOR APPROVAL → 📋 APPROVED
+
+## v3.5 → v3.6 (April 5, 2026 — Ch11 "The Breach" First Draft Complete + Polish)
+
+- Ch11 first draft complete: ~6,800 words across four movements (The Redline, The Breach, The Arithmetic, The Occupation)
+- Naamah POV throughout: DEVASTATION/TENSION register, cold/clinical/propulsive voice
+- Movement I: emitter redlined to 108%, single-use burn, metamaterial boundary layer breached; crew entirely nameless (faceless principle — reinforces Naamah's inhuman detachment)
+- Movement II: 12-person descent (6 Satar + 6 Tamiel), Dudael cavern revealed, Archive discovered, Raphael's seal = separate acoustic reality, Naamah touches warm stone; **Ohya drowning micro-flashback** at breach moment (thirty feet of Nephilim calling for his mother, "the nothing was permanent" → converted to fuel)
+- Movement III: Gate residual detected → Mo Chrá in Dudael; **trapped-rat realization** — standing wave residual/collapsed = no exit, sword-bearer "interred"; Ward Protocol deployed (Armaros anti-creation-frequency kill-boxes at chokepoints); DRAMATIC IRONY — formula expired in Galway signals lab (Naamah does not know)
+- Movement IV: Four encrypted House directives (Satar satellites, Tamiel 2nd echelon via Punta Arenas, Aram 48-person security, Shinar Calendar of Immanence ACCELERATED); closing image — Azazel's acoustic mass through hull/ice/rock, "patience indistinguishable from certainty"
+- Canon verified: Azazel = Nephilim son of Gadreel (not Watcher); enemy logistics via Punta Arenas; Acoustic Paradigm maintained; Knowledge Chain provenance confirmed; Oiketerion principle respected
+- Polish pass: stripped engineer name "Hendriks" (4 occurrences → faceless), inserted Ohya drowning flashback, added trapped-rat tactical irony
+- File: `MANUSCRIPT/book_2/CHAPTERS/CHAPTER_11_TheBreach.md`
+
+## v3.4 → v3.5 (April 6, 2026 — Ch12 Re-calibrated for Ch7.5)
+
+- Ch12 HCV logistics REMOVED: team deploys fully equipped through Greenland gate (established Ch7.5/Ch8 manuscript); Chris no longer ships HCV via Christchurch
+- Ch12 NZ Josephites: 12 Tier-1 operators (three 4-person fire teams) — surface reinforcement ONLY, standard Guardian Network loadout
+- Ch12 transport: RNZAF C-130 to coastal staging (~4 hrs) + NZ Storm Herald shuttle to drill site (~90 min) = ~6 hrs total
+- Ch12 enemy force: ~28 surface (8 Ashtoreth security + 16 House Aram + 4 Satar logistics) + 12 inside Dudael = ~40 total; 80-100 projected 72 hrs
+- Ch12 force ratio: 12 vs ~28 surface (2.3:1 against — challenging but winnable for Tier-1)
+- Ch8 manuscript updated: "They loaded." expanded to confirm HCV, Tintreach Mk II rounds, and adaptive sheath physically loaded onto Storm Herald for Greenland deployment
+- Ch12 status line updated to reflect re-calibration
+- Ashtoreth/Synagogue enemy logistics staging corrected: Christchurch → Punta Arenas, Chile (NZ is Michael's jurisdiction / Josephite stronghold — enemy Houses stage from South American Antarctic gateway)
+- Architecture document updated: `MANUSCRIPT/book_2/SESSION_NOTES/CHAPTER_11_12_ARCHITECTURE_BREACH_GAMBIT.md`
+
+## v3.2 → v3.3 (April 5, 2026 — Ch11/Ch12 Architecture)
+
+- Added §10.4 Ch11 entry: "The Breach" — Naamah POV, DEVASTATION/TENSION, four movements (The Redline, The Breach, The Arithmetic, The Occupation); status → 📋 Architecture COMPLETE
+- Added §10.4 Ch12 entry: "The Josephite Gambit" — Chris Guilder POV, TENSION/ESCALATION, four movements (The Empty Room, The Alert, The Executive Decision, The Cost); status → 📋 Architecture COMPLETE
+- Updated status date: April 4 → April 5, 2026
+- Key architectural decisions documented: Azazel remains sealed (Book 3 event); Naamah discovers gate residual (hunting thread); Chris takes executive command (growth arc); two-wave NZ Josephite reinforcement structure; Naamah's hybrid acoustic-mechanical drill with Watcher-derived frequency emitter
+- Architecture document: `MANUSCRIPT/book_2/SESSION_NOTES/CHAPTER_11_12_ARCHITECTURE_BREACH_GAMBIT.md`
+- Session handoff: `ARCHIVE/session_logs/SESSION_HANDOFF_05Apr2026_Session4.md`
+
+## v3.1 → v3.2 (April 4, 2026 — Ch5/Ch6 COMPLETE)
+
+- Added §4.3 Mo Chrá: Post-Chain Dormancy property (first total silence in 2,600 years; recovery arc through Ch7)
+- Added §4.4 Miriam: Acoustic Compatibility mystery seed (Gehenna frequency = COMPATIBLE; no explanation; seeds Books 3–5)
+- Updated §4.4 Romance beats: Added Beat 5 (Katana gift + Shield Position, Ch5) and Beat 6 (Fianna declaration, Ch6); updated first-name milestone notes (unconscious use Ch6, conscious DEFERRED)
+- Updated §5.1 Armaros: Earth domain documented — House Aram, Carpathian Mountains, Romania; domain CLEARED Book 2 Ch6
+- Updated §8.1 Ghoul Bomb cascade: multiplier field-validated to 1.4× (Book 2 Ch5, Carpathian deployment)
+- Updated §10.4 Ch5 entry: cascade corrected to 1.4×; "Together, then" refusal; Shield Position renumbered to Beat 5; status → ✅ First draft COMPLETE
+- Updated §10.4 Ch6 entry: three-way → four simultaneous engagements (Chris's drone kill of fourth elite); cognitive fossil concept; team Gehenna reaction with Miriam COMPATIBLE; "Did we hold the line?"/"You held the line" exchange; Naamah 8 frequencies → 1 cold unison tone; Dragan's 5,000-year deferred biology; status → ✅ COMPLETE + REVISED
+- Integrated content from: CHAPTER_05_TheArmarosDomain.md, CHAPTER_06_HallowedConflagration.md, READER_REACTION_MATRIX_BOOK_2_CH5_CH6.md
+
+## v3 → v3.1 (March 4, 2026 — Session 2)
+
+- Added §5.2 Gadreel Earth domain coordinates (79°58'22"S, 81°57'18"W) and Antarctic stele acoustic status
+- Added §7.2 Naamah Book 2 Operational Status (RV *Ashtoreth*, Ross Sea, 7-year drilling programme)
+- Added §4.4 Victoria Ashford intelligence legacy (three-layer encrypted drive contents)
+- Added §4.4 Miriam-Cian romance initialization architecture (four beats, red lines)
+- Added §6.1 Titan-5 acoustic data structure (liturgical round, not compressed archive)
+- Updated §9.3 Watcher Oath Structure — Gibbor word study moved to Ch3, not Ch1; LXX selective-translation argument documented
+- Added §10.4 Book 2 Chapter Framework (Prologue approved; Ch1 revised; Ch2 first draft; Ch3 framework)
+- Integrated content from: SESSION_HANDOFF_04Mar2026_Session2.md, CHAPTER_01_TheTwentyNames_REVISED.md, CHAPTER_02_DeadReckoning.md, GENESIS_10_8-9_HEBREW_ANALYSIS.md (v1.1)
 
 ## v2 → v3 (February 6, 2026)
 

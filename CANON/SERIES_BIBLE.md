@@ -4015,9 +4015,11 @@ Both were saved by **someone else's sacrifice**. Both asked for mercy in their d
 
 ### The Baptism Scene in Eden
 
-**When**: Late Book 1 or early Book 2, before the Two Witnesses exit for their 1,260-day ministry
+**When**: Book 3, before the Two Witnesses exit Eden for their 1,260-day ministry (LOCKED April 5, 2026)
 
 **Location**: A river in Eden (Gihon? Pishon? The source of all four rivers?)
+
+> **NOTE (April 5, 2026):** Baptism occurs in Eden (Book 3). Marriage occurs separately in a Jerusalem safehouse during the 1,260-day ministry (Book 4) — the Tobit moment (Raphael destroys Asmodeus-class demon) accompanies the wedding. Separating the sacraments gives each its own dramatic weight and prevents clustering.
 
 **Present**:
 - **Elijah** (ministering the baptism)

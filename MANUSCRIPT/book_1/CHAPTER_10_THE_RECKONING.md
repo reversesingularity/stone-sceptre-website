@@ -417,7 +417,7 @@ Second round — the ghoul beside the first, already turning, too slow. The .408
 
 Third round. Fourth. The barricade was coming apart — two ghouls shattered, one headless, one trying to crawl with a torso that was no longer receiving commands from its destroyed nervous system.
 
-The fifth round went into the gatehouse. Eight hundred metres of night air separated Bás Mór's muzzle from the gatehouse arch — longer than the Carpathian shots, but Cian had ranged this position from satellite imagery and calibrated the scope's elevation turret during the approach. The round dropped four inches over the distance and struck a ghoul mid-stride as it emerged from the gatehouse's shadow. 
+The fifth round went into the gatehouse. Eight hundred metres of night air separated Bás Mór's muzzle from the gatehouse arch — longer than the Carpathian shots, but Cian had ranged this position from satellite imagery and calibrated the scope's elevation turret during the approach. The round dropped four inches over the distance and struck a ghoul mid-stride as it emerged from the gatehouse's shadow.
 
 "MIRIAM HAS ENTERED THE EASTERN CAVE."
 
@@ -437,7 +437,7 @@ Let him forget about the caves.
 
 The bridge's castle-side terminus erupted.
 
-Ghouls boiled from the gatehouse like hornets from a kicked nest — the new-breed type, faster and more coordinated than the shambling corpses of medieval folklore. They moved in pack formation: two lead elements advancing in a loose wedge, flankers scaling the castle walls on either side to achieve height advantage, a reserve element forming behind the gatehouse arch. Coordinated. Tactical. 
+Ghouls boiled from the gatehouse like hornets from a kicked nest — the new-breed type, faster and more coordinated than the shambling corpses of medieval folklore. They moved in pack formation: two lead elements advancing in a loose wedge, flankers scaling the castle walls on either side to achieve height advantage, a reserve element forming behind the gatehouse arch. Coordinated. Tactical.
 
 Forty of them.
 
@@ -951,7 +951,7 @@ Mo Chrá *laughed*.
 
 Not the giggle from the car ride. Not the snort of the armoury. Not even the full harmonic amusement she'd shown when Miriam had first impressed her.
 
-This was *joy*. 
+This was *joy*.
 
 Triumphant, delighted, *released* joy — the sound of a blade that had been waiting for this specific moment for longer than the castle above had existed. Centuries of imprisonment. Centuries of silence. Centuries of stolen song — and here, now, in a burning obsidian chamber sixty feet below sea level, held by a woman she'd chosen and aimed at the throat of the creature who had caged her—
 
@@ -1074,9 +1074,11 @@ Cian looked east. Past the cliffs. Past Ireland. Past everything they'd survived
 ## CHAPTER NOTES
 
 ### Word Count
+
 Approximately 10,500 words
 
 ### Key Decisions Locked
+
 - **Ghoul count increased:** ~150 total (120 shipped via Belfast + 23 existing garrison), vs. framework's ~60
 - **Ghoul Lord Champion:** 12ft, bone-armored, 8 centuries old, intelligent, can speak — **SURVIVES DECAPITATION** (headless body keeps fighting due to distributed vampiric binding) — killed by Cian's CREMATOR round after Miriam's decapitation fails to stop it
 - **Headless Champion horror beat:** Establishes that decapitation alone cannot kill ancient undead saturated with vampire blood — FORESHADOWS the combo kill requirement for Vârcolac
@@ -1094,42 +1096,43 @@ Approximately 10,500 words
 
 ### Weapons Expenditure — Chapter 10
 
-| System | Start | Used Ch10 | End |
-|--------|-------|-----------|-----|
-| Bás Mór (.408 Tintreach) | 20 | 5 (bridge sniping) | 15 |
-| Bás Mór (CREMATOR .50 BMG) | 10 | 5 (1 Champion + 2 Vârcolac torso double-tap + 2 body cleanup) | 5 |
-| Bás Beag (7.62 Tintreach) | 153 | ~93 (bridge + cave) | ~60 |
-| An Béal Mór (12ga flechette) | 79 | ~30 (CQB bridge) | ~49 |
-| Tine Láimhe (10mm) | 64 | 0 | 64 |
-| Fuartáin (cryo-grenades) | 7 | 3 (bridge) | 4 |
-| Binary Chlorine | ~5L | 0 (not deployed) | ~5L |
-| Bone Dry (BD-4) | 12 | 2 (cave tunnels) | 10 |
-| Halogen Rain (HR-7) | 12 | 5 (1 bridge + 4 cave) | 7 |
-| Mo Chrá | ∞ | ~32 ghoul kills | ∞ |
+| System                         | Start | Used Ch10                                                      | End |
+| ------------------------------ | ----- | -------------------------------------------------------------- | --- |
+| Bás Mór (.408 Tintreach)     | 20    | 5 (bridge sniping)                                             | 15  |
+| Bás Mór (CREMATOR .50 BMG)   | 10    | 5 (1 Champion + 2 Vârcolac torso double-tap + 2 body cleanup) | 5   |
+| Bás Beag (7.62 Tintreach)     | 153   | ~93 (bridge + cave)                                            | ~60 |
+| An Béal Mór (12ga flechette) | 79    | ~30 (CQB bridge)                                               | ~49 |
+| Tine Láimhe (10mm)            | 64    | 0                                                              | 64  |
+| Fuartáin (cryo-grenades)      | 7     | 3 (bridge)                                                     | 4   |
+| Binary Chlorine                | ~5L   | 0 (not deployed)                                               | ~5L |
+| Bone Dry (BD-4)                | 12    | 2 (cave tunnels)                                               | 10  |
+| Halogen Rain (HR-7)            | 12    | 5 (1 bridge + 4 cave)                                          | 7   |
+| Mo Chrá                       | ∞    | ~32 ghoul kills                                                | ∞  |
 
 ### Miriam's Expenditure
 
-| System | Start | Used | End |
-|--------|-------|------|-----|
-| Bás Beag (Tintreach 7.62) | Cian's reserve supply | ~60 rounds | Recovered |
-| SIG P226 Legion (silver HP) | 45 (3 mags) | 2 (contact kill) | 43 |
-| Saxon long sword | — | Champion hamstring + Vârcolac hamstring + decapitation attempt | BROKEN (sheared on reinforced vertebrae) |
-| Halogen Rain (HR-7) | 4 | 3 (tunnel + Champion) | 1 |
-| Bone Dry (BD-4) | Remote trigger | 1 charge | N/A |
+| System                      | Start                 | Used                                                            | End                                      |
+| --------------------------- | --------------------- | --------------------------------------------------------------- | ---------------------------------------- |
+| Bás Beag (Tintreach 7.62)  | Cian's reserve supply | ~60 rounds                                                      | Recovered                                |
+| SIG P226 Legion (silver HP) | 45 (3 mags)           | 2 (contact kill)                                                | 43                                       |
+| Saxon long sword            | —                    | Champion hamstring + Vârcolac hamstring + decapitation attempt | BROKEN (sheared on reinforced vertebrae) |
+| Halogen Rain (HR-7)         | 4                     | 3 (tunnel + Champion)                                           | 1                                        |
+| Bone Dry (BD-4)             | Remote trigger        | 1 charge                                                        | N/A                                      |
 
 ### Combat Statistics
 
-| Metric | Value |
-|--------|-------|
-| Total ghoul kills (Cian) | ~126 |
-| Total ghoul kills (Miriam) | ~21 (12 cave + Champion + 8 Bone Dry/Halogen cascade) |
-| Ghoul Lord Champion | Miriam decapitates — body survives headless — Cian CREMATOR finishes |
-| Vârcolac | Cian CREMATOR double-tap (torso) + Saxon sword breaks + Mo Chrá thrown to Miriam → final decapitation + 2 cleanup rounds |
-| Total engagement time | ~25 minutes (bridge 14 min + cave 11 min) |
-| Injuries (Cian) | None significant |
-| Injuries (Miriam) | Vest ceramic cracked x3, minor bruising |
+| Metric                     | Value                                                                                                                      |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Total ghoul kills (Cian)   | ~126                                                                                                                       |
+| Total ghoul kills (Miriam) | ~21 (12 cave + Champion + 8 Bone Dry/Halogen cascade)                                                                      |
+| Ghoul Lord Champion        | Miriam decapitates — body survives headless — Cian CREMATOR finishes                                                     |
+| Vârcolac                  | Cian CREMATOR double-tap (torso) + Saxon sword breaks + Mo Chrá thrown to Miriam → final decapitation + 2 cleanup rounds |
+| Total engagement time      | ~25 minutes (bridge 14 min + cave 11 min)                                                                                  |
+| Injuries (Cian)            | None significant                                                                                                           |
+| Injuries (Miriam)          | Vest ceramic cracked x3, minor bruising                                                                                    |
 
 ### Tonal Structure
+
 - **Section I (The Brief):** War room planning. Chemistry lesson setup. Scale of threat established (150 ghouls, Ghoul Lord, Vârcolac).
 - **Section II (The Chemistry Lesson):** Bone Dry/Halogen Rain/Cremator briefing. MTS-7 suit reveal. Batman contingency — Cian built spare armour "because he was lonely and hoped." Comedy beats (Raphael on emotional architecture).
 - **Section III (The Approach):** Drive to Antrim. Tactical argument (Miriam takes caves, Cian takes bridge). Trust established.
@@ -1141,22 +1144,24 @@ Approximately 10,500 words
 - **Section IX (The Dawn):** Aftermath. Saxon sword broken. Alliance cemented. "Mars" closing line.
 
 ### Canon Compliance Verified
-- [x] CREMATOR rounds: tungsten + Thermate-TH3, 2,500°C, 8-12 sec burn
-- [x] BONE DRY: 500g calcium oxide, aluminum chloride catalyst, 5m range, 60° arc, no persistent gas
-- [x] HALOGEN RAIN: 200g calcium hypochlorite, 8m radius, chlorine cloud, 2-4 min active
-- [x] MTS-7 suit: butyl rubber / activated carbon + silver-thread / Nomex III, PAPR, 8hr battery
-- [x] Ghoul Lord: 12ft, bone-armored, fed vampire blood for centuries, intelligent, can speak
-- [x] Vârcolac kill method: CREMATOR double-tap to torso (overwhelms regeneration) → Saxon sword breaks on reinforced vertebrae → Mo Chrá thrown to Miriam → creation frequencies unmake supernatural reinforcement → decapitation. Mo Chrá's vendetta against her jailer fulfilled.
-- [x] Dunluce Castle: basalt headland, single bridge, 200ft cliffs, sea caves below
-- [x] Northern Ireland = Michael's full jurisdiction — no clock
-- [x] Mo Chrá cuts through wards (creation frequencies vs. Watcher-derived copies)
-- [x] Raphael identity: "Liaigh" in all dialogue, "Liaigh"/"the angel" in narration (Option B: full identity concealment for Books 4-5 reveal)
-- [x] Miriam's Saxon sword = the kill weapon (established Ch9)
-- [x] Halogen efficacy: chlorine disrupts necromantic binding (canon §8.4)
-- [x] Ghoul Bomb cascade effect: 1.2 multiplier per direct kill
-- [x] Remaining ammo counts from Ch8 respected as starting inventory
+
+- [X] CREMATOR rounds: tungsten + Thermate-TH3, 2,500°C, 8-12 sec burn
+- [X] BONE DRY: 500g calcium oxide, aluminum chloride catalyst, 5m range, 60° arc, no persistent gas
+- [X] HALOGEN RAIN: 200g calcium hypochlorite, 8m radius, chlorine cloud, 2-4 min active
+- [X] MTS-7 suit: butyl rubber / activated carbon + silver-thread / Nomex III, PAPR, 8hr battery
+- [X] Ghoul Lord: 12ft, bone-armored, fed vampire blood for centuries, intelligent, can speak
+- [X] Vârcolac kill method: CREMATOR double-tap to torso (overwhelms regeneration) → Saxon sword breaks on reinforced vertebrae → Mo Chrá thrown to Miriam → creation frequencies unmake supernatural reinforcement → decapitation. Mo Chrá's vendetta against her jailer fulfilled.
+- [X] Dunluce Castle: basalt headland, single bridge, 200ft cliffs, sea caves below
+- [X] Northern Ireland = Michael's full jurisdiction — no clock
+- [X] Mo Chrá cuts through wards (creation frequencies vs. Watcher-derived copies)
+- [X] Raphael identity: "Liaigh" in all dialogue, "Liaigh"/"the angel" in narration (Option B: full identity concealment for Books 4-5 reveal)
+- [X] Miriam's Saxon sword = the kill weapon (established Ch9)
+- [X] Halogen efficacy: chlorine disrupts necromantic binding (canon §8.4)
+- [X] Ghoul Bomb cascade effect: 1.2 multiplier per direct kill
+- [X] Remaining ammo counts from Ch8 respected as starting inventory
 
 ### Continuity from Ch9
+
 - Miriam's weapons loadout: Bás Beag + SIG P226 + Saxon sword (all from Ch9 inventory)
 - "Why weren't you there" question: DEFERRED — referenced but not answered this chapter
 - Mo Chrá's approval of Miriam: built from Ch8 (snort) → Ch9 (giggle → laugh) → Ch10 (combat song → "chosen")
@@ -1165,10 +1170,12 @@ Approximately 10,500 words
 - Jurisdictional framework from Ch9 applied: Dunluce = Michael's territory = no clock
 
 ### Style References Achieved
+
 - **Bob Lee Swagger (Stephen Hunter):** Bridge sniping sequences — precision marksmanship, bolt cycling rhythm, wind/distance calculations
 - **Tom Clancy:** Tactical planning scenes, weapons briefings with real chemistry, operational methodology
 - **Mark Greaney:** One-vs-many bridge assault, overwhelming odds, methodical kill progression
 - **Jack Carr:** CQB in caves, contact kills, practical combat psychology, veteran's emotional weight
 
 ### Liaigh Identity Reveal — OPTION B CONFIRMED
+
 All narration uses "Liaigh" or "the angel" — reader does NOT know he is Raphael. Full identity reveal RESERVED for Books 4-5 climax (per BOOK_1_FORWARD_OUTLINE.md). Maximum dramatic impact when he reveals himself saving Miriam from an Asmodeus-type demon.

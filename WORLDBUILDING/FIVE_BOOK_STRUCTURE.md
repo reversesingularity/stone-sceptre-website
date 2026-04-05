@@ -91,12 +91,13 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 **Key Scenes:**
 - Enoch's confrontation with Azazel: "I have been writing your crimes for five thousand years."
 - Cian fighting alongside two prophets who operate completely differently than he does
-- The Tobit moment: Raphael destroys the demon hunting Miriam at her wedding
+- The Edenic Baptism: Elijah baptises Cian and Miriam in Eden's river, witnessed by Enoch and Dismas, before the Two Witnesses exit for 1,260-day ministry
 
 **Themes:**
 - Truth vs. deception
 - The complementary nature of the three (Scribe, Prophet, Sword)
 - Love in the midst of war (Cian and Miriam)
+- Covenant entry — grace formalised on unfallen ground
 
 ---
 
@@ -120,6 +121,8 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 **Key Scenes:**
 - Cian taking wounds meant for the Witnesses
 - Moments of rest and brotherhood between battles
+- Cian and Miriam's wedding in a Jerusalem safehouse — quiet Jewish ceremony under fire
+- The Tobit moment: Raphael destroys the Asmodeus-class demon hunting Miriam at her wedding (Tobit 8 pattern)
 - Shemyaza's devastating realization about Naamah
 - The Witnesses preparing Cian for what he must do
 
@@ -212,8 +215,8 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 |------|-----|
 | 1 | Introduction; hunted survivor; parallel hunter; partnership with Cian |
 | 2 | Team member; relationship deepens; Raphael’s Tobit pattern begins |
-| 3 | Wedding; exorcism; fighting alongside Cian |
-| 4 | Wife and partner through the 1,260 days |
+| 3 | Baptised in Eden; fighting alongside Cian; relationship deepens |
+| 4 | Wedding in Jerusalem safehouse (Tobit exorcism); wife and partner through the 1,260 days |
 | 5 | Death (possibly) → Resurrection → Reunion with Cian |
 
 ---

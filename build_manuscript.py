@@ -8,6 +8,7 @@ Requirements:
     pip install python-docx
 """
 
+import os
 import re
 from pathlib import Path
 from docx import Document
@@ -22,8 +23,14 @@ import copy
 # CONFIGURATION
 # ---------------------------------------------------------------------------
 
-MANUSCRIPT_DIR = Path(r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_1")
-OUTPUT_FILE    = Path(r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\NephilimChronicles_Book1_MANUSCRIPT.docx")
+MANUSCRIPT_DIR = Path(os.environ.get(
+    "KDP_MANUSCRIPT_DIR",
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_1"
+))
+OUTPUT_FILE    = Path(os.environ.get(
+    "KDP_OUTPUT_FILE",
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\NephilimChronicles_Book1_MANUSCRIPT.docx"
+))
 
 BODY_FONT      = "Georgia"
 BODY_SIZE      = Pt(11)

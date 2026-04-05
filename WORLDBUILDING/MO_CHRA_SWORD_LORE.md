@@ -186,9 +186,11 @@ The sword does not merely cut spiritual flesh — it *remembers* the target. Eac
 
 ### Secondary: Longevity Transfer
 
-The blade extends its wielder's lifespan by a factor of approximately 1,000. Cian obtained the sword at biological age 25-28. After 2,631 years, he appears approximately 28-30.
+The blade extends its wielder's lifespan by a factor of exactly 1,000. Cian obtained the sword at biological age 25-28. After 2,631 years, he appears approximately 28-30.
 
-This is not immortality. Cian ages. He simply ages slowly enough that millennia pass like years.
+**CANONICAL AGING RATE (locked Feb 2026): 1 biological year per 1,000 chronological years.**
+
+This is not immortality. Cian ages. He simply ages slowly enough that millennia pass like years — approximately 35 biological days per chronological year, or 3 biological days per month.
 
 **Note:** This property appears to require active combat use. Methuselah, who fought constantly, lived 969 years. If Cian were to cease fighting entirely, the longevity effect might diminish. (This has never been tested. Cian has never stopped fighting.)
 

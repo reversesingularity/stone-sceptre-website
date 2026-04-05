@@ -523,17 +523,18 @@ Liaigh paused. In all the centuries of their partnership, Cian had never heard t
 
 ### Hook Mechanics
 
-| Element | Implementation | Reader Effect |
-|---------|----------------|---------------|
-| **Cold Open** | Mars/Cydonia chamber — no context dump | Immediate immersion; disorientation used as engagement |
-| **Scale Inversion** | Cosmic beings → intimate moment (Naamah's smile) | Epic scope grounded in character psychology |
-| **Dramatic Irony** | Reader sees Naamah's calculation; Shemyaza doesn't | Tension through knowledge asymmetry |
-| **Sensory Detail** | "Dust from stones that had not moved in ten thousand years" | Temporal weight without info-dump |
-| **The Turn** | "You are mine" — reversal of expected power dynamic | Subverts reader expectation; marks Naamah as predator |
+| Element                   | Implementation                                              | Reader Effect                                          |
+| ------------------------- | ----------------------------------------------------------- | ------------------------------------------------------ |
+| **Cold Open**       | Mars/Cydonia chamber — no context dump                     | Immediate immersion; disorientation used as engagement |
+| **Scale Inversion** | Cosmic beings → intimate moment (Naamah's smile)           | Epic scope grounded in character psychology            |
+| **Dramatic Irony**  | Reader sees Naamah's calculation; Shemyaza doesn't          | Tension through knowledge asymmetry                    |
+| **Sensory Detail**  | "Dust from stones that had not moved in ten thousand years" | Temporal weight without info-dump                      |
+| **The Turn**        | "You are mine" — reversal of expected power dynamic        | Subverts reader expectation; marks Naamah as predator  |
 
 ### Empyreal Register Usage
 
 All Watcher dialogue uses constitutional Empyreal Register:
+
 - **Thee/Thou construction** — "FOR THEE... UNTO THEE"
 - **Archaic verb endings** — "DESCENDETH... FOLLOWETH... REQUIRETH"
 - **Elevated vocabulary** — "IMPRECATIONS... TRANSGRESSION... FORSWORN"
@@ -542,17 +543,18 @@ All Watcher dialogue uses constitutional Empyreal Register:
 
 ### Naamah as Antagonist Plant
 
-| Seed Planted | Payoff (Future Books) |
-|--------------|----------------------|
-| "You are mine" | Extraction of True Name; control over Shemyaza |
-| No fear of fallen angel | Survives Flood; becomes Lilith/Whore |
-| Calculation in eyes | 5,000 years of network-building |
-| Standing among kneeling women | Leadership of Synagogue of Satan |
-| Smile at dawn | Ironic echo in final imprisonment (Ephah scene) |
+| Seed Planted                  | Payoff (Future Books)                           |
+| ----------------------------- | ----------------------------------------------- |
+| "You are mine"                | Extraction of True Name; control over Shemyaza  |
+| No fear of fallen angel       | Survives Flood; becomes Lilith/Whore            |
+| Calculation in eyes           | 5,000 years of network-building                 |
+| Standing among kneeling women | Leadership of Synagogue of Satan                |
+| Smile at dawn                 | Ironic echo in final imprisonment (Ephah scene) |
 
 ### Transition to Chapter 1
 
 The hard cut from ancient history to Cian's modern awakening:
+
 - **Temporal whiplash** — Millennia compressed into page break
 - **POV shift** — Omniscient → Third-person limited
 - **Tone shift** — Epic solemnity → First-person urgency

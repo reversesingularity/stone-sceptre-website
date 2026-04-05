@@ -20,6 +20,7 @@
 | **Birth** | ~611 BCE, Ireland |
 | **Commission Date** | **586 BCE** |
 | **Biological Age** | ~28-30 years |
+| **Aging Rate** | **1 biological year per 1,000 chronological years** (CANONICAL — locked Feb 2026) |
 | **Chronological Age** | 2,636 years (as of 2025) |
 | **Liege** | High King Eochaidh Herremon (original) |
 | **Service** | Lieutenant to Fergus mac Roich, Knight-Commander |

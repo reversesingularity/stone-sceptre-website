@@ -1,8 +1,8 @@
 # NEPHILIM CHRONICLES — SINGLE SOURCE OF TRUTH v3
 ## SSOT_v3_MASTER.md
-**Version:** 3.0  
+**Version:** 3.2  
 **Status:** CANONICAL MASTER REFERENCE  
-**Last Updated:** February 6, 2026  
+**Last Updated:** March 4, 2026  
 **Purpose:** The definitive, authoritative consolidation of ALL canon facts. All other documents defer to SSOT_v3 where conflicts arise.
 
 ---
@@ -13,13 +13,16 @@
 
 | Tier | Document | Authority Level |
 |------|----------|-----------------|
-| **1** | SERIES_BIBLE.md | Constitution — INVIOLABLE axioms |
-| **2** | SSOT_v3_MASTER.md | Consolidated factual canon |
+| **0** | MANUSCRIPT/book_1/ (approved/published chapters) | **SUPREME** — published narrative is the settled canon. Corrects all planning docs. |
+| **1** | CANON/SERIES_BIBLE.md | Constitution — INVIOLABLE axioms (superseded by Tier 0 where published text diverges) |
+| **2** | CANON/SSOT_v3_MASTER.md | Consolidated factual canon |
 | **3** | Dossiers (WATCHER_, NEPHILIM_, PROTAGONIST_, ANTAGONIST_) | Character/entity details |
 | **4** | Book outlines (BOOK_1_OUTLINE.md, etc.) | Plot structure |
 | **5** | Reference docs (VISUAL_DIRECTION, TECHNICAL_REFERENCE) | Supporting material |
 
-**RULE:** If ANY document contradicts SSOT_v3, SSOT_v3 prevails.
+**RULE:** If ANY planning document contradicts the approved/published MANUSCRIPT, the MANUSCRIPT prevails. If any other document contradicts SSOT_v3, SSOT_v3 prevails — except where it is itself in conflict with a higher tier.
+
+**CONSTITUTIONAL CORRECTION POLICY:** When published text establishes facts that differ from planning docs, update all tiers downward from SSOT_v3 to match the published text. Do not silently accept planning doc numbers as factual once manuscript text exists.
 
 ## §1.2 Pre-Draft Verification Checklist
 
@@ -67,8 +70,12 @@ Before writing ANY scene, verify:
 |-------|------|--------|
 | Cian's Commission | **586 BCE** | LOCKED |
 | Sword Naming | **532 CE** | LOCKED |
-| Cydonian Revelation | **2020 CE** | LOCKED |
+| Cydonian Revelation | **January 2024** | LOCKED — SERIES_BIBLE §5 (INVIOLABLE): "The sword revealed its Martian origin to Cian in January 2024"; Book 1 Ch13 published text confirms Cian's Naamah obsession followed this vision (October 2024 onward). Corrects prior SSOT error of "2020 CE." |
 | Series Present Day | **2025-2030** | LOCKED |
+| Titan-1 Launch | **October 15, 2026** (Boca Chica, TX — Starship) | LOCKED — published Book 1 Ch3 verbatim: "2026 opposition — October 15th from Boca Chica. Hohmann transfer trajectory." |
+| Titan Fleet Operational on Mars | **May 2027** | LOCKED — published Book 1 Ch3 verbatim: "Arrived May 2027. All five units operational in situ now." |
+| Anti-Singularity (Book 1 Ch13 climax) | **Post-May 2027** | LOCKED — rovers were operational "months" before Ch13 events; exact month indeterminate but summer/autumn 2027 is the working frame |
+| Book 2 Opens ("seven weeks after") | **Mid-to-late 2027** | LOCKED — derived from above published chain; replaces prior "open author decision" |
 
 ---
 
@@ -89,7 +96,7 @@ Before writing ANY scene, verify:
 
 | Role | Identity | Status |
 |------|----------|--------|
-| **Guardian of the Witnesses** | CIAN MAC MORNA | 2,631 years old; active |
+| **Guardian of the Witnesses** | CIAN MAC MORNA | 2,636 years old; active |
 | **First Witness** | ENOCH | In Eden; returns for ministry |
 | **Second Witness** | ELIJAH | In Eden; returns for ministry |
 | **Cian's Guardian Angel** | RAPHAEL | One of Seven Archangels (Cian doesn't know) |
@@ -127,6 +134,7 @@ Before writing ANY scene, verify:
 | **Birth** | ~611 BCE |
 | **Commission Date** | **586 BCE** |
 | **Biological Age** | ~28-30 years |
+| **Aging Rate** | **1 biological year per 1,000 chronological years** (CANONICAL — locked Feb 2026) |
 | **Chronological Age** | 2,636 years (as of 2025) |
 | **Lineage** | Descendant of Machir ben Manasseh (giant-slayer heritage) |
 | **Role** | Guardian of the Two Witnesses |
@@ -179,7 +187,7 @@ Before writing ANY scene, verify:
 | **Length** | 54 inches (42" blade, 12" hilt) |
 | **Weight** | 6.2 pounds (feels lighter in combat) |
 | **Appearance** | Dark grey/black; appears crude but beyond modern metallurgy |
-| **Wielders** | Methuselah (969 years) → Cian (2,631 years) |
+| **Wielders** | Methuselah (969 years) → Cian (2,636 years) |
 | **Naming** | 532 CE, Constantinople, Nika Riots |
 | **Name Meaning** | "Mo Chrá" = "My Torment" (Irish) |
 
@@ -187,7 +195,7 @@ Before writing ANY scene, verify:
 | Wielder | Period | Confirmed Kills |
 |---------|--------|-----------------|
 | **Methuselah** | 969 years | 980,000 Nephilim spirits |
-| **Cian** | 2,631 years | ~50,000 supernatural entities |
+| **Cian** | 2,636 years | ~50,000 supernatural entities |
 | **TOTAL** | — | ~1,050,000 |
 
 ### Properties
@@ -211,7 +219,7 @@ Before writing ANY scene, verify:
 | Attribute | Value |
 |-----------|-------|
 | **Full Name** | Miriam Elizabeth Ashford (née Miriam bat Elisheva) |
-| **Age** | 29 (Book 2, circa 2025) |
+| **Age** | 29 (Book 1, 2027); 29–30 (Book 2, mid-to-late 2027) |
 | **Nationality** | British-Israeli (dual citizenship) |
 | **Heritage** | Jewish — Sephardic descent |
 | **Status** | Hunted; armed with devastating intelligence |
@@ -224,6 +232,29 @@ Before writing ANY scene, verify:
 - Victoria's sacrifice interrupted before completion
 - Demon assigned but **CANNOT POSSESS** (mother's prayers created shield)
 
+### Victoria Ashford's Intelligence Legacy
+Victoria left Miriam an encrypted drive with three-layer intelligence, delivered with a 32-character memorised passphrase in a kitchen in New Mexico at 3am — "You will not write this down ... you will leave and not come back."
+
+| Layer | Contents |
+|-------|----------|
+| **Layer 1** | Complete Synagogue shell company UBO chain — 20 years of work; 62 jurisdictions, 11 countries, every shell company and nominee directorship |
+| **Layer 2** | Antarctic drilling programme — 7 years, Ross Ice Shelf, Gadreel's coordinates (79°58'22"S, 81°57'18"W), full logistics and financial chain |
+| **Layer 3** | Paracas genetics supply chain — elongated cranial specimens routed through Peru/Brazil/Bolivia; annotated "not human"; same beneficial owner as Layers 1 and 2 |
+
+Victoria found the drilling programme in her final months. She died knowing coordinates but not the Watcher context. Her only act was to encrypt it and tell Miriam to run.
+
+### Miriam-Cian Romance Initialization (Book 2)
+
+| Beat | Chapter | Description |
+|------|---------|-------------|
+| **Sarah "notices first"** | Ch1 §VII | Security feed: Cian stood motionless in corridor for the full hour Miriam worked. Files observation. No label. |
+| **"I need Mac Morna" tell** | Ch2 Mvmt II | First activation — Miriam uses formal address under emotional exposure (Victoria's drive). Sarah notices the formality. Says nothing. |
+| **Awe beat** | Ch2 Mvmt III | Miriam watches Cian work cartographic display with 2,631 years of accumulated knowledge. First time seeing him without Book 1 anger filter. |
+| **Mo Chrá perceives** | Ch2 close | Sword hums warm, knowing tone when Cian hesitates at door. "Not now." Sword hums louder. Comedy seed established. |
+| **Cian first-name milestone** | TBD (Ch3+) | Miriam using "Cian" unprompted is a canonical milestone event. Chapter TBD. |
+
+**Red lines (permanent):** No team member tells either character. Comedy never at Miriam's expense. Neither acts on feelings through Books 1–3.
+
 ### The Demon's Claim
 - Director (demon-possessed) marked Miriam for "acquisition"
 - Demon of the order of Asmodeus
@@ -231,13 +262,13 @@ Before writing ANY scene, verify:
 - Destroys those who would protect her
 - Pattern mirrors Sarah in Book of Tobit
 
-## §4.5 Brennan mac Niamh (McNeeve)
+## §4.5 Brennan mac Niamh
 
 | Attribute | Value |
 |-----------|-------|
 | **Relation to Cian** | Descendant of Niamh (Cian's sister) |
 | **Role** | Mars mission lead |
-| **Bloodline** | Josephite specifically from Machir "The Man of War" (excluded from Beast system) |
+| **Bloodline** | Josephite (excluded from Beast system) |
 | **Function** | Key revelation vector for Cydonia discovery |
 
 ---
@@ -278,6 +309,9 @@ Before writing ANY scene, verify:
 | **1 Enoch Attribution** | "Ascribe ALL sin" to Azazel — refers to expansion, not original teaching |
 | **Eve Incident** | Moral corruption (separate from Genesis 3 serpent = Satan) |
 | **Threat Level** | MAXIMUM — most militarily dangerous of the chiefs |
+| **Earth Domain Coordinates** | **79°58'22"S, 81°57'18"W** — Antarctic; confirmed Ch2 Movement III via Cian's cartographic overlay against Victoria Ashford's drilling data |
+| **Stele Status** | Beneath Ross Ice Shelf; Naamah has been drilling toward it for 7 years as of Book 2 Ch1 |
+| **Acoustic Status** | As of Book 2 Ch2: acoustic returns from the stele have changed — something beneath the ice is *responding* (not merely absorbing) |
 
 ---
 
@@ -304,6 +338,34 @@ Before writing ANY scene, verify:
 - Subsonic to harmonic chord (7.83 Hz Schumann resonance + overtones)
 - Cydonian inscriptions respond: glow, broadcast 20 chiefs' oaths
 - Reality cracks under the weight of testimony
+
+### The Stele Network (Mars–Earth Paired System)
+
+| Component | Location | Function | Condition |
+|-----------|----------|----------|-----------|
+| **Cydonia Steles** (20) | Mars, Cydonia-1 complex | Covenant markers — record original oaths + identifying sigils | Pristine (sealed environment, no geological trauma) |
+| **Earth Domain Steles** (20) | Scattered across post-Flood continents | Territorial markers — each chief's claim over domain | **Degraded**: sigils diminished, cracked, undecipherable; 5,000 years of tectonic displacement, burial, erosion |
+
+### Titan-5 Acoustic Data — Structure (Book 2 Ch1 Discovery)
+
+| Element | Detail |
+|---------|--------|
+| **Data Type** | 7-second upload from Titan-5 (final act before destruction) |
+| **Original Assumption** | Compressed archive — 20 signals mashed into one stream |
+| **Actual Structure** | 20-part **liturgical round** (ceremony) — signals are woven, not compressed |
+| **Key Property** | Each voice carries harmonic echoes of all other voices; cannot be pulled apart with standard signal processing |
+| **Decode Method** | Learn the ceremony's structure; follow each voice through the round (not decompression) |
+| **Harmonic Pattern** | Voice 1: foundation (deepest frequency). Voice 2: perfect fifth (3:2). Voice 3: tritone (diabolus in musica — deliberate tension). Voices 4–20: expanding tonality to full consonant/dissonant spectrum simultaneously |
+| **Discovery Credit** | Chris Guilder, Book 2 Ch1 "The Twenty Names" — breakthrough after 49 days of failed decompression attempts |
+| **Result** | All 20 Watcher oaths isolated; all 20 sigils identified; 20 Earth domain coordinates extracted |
+
+**Key Dynamics:**
+- Each Watcher chief erected an Earth domain stele of Cydonian metamaterial inscribed with personal sigil + oath of descent
+- When the Mars steles reactivated (Ch13 anti-singularity), the Earth steles **resonated** — Kokabel's satellites detected 20 simultaneous acoustic pings
+- Earth stele locations now known (within 50m) but **unidentifiable** — the sigils that would match each stele to its chief are too degraded to read
+- **Mars sigils are the key**: Brennan's rover recordings captured the pristine Cydonian inscriptions including all 20 identifying sigils
+- **Cross-referencing** Mars sigils against Earth acoustic signatures → identifies which domain belongs to which chief → locates Dudael (Gadreel's domain / Azazel's prison)
+- This makes Brennan's rover data **uniquely precious** — the only intact copy of the identification key. Naamah will kill to obtain it.
 
 ## §6.2 Nephilim Regeneration Mechanics
 
@@ -411,6 +473,18 @@ Before writing ANY scene, verify:
 ### Endgame Fate
 **Sealed alive in ephah vessel** (Zechariah 5 literalized)
 
+### Book 2 Operational Status (Current)
+
+| Element | Detail |
+|---------|--------|
+| **Vessel** | Research vessel *Ashtoreth* |
+| **Position** | Ross Sea, Antarctica — 78°14'S, 179°22'W |
+| **Operation** | Drilling toward Gadreel's Earth domain stele for **7 years** |
+| **Coordinates Source** | Dead reckoning from Tamiel's Peru stele (continental drift calibration) — narrowed from 300km to 12km via seismic mapping then drill acoustics |
+| **Intelligence Gap** | Has coordinates, not name. Does not know Gadreel, Azazel, or Dudael context — only that something immense and old lies below |
+| **Drilling Status** | Acoustic returns changed character in Book 2 Ch2: something beneath is *responding*, not merely absorbing. Drill speed: maximum sustainable |
+| **Shell Company Layer** | Antarctic drilling programme fully documented in Victoria Ashford's Layer 2 intelligence (same UBO chain as Synagogue corporate network) |
+
 ---
 
 # PART 8: WEAPONS & TACTICAL DOCTRINE
@@ -504,10 +578,15 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 - Hebrew מָעוֹן (*ma'on*) = God's dwelling place (Deut 26:15, Ps 68:5, Ps 90:1)
 - Greek rendering: οἰκητήριον (*oiketerion*) — dis legomenon from Jude 1:6 / 2 Cor 5:2
 - Watchers speak the Hebrew original in their oaths
-- Cian traces the Hebrew → Greek → English chain in Chapter 1
-- Miriam recognises both terms in Chapter 9
+- Cian traces the Hebrew → Greek → English chain in **Book 2 Ch3** (Vatican preparation scene — quieter pacing; deferred from Ch2 due to operational intensity)
+- Miriam recognises both terms; Torah-literate via grandmother Sarah; tracks the LXX selective-translation argument in real time
 - 20 chiefs speak individual vows
 - Collective seal: "ALL OF US, OR NONE"
+
+**Gibbor Word Study (Book 2 Ch3, deferred from Ch2):**
+- Core text: Genesis 10:8 — *he'chel* (Hiphil of חלל = profaned/defiled, not merely "began") + *gibbor* (Nephilim-category, Genesis 6:4 parallel) + *liphnei YHWH* ("against" per LXX: ἐναντίον κυρίου)
+- LXX selective translation: gibborim of David's warriors → **δυνατοί** (dunatoi, human-scale); Nimrod → **γίγας** (gigas, Nephilim-scale). Conscious contextual choice by the same Genesis translation team.
+- Canon document: `MANUSCRIPT/book_2/ANALYSIS/GENESIS_10_8-9_HEBREW_ANALYSIS.md` (v1.1)
 
 ---
 
@@ -522,6 +601,29 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 | 3 | THE RISING | Azazel released; war begins | WAR + FAMINE ride |
 | 4 | THE TESTIMONY | 1,260 days; daily protection of Witnesses | THANATOS rides, HADES follows |
 | 5 | THE GLORY | Deaths, resurrection, vindication | Hades receives/releases Cian |
+
+## §10.4 Book 2 Chapter Framework (Confirmed)
+
+| Chapter | Title | Structure | Key Canon Events |
+|---------|-------|-----------|------------------|
+| **Prologue Scene 1** | The Fountains of the Deep | Naamah POV — Flood day; choice to survive | Naamah origin; Ohya's last moments |
+| **Prologue Scene 2** | The Tower and the Throne | Nimrod possession event; Babel | Ohya spirit → Nimrod vessel; pharmakeia-blood-invocation |
+| **Ch1** | The Twenty Names | Chris decodes Titan-5 as 20-part liturgical round | All 20 Watcher sigils identified; Gadreel's Earth domain located (79°58'22"S, 81°57'18"W); Sarah's corridor observation (romance beat 1) |
+| **Ch2** | Dead Reckoning | Three movements: Naamah/Ashtoreth → Victoria's drive → coordinate overlay | Acoustic returns changed (stele responding); Victoria's three-layer intel revealed; "I need Mac Morna" tell (romance beat 2); awe beat (beat 3); "Vatican first" decision |
+| **Ch3** | The Captain's Domain | Cian solo infil/exfil Vatican Palace (0214h–0347h, 93 min) | Shemyaza stele located (below nave/north transept junction, Vatican Grottoes depth); Mo Chrá first field use of binding frequency (3 shedim bound + released); Mo Chrá first cardiac arrest/restart (3.9 s, alarm glyph crossing — no tissue damage); Apkallu priest-commander bound and released; Liaigh dampens stele output 40% (Ban-compliant: acoustic device, not combatant); full binding protocol scan complete (all 20 domains; Dudael acoustic specs extracted); operational pivot: "She is already through" (Naamah drill has breached outer perimeter / Watcher-era substrate); romance beat 4: Miriam-Cian phone call 0347h — "Your operational profile was flawless"/"Come home safe" — Mo Chrá knowing hum (louder than Ch2); comedy coda: "You're both fired"/"Thou canst not fire an archangel"; Gibbor word study deferred to Ch4+; 586 BCE courtship gesture deferred (comedy delivered via Mo Chrá/Liaigh teasing instead) |
+
+**Status as of March 5, 2026:**
+- Prologue Scene 1: ✅ Approved (~4,350 words)
+- Prologue Scene 2: ✅ Approved (~3,070 words)
+- Chapter 1: ✅ Revised (~5,270 words) — **timeline resolved: Book 2 opens mid-to-late 2027**
+- Chapter 2: ✅ First draft (~3,860 words) — awaiting author review
+- Chapter 3: ✅ First draft (~6,500 words) — pending author review
+
+**Open author decisions (timeline RESOLVED):**
+- ~~Book 2 absolute timeline date~~ → **RESOLVED: mid-to-late 2027** (seven weeks after anti-singularity; anti-singularity occurred post-May 2027 per published Book 1 Ch3 launch data)
+- Beneficial ownership non-human name (Ch2 — Naamah corporate identity, Watcher name, or new front entity)
+- Gibbor word study placement — **deferred from Ch3** (no quiet scene; Ch4+ required)
+- 586 BCE courtship gesture — **deferred from Ch3** (comedy delivered in Ch3 via Mo Chrá/Liaigh teasing; distinct era-calibrated gesture remains for Ch4+)
 
 ## §10.2 Mars-Antarctica Integration
 
@@ -594,6 +696,39 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 ---
 
 # CHANGELOG
+
+## v3.2 → v3.3 (March 5, 2026 — Chapter 3 Filed)
+
+- **§10.4 Chapter 3 status:** `🔲 Framework confirmed; drafting pending` → `✅ First draft (~6,500 words) — pending author review`
+- **§10.4 Chapter table row updated:** Title confirmed as *The Captain's Domain*; full canon event inventory added (stele location, binding frequency first use, cardiac arrest/restart, Apkallu priest-commander encounter, Liaigh stele dampening, full binding protocol scan, Naamah breach warning, Miriam-Cian phone beat, comedy coda)
+- **§10.4 Open decisions updated:** Gibbor word study and 586 BCE courtship gesture both formally deferred from Ch3 to Ch4+ (comedy delivered Ch3 via Mo Chrá/Liaigh teasing instead)
+- **MANUSCRIPT filed:** `MANUSCRIPT/book_2/CHAPTERS/CHAPTER_03_TheCaptainsDomain.md` (~6,500 words)
+- **New canon established:** Shemyaza stele precise location; Mo Chrá binding frequency operational; Mo Chrá cardiac suppression/restart capability (first live test 3.9 s); Liaigh Ban clause confirmed (inanimate acoustic sources are dampable); Naamah has breached Dudael outer perimeter (operational acceleration)
+
+## v3.1 → v3.2 (March 4, 2026 — Constitutional Corrections Session)
+
+**CONSTITUTIONAL PRIORITY CORRECTION — Published text is supreme canon.**
+
+- **§1.1 Authority Tier Table:** Added Tier 0 (published MANUSCRIPT) as supreme authority above SERIES_BIBLE. Policy added: planning doc numbers yield to published narrative.
+- **§2.2 Date Locks — CRITICAL CORRECTIONS from Book 1 published text:**
+  - "Cydonian Revelation 2020 CE" → **Corrected to January 2024** per SERIES_BIBLE §5 ("sword revealed its Martian origin to Cian in January 2024") and Book 1 Ch13 ("October 2024. During what I charitably call my Naamah obsession" — confirms obsession followed vision).
+  - **Added Titan-1 Launch: October 15, 2026** — verbatim from published Book 1 Ch3: "2026 opposition — October 15th from Boca Chica. Hohmann transfer trajectory."
+  - **Added Titan Fleet Operational: May 2027** — verbatim from published Book 1 Ch3: "Arrived May 2027. All five units operational in situ now."
+  - **Added Anti-Singularity date: post-May 2027** — derived: rovers operational for months before Ch13 climax.
+  - **Resolved Book 2 timeline: mid-to-late 2027** — closes the "BLOCKING" open item flagged in SESSION_HANDOFF_04Mar2026_Session2.md. Seven weeks after anti-singularity = mid-to-late 2027. Chapters 1 and 2 may now be committed to MANUSCRIPT with absolute date framing if required.
+- **§4.4 Miriam age:** Corrected from "circa 2025" → "29 (Book 1, 2027); 29–30 (Book 2, mid-to-late 2027)" to match resolved timeline.
+- **§10.4 Open author decisions:** Timeline date decision closed. Remaining open items: beneficial ownership non-human name; Gibbor word study exact placement.
+
+## v3 → v3.1 (March 4, 2026 — Session 2)
+
+- Added §5.2 Gadreel Earth domain coordinates (79°58'22"S, 81°57'18"W) and Antarctic stele acoustic status
+- Added §7.2 Naamah Book 2 Operational Status (RV *Ashtoreth*, Ross Sea, 7-year drilling programme)
+- Added §4.4 Victoria Ashford intelligence legacy (three-layer encrypted drive contents)
+- Added §4.4 Miriam-Cian romance initialization architecture (four beats, red lines)
+- Added §6.1 Titan-5 acoustic data structure (liturgical round, not compressed archive)
+- Updated §9.3 Watcher Oath Structure — Gibbor word study moved to Ch3, not Ch1; LXX selective-translation argument documented
+- Added §10.4 Book 2 Chapter Framework (Prologue approved; Ch1 revised; Ch2 first draft; Ch3 framework)
+- Integrated content from: SESSION_HANDOFF_04Mar2026_Session2.md, CHAPTER_01_TheTwentyNames_REVISED.md, CHAPTER_02_DeadReckoning.md, GENESIS_10_8-9_HEBREW_ANALYSIS.md (v1.1)
 
 ## v2 → v3 (February 6, 2026)
 

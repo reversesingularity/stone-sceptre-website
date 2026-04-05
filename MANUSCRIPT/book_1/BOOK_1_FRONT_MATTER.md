@@ -124,9 +124,9 @@ Quotations from *The Book of Jubilees* are taken from the translation by R.H. Ch
 
 &nbsp;
 
-Cover design: [COVER DESIGNER NAME]
+Cover design: [Grok 4.2, Microsoft Co-Pilot]
 
-Cover illustration: [ILLUSTRATOR NAME]
+Cover illustration: [Grok 4.2]
 
 &nbsp;
 
