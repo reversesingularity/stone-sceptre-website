@@ -64,6 +64,10 @@ Silence. The particular silence of five people processing the tactical implicati
 
 "Best estimate, pending on-site assessment: three to four. Then catastrophic structural failure."
 
+The phrase sat in the room. *Catastrophic structural failure.* Clinical language for a clinical man, and everyone present understood the clinical reality it contained: a gate built from Cydonian metamaterial that channelled acoustic energy dense enough to fold space-time across sixty million kilometres of void would not *break*. It would not crack or crumble or simply stop working. It would release — instantaneously, catastrophically — every joule of stored acoustic potential in its structural matrix. Anyone inside the transit corridor when the metamaterial exceeded its fracture threshold would not die. They would be *unmade*. Molecular bonds dissolved by the same creation-frequency energies that had built them. Not a death. An *erasure*. The gate would consume them the way a collapsing star consumed light — completely, silently, without remainder.
+
+And Brennan's "three to four" was an estimate. Not a measurement. Not a structural certification. A *best guess* extrapolated from five thousand years of thermal degradation he had never physically inspected.
+
 James looked at Cian.
 
 Cian's face did not change. But something shifted behind his eyes — the particular movement of a man who had just been told that the most valuable strategic asset in the war had a limited number of uses and every one would cost. Three to four. Each one irreplaceable. Each one moving them closer to a gate that would never open again.
@@ -690,8 +694,44 @@ And then Antarctica. And then the prison. And eight hundred and forty metres les
 
 Mo Chrá hummed against Cian's back. Low. Patient. The sword and the gate, made of the same stone, waiting to speak again. Kin. Separated for five millennia by the Flood and the judgment and the silence that followed. Reunited now, in the dark, at the edge of the ice, where the oldest rock on Earth held the last intact gateway between worlds.
 
-The Arctic night pressed down. The katabatic wind sang against the gneiss. The gate waited.
+The Arctic night pressed down. The katabatic wind sang against the gneiss.
 
-It had been waiting a very long time. It could wait a little longer.
+Then Brennan's tablet chimed.
+
+Not the operational ping of camp systems or Josephite network traffic. The Deep Space Network relay tone — the particular two-note sequence that meant a data packet had crossed 225 million kilometres of vacuum and found its way to the satellite terminal in the communications shelter. Titan-3. Brennan's rover, traversing Martian basalt toward Noctis Labyrinthus on the autonomous navigation programme he had loaded before the team departed Galway. The rover's first survey package since the redirect.
+
+He opened the packet. Chris's voice came through the sat-link from Galway before the image resolved — the engineer on the other side of the world seeing the same data on a three-second delay.
+
+"Brennan. Are you seeing this?"
+
+He was seeing it.
+
+Titan-3 had not reached the Noctis Labyrinthus coordinates. The rover was days into a weeks-long traverse. But her long-range survey cameras had swept the target bearing during the automated terrain assessment that Brennan programmed into every Titan unit — the discipline of an engineer who believed that data gathered early was data available when it mattered.
+
+The image was corrupted. Atmospheric dust and signal compression had eaten the resolution to a smear of thermal contrast against black terrain. But the shape that emerged from the noise was not geological.
+
+Straight lines. Right angles. A structure carved from material that registered as a spectral void against the Martian basalt — absorbing thermal signature rather than reflecting it, cold and precise and *manufactured* in a landscape that had produced nothing but wind-eroded stone for three billion years.
+
+The Araqiel stronghold. Intact. Sealed. Exactly where the stele data said it would be.
+
+And at its threshold — at what the image geometry suggested was an entrance of a scale that matched nothing in human architecture — Titan-3's thermal array had registered an anomaly.
+
+Warmth. Faint. Diffuse. But present.
+
+On a planet where surface temperature averaged minus sixty-three degrees Celsius, inside a structure that had been sealed since before the Flood, something was producing heat.
+
+"That's residual," Brennan said. Testing the rational explanation against his own engineering instincts and finding it insufficient. "Geothermal contact. Subsurface—"
+
+The image refreshed. The thermal bloom had *moved*.
+
+Then the feed cut to static. Transmission window closed. The next data packet was sixty minutes away — sixty minutes in which the rover would crawl another eleven metres across Martian basalt and the thermal anomaly inside a five-thousand-year-old sealed bunker would either resolve into geology.
+
+Or would not.
+
+Cian looked at Brennan. Brennan looked at the static. Miriam's pen had stopped.
+
+Behind them, the gate stood in the searchlights — patient, ancient, made of the same metamaterial as the structure on Brennan's screen. The same ore. The same acoustic memory. Separated by 225 million kilometres of vacuum and five millennia of silence.
+
+Something on Mars was warm. And the silence was ending.
 
 ✦

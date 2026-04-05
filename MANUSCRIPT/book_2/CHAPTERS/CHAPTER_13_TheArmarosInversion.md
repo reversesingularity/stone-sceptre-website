@@ -156,6 +156,12 @@ Mo Chrá deployed.
 
 The counter-frequency did not build gradually. It did not emerge as a tentative probe against the dead zone's boundaries. It arrived fully formed — pre-emptive, pre-empted, a signal designed to reach the ward emitters' standing-wave structure before the cancellation pattern could reinforce. In submarine warfare, the analogy was a torpedo that arrived at the target before the sonar ping could return. Not faster. *Earlier*. Built from predictive modelling so precise that the countermeasure was already in position when the threat signal launched.
 
+The cost hit Cian like a detonation through the hilt.
+
+Mo Chrá was running two voices from a single acoustic core — the counter-frequency and her combat harmonics, dual outputs that demanded she split her resonance down the middle the way a singer might sustain two notes simultaneously. Except a singer could not sustain two notes simultaneously. The blade could, but the blade's bearer was the conduit, and the conduit was human nervous tissue interfaced with Cydonian metamaterial through a haptic relay that had never been calibrated for this. Both frequencies arrived in Cian's neural architecture as a white-hot compression that greyed his vision at the edges and drove a spike of pain from his wrist to his shoulder that he recognised, with the clinical detachment of a man who had been wounded ten thousand times, as the sensation of a system exceeding its design tolerance.
+
+His hands burned. His grip held. Mo Chrá could not afford for it not to.
+
 The ward emitters screamed.
 
 The sound was not metaphorical. Cydonian metamaterial under acoustic assault produced audible frequencies as a byproduct of structural stress — the molecular bonds flexing, resisting, approaching the threshold where the engineered resonance that held the emitter's phase-locked output intact would fracture under the competing signal. The scream rose through the corridor walls. The metamaterial amplified it. The walls themselves became a resonance chamber for the sound of the Armaros formula coming apart.
@@ -461,3 +467,31 @@ The seal dying.
 And somewhere above — in dimensions that the spectrograph could not map and the HUD could not display — Michael unravelling the last threads of a four-thousand-year delaying action while Raphael held a note that was no longer a note but a prayer, and the prayer was the oldest prayer in creation:
 
 *Please. Not yet.*
+
+*The prayer was not answered.*
+
+*Not because it was unheard. Not because the Healer who spoke it lacked standing before the throne. Not because the Captain of the Host who fought above him was insufficient to enforce it. The prayer was not answered because the appointed time was DESIGN — and the design answered to no petition that the design itself had not authored five thousand years ago, when the Healer had built the prison as a DELAY and the delay had been granted a duration and the duration was expiring.*
+
+*The note died.*
+
+*Five thousand years of sustained harmonic — the most enduring acoustic architecture in the history of creation, a single tone maintained through the unbroken output of an archangel's healing frequency while empires rose and fell and the thing behind the note waited with the patience of something that had been promised an ending — and the note STOPPED. Not gradually. Not the cascading fragmentation that the micro-fractures had forecast. All at once. The way a dam does not erode but holds and holds and holds and then, in a single moment, does not.*
+
+*The silence lasted for exactly the time it took the thing behind the seal to inhale.*
+
+*Then Dudael EXHALED.*
+
+The acoustic mass that erupted through the breach was not sound in any frequency Marcus Reeves's instruments had been designed to measure. It was *density* — five millennia of compressed will and corrupted harmonic and the accumulated patience of an entity that had been promised dominion and received darkness, detonating outward through the void where Raphael's note had been. It hit the metamaterial walls. The walls *amplified* it. The corridor became a barrel.
+
+Mo Chrá was torn from Cian's grip.
+
+The HCV's nitrogen thrusters fired — all twelve nozzles, Hal Okonkwo's failsafe reading catastrophic displacement and attempting to anchor thirteen stone of armoured Irishman against a force that was not air but *frequency*. The thrusters were insufficient. The frequency was the first exhalation of the False Prophet in fifty centuries, and it filled the corridor the way the Flood had filled the world — totally, irrevocably, without negotiation.
+
+Cian hit the far wall. The HUD died. The satellite uplink died. Every instrument that Brennan and Marcus had built and calibrated and trusted went dark in the same instant, killed by a frequency that exceeded every parameter they had ever designed for.
+
+The last thing his perception registered before the dark took him was Mo Chrá — not in his hand, not against his back, somewhere behind him in the black — singing one note. Not the counter-frequency. Not the creation overtone. A single, defiant, desperate tone that was not a word but meant:
+
+*I am still here.*
+
+Then the dark.
+
+✦

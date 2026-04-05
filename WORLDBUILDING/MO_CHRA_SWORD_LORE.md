@@ -422,6 +422,150 @@ Mo Chrá has carried its secret for five thousand years. Now, at last, it speaks
 
 ---
 
+# PART V-B: EVOLUTION — BOOK 1 (THE CYDONIA REVELATION)
+
+## The Counter-Harmonic Shield (Ch13)
+
+During the assault on Cydonia-2 (Antarctica), Cian encountered Armaros-class acoustic wards for the first time — frequencies designed to shatter human bone and disintegrate conventional weapons. Mo Chrá responded autonomously: the blade produced a counter-harmonic — an opposing frequency that cancelled the ward's destructive output.
+
+This was not a capability Cian requested or understood. The sword acted on instinct forged five thousand years ago. The Cydonian ore in its construction *recognised* the ward frequencies — they were Watcher technology, built from the same acoustic principles the ore had witnessed at the original council.
+
+**The sword remembered how those wards were made. And it knew how to unmake them.**
+
+## The Twelve-Day Silence (Ch14)
+
+After the counter-harmonic expenditure, Mo Chrá fell silent. No hum. No vibration. No visions. For twelve days, the blade was inert — an ordinary piece of metal in Cian's hands. He feared the sword had been damaged, or worse, had spent itself.
+
+It had not. It was *listening*.
+
+## The Liaigh Circuit (Book 1 Epilogue)
+
+### The Completion
+
+In the Epilogue, Cian's daughter **Liaigh** (the living link between Cian's bloodline and the sword's purpose) came into proximity with Mo Chrá for the first time in the narrative. The moment Liaigh touched the sword, a circuit completed — one that Enoch had encoded into the blade at its forging, five thousand years prior.
+
+Enoch had foreseen this moment. He forged the blade knowing that one day, millennia hence, the wielder's own child would complete a prophetic circuit that would unlock capabilities the sword had carried dormant since its creation.
+
+### Three New Registers Unlocked
+
+The Liaigh circuit completion activated three new operational registers in Mo Chrá, expanding the sword from a weapon of destruction into an instrument of divine authority:
+
+| Register | Frequency Range | Capability | Mechanism |
+|----------|----------------|------------|-----------|
+| **Healing Frequency** | Upper registers | Restoration of damaged flesh, bone, and spirit — true *healing*, not merely repair | The creation frequency that Watchers lost when they shed their oiketerion; Mo Chrá retained it in the Cydonian ore's acoustic memory |
+| **Binding Chains** | Lower registers | Chains of Abyssal Damnation — righteous inversion of the creation frequency that *binds* supernatural entities | The sword produces a frequency that converts acoustic energy into physical restraint; manifests as visible chains of dark light |
+| **Compelled Truth** | Mid-register harmonic | Bound shedim (disembodied Nephilim spirits) *cannot lie* when restrained by the binding chains | An extension of the binding register; the chains carry a truth-compulsion frequency |
+
+### The Dual-Register Architecture
+
+Mo Chrá now operates on a dual-register system:
+
+- **Upper registers** → Creation, healing, restoration (life-giving)
+- **Lower registers** → Binding, restraint, judgment (authority over the fallen)
+- **Mid-register** → The sword's baseline hum, combat frequencies, counter-harmonics
+
+This architecture mirrors the Acoustic Paradigm itself: God *spoke* creation into existence (upper register — life), and God *spoke* judgment upon the Watchers (lower register — binding). Mo Chrá, forged from the stone that witnessed both, carries both frequencies.
+
+### Why These Capabilities Were Dormant
+
+Enoch encoded them knowing the sword would need these capabilities only at the End of Days — when the Two Witnesses return, when the Watchers are released, when the final battle demands more than a weapon of mere destruction. The Liaigh circuit was the trigger: the wielder's own bloodline completing the prophetic chain.
+
+**Mo Chrá is no longer just a sword. It is an instrument of testimony, judgment, healing, and binding — the full spectrum of divine acoustic authority, carried in dark Cydonian iron.**
+
+---
+
+# PART V-C: EVOLUTION — BOOK 2 (THE CAULDRON OF GOD)
+
+## The Counter-Frequency Breakthrough (Ch7.5)
+
+### Background: The Armaros Problem
+
+In Book 1, Mo Chrá's counter-harmonic shield was reactive — the sword responded to ward frequencies as they were encountered, generating opposing harmonics in real-time. This worked, but it was expensive: the twelve-day silence after Ch13 proved the sword could exhaust itself countering unknown frequencies on the fly.
+
+Book 2 Ch6 provided the key. When Cian fought Voivode Dragan in the Carpathian keep, Marcus Reeves recovered Dragan's cursed greatsword — a weapon with Armaros-class ward frequencies *encoded in the hilt's crystalline structure*. Back at the McNeeve workshop (Ch7.5), Reeves decoded the specific Armaros cancellation formula from the hilt.
+
+### The "Jammer's Jammer"
+
+Mo Chrá absorbed the decoded Armaros frequency profile and integrated it into her autonomous ward-response system. The result: **pre-emptive ward-shatter**.
+
+| Attribute | Specification |
+|-----------|---------------|
+| **Handshake time** | 1.7 seconds (frequency recognition → counter-emission) |
+| **Mode** | Autonomous — Mo Chrá detects and counters without Cian's conscious direction |
+| **Type** | Pre-emptive — shatter signal emitted *before* ward fully activates |
+| **Range** | Contact to ~3 metres (acoustic near-field) |
+| **Limitation** | Armaros-class ward architecture ONLY. 19 other Watcher chiefs' ward signatures remain unprofiled. |
+
+**Brennan's term:** "The jammer's jammer." Mo Chrá doesn't block the ward — she *breaks* it before it can form.
+
+**First combat test:** Ch13, Cydonia-2 interior. Confirmed effective vs. all Armaros-warded barriers, doors, and personnel encountered.
+
+## The Adaptive Cydonian Composite Sheath (Ch7.5)
+
+### The Problem
+
+Mo Chrá's shape-shifting made conventional sheaths impractical. Every form change left the previous sheath the wrong geometry. Cian's 17th scabbard since 1900 was a fixed-geometry magnetic dorsal mount — adequate for the bastard sword form, useless for anything else.
+
+### Dr. JW Chen's Solution
+
+Dr. JW Chen, working with Brennan at the McNeeve workshop, engineered an adaptive scabbard from Cydonian-derived materials:
+
+| Attribute | Specification |
+|-----------|---------------|
+| **Primary material** | 8% Cydonian obsidian composite (sourced from Brennan's stele replica formulation) |
+| **Structure** | Segmented overlapping panels with flexible composite joints |
+| **Default rest state** | Bastard sword profile (44") |
+| **Power source** | 8× Mn-Zn ferrite cores (12mm), backplate-mounted |
+| **Power mechanism** | Planetary magnetic rotation → electromagnetic induction → piezoelectric transducer → acoustic output |
+| **Output frequency** | 7.83 Hz (Schumann resonance — Mo Chrá's baseline creation harmonic) |
+| **Power type** | PASSIVE, UNLIMITED, PERMANENT |
+| **Adaptation cycle** | ~0.7s (sword shifts → frequency changes → composite "hears" → metamaterial reconfigures geometry) |
+| **Tolerance** | ±0.3mm internal geometry match |
+
+**Tested forms:** Bastard sword (44") ✅ | Tantō (14") ✅ | Great sword (54") ✅ | Chains of Abyssal Damnation ❌ (deferred — "Mo Chrá reserves insufficient")
+
+### The Emergent Trickle-Charge
+
+The composite feeds Mo Chrá's 7.83 Hz baseline back through the sheath-sword interface, functioning as continuous passive energy transfer.
+
+- **Measured output:** +0.4 dB per 40 minutes sustained
+- **Nature:** NOT designed — emergent. The Cydonian obsidian composite *recognises* Mo Chrá's acoustic signature and feeds it energy unprompted.
+- **Brennan's hypothesis:** *"The composite recognises her... and it's trying to bring her back to full output."*
+- **Implication:** Given enough time in the sheath, Mo Chrá's baseline energy state increases incrementally. This could, over weeks or months, restore capabilities that were previously depleted by combat expenditure.
+
+### Canon Significance
+
+The adaptive sheath is Mo Chrá's **eighteenth scabbard** since 1900 — and her first that was *designed for her* rather than merely containing her. The Cydonian composite's recognition of the sword's acoustic signature suggests the material retains memory of its origin, just as the sword does. The sheath is, in a sense, a homecoming: Mars-origin material reunited with Mars-origin blade.
+
+## Mo Chrá Records Azazel's Acoustic Fingerprint (Ch14 / Epilogue)
+
+### The Recording
+
+During the confrontation with Azazel (the False Prophet, Nephilim son of Gadreel) inside Cydonia-2, Mo Chrá performed an action Cian did not command and did not initially understand: **active exploratory harmonic mapping**.
+
+The sword emitted a rapid sequence of probe frequencies — acoustic pulses designed to map every resonant frequency of the target entity. Azazel's acoustic fingerprint — the unique frequency signature of a Nephilim False Prophet empowered by Watcher technology — was recorded in Mo Chrá's Cydonian memory.
+
+### Enoch's Confirmation (Epilogue)
+
+In the Epilogue, Enoch the Scribe (observing from the Empyreal Register) confirmed what Mo Chrá had done:
+
+> The sword had done more than fight. It had *listened*. Mapped. Recorded. Every frequency the False Prophet had emitted — combat harmonics, ward signatures, the deep subsonic thrum of his Watcher-inherited power — all of it catalogued in Mo Chrá's Cydonian memory.
+
+> When the time came — and it would come — Mo Chrá would not need to improvise a counter-frequency for the False Prophet. She would already know his voice. Every register. Every harmonic. Every weakness.
+
+### Strategic Implications
+
+| Capability | Status |
+|------------|--------|
+| Azazel's full acoustic fingerprint | RECORDED — stored in Mo Chrá's Cydonian memory |
+| Pre-computed counter-frequency for Azazel | AVAILABLE — no handshake delay needed |
+| Ward-piercing vs. Azazel-class defenses | PROFILED — specific to his frequency architecture |
+| Extension to other Nephilim/Watcher signatures | POSSIBLE — Mo Chrá can now actively map any supernatural entity's acoustic fingerprint during combat |
+
+**This transforms Mo Chrá from a reactive weapon into an active intelligence-gathering instrument.** The sword doesn't just fight the enemy — she *studies* them for next time.
+
+---
+
 # PART VI: CONSTITUTIONAL CANON
 
 ## Core Axioms (Inviolable)
@@ -434,8 +578,18 @@ Mo Chrá has carried its secret for five thousand years. Now, at last, it speaks
 | Methuselah wielded the blade for 969 years | LOCKED |
 | Cian obtained the sword circa 586 BCE | LOCKED |
 | Cian named the sword "Mo Chrá" (My Torment) in 532 CE | LOCKED |
-| The sword revealed its Cydonian origin in 2020 CE | LOCKED |
+| The sword revealed its Cydonian origin in January 2024 | LOCKED |
 | The sword's shape-shifting requires pleading/negotiation | LOCKED |
+| Liaigh circuit completion unlocked three dormant registers (Book 1 Epilogue) | LOCKED |
+| Healing frequency operates in UPPER registers (restoration, not repair) | LOCKED |
+| Binding chains operate in LOWER registers (righteous inversion of creation frequency) | LOCKED |
+| Compelled truth is extension of binding register (shedim cannot lie while bound) | LOCKED |
+| Enoch encoded dormant capabilities at forging with prophetic foresight | LOCKED |
+| Counter-frequency autonomous ward-shatter (1.7s handshake, Armaros-class only) | LOCKED |
+| Adaptive Cydonian Composite Sheath — 8% obsidian, 7.83 Hz ferrite cores, passive unlimited power | LOCKED |
+| Emergent trickle-charge: +0.4 dB per 40 min (NOT designed — emergent) | LOCKED |
+| Mo Chrá records acoustic fingerprints of supernatural entities during combat | LOCKED |
+| Azazel's full acoustic fingerprint recorded (Ch14, Book 2) | LOCKED |
 
 ## Narrative Guidelines
 
@@ -542,13 +696,24 @@ But the sword remembers them all. Every one.
 ## Scabbards and Sheaths
 
 The sword has outlasted countless scabbards. Cian's current sheath is:
+
+### Historical (Pre-Book 2)
 - Custom leather with concealed modern materials
 - Designed to appear as a musical instrument case when needed
 - Enchanted (by Raphael) to mask the blade's supernatural signature
 - The seventeenth scabbard Cian has commissioned since 1900
 
+### Current: Adaptive Cydonian Composite Sheath (Book 2, Ch7.5 onward)
+- **The eighteenth scabbard since 1900 — and the first designed *for* Mo Chrá rather than merely containing her**
+- 8% Cydonian obsidian composite, segmented overlapping panels
+- 8× Mn-Zn ferrite cores harvesting 7.83 Hz Schumann resonance (passive, unlimited power)
+- Adapts geometry in ~0.7s to match any sword form (bastard, tantō, great sword)
+- Emergent trickle-charge: composite feeds Mo Chrá +0.4 dB per 40 min sustained energy
+- Engineered by Dr. JW Chen at McNeeve Galway workshop
+- See PART V-C for full specifications
+
 ---
 
 *Document Status: CANONICAL*
-*Last Updated: January 11, 2026*
-*Integration: SERIES_BIBLE.md, CIAN_MAC_MORNA.md, Book 1 Chapter 1*
+*Last Updated: July 2025*
+*Integration: SERIES_BIBLE.md, CIAN_MAC_MORNA.md, Book 1 Chapters 13-Epilogue, Book 2 Chapters 6-14 + Epilogue*

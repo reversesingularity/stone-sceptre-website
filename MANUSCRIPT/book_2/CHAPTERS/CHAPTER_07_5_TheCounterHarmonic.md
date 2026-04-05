@@ -94,6 +94,12 @@ In submarine warfare, the protocol was called acoustic deception — generating 
 
 Mo Chrá's modulations stabilised. The spectral display showed a new pattern emerging — not her standard combat harmonics, not the creation-frequency overtone series, but something novel. A *pre-emptive counter-frequency*. A signal designed to arrive at the ward's standing-wave structure before the cancellation pattern could establish coherent destructive interference. If Armaros's formula was a jammer, Mo Chrá had just built the jammer's jammer.
 
+But the cost burned.
+
+Through the hilt, through the neural haptic relay, through the bond that twenty-six centuries had welded between blade and bearer, Cian felt what the invention had taken from her. Mo Chrá's reserves — already depleted by ninety minutes of suppression — cratered. The spectral display confirmed it in numbers Marcus would later annotate as *critical*: the power curve that had been climbing during the counter-frequency's genesis collapsed, dropping below the red line he had established as minimum combat-effective output. She had spent the acoustic equivalent of a full day's combat energy in ninety seconds of creative fury, and the deficit registered in Cian's palm as heat — not warmth, not the comfortable resonance of a blade in tune with its wielder, but the specific, searing feedback of a weapon that had driven itself past safe operational limits to build something it needed to survive.
+
+His fingers whitened on the grip. The heat was a price.
+
 She would never be silenced by that specific ward architecture again.
 
 The hum settled. Warmer now. The particular frequency that Marcus had catalogued, with Navy-grade precision, as *satisfied*.
@@ -104,7 +110,7 @@ Brennan had not moved during the entire ninety seconds. He had stood at the spec
 
 "She learned," Cian said. His expression had not changed — still the cold tactical assessment of a man who had been fighting a war longer than most civilisations had existed — but something behind his eyes had shifted.
 
-"In approximately ninety seconds," Marcus confirmed.
+"In approximately ninety seconds," Marcus confirmed. He paused. "At a cost of roughly sixty percent of her remaining reserves. If she'd had to fight immediately afterward — full combat, creation-frequency output — she'd have been operating on fumes."
 
 Brennan shook his head. Not disagreement. Recalibration. "The counter-frequency needs to be documented and archived. If she can do this for Armaros-class wards, she can potentially do it for any ward architecture — given exposure to the cancellation formula. We need to be collecting ward data from every domain we enter. Every hilt. Every inscription. Every piece of Watcher hardware. Feed her the data and let her build the countermeasures."
 
@@ -505,5 +511,31 @@ When the team deployed to Greenland in forty-eight hours, they would deploy equi
 The hilt that had survived Gehenna fire had given them the frequency that broke its own kind. The telemetry from a wound that should have killed had given them the speed to ensure no such wound was suffered again.
 
 The irony would not have been lost on Armaros. But Armaros was bound in chains of darkness beneath the earth, and the only thing that heard his frequency now was a sword that had learned to sing it back — carried by a man in armour that could fly.
+
+Marcus's monitoring terminal screamed.
+
+Not the passive chirp of routine data — the full-bandwidth alarm of a threshold breach across three Southern Hemisphere hydrophone arrays. Marcus maintained passive access to the IMS network through the Southern Ocean — the same Comprehensive Test-Ban Treaty hydrophones that listened for nuclear detonations at the SOFAR channel depth. He had been running the Antarctic drill-monitoring feed as background at the Galway facility for eleven months: hourly checks, automated alerts, the ambient discipline of a man who believed that the appropriate response to an enemy drilling toward a five-thousand-year-old prison was to never stop listening.
+
+The listening had just paid for itself.
+
+Marcus was at the display in three steps. The spectral waterfall showed what Brennan, arriving at his shoulder four seconds later, did not need explained: the infrasonic harmonic signature of Naamah's drill assembly had undergone a step-change. Not the gradual acceleration that Miriam's models had predicted as the substrate softened at depth. A *decision*. The clean, vertical shift of an operational commander who had stopped conserving equipment and started spending everything she had.
+
+"She's gone to full capacity," Marcus said. Flat. The particular flatness of a man reading numbers that were rewriting every timeline in the room. "Drilling rate has more than doubled. Sustained output — not a spike. She's committed."
+
+Brennan was already running the penetration arithmetic. The same brutal mathematics that Miriam would perform in Greenland three days from now — metres per day against estimated remaining substrate — except Brennan had the advantage of real-time IMS data and the disadvantage of understanding exactly what the numbers meant.
+
+He looked up. His expression had not changed. The numbers had.
+
+"At this rate, she reaches Dudael weeks ahead of our operational calendar."
+
+The room recalibrated in silence. Sixty rounds of Tintreach Mk II on the workbench. An exoskeleton that could fly. A sheath that understood its sword. Five days of engineering that had produced the finest counter-Watcher arsenal in three thousand years of the war.
+
+All of it ready. None of it deployed.
+
+Mo Chrá's warmth vanished from the sheath like a flame blown flat. The rich harmonic bloom that JW's composite had sustained — the deep, layered voicing of a blade at rest in a housing that knew her — compressed into a single tone. High. Tight. The tonal equivalent of a heartbeat that had stopped counting hours and started counting breaths.
+
+Cian looked at Marcus. Marcus looked at the numbers. Brennan looked at the man whose war had just lost its margin.
+
+Forty-eight hours to deploy. And four thousand years of Naamah's patience had just run out.
 
 ✦

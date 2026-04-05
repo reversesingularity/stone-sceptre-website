@@ -118,6 +118,14 @@ Chris heard the message. He closed his eyes. Two seconds. Then he opened them.
 
 The screens still said SIGNAL LOST. The surface was secure. The underground was silence.
 
+Above the ice, something happened that Callaghan's men would never adequately explain in their after-action reports.
+
+The sky changed. Not gradually — not the slow modulation of Antarctic light that polar operations conditioned a man to expect. The change was instantaneous and wrong. An aurora bloomed across the southern horizon in colours that no atmospheric physics could produce — not the green-blue curtains of magnetospheric interaction but deep, saturated gold shot through with veins of crimson, pulsing at a rhythm that the human eye could perceive but the human brain could not classify as natural. Two operators' helmet-mounted barometers registered a pressure drop of six millibars in under three seconds — the atmospheric signature of a shockwave with no source. One operator's night-vision optics whited out from a light that occupied no position in physical space, and when the display recovered, the sky was dark again.
+
+Eight seconds. Total duration.
+
+Callaghan logged it. Timestamp. Duration. Atmospheric data. He filed it under the heading he had created six years ago for phenomena that his training could not account for and his faith suggested he should not ignore: *Observed. Noted. Not ours to understand.*
+
 ✦
 
 *In the dimension that the encrypted channel could not reach and the satellite could not resolve, the twelve did not operate alone.*

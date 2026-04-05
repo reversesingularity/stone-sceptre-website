@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -1 /f/Projects-cmodi.000/book_writer_ai_toolkit/output/nephilim_chronicles/MANUSCRIPT/book_2/CHAPTERS/*.md)",
+      "Bash(ls:*)"
+    ]
+  }
+}

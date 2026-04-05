@@ -33,6 +33,18 @@ Terrestrial assets for urban hunts or wilderness pursuits, based on military cha
 - **Tactical Implications**: Covers Mars data extractions; fuel drops in EMP zones. Exposed turret risks siren pheromones.
 - **Visualization Prompt**: "Cinematic full-body shot of a realistic armored SUV customized for supernatural threats. Matte olive drab body with reinforced silver-alloy plating and micro-etched Enochian wards. Roof turret with holy water dispersal system, amber HUD on dashboard. Background: rugged wilderness trail at dusk with dust clouds. 8k, photorealistic, hyper-detailed mechanical parts, tactical lighting."
 
+### Medium-Heavy: "An Daingean" (The Fortress) — Armored Drone Command Vehicle
+
+- **Role**: Mobile fire-support and autonomous drone swarm command platform; giant/undead mass-engagement.
+- **Base Specs**: Modified Supacat HMT 600 diesel-electric hybrid 6×6; 12,500 kg combat-loaded; 600 hp combined; 110 km/h road / 60 km/h cross-country; 600 km range (diesel) + 80 km silent-running (electric).
+- **Supernatural Customizations**: Level IV Enochian-warded hull (ceramoplastic composite over RHA); 50-cell vertical drone rack-launch system (AI quadrotor loitering munitions — 8 kg each, 30-min endurance, 10 km autonomous range, HALOGEN RAIN silver-thermite payload); AI swarm control via Brennan's neural interface; silver-mesh CBRN filtration; Mo Chrá dorsal mount interface; crew 3 (driver, gunner/drone operator, commander).
+- **Tactical Implications**: First platform to deliver area-denial against massed Rephaim/ghouls without exposing human operators. Drone swarm operates autonomously once launched — Brennan designates kill-box, AI executes. Trade-off: 6×6 chassis too wide for narrow mountain passes; vulnerable to EMP if Enochian wards breach.
+- **Visualization Prompt**: "Cinematic full-body shot of a realistic 6x6 armored tactical vehicle with vertical drone launch rack on rear bed. Matte olive drab with ceramoplastic armor panels, micro-etched Enochian wards on hull plates. 50-cell drone rack visible with quad-rotor munitions in launch position. Amber HUD glow through armored windscreen. Background: Carpathian mountain pass at dusk with fog. 8k, photorealistic, hyper-detailed mechanical parts, tactical lighting."
+
+**Book 2 Deployment:**
+- **Ch5 (Carpathians):** First combat deployment. 206 ghouls neutralised in 40-minute autonomous drone sweep while Cian engaged Voivode Dragan inside the keep. Proved area-denial doctrine.
+- **Ch8 (Galway staging):** Positioned at McNeeve workshop as rapid-reaction asset for Ireland operations.
+
 ### Heavy Assault: "Giant Slayer" Armored Personnel Carrier (APC)
 
 - **Role**: Siege breaker for Nephilim strongholds or undead facilities.
@@ -56,10 +68,14 @@ Aerial dominance for surveillance and strikes against flying sirens or elevated 
 ### Medium: "Storm Herald" Tactical Helicopter
 
 - **Role**: Insertion/extraction; air support vs. demon swarms.
-- **Base Specs**: 4,500 kg (Bell 407 base); twin turbines (900 hp); 250 km/h top speed; 700 km range; crew 2+4.
+- **Base Specs**: 4,500 kg (Bell 407 base); twin turbines (900 hp); 250 km/h top speed; 700 km range; crew 2 + 7 passengers (9-person total) + cargo.
 - **Supernatural Customizations**: Silver-edged rotors; Enochian cabin seals; sonic disruptors; holy water cascade.
 - **Tactical Implications**: Witness protection; noise attracts sirens. Fuel ties to alliances.
 - **Visualization Prompt**: "Cinematic full-body shot of a realistic tactical helicopter customized for supernatural threats. Olive drab fuselage with silver-edged rotors and micro-etched Enochian wards. Side sonic disruptors glowing amber. Background: urban skyline at twilight with rain. 8k, photorealistic, hyper-detailed mechanical parts, tactical lighting."
+
+**Book 2 Deployments:**
+- **Ch8 (Galway → Greenland):** Extraction from McNeeve workshop. Full team: Cian, Miriam, Brennan, Fr. Dominic, Marcus Reeves, Josephite crew. First long-range insertion with upgraded HCV aboard.
+- **Ch14 (Christchurch → Antarctica):** Final deployment. Josephite pilot + co-pilot. Full assault team insertion to Cydonia-2. Storm Herald positioned as extraction asset on Ross Ice Shelf while team enters the pyramid complex on foot.
 
 ### Heavy Assault: "Thunder's Judgment" Gunship
 
@@ -117,6 +133,7 @@ Vehicles are phased across the 5-book arc to mirror Cian's evolution from lone h
 | ----------------------------------- | ------ | ---------------------------------------------------------------------------- |
 | **Shadow Hound** (motorcycle) | Land   | Primary transport. Solo-operable, quiet, fits covert hunter profile.         |
 | **Ward Runner** (armored SUV) | Land   | Introduced when Miriam & Brennan join. Team transport, data extraction runs. |
+| **An Daingean** (6×6 drone command) | Land | Introduced Ch5 Carpathians. Area-denial via autonomous drone swarm. |
 | **Eagle's Whisper** (drone)   | Air    | Brennan's asset. Scouting, surveillance, small payload delivery.             |
 
 ### TIER 2 — Books 2–3: Expanded Network Operations
@@ -127,7 +144,7 @@ Vehicles are phased across the 5-book arc to mirror Cian's evolution from lone h
 | ------------------------------------ | ------ | -------------------------------------------------------------------------------------- |
 | **Siren's Bane** (jet ski)     | Sea    | Coastal pursuit; Siren confrontations require waterborne mobility.                     |
 | **Abyss Warden** (patrol boat) | Sea    | Josephite-sourced for offshore ops. Crew drawn from network allies.                    |
-| **Storm Herald** (helicopter)  | Air    | Insertion/extraction as mission scope grows beyond driving distance. Josephite pilots. |
+| **Storm Herald** (helicopter)  | Air    | Insertion/extraction as mission scope grows beyond driving distance. Josephite pilots. NOTE: Storm Herald deployed early in Book 2 (Ch8 Greenland, Ch14 Antarctica) due to escalated mission tempo. |
 
 ### TIER 3 — Books 4–5: Full Josephite Mobilization / Endgame
 

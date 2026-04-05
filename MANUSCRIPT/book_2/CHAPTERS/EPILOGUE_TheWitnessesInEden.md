@@ -84,9 +84,21 @@ She was recording.
 
 Mo Chrá was mapping the acoustic fingerprint of the thing that had emerged from the broken seal — cataloguing every harmonic, every overtone, every molecular vibration of Azazel's unfolding. The blade that Enoch had forged as testimony was *gathering testimony*. Doing what she had been made to do. What *he* had made her to do.
 
+But she was doing something else. Something *more*.
+
+Enoch felt it — the way a father feels his child exceed the boundaries of what he taught her, the unmistakable resonance of a creation outgrowing its creator's design. Mo Chrá was not merely cataloguing the False Prophet's acoustic architecture. She was *analysing* it. Running the same responsive-creative process that had built a counter-frequency against Armaros-class wards in ninety seconds — autonomous, predictive, generative — except now the target was not a ward emitter. The target was Azazel himself.
+
+And she was finding seams.
+
+Structural flaws in the False Prophet's frequency architecture — hairline fractures in the harmonic relationships between his component tones, resonance nodes that did not quite align, the acoustic equivalent of load-bearing walls built a fraction of a degree off true. Invisible to any instrument that catalogued from the outside. But Mo Chrá was not outside. She was *inside* the frequency, riding its harmonics, and from the inside, the flaws were legible. They were *exploitable*.
+
+The thing that called itself the False Prophet had evaluated her once — in the chamber beneath Dudael, when Raphael's seal cracked and the darkness behind it had touched her frequency and found it *familiar*. Watcher-forged. Cydonian. A relic. The evaluation had been dismissive. *Insufficient.* A static tool. Testimony hardware, built to document, not to fight.
+
+He had no way of knowing what she had become in Galway.
+
 Enoch smiled.
 
-The smile was small and private and carried the particular satisfaction of a craftsman who has built something five millennia ago and who has just felt it perform the function he designed it for. The boy in Connacht had carried her well. The engineer in An Daingean had housed her well. And now, in the moment of greatest crisis, the blade was not merely surviving — she was *learning*. When the boy raised her against the False Prophet again, she would know him. She would carry the acoustic map of his every frequency. She would be ready.
+The smile was small and private and carried the particular satisfaction of a craftsman who has built something five millennia ago and who has just felt it perform a function he *did not design it for*. He had built her to record. The boy in Connacht had carried her until she learned to fight. The engineer in An Daingean had housed her until she learned to *think*. And now, in the moment of greatest crisis, the blade was not merely surviving — she was *hunting*. Mapping every frequency, every flaw, every seam that arrogance had left unguarded. When the boy raised her against the False Prophet again, she would not merely know him. She would know where he *broke*.
 
 *Good girl*, Enoch thought. And the thought was not anthropomorphism. It was a father's pride.
 
