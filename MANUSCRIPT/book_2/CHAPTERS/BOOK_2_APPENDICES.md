@@ -1,8 +1,4 @@
-# THE NEPHILIM CHRONICLES — BOOK TWO
-
-## THE CAULDRON OF GOD
-
-## Appendices
+# Appendices
 
 ---
 

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Debug/test artifacts
+debug_*.py
+test_*.py
+test_*.docx
+
+# Regenerable intermediates (tools + upscaled 4x images)
+MANUSCRIPT/book_2/IMAGES/tools/
+MANUSCRIPT/book_2/IMAGES/upscaled/

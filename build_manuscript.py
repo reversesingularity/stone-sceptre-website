@@ -2,7 +2,7 @@
 build_manuscript.py
 -------------------
 Assembles NephilimChronicles_Book1_MANUSCRIPT.docx from source .md files.
-Targets Amazon KDP Paperback: 6" x 9", Georgia 11pt, KDP-compliant margins.
+Targets Amazon KDP Paperback: 6" x 9", Georgia 12pt, KDP-compliant margins.
 
 Requirements:
     pip install python-docx
@@ -33,7 +33,7 @@ OUTPUT_FILE    = Path(os.environ.get(
 ))
 
 BODY_FONT      = "Georgia"
-BODY_SIZE      = Pt(11)
+BODY_SIZE      = Pt(12)
 HEADING_FONT   = "Georgia"
 SCENE_BREAK    = "✦"
 
@@ -69,6 +69,82 @@ SOURCE_FILES = [
 ]
 
 # ---------------------------------------------------------------------------
+# BOOK SELECTION & BOOK 2 CONFIGURATION
+# ---------------------------------------------------------------------------
+
+BOOK = int(os.environ.get("KDP_BOOK", "1"))
+
+MANUSCRIPT_DIR_BOOK2 = Path(
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_2\CHAPTERS"
+)
+OUTPUT_FILE_BOOK2 = Path(
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\NephilimChronicles_Book2_MANUSCRIPT.docx"
+)
+
+SOURCE_FILES_BOOK2 = [
+    MANUSCRIPT_DIR_BOOK2 / "BOOK_2_FRONT_MATTER.md",
+    MANUSCRIPT_DIR_BOOK2 / "PROLOGUE_SCENE1_TheFountainsOfTheDeep.md",
+    MANUSCRIPT_DIR_BOOK2 / "PROLOGUE_SCENE2_TheTowerAndTheThrone.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_01_TheTwentyNames_REVISED.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_02_DeadReckoning.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_03_TheCaptainsDomain.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_04_TheSameWord.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_05_TheArmarosDomain.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_06_HallowedConflagration.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_07_TheAccidentalFianna.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_07_5_TheCounterHarmonic.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_08_TheGate.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_09_TheLabyrinthOfNight.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_10_EchoesOfJudgment.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_11_TheBreach.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_12_TheJosephiteGambit.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_13_TheArmarosInversion.md",
+    MANUSCRIPT_DIR_BOOK2 / "CHAPTER_14_TheAppointedTime.md",
+    MANUSCRIPT_DIR_BOOK2 / "EPILOGUE_TheWitnessesInEden.md",
+    MANUSCRIPT_DIR_BOOK2 / "BOOK_2_APPENDICES.md",
+]
+
+IMAGE_DIR_BOOK2 = Path(
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_2\IMAGES\kdp_ready\chapters"
+)
+
+# Chapter filename pattern → image filename (order matters: longer prefixes first)
+CHAPTER_IMAGE_MAP = {
+    "PROLOGUE_SCENE1": "prologue1.png",
+    "PROLOGUE_SCENE2": "prologue2.png",
+    "CHAPTER_01": "chapter1.png",
+    "CHAPTER_02": "chapter2.png",
+    "CHAPTER_03": "chapter3.png",
+    "CHAPTER_04": "chapter4.png",
+    "CHAPTER_05": "chapter5.png",
+    "CHAPTER_06": "chapter6.png",
+    "CHAPTER_07_5": "chapter7_5.png",
+    "CHAPTER_07": "chapter7.png",
+    "CHAPTER_08": "chapter8.png",
+    "CHAPTER_09": "chapter9.png",
+    "CHAPTER_10": "chapter10.png",
+    "CHAPTER_11": "chapter11.png",
+    "CHAPTER_12": "chapter12.png",
+    "CHAPTER_13": "chapter13.png",
+    "CHAPTER_14": "chapter14.png",
+    "EPILOGUE": "epilogue.png",
+}
+
+MAP_IMAGES = [
+    "map1-image.png",
+    "map2-image.png",
+    "map3-image.png",
+    "map4-image.png",
+    "map5-image.png",
+    "map6-image.png",
+]
+
+BOOK_TITLES = {
+    1: "The Cydonian Oaths",
+    2: "The Cauldron of God",
+}
+
+# ---------------------------------------------------------------------------
 # DOCUMENT SETUP
 # ---------------------------------------------------------------------------
 
@@ -96,7 +172,7 @@ def create_document() -> Document:
     style.paragraph_format.space_before = Pt(0)
     style.paragraph_format.space_after  = Pt(0)
     style.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
-    style.paragraph_format.line_spacing = Pt(14)
+    style.paragraph_format.line_spacing = Pt(15)
 
     return doc
 
@@ -162,7 +238,7 @@ def set_header_footer(section, author: str, title: str, show_page: bool = True):
     erun.font.size = Pt(9)
 
     if show_page:
-        # Footer: page numbers centered
+        # Default footer (odd pages): page numbers centered
         footer = section.footer
         footer.is_linked_to_previous = False
         if footer.paragraphs:
@@ -172,6 +248,26 @@ def set_header_footer(section, author: str, title: str, show_page: bool = True):
         fp.clear()
         fp.alignment = WD_ALIGN_PARAGRAPH.CENTER
         add_page_number_field(fp)
+
+        # Even-page footer: page numbers centered
+        even_footer = section.even_page_footer
+        even_footer.is_linked_to_previous = False
+        if even_footer.paragraphs:
+            efp = even_footer.paragraphs[0]
+        else:
+            efp = even_footer.add_paragraph()
+        efp.clear()
+        efp.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        add_page_number_field(efp)
+
+        # First-page footer: blank (no page number on chapter openers)
+        first_footer = section.first_page_footer
+        first_footer.is_linked_to_previous = False
+        if first_footer.paragraphs:
+            ffp = first_footer.paragraphs[0]
+        else:
+            ffp = first_footer.add_paragraph()
+        ffp.clear()
 
 
 def enable_odd_even_headers(sectPr):
@@ -253,7 +349,7 @@ def add_body_paragraph(doc: Document, text: str, first_para: bool = False) -> No
     p.paragraph_format.space_before        = Pt(0)
     p.paragraph_format.space_after         = Pt(0)
     p.paragraph_format.line_spacing_rule   = WD_LINE_SPACING.EXACTLY
-    p.paragraph_format.line_spacing        = Pt(14)
+    p.paragraph_format.line_spacing        = Pt(15)
     p.paragraph_format.alignment           = WD_ALIGN_PARAGRAPH.JUSTIFY
     if not first_para:
         p.paragraph_format.first_line_indent = Inches(0.3)
@@ -266,11 +362,83 @@ def add_centered(doc: Document, text: str, size: int = 11, bold: bool = False, i
     p.paragraph_format.space_before        = Pt(space_before)
     p.paragraph_format.space_after         = Pt(space_after)
     p.paragraph_format.line_spacing_rule   = WD_LINE_SPACING.EXACTLY
-    p.paragraph_format.line_spacing        = Pt(max(14, size + 4))
+    p.paragraph_format.line_spacing        = Pt(max(15, size + 4))
     apply_inline(p, text, base_bold=bold, base_italic=italic)
     # Override font size on all runs
     for run in p.runs:
         run.font.size = Pt(size)
+
+
+def _make_bookmark_id(text: str) -> str:
+    """Turn heading text into a stable, legal Word bookmark name."""
+    # Normalize to uppercase, strip to alphanumeric + underscores
+    clean = re.sub(r"[^A-Za-z0-9]+", "_", text.upper()).strip("_")
+    return f"_TOC_{clean}"
+
+
+def _add_bookmark(paragraph, name: str):
+    """Wrap the entire run content of a paragraph in a bookmark."""
+    p_elem = paragraph._p
+    bs = OxmlElement("w:bookmarkStart")
+    # Use a simple hash for the bookmark ID (must be unique integer)
+    bm_id = str(abs(hash(name)) % 999999)
+    bs.set(qn("w:id"), bm_id)
+    bs.set(qn("w:name"), name)
+    # Insert bookmarkStart before first run
+    first_r = p_elem.find(qn("w:r"))
+    if first_r is not None:
+        p_elem.insert(list(p_elem).index(first_r), bs)
+    else:
+        p_elem.append(bs)
+    # Append bookmarkEnd at the end
+    be = OxmlElement("w:bookmarkEnd")
+    be.set(qn("w:id"), bm_id)
+    p_elem.append(be)
+
+
+def _add_pageref_field(paragraph, bookmark_name: str):
+    """Insert a PAGEREF field code into a paragraph."""
+    run = paragraph.add_run()
+    r = run._r
+    # fldChar begin
+    fc_begin = OxmlElement("w:fldChar")
+    fc_begin.set(qn("w:fldCharType"), "begin")
+    r.append(fc_begin)
+    # instrText
+    r2 = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    rfonts = OxmlElement("w:rFonts")
+    rfonts.set(qn("w:ascii"), BODY_FONT)
+    rpr.append(rfonts)
+    sz = OxmlElement("w:sz")
+    sz.set(qn("w:val"), "22")  # 11pt
+    rpr.append(sz)
+    r2.append(rpr)
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    instr.text = f" PAGEREF {bookmark_name} \\h "
+    r2.append(instr)
+    paragraph._p.append(r2)
+    # fldChar separate
+    r3 = OxmlElement("w:r")
+    fc_sep = OxmlElement("w:fldChar")
+    fc_sep.set(qn("w:fldCharType"), "separate")
+    r3.append(fc_sep)
+    paragraph._p.append(r3)
+    # Placeholder text
+    r4 = OxmlElement("w:r")
+    rpr4 = copy.deepcopy(rpr)
+    r4.append(rpr4)
+    t4 = OxmlElement("w:t")
+    t4.text = "000"
+    r4.append(t4)
+    paragraph._p.append(r4)
+    # fldChar end
+    r5 = OxmlElement("w:r")
+    fc_end = OxmlElement("w:fldChar")
+    fc_end.set(qn("w:fldCharType"), "end")
+    r5.append(fc_end)
+    paragraph._p.append(r5)
 
 
 def add_chapter_heading(doc: Document, chapter_line: str, subtitle_line: str = "") -> None:
@@ -299,9 +467,17 @@ def add_chapter_heading(doc: Document, chapter_line: str, subtitle_line: str = "
     run.font.size  = Pt(20)
     run.bold       = True
 
+    # Add bookmark for TOC PAGEREF
+    bm_name = _make_bookmark_id(heading_text)
+    _add_bookmark(h, bm_name)
+
     if subtitle_line:
         sub_text = re.sub(r"^#+\s*", "", subtitle_line).strip()
         sub_text = re.sub(r"\*+", "", sub_text)
+        # Also bookmark with heading + subtitle combined (matches TOC entry format)
+        combined_bm = _make_bookmark_id(f"{heading_text} {sub_text}")
+        if combined_bm != bm_name:
+            _add_bookmark(h, combined_bm)
         s = doc.add_paragraph()
         s.alignment = WD_ALIGN_PARAGRAPH.CENTER
         s.paragraph_format.space_before = Pt(0)
@@ -333,8 +509,136 @@ def add_blank_line(doc: Document) -> None:
     p.paragraph_format.space_before = Pt(0)
     p.paragraph_format.space_after  = Pt(0)
     p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
-    p.paragraph_format.line_spacing = Pt(14)
+    p.paragraph_format.line_spacing = Pt(15)
     p.add_run("")
+
+
+# ---------------------------------------------------------------------------
+# IMAGE EMBEDDING
+# ---------------------------------------------------------------------------
+
+def get_chapter_image(chapter_path: Path, image_dir: Path | None) -> Path | None:
+    """Look up the chapter art image for a given chapter file by naming convention."""
+    if not image_dir or not image_dir.exists():
+        return None
+    stem = chapter_path.stem.upper()
+    for pattern, img_name in CHAPTER_IMAGE_MAP.items():
+        if stem.startswith(pattern):
+            img_path = image_dir / img_name
+            if img_path.exists():
+                return img_path
+    return None
+
+
+def _ensure_chapter_image_style(doc: Document):
+    """Create the 'Chapter Image' style matching Book 1's proven definition."""
+    style_name = "Chapter Image"
+    if style_name not in [s.name for s in doc.styles]:
+        img_style = doc.styles.add_style(style_name, 1)  # PARAGRAPH
+        img_style.base_style = doc.styles["Normal"]
+        img_style.paragraph_format.line_spacing_rule = WD_LINE_SPACING.SINGLE
+        img_style.paragraph_format.line_spacing = 1.0
+        img_style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        img_style.paragraph_format.space_before = Pt(0)
+        img_style.paragraph_format.space_after = Pt(36)
+        img_style.paragraph_format.first_line_indent = Inches(0)
+        rpr = img_style.element.find(qn("w:rPr"))
+        if rpr is None:
+            rpr = OxmlElement("w:rPr")
+            img_style.element.append(rpr)
+        no_proof = OxmlElement("w:noProof")
+        rpr.append(no_proof)
+    return doc.styles[style_name]
+
+
+def _convert_inline_to_floating(paragraph):
+    """Convert the first inline image in a paragraph to a floating anchor.
+
+    Uses 'top and bottom' wrapping, centered horizontally and vertically
+    within the margin area.  Floating images are never clipped by
+    paragraph line-spacing — this is the nuclear fix for the chapter-art
+    display bug.
+    """
+    for drawing in paragraph._p.findall('.//' + qn('w:drawing')):
+        inline = drawing.find(qn('wp:inline'))
+        if inline is None:
+            continue
+
+        anchor = OxmlElement('wp:anchor')
+        anchor.set('distT', '0')
+        anchor.set('distB', '0')
+        anchor.set('distL', '0')
+        anchor.set('distR', '0')
+        anchor.set('simplePos', '0')
+        anchor.set('relativeHeight', '251658240')
+        anchor.set('behindDoc', '0')
+        anchor.set('locked', '0')
+        anchor.set('layoutInCell', '1')
+        anchor.set('allowOverlap', '0')
+
+        # Required: simplePos
+        sp = OxmlElement('wp:simplePos')
+        sp.set('x', '0')
+        sp.set('y', '0')
+        anchor.append(sp)
+
+        # Horizontal: centered on margin
+        pos_h = OxmlElement('wp:positionH')
+        pos_h.set('relativeFrom', 'margin')
+        align_h = OxmlElement('wp:align')
+        align_h.text = 'center'
+        pos_h.append(align_h)
+        anchor.append(pos_h)
+
+        # Vertical: centered on margin
+        pos_v = OxmlElement('wp:positionV')
+        pos_v.set('relativeFrom', 'margin')
+        align_v = OxmlElement('wp:align')
+        align_v.text = 'center'
+        pos_v.append(align_v)
+        anchor.append(pos_v)
+
+        # Move children from inline → anchor (extent, effectExtent, docPr, etc.)
+        for child in list(inline):
+            inline.remove(child)
+            anchor.append(child)
+
+        # Insert wrapTopAndBottom before docPr
+        wrap = OxmlElement('wp:wrapTopAndBottom')
+        doc_pr = anchor.find(qn('wp:docPr'))
+        if doc_pr is not None:
+            anchor.insert(list(anchor).index(doc_pr), wrap)
+        else:
+            anchor.append(wrap)
+
+        # Replace inline with anchor
+        drawing.remove(inline)
+        drawing.append(anchor)
+        break  # only convert the first image
+
+
+def add_chapter_image(doc: Document, image_path: Path,
+                      max_width: float = 4.5, max_height: float = 6.5,
+                      page_break: bool = False, floating: bool = False) -> None:
+    """Embed a centered chapter art image.
+
+    If floating=True, converts the inline picture to a wp:anchor element
+    so it is never clipped by paragraph line-spacing.  Maps should keep
+    floating=False (inline images work fine without section breaks).
+    """
+    style = _ensure_chapter_image_style(doc)
+
+    picture = doc.add_picture(str(image_path), width=Inches(max_width))
+    if picture.height > Inches(max_height):
+        ratio = picture.width / picture.height
+        picture.height = Inches(max_height)
+        picture.width = int(Inches(max_height) * ratio)
+    last_paragraph = doc.paragraphs[-1]
+    last_paragraph.style = style
+    if page_break:
+        last_paragraph.paragraph_format.page_break_before = True
+    if floating:
+        _convert_inline_to_floating(last_paragraph)
 
 
 # ---------------------------------------------------------------------------
@@ -393,11 +697,13 @@ def render_table(doc: Document, rows: list[str]) -> None:
 # FRONT MATTER BUILDER
 # ---------------------------------------------------------------------------
 
-def build_front_matter(doc: Document, path: Path) -> None:
+def build_front_matter(doc: Document, path: Path,
+                       book_number: int = 1, book_title: str = "The Cydonian Oaths") -> None:
     """
-    Parse BOOK_1_FRONT_MATTER.md and render each PAGE section
+    Parse a FRONT_MATTER.md and render each PAGE section
     as properly formatted front matter pages with page breaks.
     """
+    book_word = {1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five"}.get(book_number, str(book_number))
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
 
@@ -449,7 +755,7 @@ def build_front_matter(doc: Document, path: Path) -> None:
                 add_blank_line(doc)
             add_centered(doc, "THE NEPHILIM CHRONICLES", size=18, bold=True)
             add_blank_line(doc)
-            add_centered(doc, "Book One", size=14, italic=True)
+            add_centered(doc, f"Book {book_word}", size=14, italic=True)
 
         elif "ALSO BY" in page_name:
             add_centered(doc, "Also by Kerman Gild", size=13, bold=True, space_before=24, space_after=12)
@@ -476,9 +782,9 @@ def build_front_matter(doc: Document, path: Path) -> None:
             add_centered(doc, "NEPHILIM", size=14, bold=True)
             add_centered(doc, "CHRONICLES", size=14, bold=True)
             add_blank_line(doc)
-            add_centered(doc, "THE CYDONIAN OATHS", size=26, bold=True, space_before=6, space_after=6)
+            add_centered(doc, book_title.upper(), size=26, bold=True, space_before=6, space_after=6)
             add_blank_line(doc)
-            add_centered(doc, "Book One", size=13, italic=True)
+            add_centered(doc, f"Book {book_word}", size=13, italic=True)
             for _ in range(4):
                 add_blank_line(doc)
             add_centered(doc, "KERMAN GILD", size=14, bold=True)
@@ -556,6 +862,39 @@ def build_front_matter(doc: Document, path: Path) -> None:
                 elif stripped:
                     epigraph_text.append(stripped)
 
+        elif "TABLE OF CONTENTS" in page_name:
+            add_centered(doc, "CONTENTS", size=16, bold=True, space_before=36, space_after=18)
+            for line in content:
+                stripped = line.strip()
+                if not stripped:
+                    continue
+                if stripped.startswith("**") and stripped.endswith("**"):
+                    # Bold heading ("CONTENTS" — skip, already rendered)
+                    continue
+                # Build the bookmark name this entry points to
+                # Match the heading text portion after the em-dash
+                bm_name = _make_bookmark_id(stripped)
+                # TOC entry with right-aligned tab + dot leader + PAGEREF
+                p = doc.add_paragraph()
+                p.paragraph_format.space_before = Pt(2)
+                p.paragraph_format.space_after  = Pt(2)
+                p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.EXACTLY
+                p.paragraph_format.line_spacing = Pt(16)
+                p.paragraph_format.left_indent = Inches(0.75)
+                # Add a right tab stop with dot leader at the right margin
+                tab_stops = p.paragraph_format.tab_stops
+                tab_stops.add_tab_stop(Inches(4.625), WD_ALIGN_PARAGRAPH.RIGHT, 2)  # 2 = dots leader
+                # Entry text
+                run = p.add_run(stripped)
+                run.font.name = BODY_FONT
+                run.font.size = Pt(11)
+                # Tab character to jump to dot leader
+                tab_run = p.add_run("\t")
+                tab_run.font.name = BODY_FONT
+                tab_run.font.size = Pt(11)
+                # PAGEREF field
+                _add_pageref_field(p, bm_name)
+
         elif "PREFACE" in page_name:
             add_centered(doc, "A Word Before the Story", size=14, bold=True, space_before=36, space_after=18)
             first = True
@@ -581,10 +920,13 @@ def is_table_row(line: str) -> bool:
     return bool(re.match(r"^\s*\|.+\|", line))
 
 
-def render_body_file(doc: Document, path: Path, is_first_file: bool = False) -> None:
+def render_body_file(doc: Document, path: Path, is_first_file: bool = False,
+                     image_dir: Path | None = None,
+                     book_title: str = "The Cydonian Oaths") -> None:
     """
     Render a chapter, prologue, epilogue, or appendix file.
     Inserts an odd-page section break before it (so chapters start on recto).
+    Embeds chapter art image after heading if available in image_dir.
     """
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
@@ -607,12 +949,18 @@ def render_body_file(doc: Document, path: Path, is_first_file: bool = False) -> 
         else:
             break
 
+    # Chapter art on its own page before the heading (if available)
+    chapter_image = get_chapter_image(path, image_dir)
+    if chapter_image:
+        add_chapter_image(doc, chapter_image, page_break=True, floating=True)
+        print(f"      art: {chapter_image.name}")
+
     # Section break (odd page) so chapter starts on recto
     section = add_section_break_odd(doc)
     set_header_footer(
         section,
         author="Kerman Gild",
-        title="The Cydonian Oaths",
+        title=book_title,
         show_page=True,
     )
 
@@ -729,7 +1077,31 @@ def render_body_file(doc: Document, path: Path, is_first_file: bool = False) -> 
 # ---------------------------------------------------------------------------
 
 def main():
-    print("Building manuscript document...")
+    book = BOOK
+
+    # Resolve per-book configuration
+    if book == 2:
+        manuscript_dir = MANUSCRIPT_DIR_BOOK2
+        output_file = OUTPUT_FILE_BOOK2
+        source_files = SOURCE_FILES_BOOK2
+        image_dir = IMAGE_DIR_BOOK2
+        book_title = BOOK_TITLES[2]
+        has_front_matter = True
+    else:
+        manuscript_dir = MANUSCRIPT_DIR
+        output_file = OUTPUT_FILE
+        source_files = SOURCE_FILES
+        image_dir = None
+        book_title = BOOK_TITLES[1]
+        has_front_matter = True
+
+    # Env var overrides
+    if os.environ.get("KDP_MANUSCRIPT_DIR"):
+        manuscript_dir = Path(os.environ["KDP_MANUSCRIPT_DIR"])
+    if os.environ.get("KDP_OUTPUT_FILE"):
+        output_file = Path(os.environ["KDP_OUTPUT_FILE"])
+
+    print(f"Building manuscript: Book {book} — {book_title}")
     doc = create_document()
 
     # Global odd/even headers setting
@@ -738,21 +1110,40 @@ def main():
     settings.append(evenOdd)
 
     # ── Front Matter ─────────────────────────────────────────────────────────
-    print("  → Front matter")
-    build_front_matter(doc, MANUSCRIPT_DIR / "BOOK_1_FRONT_MATTER.md")
+    if has_front_matter:
+        front_matter_file = source_files[0]
+        if front_matter_file.exists():
+            print("  → Front matter")
+            build_front_matter(doc, front_matter_file,
+                               book_number=book, book_title=book_title)
+        body_files = source_files[1:]
+    else:
+        body_files = source_files
 
     # ── Body files ───────────────────────────────────────────────────────────
-    body_files = SOURCE_FILES[1:]  # everything after front matter
     for idx, filepath in enumerate(body_files):
         if not filepath.exists():
             print(f"  ⚠  Missing: {filepath.name} — skipping")
             continue
         print(f"  → {filepath.name}")
-        render_body_file(doc, filepath, is_first_file=(idx == 0))
+        render_body_file(doc, filepath, is_first_file=(idx == 0),
+                         image_dir=image_dir, book_title=book_title)
+
+    # ── Maps section (Book 2) ────────────────────────────────────────────────
+    if book == 2 and image_dir:
+        maps_found = [image_dir / m for m in MAP_IMAGES if (image_dir / m).exists()]
+        if maps_found:
+            section = add_section_break_odd(doc)
+            set_header_footer(section, author="Kerman Gild",
+                              title=book_title, show_page=True)
+            add_chapter_heading(doc, "# MAPS")
+            for map_path in maps_found:
+                add_chapter_image(doc, map_path, max_width=4.5, max_height=7.0)
+                print(f"    map: {map_path.name}")
 
     # ── Save ─────────────────────────────────────────────────────────────────
-    doc.save(OUTPUT_FILE)
-    print(f"\n✓  Saved: {OUTPUT_FILE}")
+    doc.save(output_file)
+    print(f"\n✓  Saved: {output_file}")
     print(f"   Word count estimate: check document properties after opening.")
 
 

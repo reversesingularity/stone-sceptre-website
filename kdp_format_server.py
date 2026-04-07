@@ -46,9 +46,9 @@ SERVER_PORT = 8766
 BOOK1_DIR = Path(r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_1")
 BOOK1_OUT = Path(r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\NephilimChronicles_Book1_MANUSCRIPT.docx")
 
-# Book 2 defaults (update paths when Book 2 manuscript is ready)
-BOOK2_DIR = Path(r"C:\Users\cmodi.000\Documents\TNC_Book2\01_MANUSCRIPT\CHAPTERS")
-BOOK2_OUT = Path(r"C:\Users\cmodi.000\Documents\TNC_Book2\NephilimChronicles_Book2_MANUSCRIPT.docx")
+# Book 2 defaults
+BOOK2_DIR = Path(r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_2\CHAPTERS")
+BOOK2_OUT = Path(r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\NephilimChronicles_Book2_MANUSCRIPT.docx")
 
 # Path to build_manuscript.py
 BUILD_SCRIPT = Path(__file__).parent / "build_manuscript.py"
@@ -70,8 +70,10 @@ def run_build(book: int, manuscript_dir: str | None, output_file: str | None) ->
         o_file = output_file or str(BOOK1_OUT)
 
     env = os.environ.copy()
+    env["KDP_BOOK"] = str(book)
     env["KDP_MANUSCRIPT_DIR"] = m_dir
     env["KDP_OUTPUT_FILE"] = o_file
+    env["PYTHONIOENCODING"] = "utf-8"
 
     start = time.time()
     result = subprocess.run(
