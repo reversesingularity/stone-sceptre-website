@@ -134,7 +134,7 @@ This session built on prior Ch13 work committed at `7930ac9`:
 - Timeline date fixes (Oct 2022 → Oct 2024 per four-year forward shift)
 - Watcher hierarchy restructure (Armaros → #2 XO/Consigliere, Penemue → #11, DANEL domain corrected)
 - Three earlier Ch13 surgical fixes (Naamah obsession timeline, line 704 suspense fix, Miriam vulnerability rewrite)
-- Chapter 12 Brennan Webb→McNeeve + Antarctica reference fixes
+- Chapter 12 Brennan Webb→McNeeve canonical name correction (all instances now resolved)
 
 ---
 

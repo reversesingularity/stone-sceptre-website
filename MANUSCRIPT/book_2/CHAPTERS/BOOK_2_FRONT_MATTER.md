@@ -127,13 +127,13 @@ Quotations from *The Book of Jubilees* are taken from the translation by R.H. Ch
 
 &nbsp;
 
-Cover design & illustration: Grok 4.2 Imagine, DALL-E 3 (Microsoft Designer) & GIMP 3.2
+Cover design & illustration: Gemini 3.1 Pro, Grok 4.2 Imagine, DALL-E 3 (Microsoft Designer) & GIMP 3.2
 
 Typography: Kerman Gild
 
 &nbsp;
 
-ISBN 978-1-0671051-3-6 (Paperback)
+ISBN 978-1-0671051-7-4 (Paperback)
 
 ISBN 978-1-0671051-1-2 (Kindle)
 
@@ -165,7 +165,7 @@ Auckland, New Zealand
 
 &nbsp;
 
-*And to Guia —*
+*To Guia —*
 
 *my beautiful wifey — for your unceasing love, support,*
 *and the truly supernatural, endless patience required*
@@ -175,7 +175,7 @@ Auckland, New Zealand
 
 &nbsp;
 
-*And to my Children —*
+*And to my children —*
 
 *Athena and my grandson Richter — my personal chaotic-good entities.*
 *Thank you for making me laugh every single day and for*

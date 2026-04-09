@@ -368,7 +368,7 @@ Brennan held the portable spectrograph within a metre.
 
 His face changed.
 
-In six years of working with Cian mac Morna, Brennan Webb had encountered data that challenged his understanding of physics, engineering, and the fundamental nature of reality on a weekly basis. He had adapted. He had expanded his frameworks. He had built instruments to measure things that his university education said should not exist. He had become, by necessity and by talent, the foremost human expert on Watcher acoustic technology.
+In six years of working with Cian mac Morna, Brennan McNeeve had encountered data that challenged his understanding of physics, engineering, and the fundamental nature of reality on a weekly basis. He had adapted. He had expanded his frameworks. He had built instruments to measure things that his university education said should not exist. He had become, by necessity and by talent, the foremost human expert on Watcher acoustic technology.
 
 The frequency this man was broadcasting was not Watcher technology.
 
@@ -492,7 +492,7 @@ Portable ground-penetrating sonar deployed against the gate's left column. The i
 
 Brennan paused. He looked at the sonar display, then back toward the darkness where House Satar's equipment lay in pieces — the satellite dish cracked from the inside, the snowmobile engine seized, the laptop screen shattered by vibrations that had unmade the crystalline structure of military-grade alloys. All of it destroyed. Every piece of it built on foundations that ran back through shell companies and black programmes to knowledge that had been *given* — given by beings who had no right to give it, to students who had no right to receive it. Watcher-derived. Watcher-tainted. Acoustically marked at a level that no amount of corporate obfuscation could scrub.
 
-His sonar was a Brennan Webb original. Designed, built, and coded by a man from El Paso with a degree from MIT and an engineering philosophy that owed nothing to anything older than Maxwell's equations. Purely human. Uncorrupted.
+His sonar was a Brennan McNeeve original. Designed, built, and coded by a man from El Paso with a degree from MIT and an engineering philosophy that owed nothing to anything older than Maxwell's equations. Purely human. Uncorrupted.
 
 The interdict had not touched it. The interdict had not even *noticed* it.
 

@@ -41,7 +41,7 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 
 ---
 
-### Book 2: THE GATHERING
+### Book 2: THE CAULDRON OF GOD
 
 **Focus:** Cian finds Eden and retrieves BOTH Witnesses — all three emerge together
 
@@ -280,7 +280,7 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 | Cian's role | Second Witness | Guardian of the Witnesses |
 | Second Witness | Cian | Enoch |
 | Enoch's role | Background figure | Active character, Second Witness |
-| Book 2 title | THE SEARCH | THE GATHERING |
+| Book 2 title | THE SEARCH | THE CAULDRON OF GOD |
 | Book 5 title | THE TESTIMONY | THE GLORY |
 | Eden sequence | Cian finds Elijah alone | Cian finds BOTH Witnesses |
 | Ending | Cian as Witness resurrecting | Cian as saint resurrecting with ALL believers |

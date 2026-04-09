@@ -1,310 +1,506 @@
-# THE NEPHILIM CHRONICLES — BOOK 2
-## n8n + Ollama Agent Wiring Architecture
-*Team Book Two (Timbuktu) | DESKTOP-SINGULA Integration Plan*
+# THE NEPHILIM CHRONICLES — BOOKS 3–5
+## n8n + Ollama + Nemotron Agent Wiring Architecture v2.0
+*DESKTOP-SINGULA | Creative Swarm v2.0 | 12-Agent HAWK Topology*
+*Supersedes: N8N_AGENT_WIRING_v1.0 (archived to ARCHIVE/superseded/)*
 
 ---
 
-## THE CORE MAPPING
+## ARCHITECTURE OVERVIEW
 
-Your 7-agent Cowork framework maps directly to n8n workflows.
-Every Cowork agent = one n8n workflow with an Ollama node at its heart.
+The v2.0 Creative Swarm uses a **HAWK 5-layer control hierarchy** with 12 agents
+split between local Ollama (fast scene-level tasks) and NVIDIA NIM Nemotron-3 Super
+(long-horizon cross-book synthesis). All inter-agent traffic routes through n8n.
 
 ```
-CURRENT (Cowork)                    TARGET (n8n + Ollama)
+HAWK LAYER STACK
 ─────────────────────────────────────────────────────────────────
-Agent 1 — Content Creator           Claude.ai (stays here — no change)
-Agent 2 — Drift Manager          →  n8n Workflow: DRIFT_MANAGER
-Agent 3 — Constitution Updater   →  n8n Workflow: CONSTITUTION_UPDATER  
-Agent 4 — Reader Reaction Matrix →  n8n Workflow: READER_MATRIX
-Agent 5 — Dopamine Ladder        →  n8n Workflow: DOPAMINE_LADDER
-Agent 6 — Image Prompt Designer  →  n8n Workflow: IMAGE_PROMPTS
-Agent 7 — KDP Formatter          →  n8n Workflow: KDP_FORMATTER
-                                     (Python script triggered by n8n)
+Layer 0  USER (Chris) — unrestricted authority, HITL gates
+Layer 1  n8n WORKFLOW ORCHESTRATOR — webhook router, job scheduler
+Layer 2  AGENT_0 (Conductor) — Nemotron, context arbiter, dispatches jobs
+Layer 3  WORKER AGENTS 2–11 — Ollama or Nemotron per task profile
+Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8768)
+─────────────────────────────────────────────────────────────────
 ```
 
 ---
 
-## WHY THIS IS BETTER THAN COWORK ALONE
+## 12-AGENT REGISTRY
 
-| Factor | Cowork | n8n + Ollama |
-|--------|--------|--------------|
-| Cost | Pro subscription usage | Zero — local GPU |
-| Trigger | Manual (you invoke) | Automatic (file watcher) |
-| Speed | API latency | RTX 3080 — sub-second |
-| Parallelism | One agent at a time | Multiple agents simultaneously |
-| Qdrant access | None | Native — canon search built in |
-| Logging | Manual | Automatic execution history |
-| Scheduling | Manual | Cron — run nightly, etc. |
-
----
-
-## STEP 1 — VOLUME MOUNT (PREREQUISITE)
-
-n8n runs in Docker and needs access to your TNC_Book2 folder.
-Edit: `F:\Projects-cmodi.000\self-hosted-ai-starter-kit\docker-compose.yml`
-
-Find the n8n service and add a volume:
-```yaml
-  n8n:
-    volumes:
-      - n8n_storage:/home/node/.n8n
-      - C:/Users/cmodi.000/Documents/TNC_Book2:/data/TNC_Book2   # ADD THIS
-```
-
-This maps your Windows TNC_Book2 folder into the n8n container at /data/TNC_Book2.
-All n8n file operations will use the /data/TNC_Book2 path internally.
-
-After editing, restart the stack:
-```powershell
-docker compose --profile gpu-nvidia down
-docker compose --profile gpu-nvidia up -d
-```
+| ID | Name | Model | Role |
+|----|------|-------|------|
+| AGENT_0 | Conductor | Nemotron-3 Super | Orchestrates all jobs, final authority below AUTHOR |
+| AGENT_2 | Drift Manager | Nemotron-3 Super | Cross-book drift detection, canon semantic search |
+| AGENT_3 | Constitution Updater | Nemotron-3 Super | SSOT / dossier updates via CRDT proposals |
+| AGENT_4 | Reader Reaction Matrix | Ollama llama3.1 | Scene-level scoring matrix |
+| AGENT_5 | Dopamine Ladder | Ollama llama3.1 | Hook/reward cycle mapping |
+| AGENT_6 | Image Prompt Designer | Ollama mistral | Visual direction briefs |
+| AGENT_7 | KDP Formatter | Python (8766) | Manuscript assembly → .docx |
+| AGENT_8 | Story Prototype Extractor | Nemotron-3 Super | Role/Plot graph extraction |
+| AGENT_9 | Foreshadow Planter | Nemotron-3 Super | Unplanted effect detection |
+| AGENT_10 | Cross-Book Auditor | Nemotron-3 Super | Nightly Books 3+4+5 continuity |
+| AGENT_11 | SELF-REFINE Critic | Ollama mistral | Scene draft scoring + critique |
+| NEMOCLAW | Background Daemon | asyncio | File watcher, heartbeat, CRDT collector |
 
 ---
 
-## STEP 2 — THE 6 n8n WORKFLOWS
+## SERVICES & PORTS
+
+| Service | Port | Script | Purpose |
+|---------|------|--------|---------|
+| n8n workflow engine | 5678 | docker | Orchestration backbone |
+| Qdrant vector store | 6333 | docker | 5 collections (see below) |
+| Ollama LLM server | 11434 | ollama | Local GPU inference |
+| Canon Search API | 8765 | `canon_search_api.py` | Semantic SSOT search |
+| KDP Format Server | 8766 | `kdp_format_server.py` | Manuscript → .docx assembly |
+| Story Prototype API | 8767 | `update_story_prototype.py` | Role/Plot graph extraction |
+| Nemotron Tool Router | 8768 | `nemotron_tool_router.py` | NVIDIA NIM → OpenRouter → Ollama |
 
 ---
 
-### WORKFLOW 1 — DRIFT MANAGER (Agent 2)
-**Trigger:** Manual webhook OR file watcher (chapter saved)
-**Model:** mistral (strong at analytical/comparison tasks)
-**Runtime:** ~45 seconds per chapter on RTX 3080
+## QDRANT COLLECTIONS (5 total)
+
+| Collection | Purpose | Key Payload Fields |
+|------------|---------|-------------------|
+| `nephilim_chronicles` | Legacy flat canon (Books 1–2) | category, entity_type, source_file |
+| `tnc_episodes` | Episodic Memory — chapter summaries | book, chapter, excerpt, char_count |
+| `tnc_personas` | Persona Memory — per-character state | character_id, last_seen_chapter |
+| `tnc_role_graph` | Role Graph — entity-relation-entity triples | subject, predicate, object, locked |
+| `tnc_plot_graph` | Plot Graph — causal event chains | cause, effect, book, planted |
+
+Run `python adamem_initializer.py --seed-only` to initialise the tier collections
+with 46 locked canon triples. Run `--migrate-only` to port legacy points.
+
+---
+
+## NEMOTRON ROUTING POLICY
+
+All Agents 0, 2, 3, 8, 9, 10 send requests to **port 8768** (Nemotron Tool Router).
+The router implements a 3-tier cascade:
 
 ```
-[Webhook / File Trigger]
+1. PRIMARY:   NVIDIA NIM  https://integrate.api.nvidia.com/v1
+              Model: nvidia/nemotron-3-8b-base-4k (or configured model)
+              Context window: 1,000,000 tokens
+              Token budget cap: 900,000 (10% headroom enforced by router)
+
+2. FALLBACK1: OpenRouter  https://openrouter.ai/api/v1
+              Model: nvidia/nemotron-4-340b-instruct
+
+3. FALLBACK2: Ollama local  http://localhost:11434
+              Model: llama3.1
+              Context cap: ~128K tokens
+```
+
+Set `NVIDIA_API_KEY` and `OPENROUTER_API_KEY` in `.env` at project root.
+
+---
+
+## THE 10 n8n WORKFLOWS
+
+---
+
+### WORKFLOW 1 — SWARM DISPATCH (Master Router)
+**Webhook:** `POST /webhook/swarm-dispatch`
+**Trigger:** Any agent or author initiating a new job
+**Purpose:** Classify job type, route to correct workflow
+
+```
+[Webhook] ← POST { "job_type": "analyse_chapter|draft_scene|audit|...",
+                   "book": 3, "chapter": 7, "payload": {...} }
     ↓
-[Read File Node] → /data/TNC_Book2/00_CANON/CONSTITUTION.md
+[Switch Node] → job_type
+  ├── "analyse_chapter"  → trigger Workflows 2, 5, 6, 7 in parallel
+  ├── "extract_triples"  → POST http://localhost:8767/extract-triples
+  ├── "drift_check"      → trigger Workflow 2
+  ├── "constitution_update" → trigger Workflow 4 (CRDT)
+  ├── "kdp_assemble"     → POST http://localhost:8766/kdp-format
+  └── "nightly_audit"    → trigger Workflow 10
     ↓
-[Read File Node] → /data/TNC_Book2/00_CANON/CHARACTER_DOSSIERS.md
+[Merge results]
     ↓
-[Read File Node] → /data/TNC_Book2/01_MANUSCRIPT/CHAPTERS/CHAPTER_XX.md
-    ↓
-[Ollama Chat Node]
-  model: mistral
-  system: [DRIFT MANAGER PROMPT from TNC_Book2_Cowork_Setup.md]
-  user: "Analyse chapter {{$json.chapter_number}} for drift..."
-    ↓
-[Append File Node] → /data/TNC_Book2/00_CANON/DRIFT_LOG.md
-    ↓
-[Optional: Gmail/Slack notify] → "Drift report ready for Chapter X"
+[Log to LOGS/workflow_runs.jsonl]
 ```
 
 ---
 
-### WORKFLOW 2 — CONSTITUTION UPDATER (Agent 3)
-**Trigger:** File created in 05_SESSION_NOTES/
-**Model:** mistral
-**Runtime:** ~30 seconds
+### WORKFLOW 2 — DRIFT MANAGER (Agent 2 — Nemotron)
+**Webhook:** `POST /webhook/analyse-chapter`  ← also receives from Nemoclaw file events
+**Model:** Nemotron via port 8768
+**Runtime:** ~60s
 
 ```
-[File Watcher] → /data/TNC_Book2/05_SESSION_NOTES/*.md
+[Webhook] ← POST { "book": 3, "chapter": "CHAPTER_07.md", "fast_mode": false }
     ↓
-[Read New Session Note]
+[HTTP Request] → GET http://localhost:8765/search
+  query: "locked canon timeline characters abilities"
+  returns: top 20 relevant SSOT chunks
     ↓
-[Code Node] → Extract all "### NEW CANON" blocks via regex
+[Read File] → MANUSCRIPT/book_3/CHAPTER_07.md
     ↓
-[IF Node] → Any new canon found?
-  YES ↓                          NO ↓
-[Ollama Chat Node]              [Stop]
-  model: mistral
-  system: [CONSTITUTION UPDATER PROMPT]
-  user: "Integrate these canon decisions: {{$json.canon_items}}"
+[HTTP Request] → POST http://localhost:8768/route
+  body: {
+    "task_type": "drift_analysis",
+    "system": "<DRIFT MANAGER SYSTEM PROMPT>",
+    "prompt": "Canon context:\n{{ssot_chunks}}\n\nChapter:\n{{chapter_text}}"
+  }
     ↓
-[Read File] → CONSTITUTION.md
-[Ollama] → Produce updated section
-[Write File] → CONSTITUTION.md (updated)
+[Code Node] → Parse drift findings (JSON)
     ↓
-[Append to session note] → [INTEGRATED — {{$today}}]
+[IF Node] → critical_violations > 0?
+  YES → [n8n Desktop Notify] "CRITICAL DRIFT in Book 3 Ch 7"
+  BOTH → [Append File] → LOGS/DRIFT_LOG.md
+```
+
+**Drift Manager System Prompt:**
+```
+You are the Drift Manager for THE NEPHILIM CHRONICLES. Your jurisdiction spans Books 3–5.
+Check the chapter strictly against the provided canon context.
+Report violations as JSON: [{severity, category, passage, canon_ref, correction}]
+Categories: CANON_CONTRADICTION, CHARACTER_STATE, TIMELINE_ERROR, ACOUSTIC_PARADIGM,
+            THEOLOGY_DRIFT, CONTINUITY_GAP
 ```
 
 ---
 
-### WORKFLOW 3 — READER REACTION MATRIX (Agent 4)
-**Trigger:** Manual webhook with chapter number input
-**Model:** llama3.1 (better long-form analytical reasoning)
-**Runtime:** ~60-90 seconds per chapter
+### WORKFLOW 3 — STORY PROTOTYPE EXTRACTOR (Agent 8 — Nemotron)
+**Webhook:** `POST /webhook/extract-story-prototype`
+**Auto-triggered by:** Nemoclaw daemon on file change
+**Model:** Nemotron via port 8767 → 8768
 
 ```
-[Webhook] ← POST { "chapter": "CHAPTER_03", "run_type": "full" }
+[Webhook or File Event from Nemoclaw]
+  body: { "book": 3, "chapter_path": "MANUSCRIPT/book_3/CHAPTER_07.md" }
     ↓
-[Read File] → Chapter file
+[Read File] → Chapter text
     ↓
-[Code Node] → Split chapter by scene breaks (✦ or --- markers)
+[HTTP Request] → POST http://localhost:8767/extract-triples
+  body: { "chapter_text": "...", "book_num": 3, "chapter_num": 7 }
+    ↓
+Returns: { "role_triples": [...], "plot_events": [...],
+           "contradictions": [...], "triples_saved": N }
+    ↓
+[IF Node] → contradictions.length > 0?
+  YES → [n8n Notify] "Story Prototype: N contradictions in Book 3 Ch 7"
+    ↓
+[HTTP Request] → GET http://localhost:8767/foreshadow-brief?book=3&chapter=7
+  Returns: unplanted effects needing setup
+    ↓
+[Write File] → 02_ANALYSIS/FORESHADOW_BRIEF_B3_CH07.md
+```
+
+---
+
+### WORKFLOW 4 — CONSTITUTION UPDATER / CRDT MERGE (Agent 3 — Nemotron)
+**Webhook:** `POST /webhook/constitution-update`
+**Trigger:** Nemoclaw detecting pending CRDT proposals
+**Model:** Python crdt_merge.py (no LLM needed for merge logic)
+
+```
+[Webhook] ← POST { "proposals_dir": "STAGING/crdt_proposals/", "count": N }
+    ↓
+[Execute Command Node] → python crdt_merge.py --staging-dir STAGING/crdt_proposals/ --verbose
+    ↓
+[Read File] → ARCHIVE/session_logs/CONSTITUTION_CHANGES.md (last merge log)
+    ↓
+[IF Node] → conflicts escalated to TODO.md?
+  YES → [n8n Notify] "CRDT Conflict in SSOT — author review needed in TODO.md"
+  NO →  [n8n Notify] "SSOT updated: N proposals merged"
+    ↓
+[Update n8n variable] → last_ssot_update timestamp
+```
+
+**To submit a CRDT proposal from any script:**
+```python
+from crdt_merge import write_proposal
+write_proposal(
+    agent_id="AGENT_3",
+    section="§7.5",
+    operation="APPEND",
+    content="Cian discovers the Third Seal in Connemara...",
+    justification="New plot event from Book 3 Ch 7 draft"
+)
+```
+
+---
+
+### WORKFLOW 5 — READER REACTION MATRIX (Agent 4 — Ollama)
+**Webhook:** `POST /webhook/analyse-chapter`  ← runs in parallel with WF2, 6, 7
+**Model:** Ollama llama3.1
+
+```
+[Webhook]
+    ↓
+[Read File] → Chapter
+    ↓
+[Code Node] → Split by scene breaks (✦ or --- markers)
     ↓
 [Loop Over Scenes]
+  [Ollama Chat Node]
+    model: llama3.1
+    system: [READER MATRIX PROMPT]
+    user: "Score this scene: {{scene_text}}"
     ↓
-[Ollama Chat Node] (per scene)
-  model: llama3.1
-  system: [READER MATRIX PROMPT]
-  user: "Score this scene: {{$json.scene_text}}"
+[Aggregate]
     ↓
-[Aggregate Results]
-    ↓
-[Code Node] → Format as CSV/JSON
-    ↓
-[Write File] → /data/TNC_Book2/02_ANALYSIS/REPORTS/matrix_ch{{chapter}}.json
-    ↓
-[HTTP Request] → Python script to convert JSON → XLSX
-    (or: direct xlsx write via python-docx equivalent)
+[Write File] → 02_ANALYSIS/REPORTS/matrix_B{{book}}_CH{{chapter}}.json
 ```
 
 ---
 
-### WORKFLOW 4 — DOPAMINE LADDER (Agent 5)
-**Trigger:** Manual webhook (run alongside Reader Matrix)
-**Model:** llama3.1
-**Runtime:** ~60 seconds per chapter
+### WORKFLOW 6 — DOPAMINE LADDER (Agent 5 — Ollama)
+**Webhook:** `POST /webhook/analyse-chapter`  ← runs in parallel
+**Model:** Ollama llama3.1
 
 ```
-[Webhook] ← POST { "chapter": "CHAPTER_03" }
-    ↓
-[Read File] → Chapter file
+[Webhook]
     ↓
 [Ollama Chat Node]
   model: llama3.1
   system: [DOPAMINE LADDER PROMPT]
-  user: "Map all hooks and reward cycles in: {{$json.chapter_text}}"
+  user: "Map all hooks and reward cycles in: {{chapter_text}}"
     ↓
-[Code Node] → Parse hook map from response
-    ↓
-[Write File] → /data/TNC_Book2/02_ANALYSIS/REPORTS/dopamine_ch{{chapter}}.json
-    ↓
-[HTTP Request] → Python XLSX writer
+[Write File] → 02_ANALYSIS/REPORTS/dopamine_B{{book}}_CH{{chapter}}.json
 ```
-
-**Note:** Workflows 3 and 4 can be chained — trigger both from one webhook
-for a combined "analysis run" per chapter.
 
 ---
 
-### WORKFLOW 5 — IMAGE PROMPT DESIGNER (Agent 6)
-**Trigger:** Manual webhook with chapter input
-**Model:** mistral (creative/descriptive tasks)
-**Runtime:** ~20 seconds per chapter
+### WORKFLOW 7 — IMAGE PROMPT DESIGNER (Agent 6 — Ollama)
+**Webhook:** `POST /webhook/analyse-chapter`  ← runs in parallel
+**Model:** Ollama mistral
 
 ```
-[Webhook] ← POST { "chapter": "CHAPTER_03" }
+[Webhook]
     ↓
-[Read File] → Chapter file
-    ↓
-[Read File] → /data/TNC_Book2/00_CANON/VISUAL_BIBLE.md (create this)
+[Read File] → REFERENCE/VISUAL_DIRECTION.md
     ↓
 [Ollama Chat Node]
   model: mistral
-  system: [IMAGE PROMPT DESIGNER system from Cowork setup]
-  user: "Generate image prompt for Chapter {{chapter}}"
+  system: "You are the Image Prompt Designer for TNC. Visual register: cinematic, baroque..."
+  user: "Chapter text: {{chapter_text}}\nVisual guidelines: {{visual_bible}}"
     ↓
-[Append File] → /data/TNC_Book2/03_IMAGE_PROMPTS/CHAPTER_PROMPTS.md
+[Append File] → 03_IMAGE_PROMPTS/BOOK_{{book}}_PROMPTS.md
 ```
 
 ---
 
-### WORKFLOW 6 — KDP FORMATTER (Agent 7)
-**Trigger:** Manual webhook ("book is done — assemble")
-**Runtime:** Python script handles formatting; Ollama not needed here
+### WORKFLOW 8 — SELF-REFINE LOOP (Agent 11 — Ollama)
+**Webhook:** `POST /webhook/refine-scene`
+**Model:** Ollama mistral (scorer) + llama3.1 (revisor) + Nemotron (revisor if available)
 
 ```
-[Webhook] ← POST { "action": "assemble_manuscript" }
+[Webhook] ← POST { "draft_path": "MANUSCRIPT/book_3/CHAPTER_07.md",
+                    "book": 3, "chapter": 7,
+                    "author_notes": "...", "max_iter": 3, "threshold": 85 }
+    ↓
+[Execute Command Node] → python self_refine_loop.py
+    --input {{draft_path}} --book {{book}} --chapter {{chapter}}
+    --max-iter {{max_iter}} --threshold {{threshold}}
+    --output MANUSCRIPT/book_3/CHAPTER_07_refined.md
+    ↓
+[Read File] → *.refine_report.json
+    ↓
+[IF Node] → passed == true?
+  YES → [n8n Notify] "Refinement PASS — score {{final_score}}/100"
+  NO  → [n8n Notify] "BEST-EFFORT — score {{final_score}} — author review advised"
+    ↓
+[Append File] → LOGS/refine_history.jsonl
+```
+
+**SELF-REFINE Rubric (11 criteria, total 100 points):**
+
+| Criterion | Weight |
+|-----------|--------|
+| Canon Fidelity | 25 |
+| Theological Consistency | 15 |
+| Character Voice Accuracy | 12 |
+| Acoustic Paradigm Adherence | 10 |
+| Timeline Consistency | 8 |
+| Plot Coherence | 8 |
+| Prose Quality | 8 |
+| Emotional Resonance | 5 |
+| Pacing & Structure | 5 |
+| Foreshadowing Integration | 2 |
+| Originality | 2 |
+
+---
+
+### WORKFLOW 9 — KDP ASSEMBLER (Agent 7 — Python)
+**Webhook:** `POST /webhook/kdp-assemble`
+
+```
+[Webhook] ← POST { "book": 3 }
     ↓
 [HTTP Request] → POST http://localhost:8766/kdp-format
-    (a small Python server we create — similar to canon_search_api.py)
+  body: { "book_num": 3 }
     ↓
-Python script:
-  - Reads all CHAPTERS/*.md in order
-  - Uses python-docx to assemble MANUSCRIPT_DRAFT.docx
-  - Applies Book 1 KDP specs (margins, fonts, headers, etc.)
-  - Writes to /data/TNC_Book2/04_KDP/MANUSCRIPT_DRAFT.docx
-  - Generates KDP_CHECKLIST.md
+Returns: { "output_path": "...", "chapter_count": N, "word_count": N }
     ↓
-[Write File] → Confirmation to n8n
-    ↓
-[Desktop notification] → "KDP manuscript assembled"
+[n8n Notify] → "Book {{book}} .docx assembled: {{word_count}} words"
 ```
 
 ---
 
-## STEP 3 — THE MASTER ANALYSIS WEBHOOK
-
-One n8n workflow to rule them all — trigger all analysis agents at once:
-
-```
-POST http://localhost:5678/webhook/analyse-chapter
-Body: { "chapter": "CHAPTER_03" }
-
-    ↓ Triggers simultaneously:
-    ├── DRIFT MANAGER (compare against canon)
-    ├── READER MATRIX (score scenes)
-    ├── DOPAMINE LADDER (map hooks)
-    └── IMAGE PROMPTS (generate visual prompt)
-
-    ↓ When all complete:
-    └── Summary email/notification with all 4 outputs
-```
-
----
-
-## STEP 4 — QDRANT INTEGRATION (The Upgrade)
-
-This is what separates your setup from plain Cowork.
-The Drift Manager and Constitution Updater can query Qdrant 
-BEFORE calling Ollama — giving them semantic canon memory:
+### WORKFLOW 10 — NIGHTLY CROSS-BOOK AUDIT (Agent 10 — Nemotron)
+**Cron Trigger:** Daily at 02:00 AM
+**Webhook:** `POST /webhook/nightly-continuity-prep`  ← Nemoclaw pre-loads at 01:45
 
 ```
-[Chapter text arrives]
+[Cron Trigger: 02:00]  OR  [Webhook from Nemoclaw at 01:45]
     ↓
-[HTTP Request] → POST http://qdrant:6333/collections/nephilim_chronicles/points/search
-  body: { "vector": [embed chapter key phrases via Ollama first],
-          "limit": 10,
-          "filter": { "category": "canon" } }
+[Execute Command Node] → python cross_book_audit.py --books 3,4,5
     ↓
-[Returns top 10 most relevant canon chunks]
+[Read File] → 02_ANALYSIS/NIGHTLY_AUDIT_{{today}}.md
     ↓
-[Ollama Chat Node]
-  context: relevant canon chunks from Qdrant
-  user: "Now check this chapter for drift against the above canon..."
+[Code Node] → Parse critical_violations count
+    ↓
+[IF Node] → critical_violations > 0?
+  YES → [n8n Notify — HIGH PRIORITY] "CRITICAL: N violations — review audit"
+  NO  → [n8n Notify] "Nightly audit clean: {{violation_count}} minor"
+    ↓
+[Append File] → LOGS/AUDIT_SUMMARY.log
 ```
 
-This means your Drift Manager has seen the ENTIRE canon database,
-not just the files you happened to load. Far more thorough.
+---
+
+## NEMOCLAW DAEMON INTEGRATION
+
+The Nemoclaw daemon (`nemoclaw_daemon.py`) runs outside n8n as a persistent
+background process. It calls n8n webhooks reactively and on schedule.
+
+```
+NEMOCLAW DAEMON (always running on DESKTOP-SINGULA)
+├── Every 60s:   Scan MANUSCRIPT/book_3,4,5/ for file changes
+│     → On change: POST /webhook/nemoclaw-file-event
+│                  Auto-vectorize to tnc_episodes (Ollama embed + Qdrant upsert)
+│                  POST /webhook/extract-story-prototype (Agent 8)
+├── Every 5min:  POST /webhook/constitution-update if CRDT proposals pending
+├── Every 5min:  GET  all 7 services /health → log to LOGS/DAEMON_HEALTH.log
+├── Every 30min: POST /webhook/analyse-chapter (drift fast-mode) if recent chapter
+├── At 01:45:    POST /webhook/nightly-continuity-prep
+└── On SIGTERM:  Graceful shutdown + in-flight task completion
+```
+
+**Start:**
+```powershell
+python nemoclaw_daemon.py --log-level INFO
+```
 
 ---
 
-## RECOMMENDED BUILD ORDER
+## CRDT PROPOSAL FLOW (End-to-End)
 
-**Week 1 — Foundation:**
-1. Add TNC_Book2 volume mount to docker-compose.yml
-2. Build Workflow 2 (Constitution Updater) — simplest, highest daily value
-3. Build Workflow 1 (Drift Manager) — most important quality gate
-
-**Week 2 — Analysis:**
-4. Build Workflow 3 + 4 (Reader Matrix + Dopamine Ladder) as linked pair
-5. Add Qdrant context injection to Drift Manager
-
-**Week 3 — Production:**
-6. Build Workflow 5 (Image Prompts)
-7. Build the KDP Python server + Workflow 6
-
-**Week 4 — Polish:**
-8. Build Master Analysis Webhook (trigger all at once)
-9. Add email/desktop notifications
-10. Test full pipeline on Chapters 1-3
-
----
-
-## WHAT THIS MEANS FOR YOUR WORKFLOW
-
-**Before (Cowork):**
-You write a chapter → manually open Cowork → paste instructions → 
-wait for response → manually copy output to files → repeat for each agent
-
-**After (n8n + Ollama):**
-You write a chapter → save the file → POST one webhook →
-four analysis reports appear in your project folders automatically →
-Drift log updated → Canon integrated → Image prompt ready →
-All processed on your RTX 3080 → zero API cost → zero manual steps
+```
+Any Agent or script
+    │  from crdt_merge import write_proposal
+    │  write_proposal(agent_id, section, operation, content, justification)
+    ↓
+STAGING/crdt_proposals/proposal_AGENT_X_<timestamp>.json
+    ↓
+Nemoclaw (5min scan) → POST /webhook/constitution-update
+    ↓
+n8n Workflow 4 → python crdt_merge.py
+    ↓
+crdt_merge.py pipeline:
+  1. Load all proposals from staging dir
+  2. validate_proposal() — deontic + locked section check
+  3. classify_conflicts() → safe / additive / conflict / deprecate
+  4. CONFLICT → escalate_to_author() → TODO.md + n8n notify
+  5. SAFE/ADDITIVE → atomic_write() to Canon/SSOT_v3_MASTER.md
+     (temp → validate word+heading counts → rename → archive old version)
+  6. Log to ARCHIVE/session_logs/CONSTITUTION_CHANGES.md
+```
 
 ---
 
-*Architecture Version 1.0 — DESKTOP-SINGULA | February 2026*
-*Ready for n8n workflow implementation*
+## GOVERNANCE INTEGRATION
+
+```powershell
+# Test deontic permissions
+python governance.py --check-permission AGENT_2 MODIFY   # → DENIED
+python governance.py --check-permission AGENT_3 MODIFY   # → PERMITTED
+python governance.py --check-permission AGENT_0 DEPRECATE # → PERMITTED
+
+# PIMMUR compliance check on a prompt file
+python governance.py --check-prompt MANUSCRIPT/book_3/CHAPTER_07.md
+
+# View audit log
+python governance.py --show-audit --last 30
+python governance.py --show-audit --agent AGENT_3
+```
+
+**Log files:**
+- `LOGS/agent_audit.jsonl` — append-only tool invocation audit trail
+- `LOGS/pimmur_checks.jsonl` — PIMMUR compliance scan results
+- `TODO.md` — HITL escalations written here automatically
+
+**Deontic Permission Table:**
+
+| Agent | APPEND | MODIFY | DEPRECATE | DELETE |
+|-------|--------|--------|-----------|--------|
+| AGENT_0 (Conductor) | ✓ | ✓ | ✓ | ✗ |
+| AGENT_2 (Drift Manager) | ✓ | ✗ | ✗ | ✗ |
+| AGENT_3 (Constitution Updater) | ✓ | ✓ | ✓ | ✗ |
+| AGENT_8–11 (Workers) | ✓ | ✗ | ✗ | ✗ |
+| AUTHOR | ✓ | ✓ | ✓ | ✓ |
+
+**Locked SSOT sections (no agent may modify — ever):**
+`§1, §2, §3, §4.2, §5, §9.1`
+
+---
+
+## COMPLETE WEBHOOK REFERENCE
+
+| Webhook URL | Triggered by | Fires |
+|-------------|-------------|-------|
+| `POST /webhook/swarm-dispatch` | Any agent or author | Master router |
+| `POST /webhook/analyse-chapter` | Author, Nemoclaw | WF2+5+6+7 in parallel |
+| `POST /webhook/nemoclaw-file-event` | Nemoclaw daemon | File ingestion |
+| `POST /webhook/extract-story-prototype` | Nemoclaw, author | WF3 Role/Plot graph |
+| `POST /webhook/constitution-update` | Nemoclaw, author | WF4 CRDT merge |
+| `POST /webhook/refine-scene` | Author | WF8 SELF-REFINE |
+| `POST /webhook/kdp-assemble` | Author | WF9 KDP build |
+| `POST /webhook/nightly-continuity-prep` | Cron 02:00, Nemoclaw 01:45 | WF10 audit |
+
+---
+
+## STARTUP SEQUENCE (Full v2.0 Stack)
+
+```powershell
+# 1. Start infrastructure (if not already running)
+docker compose --profile gpu-nvidia up -d
+
+# 2. Start Python services
+Start-Job { python F:\...\canon_search_api.py }         # port 8765
+Start-Job { python F:\...\kdp_format_server.py }        # port 8766
+Start-Job { python F:\...\update_story_prototype.py }   # port 8767
+Start-Job { python F:\...\nemotron_tool_router.py }     # port 8768
+Start-Job { python F:\...\nemoclaw_daemon.py }          # background warden
+
+# 3. Verify all services
+Invoke-WebRequest http://localhost:8768/health | ConvertFrom-Json
+
+# 4. Initialise AdaMem (first time only)
+python adamem_initializer.py --seed-only --verbose
+```
+
+---
+
+## WHAT CHANGED FROM v1.0
+
+| v1.0 | v2.0 |
+|------|------|
+| 7 agents (Cowork frame) | 12 agents (HAWK topology) |
+| All Ollama (mistral/llama3.1) | Nemotron-3 Super for Agents 0,2,3,8,9,10 |
+| Flat `nephilim_chronicles` collection | 4 AdaMem tier collections + legacy |
+| No Story Prototype | Role Graph + Plot Graph dual-knowledge system |
+| Manual CRDT / no merge safety | Full CRDT staging + atomic write + conflict escalation |
+| No background warden | Nemoclaw daemon (24/7 file watch + health checks) |
+| No scene refinement | SELF-REFINE loop (11-criterion weighted rubric) |
+| No governance layer | Audit log + deontic permissions + PIMMUR compliance |
+| 6 n8n workflows | 10 n8n workflows |
+| Ports 8765–8766 | Ports 8765–8768 |
+
+---
+
+*Architecture Version 2.0 — DESKTOP-SINGULA | The Nephilim Chronicles Books 3–5*
+*12-Agent HAWK Topology | AdaMem 4-Tier | Story Prototype | CRDT | SELF-REFINE | Governance*

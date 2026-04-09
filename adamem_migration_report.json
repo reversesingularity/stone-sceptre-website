@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-04-09T15:49:38.444791",
+  "mode": "live",
+  "source_collection": "nephilim_chronicles",
+  "total_source_points": 52781,
+  "processed": 52781,
+  "tier_counts": {
+    "tnc_episodes": 1751,
+    "tnc_personas": 460,
+    "tnc_role_graph": 0,
+    "tnc_plot_graph": 0,
+    "unclassified": 50570
+  },
+  "migrated_total": 2211,
+  "migration_pct": 4.19
+}

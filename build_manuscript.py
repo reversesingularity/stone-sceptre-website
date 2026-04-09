@@ -339,6 +339,15 @@ def apply_inline(para, text: str, base_bold=False, base_italic=False):
         run.italic      = italic
 
 
+# Global bookmark ID counter — guarantees unique w:id for every bookmark in the document
+_bookmark_id_counter = 0
+
+def _next_bookmark_id() -> str:
+    global _bookmark_id_counter
+    _bookmark_id_counter += 1
+    return str(_bookmark_id_counter)
+
+
 # ---------------------------------------------------------------------------
 # PARAGRAPH FACTORIES
 # ---------------------------------------------------------------------------
@@ -370,18 +379,20 @@ def add_centered(doc: Document, text: str, size: int = 11, bold: bool = False, i
 
 
 def _make_bookmark_id(text: str) -> str:
-    """Turn heading text into a stable, legal Word bookmark name."""
+    """Turn heading text into a stable, legal Word bookmark name (max 40 chars)."""
     # Normalize to uppercase, strip to alphanumeric + underscores
     clean = re.sub(r"[^A-Za-z0-9]+", "_", text.upper()).strip("_")
-    return f"_TOC_{clean}"
+    name = f"_TOC_{clean}"
+    if len(name) > 40:
+        name = name[:40]
+    return name
 
 
 def _add_bookmark(paragraph, name: str):
     """Wrap the entire run content of a paragraph in a bookmark."""
     p_elem = paragraph._p
     bs = OxmlElement("w:bookmarkStart")
-    # Use a simple hash for the bookmark ID (must be unique integer)
-    bm_id = str(abs(hash(name)) % 999999)
+    bm_id = _next_bookmark_id()
     bs.set(qn("w:id"), bm_id)
     bs.set(qn("w:name"), name)
     # Insert bookmarkStart before first run
@@ -467,17 +478,17 @@ def add_chapter_heading(doc: Document, chapter_line: str, subtitle_line: str = "
     run.font.size  = Pt(20)
     run.bold       = True
 
-    # Add bookmark for TOC PAGEREF
-    bm_name = _make_bookmark_id(heading_text)
-    _add_bookmark(h, bm_name)
-
+    # Add bookmark for TOC PAGEREF — only ONE bookmark per heading to avoid
+    # nested bookmarks that KDP's converter cannot resolve
     if subtitle_line:
         sub_text = re.sub(r"^#+\s*", "", subtitle_line).strip()
         sub_text = re.sub(r"\*+", "", sub_text)
-        # Also bookmark with heading + subtitle combined (matches TOC entry format)
-        combined_bm = _make_bookmark_id(f"{heading_text} {sub_text}")
-        if combined_bm != bm_name:
-            _add_bookmark(h, combined_bm)
+        bm_name = _make_bookmark_id(f"{heading_text} {sub_text}")
+    else:
+        bm_name = _make_bookmark_id(heading_text)
+    _add_bookmark(h, bm_name)
+
+    if subtitle_line:
         s = doc.add_paragraph()
         s.alignment = WD_ALIGN_PARAGRAPH.CENTER
         s.paragraph_format.space_before = Pt(0)
@@ -892,7 +903,7 @@ def build_front_matter(doc: Document, path: Path,
                 tab_run = p.add_run("\t")
                 tab_run.font.name = BODY_FONT
                 tab_run.font.size = Pt(11)
-                # PAGEREF field
+                # PAGEREF field — updates to real page numbers via Ctrl+A, F9 in Word
                 _add_pageref_field(p, bm_name)
 
         elif "PREFACE" in page_name:
@@ -1104,10 +1115,12 @@ def main():
     print(f"Building manuscript: Book {book} — {book_title}")
     doc = create_document()
 
-    # Global odd/even headers setting
+    # Global odd/even headers + mirror margins (gutter on binding side for all pages)
     settings = doc.settings.element
     evenOdd = OxmlElement("w:evenAndOddHeaders")
     settings.append(evenOdd)
+    mirror = OxmlElement("w:mirrorMargins")
+    settings.append(mirror)
 
     # ── Front Matter ─────────────────────────────────────────────────────────
     if has_front_matter:

@@ -219,7 +219,7 @@ Cian mac Morna: operational authority. Unreachable.
 
 James Madigan: military second-in-command. Unreachable.
 
-Brennan Webb: McNeeve Industries CEO. Unreachable.
+Brennan McNeeve: McNeeve Industries CEO. Unreachable.
 
 Sarah McNeeve: legal and corporate authority. Available. In Galway, one floor above Chris's signals lab, running McNeeve Industries' legitimate operations — the aerospace contracts and the mineral rights applications and the R&D programmes that kept the company functional and funded and provided the institutional infrastructure that a twenty-six-hundred-year-old Irish warrior used to fight a five-thousand-year-old conspiracy in the modern world.
 
@@ -307,7 +307,7 @@ A pause. Authentication verified against whatever ledger the Josephites maintain
 
 Chris ran the intelligence picture. He did not spare details and he did not pad the briefing, because his voice carried the cadence of a man who had spent three years training on seventeen-minute light delays and the cadence did not waste bandwidth on words that did not advance the mission and the mission was simple and terrible and clear.
 
-The target: a drill site on the Ross Ice Shelf, two hundred kilometres from the *Ashtoreth*'s anchorage. Naamah's operation. Breached approximately five hours ago. An occupying force establishing operations inside a sub-ice complex of strategic significance. The field team — Cian mac Morna, James Madigan, Brennan Webb, Dr. Miriam Ashford — was inside or would be inside within the hour, having transited via Cydonian gate technology from a Martian forward operating base with no extraction capability and no communications.
+The target: a drill site on the Ross Ice Shelf, two hundred kilometres from the *Ashtoreth*'s anchorage. Naamah's operation. Breached approximately five hours ago. An occupying force establishing operations inside a sub-ice complex of strategic significance. The field team — Cian mac Morna, James Madigan, Brennan McNeeve, Dr. Miriam Ashford — was inside or would be inside within the hour, having transited via Cydonian gate technology from a Martian forward operating base with no extraction capability and no communications.
 
 The enemy disposition: approximately twenty-eight surface combatants controlling the drill shaft, communications infrastructure, and extraction routes. Eight ship security — Nephilim-descended bloodline advantages: enhanced strength, cold tolerance, sensory acuity beyond human baseline. Sixteen first-wave House Aram operatives delivered via two An-74 cargo flights from Punta Arenas — professional armed security, extreme cold-rated, equipped for extended Antarctic operations. Four Satar surface logistics and communications nodes coordinating between the *Ashtoreth* and the sub-ice complex.
 

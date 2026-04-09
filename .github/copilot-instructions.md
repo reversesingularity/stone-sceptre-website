@@ -10,6 +10,7 @@ When assisting with The Nephilim Chronicles project, **ALWAYS verify facts again
 4. **CANON/dossiers/** — Character dossiers (Watchers, Nephilim, antagonists)
 5. **WORLDBUILDING/** — Narrative elements, geopolitics, world systems
 6. **REFERENCE/** — Technical specifications, visual direction
+   - **REFERENCE/COMBAT_STYLE_GUIDE.md** — Mandatory action/combat style blend (all books)
 
 **Never introduce facts that contradict higher authority documents.**
 
@@ -152,7 +153,7 @@ Key characters:
 
 - **Cian mac Morna**: Protagonist, wielder of Mo Chrá, prophetic visions
 - **Miriam Ashford**: Secondary protagonist, archaeologist, "reader perspective"
-- **Brennan Webb**: Tech specialist, drone/rover engineer
+- **Brennan McNeeve**: Tech specialist, drone/rover engineer (NOTE: "Brennan Webb" is a drift error — canonical name is McNeeve)
 - **Elijah**: The Prophet, mentor figure, immortal
 - **Enoch**: The Scribe, Heaven's record-keeper
 - **Raphael**: Archangel, healer, bound by three limitations
@@ -195,3 +196,42 @@ If you encounter a scenario not covered by canon documents:
 3. Mark speculative content clearly for user approval
 
 **The goal is theological and narrative consistency across a 5-book series.**
+
+---
+
+## Action & Combat Sequences
+
+All action, combat, and warfare sequences must follow **REFERENCE/COMBAT_STYLE_GUIDE.md**. Key principles:
+
+### Genre Fusion
+**"Tom Clancy meets Frank Peretti."** Every combat sequence must deliver tactical realism + mythic weight + cosmic stakes + metaphysical logic + cinematic spectacle.
+
+### Mortal Plane — Author Models
+| Element | Model |
+|---------|-------|
+| Tactical planning / operational briefings | Tom Clancy |
+| Precision marksmanship, bolt cycling | Stephen Hunter |
+| One-vs-many methodical kill progressions | Mark Greaney |
+| CQB, veteran psychology, "cognitive fossil" | Jack Carr |
+| Sword choreography — Mo Chrá as active character | R.A. Salvatore |
+
+### Celestial Plane — Author Models
+| Element | Model |
+|---------|-------|
+| Angelic/demonic hierarchy logic | C.S. Lewis |
+| Visible angelic combat, dual-plane storytelling | Frank Peretti |
+| Spycraft + spiritual conflict, occult physics as hard science | Tim Powers |
+| Cosmic scale, ancient grudges, reality-warping impact | Steven Erikson |
+| Sensory surrealism, symbolic battlefields | Ted Dekker |
+| Quiet terror of celestial beings, mythic minimalism | Neil Gaiman |
+| Non-anthropomorphic cherubim, scale-shifting battles | Madeleine L'Engle |
+| Divine council, territorial spirits, cosmic geography | Michael Heiser |
+
+### Before Every Action Scene — Checklist
+- [ ] Spatial geometry of battlefield perfectly clear?
+- [ ] Gear/weapons treated with Clancy-level technical respect?
+- [ ] Melee fluid, spatially precise, emotionally grounded (Salvatore/Mo Chrá)?
+- [ ] Supernatural warfare follows strict rules and jurisdictions (Powers/Heiser)?
+- [ ] **Acoustic Paradigm is the driving force of all supernatural elements?**
+- [ ] Dual-plane storytelling: celestial war visibly impacts mortal operators?
+- [ ] Celestial entities have "quiet terror," not human familiarity (Gaiman)?

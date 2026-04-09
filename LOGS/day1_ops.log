@@ -1,0 +1,468 @@
+2026-04-08 19:25:58,600 [DAY1] INFO 
+2026-04-08 19:25:58,600 [DAY1] INFO ════════════════════════════════════════════════════════════════
+2026-04-08 19:25:58,624 [DAY1] INFO   DAY 1 OPERATIONS — The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-08 19:25:58,624 [DAY1] INFO ════════════════════════════════════════════════════════════════
+2026-04-08 19:25:58,625 [DAY1] INFO   Mode    : DRY RUN
+2026-04-08 19:25:58,625 [DAY1] INFO   Phase   : adamem
+2026-04-08 19:25:58,625 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-08 19:25:58,625 [DAY1] INFO   Started : 2026-04-08 19:25:58
+2026-04-08 19:25:58,625 [DAY1] INFO 
+2026-04-08 19:25:58,625 [DAY1] INFO ════════════════════════════════════════════════════════════════
+2026-04-08 19:25:58,626 [DAY1] INFO   PHASE 1 — AdaMem Seeding
+2026-04-08 19:25:58,626 [DAY1] INFO ════════════════════════════════════════════════════════════════
+2026-04-08 19:25:58,652 [DAY1] ERROR   ✗  Qdrant not reachable at http://localhost:6333: Expecting value: line 1 column 1 (char 0)
+2026-04-08 19:25:58,683 [DAY1] ERROR   ✗  Cannot seed AdaMem without Qdrant. Aborting phase_adamem.
+2026-04-08 19:25:58,683 [DAY1] INFO 
+2026-04-08 19:25:58,684 [DAY1] INFO ════════════════════════════════════════════════════════════════
+2026-04-08 19:25:58,684 [DAY1] INFO   DAY 1 OPERATIONS — FINAL REPORT
+2026-04-08 19:25:58,684 [DAY1] INFO ════════════════════════════════════════════════════════════════
+2026-04-08 19:25:58,684 [DAY1] INFO   ✗ FAIL  Phase 1 — AdaMem Seeding
+2026-04-08 19:25:58,684 [DAY1] INFO 
+2026-04-08 19:25:58,684 [DAY1] INFO   ══════════════════════════════════════════════
+2026-04-08 19:25:58,684 [DAY1] ERROR   SOME PHASES FAILED — Review errors above
+2026-04-08 19:25:58,684 [DAY1] INFO   ══════════════════════════════════════════════
+2026-04-08 19:25:58,685 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-08 19:25:58,685 [DAY1] INFO   Full log:        LOGS/day1_ops.log
+2026-04-08 19:57:15,985 [DAY1] INFO 
+2026-04-08 19:57:15,985 [DAY1] INFO ================================================================
+2026-04-08 19:57:15,985 [DAY1] INFO   DAY 1 OPERATIONS -- The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-08 19:57:15,985 [DAY1] INFO ================================================================
+2026-04-08 19:57:15,986 [DAY1] INFO   Mode    : DRY RUN
+2026-04-08 19:57:15,986 [DAY1] INFO   Phase   : adamem
+2026-04-08 19:57:15,986 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-08 19:57:15,986 [DAY1] INFO   Started : 2026-04-08 19:57:15
+2026-04-08 19:57:15,986 [DAY1] INFO 
+2026-04-08 19:57:15,986 [DAY1] INFO ================================================================
+2026-04-08 19:57:15,986 [DAY1] INFO   PHASE 1 -- AdaMem Seeding
+2026-04-08 19:57:15,986 [DAY1] INFO ================================================================
+2026-04-08 19:57:16,022 [DAY1] ERROR   [FAIL]  Qdrant not reachable at http://localhost:6333: Expecting value: line 1 column 1 (char 0)
+2026-04-08 19:57:16,023 [DAY1] ERROR   [FAIL]  Cannot seed AdaMem without Qdrant. Aborting phase_adamem.
+2026-04-08 19:57:16,023 [DAY1] INFO 
+2026-04-08 19:57:16,023 [DAY1] INFO ================================================================
+2026-04-08 19:57:16,023 [DAY1] INFO   DAY 1 OPERATIONS -- FINAL REPORT
+2026-04-08 19:57:16,023 [DAY1] INFO ================================================================
+2026-04-08 19:57:16,023 [DAY1] INFO   [FAIL]  Phase 1 — AdaMem Seeding
+2026-04-08 19:57:16,023 [DAY1] INFO 
+2026-04-08 19:57:16,023 [DAY1] INFO   =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+2026-04-08 19:57:16,023 [DAY1] ERROR   SOME PHASES FAILED -- Review errors above
+2026-04-08 19:57:16,023 [DAY1] INFO   =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =  =
+2026-04-08 19:57:16,024 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-08 19:57:16,024 [DAY1] INFO   Full log:        LOGS/day1_ops.log
+2026-04-08 20:08:15,517 [DAY1] INFO 
+2026-04-08 20:08:15,517 [DAY1] INFO ================================================================
+2026-04-08 20:08:15,517 [DAY1] INFO   DAY 1 OPERATIONS -- The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-08 20:08:15,517 [DAY1] INFO ================================================================
+2026-04-08 20:08:15,518 [DAY1] INFO   Mode    : DRY RUN
+2026-04-08 20:08:15,518 [DAY1] INFO   Phase   : adamem
+2026-04-08 20:08:15,518 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-08 20:08:15,518 [DAY1] INFO   Started : 2026-04-08 20:08:15
+2026-04-08 20:08:15,518 [DAY1] INFO 
+2026-04-08 20:08:15,518 [DAY1] INFO ================================================================
+2026-04-08 20:08:15,518 [DAY1] INFO   PHASE 1 -- AdaMem Seeding
+2026-04-08 20:08:15,519 [DAY1] INFO ================================================================
+2026-04-08 20:08:15,519 [DAY1] INFO   [SKIP]  Qdrant health check (skipped in dry-run)
+2026-04-08 20:08:15,519 [DAY1] INFO   [SKIP]  Source collection check (skipped in dry-run)
+2026-04-08 20:08:15,523 [DAY1] INFO   [OK]  adamem_initializer module imported successfully
+2026-04-08 20:08:15,523 [DAY1] INFO   [SKIP]  Migration (dry_run=True — no Qdrant writes) (skipped in dry-run)
+2026-04-08 20:08:42,939 [DAY1] INFO   [SKIP]  Role Graph seeding (dry_run=True) (skipped in dry-run)
+2026-04-08 20:08:42,941 [DAY1] INFO   -- Tier Collection Counts ------------------------------------------
+2026-04-08 20:08:42,955 [DAY1] ERROR   [FAIL]  tnc_episodes — collection not found or Qdrant error
+2026-04-08 20:08:42,969 [DAY1] ERROR   [FAIL]  tnc_personas — collection not found or Qdrant error
+2026-04-08 20:08:42,973 [DAY1] ERROR   [FAIL]  tnc_role_graph — collection not found or Qdrant error
+2026-04-08 20:08:42,977 [DAY1] ERROR   [FAIL]  tnc_plot_graph — collection not found or Qdrant error
+2026-04-08 20:08:42,977 [DAY1] ERROR   [FAIL]  Phase 1 completed with issues: ['tnc_episodes', 'tnc_personas', 'tnc_role_graph', 'tnc_plot_graph']
+2026-04-08 20:08:42,977 [DAY1] INFO 
+2026-04-08 20:08:42,977 [DAY1] INFO ================================================================
+2026-04-08 20:08:42,978 [DAY1] INFO   DAY 1 OPERATIONS -- FINAL REPORT
+2026-04-08 20:08:42,978 [DAY1] INFO ================================================================
+2026-04-08 20:08:42,978 [DAY1] INFO   [FAIL]  Phase 1 - AdaMem Seeding
+2026-04-08 20:08:42,978 [DAY1] INFO 
+2026-04-08 20:08:42,978 [DAY1] INFO   ==============================================
+2026-04-08 20:08:42,978 [DAY1] ERROR   SOME PHASES FAILED -- Review errors above
+2026-04-08 20:08:42,978 [DAY1] INFO   ==============================================
+2026-04-08 20:08:42,979 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-08 20:08:42,979 [DAY1] INFO   Full log:        LOGS/day1_ops.log
+2026-04-08 20:20:50,562 [DAY1] INFO 
+2026-04-08 20:20:50,562 [DAY1] INFO ================================================================
+2026-04-08 20:20:50,562 [DAY1] INFO   DAY 1 OPERATIONS -- The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-08 20:20:50,562 [DAY1] INFO ================================================================
+2026-04-08 20:20:50,563 [DAY1] INFO   Mode    : DRY RUN
+2026-04-08 20:20:50,563 [DAY1] INFO   Phase   : canary
+2026-04-08 20:20:50,563 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-08 20:20:50,563 [DAY1] INFO   Started : 2026-04-08 20:20:50
+2026-04-08 20:20:50,563 [DAY1] INFO 
+2026-04-08 20:20:50,563 [DAY1] INFO ================================================================
+2026-04-08 20:20:50,563 [DAY1] INFO   PHASE 2 -- Nemoclaw Canary Test
+2026-04-08 20:20:50,563 [DAY1] INFO ================================================================
+2026-04-08 20:20:50,563 [DAY1] INFO   [SKIP]  Writing canary chapter (skipped in dry-run)
+2026-04-08 20:20:50,606 [DAY1] INFO   [OK]  Ollama reachable — available models: nomic-embed-text:latest, llama3.1:latest, mistral:latest, llama3.2:latest
+2026-04-08 20:20:50,606 [DAY1] INFO   [SKIP]  Vectorization (dry-run) (skipped in dry-run)
+2026-04-08 20:20:50,606 [DAY1] INFO   [SKIP]  CRDT proposal deposit (skipped in dry-run)
+2026-04-08 20:20:50,612 [DAY1] INFO   [OK]  nemoclaw_daemon module importable — safe to launch as background service
+2026-04-08 20:20:50,612 [DAY1] INFO   [OK]  Phase 2 complete — Nemoclaw canary test passed
+2026-04-08 20:20:50,613 [DAY1] INFO 
+2026-04-08 20:20:50,613 [DAY1] INFO ================================================================
+2026-04-08 20:20:50,613 [DAY1] INFO   DAY 1 OPERATIONS -- FINAL REPORT
+2026-04-08 20:20:50,613 [DAY1] INFO ================================================================
+2026-04-08 20:20:50,613 [DAY1] INFO   [PASS]  Phase 2 - Nemoclaw Canary
+2026-04-08 20:20:50,614 [DAY1] INFO 
+2026-04-08 20:20:50,614 [DAY1] INFO   ==============================================
+2026-04-08 20:20:50,614 [DAY1] INFO   ALL PHASES PASSED -- HAWK Swarm ready for ops
+2026-04-08 20:20:50,614 [DAY1] INFO   ==============================================
+2026-04-08 20:20:50,614 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-08 20:20:50,615 [DAY1] INFO   Full log:        LOGS/day1_ops.log
+2026-04-08 20:21:05,079 [DAY1] INFO 
+2026-04-08 20:21:05,079 [DAY1] INFO ================================================================
+2026-04-08 20:21:05,080 [DAY1] INFO   DAY 1 OPERATIONS -- The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-08 20:21:05,080 [DAY1] INFO ================================================================
+2026-04-08 20:21:05,080 [DAY1] INFO   Mode    : DRY RUN
+2026-04-08 20:21:05,080 [DAY1] INFO   Phase   : nemotron
+2026-04-08 20:21:05,080 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-08 20:21:05,080 [DAY1] INFO   Started : 2026-04-08 20:21:05
+2026-04-08 20:21:05,081 [DAY1] INFO 
+2026-04-08 20:21:05,081 [DAY1] INFO ================================================================
+2026-04-08 20:21:05,081 [DAY1] INFO   PHASE 3 -- Nemotron Gateway Stress Test
+2026-04-08 20:21:05,081 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,196 [DAY1] ERROR   [FAIL]  Nemotron router not reachable at http://localhost:8768: HTTPConnectionPool(host='localhost', port=8768): Max retries exceeded with url: /health (Caused by NewConnectionError("HTTPConnection(host='localhost', port=8768): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-04-08 20:21:09,196 [DAY1] ERROR   [FAIL]  Start nemotron_tool_router.py before running Phase 3.
+2026-04-08 20:21:09,196 [DAY1] ERROR   [FAIL]    python nemotron_tool_router.py &
+2026-04-08 20:21:09,196 [DAY1] INFO   Building stress-test payload …
+2026-04-08 20:21:09,210 [DAY1] INFO   [OK]  Series Bible loaded — 60,000 chars
+2026-04-08 20:21:09,217 [DAY1] INFO   [OK]  Loaded: BOOK_1_APPENDICES.md (30,000 chars)
+2026-04-08 20:21:09,225 [DAY1] INFO   [OK]  Loaded: BOOK_1_FRONT_MATTER.md (8,164 chars)
+2026-04-08 20:21:09,233 [DAY1] INFO   [OK]  Loaded: BOOK_1_PROLOGUE.md (30,000 chars)
+2026-04-08 20:21:09,233 [DAY1] INFO   Total payload: 128,273 chars (~32,068 tokens est.)
+2026-04-08 20:21:09,233 [DAY1] INFO   [SKIP]  Router /route POST (payload would be 128,273 chars) (skipped in dry-run)
+2026-04-08 20:21:09,233 [DAY1] INFO   Running cross_book_audit.py --fast …
+2026-04-08 20:21:09,233 [DAY1] INFO   [SKIP]  cross_book_audit.py run (skipped in dry-run)
+2026-04-08 20:21:09,234 [DAY1] ERROR   [FAIL]  Phase 3 completed with issues: ['router_unreachable']
+2026-04-08 20:21:09,234 [DAY1] INFO 
+2026-04-08 20:21:09,234 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,234 [DAY1] INFO   DAY 1 OPERATIONS -- FINAL REPORT
+2026-04-08 20:21:09,234 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,234 [DAY1] INFO   [FAIL]  Phase 3 - Nemotron Gateway
+2026-04-08 20:21:09,234 [DAY1] INFO 
+2026-04-08 20:21:09,234 [DAY1] INFO   ==============================================
+2026-04-08 20:21:09,234 [DAY1] ERROR   SOME PHASES FAILED -- Review errors above
+2026-04-08 20:21:09,235 [DAY1] INFO   ==============================================
+2026-04-08 20:21:09,235 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-08 20:21:09,235 [DAY1] INFO   Full log:        LOGS/day1_ops.log
+2026-04-08 20:21:09,507 [DAY1] INFO 
+2026-04-08 20:21:09,507 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,507 [DAY1] INFO   DAY 1 OPERATIONS -- The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-08 20:21:09,507 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,507 [DAY1] INFO   Mode    : DRY RUN
+2026-04-08 20:21:09,507 [DAY1] INFO   Phase   : refine
+2026-04-08 20:21:09,507 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-08 20:21:09,508 [DAY1] INFO   Started : 2026-04-08 20:21:09
+2026-04-08 20:21:09,508 [DAY1] INFO 
+2026-04-08 20:21:09,508 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,508 [DAY1] INFO   PHASE 4 -- First SELF-REFINE Loop
+2026-04-08 20:21:09,508 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,508 [DAY1] INFO   Generating initial Book 3 canary scene via Ollama llama3.1 …
+2026-04-08 20:21:09,508 [DAY1] INFO   (This may take 60–90 seconds)
+2026-04-08 20:21:09,509 [DAY1] INFO   [SKIP]  Scene generation (skipped in dry-run)
+2026-04-08 20:21:09,517 [DAY1] INFO   [OK]  self_refine_loop module imported
+2026-04-08 20:21:09,517 [DAY1] INFO   [SKIP]  SELF-REFINE loop (dry-run) (skipped in dry-run)
+2026-04-08 20:21:09,526 [DAY1] INFO   [OK]  governance module imported
+2026-04-08 20:21:09,526 [DAY1] INFO   [SKIP]  PIMMUR check (skipped in dry-run)
+2026-04-08 20:21:09,526 [DAY1] INFO   Testing HITL gate: attempting forbidden 'publish_manuscript' op …
+2026-04-08 20:21:09,526 [DAY1] INFO   [SKIP]  HITL gate test (skipped in dry-run)
+2026-04-08 20:21:09,526 [DAY1] INFO   [OK]  Phase 4 complete — SELF-REFINE loop validated
+2026-04-08 20:21:09,526 [DAY1] INFO 
+2026-04-08 20:21:09,526 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,527 [DAY1] INFO   DAY 1 OPERATIONS -- FINAL REPORT
+2026-04-08 20:21:09,527 [DAY1] INFO ================================================================
+2026-04-08 20:21:09,527 [DAY1] INFO   [PASS]  Phase 4 - SELF-REFINE Loop
+2026-04-08 20:21:09,527 [DAY1] INFO 
+2026-04-08 20:21:09,527 [DAY1] INFO   ==============================================
+2026-04-08 20:21:09,527 [DAY1] INFO   ALL PHASES PASSED -- HAWK Swarm ready for ops
+2026-04-08 20:21:09,527 [DAY1] INFO   ==============================================
+2026-04-08 20:21:09,528 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-08 20:21:09,528 [DAY1] INFO   Full log:        LOGS/day1_ops.log
+2026-04-09 15:40:08,491 [DAY1] INFO 
+2026-04-09 15:40:08,491 [DAY1] INFO ================================================================
+2026-04-09 15:40:08,491 [DAY1] INFO   DAY 1 OPERATIONS -- The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-09 15:40:08,491 [DAY1] INFO ================================================================
+2026-04-09 15:40:08,491 [DAY1] INFO   Mode    : LIVE
+2026-04-09 15:40:08,491 [DAY1] INFO   Phase   : all
+2026-04-09 15:40:08,491 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-09 15:40:08,491 [DAY1] INFO   Started : 2026-04-09 15:40:08
+2026-04-09 15:40:08,491 [DAY1] INFO 
+2026-04-09 15:40:08,491 [DAY1] INFO ================================================================
+2026-04-09 15:40:08,491 [DAY1] INFO   PHASE 1 -- AdaMem Seeding
+2026-04-09 15:40:08,491 [DAY1] INFO ================================================================
+2026-04-09 15:40:08,502 [DAY1] ERROR   [FAIL]  Qdrant not reachable at http://localhost:6333: Expecting value: line 1 column 1 (char 0)
+2026-04-09 15:40:08,502 [DAY1] ERROR   [FAIL]  Cannot seed AdaMem without Qdrant. Aborting phase_adamem.
+2026-04-09 15:40:08,502 [DAY1] INFO 
+2026-04-09 15:40:08,502 [DAY1] INFO ================================================================
+2026-04-09 15:40:08,503 [DAY1] INFO   PHASE 2 -- Nemoclaw Canary Test
+2026-04-09 15:40:08,503 [DAY1] INFO ================================================================
+2026-04-09 15:40:08,503 [DAY1] INFO   [OK]  Canary chapter written: CANARY_CHAPTER_001.md
+2026-04-09 15:40:08,524 [DAY1] INFO   [OK]  Ollama reachable — available models: nomic-embed-text:latest, llama3.1:latest, mistral:latest, llama3.2:latest
+2026-04-09 15:40:08,524 [DAY1] INFO   Simulating file-detect + vectorize pipeline …
+2026-04-09 15:40:09,563 [DAY1] INFO   [OK]  Embedding generated — vector dim: 768
+2026-04-09 15:40:09,621 [DAY1] ERROR   [FAIL]  tnc_episodes collection does not exist — run Phase 1 first
+2026-04-09 15:40:09,622 [DAY1] INFO   [OK]  CRDT proposal written: canary_proposal_20260409_154009.json
+2026-04-09 15:40:09,623 [DAY1] INFO   [OK]  CRDT proposal validated by crdt_merge.validate_proposal(): (False, "Missing required fields: {'confidence', 'proposed_text'}")
+2026-04-09 15:40:09,625 [DAY1] INFO   [OK]  nemoclaw_daemon module importable — safe to launch as background service
+2026-04-09 15:40:09,625 [DAY1] ERROR   [FAIL]  Phase 2 completed with issues: ['qdrant_upsert_failed']
+2026-04-09 15:40:09,625 [DAY1] INFO 
+2026-04-09 15:40:09,625 [DAY1] INFO ================================================================
+2026-04-09 15:40:09,625 [DAY1] INFO   PHASE 3 -- Nemotron Gateway Stress Test
+2026-04-09 15:40:09,625 [DAY1] INFO ================================================================
+2026-04-09 15:40:11,662 [DAY1] INFO   [OK]  Nemotron router /health: {'status': 'ok', 'service': 'nemotron_tool_router', 'backends': {'nvidia_nim': 'configured', 'openrouter': 'configured', 'ollama': 'up'}}
+2026-04-09 15:40:11,662 [DAY1] INFO   Building stress-test payload …
+2026-04-09 15:40:11,684 [DAY1] INFO   [OK]  Series Bible loaded — 60,000 chars
+2026-04-09 15:40:11,694 [DAY1] INFO   [OK]  Loaded: BOOK_1_APPENDICES.md (30,000 chars)
+2026-04-09 15:40:11,702 [DAY1] INFO   [OK]  Loaded: BOOK_1_FRONT_MATTER.md (8,164 chars)
+2026-04-09 15:40:11,711 [DAY1] INFO   [OK]  Loaded: BOOK_1_PROLOGUE.md (30,000 chars)
+2026-04-09 15:40:11,711 [DAY1] INFO   Total payload: 128,273 chars (~32,068 tokens est.)
+2026-04-09 15:40:11,712 [DAY1] INFO   POSTing to /route …
+2026-04-09 15:41:27,813 [DAY1] INFO   [OK]  Router responded in 76.1s via backend: ollama
+2026-04-09 15:41:27,813 [DAY1] INFO   [OK]  Tokens used: 4322
+2026-04-09 15:41:27,813 [DAY1] INFO   Running cross_book_audit.py --fast …
+2026-04-09 15:41:40,996 [DAY1] INFO   [OK]  cross_book_audit.py --fast completed — no critical violations
+2026-04-09 15:41:40,996 [DAY1] INFO   [OK]  Audit report written: 02_ANALYSIS/NIGHTLY_AUDIT_2026-04-09.md
+2026-04-09 15:41:40,996 [DAY1] INFO   [OK]  Phase 3 complete — Nemotron Gateway stress test passed
+2026-04-09 15:41:40,997 [DAY1] INFO 
+2026-04-09 15:41:40,997 [DAY1] INFO ================================================================
+2026-04-09 15:41:40,997 [DAY1] INFO   PHASE 4 -- First SELF-REFINE Loop
+2026-04-09 15:41:40,997 [DAY1] INFO ================================================================
+2026-04-09 15:41:40,997 [DAY1] INFO   Generating initial Book 3 canary scene via Ollama llama3.1 …
+2026-04-09 15:41:40,997 [DAY1] INFO   (This may take 60–90 seconds)
+2026-04-09 15:41:46,629 [DAY1] INFO   [OK]  Initial scene generated — 412 words
+2026-04-09 15:41:46,634 [DAY1] INFO   [OK]  Scene saved: STAGING/canary/CANARY_SCENE_BOOK3.md
+2026-04-09 15:41:46,635 [DAY1] INFO   [OK]  self_refine_loop module imported
+2026-04-09 15:41:46,635 [DAY1] INFO   Running SELF-REFINE: max 3 iterations, threshold 85.0 …
+2026-04-09 15:41:46,635 [DAY1] INFO   (This may take 3–8 minutes depending on Ollama speed)
+2026-04-09 15:41:46,636 [DAY1] INFO SELF-REFINE: Book 3 Chapter 99 | max_iter=3 threshold=85.0
+2026-04-09 15:41:46,636 [DAY1] INFO   Iteration 1/3: scoring...
+2026-04-09 15:42:00,270 [DAY1] INFO   Weighted score: 92.6/100
+2026-04-09 15:42:00,271 [DAY1] INFO   PASS threshold reached (92.6 >= 85.0) — stopping
+2026-04-09 15:42:00,271 [DAY1] INFO SELF-REFINE complete: final score 92.6/100 PASS
+2026-04-09 15:42:00,271 [DAY1] INFO   [OK]  SELF-REFINE complete — 1 iterations run
+2026-04-09 15:42:00,271 [DAY1] INFO   [OK]  Final score: 92.6 / 100
+2026-04-09 15:42:00,273 [DAY1] INFO   [OK]  governance module imported
+2026-04-09 15:42:00,273 [DAY1] INFO   Running governance.pimmur_check() on final draft …
+2026-04-09 15:42:00,273 [DAY1] INFO   [OK]  PIMMUR check: composite_score=?, pass=False
+2026-04-09 15:42:00,273 [DAY1] ERROR   [FAIL]  PIMMUR check error: log_invocation() got an unexpected keyword argument 'args_summary'
+2026-04-09 15:42:00,274 [DAY1] INFO   Testing HITL gate: attempting forbidden 'publish_manuscript' op …
+2026-04-09 15:42:00,274 [DAY1] WARNING HITL escalation written to TODO.md: Operation 'publish_manuscript' requires AUTHOR approval (HITL gate)
+2026-04-09 15:42:00,274 [DAY1] INFO   [OK]  HITL gate correctly raised PermissionDeniedError: Operation 'publish_manuscript' requires AUTHOR approval (HITL gate)
+2026-04-09 15:42:00,282 [DAY1] INFO   [OK]  TODO.md contains HITL escalation entry
+2026-04-09 15:42:00,282 [DAY1] ERROR   [FAIL]  Phase 4 completed with issues: ['pimmur_error']
+2026-04-09 15:42:00,282 [DAY1] INFO 
+2026-04-09 15:42:00,282 [DAY1] INFO ================================================================
+2026-04-09 15:42:00,282 [DAY1] INFO   DAY 1 OPERATIONS -- FINAL REPORT
+2026-04-09 15:42:00,282 [DAY1] INFO ================================================================
+2026-04-09 15:42:00,282 [DAY1] INFO   [FAIL]  Phase 1 - AdaMem Seeding
+2026-04-09 15:42:00,282 [DAY1] INFO   [FAIL]  Phase 2 - Nemoclaw Canary
+2026-04-09 15:42:00,282 [DAY1] INFO   [PASS]  Phase 3 - Nemotron Gateway
+2026-04-09 15:42:00,282 [DAY1] INFO   [FAIL]  Phase 4 - SELF-REFINE Loop
+2026-04-09 15:42:00,282 [DAY1] INFO 
+2026-04-09 15:42:00,282 [DAY1] INFO   ==============================================
+2026-04-09 15:42:00,282 [DAY1] ERROR   SOME PHASES FAILED -- Review errors above
+2026-04-09 15:42:00,282 [DAY1] INFO   ==============================================
+2026-04-09 15:42:00,282 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-09 15:42:00,282 [DAY1] INFO   Full log:        LOGS/day1_ops.log
+2026-04-09 15:46:17,947 [DAY1] INFO 
+2026-04-09 15:46:17,947 [DAY1] INFO ================================================================
+2026-04-09 15:46:17,947 [DAY1] INFO   DAY 1 OPERATIONS -- The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-09 15:46:17,947 [DAY1] INFO ================================================================
+2026-04-09 15:46:17,948 [DAY1] INFO   Mode    : LIVE
+2026-04-09 15:46:17,948 [DAY1] INFO   Phase   : all
+2026-04-09 15:46:17,948 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-09 15:46:17,948 [DAY1] INFO   Started : 2026-04-09 15:46:17
+2026-04-09 15:46:17,948 [DAY1] INFO 
+2026-04-09 15:46:17,948 [DAY1] INFO ================================================================
+2026-04-09 15:46:17,948 [DAY1] INFO   PHASE 1 -- AdaMem Seeding
+2026-04-09 15:46:17,948 [DAY1] INFO ================================================================
+2026-04-09 15:46:17,958 [DAY1] INFO   [OK]  Qdrant reachable -- status: healthz check passed
+2026-04-09 15:46:17,987 [DAY1] INFO   [OK]  Source collection 'nephilim_chronicles' has 52,781 points
+2026-04-09 15:46:17,997 [DAY1] INFO   [OK]  adamem_initializer module imported successfully
+2026-04-09 15:46:17,997 [DAY1] INFO   Running run_migration(verbose=False) …
+2026-04-09 15:46:45,603 [DAY1] INFO   Running seed_role_graph() …
+2026-04-09 15:46:52,908 [DAY1] INFO   -- Tier Collection Counts ------------------------------------------
+2026-04-09 15:46:52,923 [DAY1] INFO   [OK]  tnc_episodes  →  1,751 points  [SEEDED]
+2026-04-09 15:46:52,939 [DAY1] INFO   [OK]  tnc_personas  →  460 points  [SEEDED]
+2026-04-09 15:46:52,953 [DAY1] INFO   [OK]  tnc_role_graph  →  43 points  [SEEDED]
+2026-04-09 15:46:52,970 [DAY1] ERROR   [FAIL]  tnc_plot_graph — exists but has 0 points (expected content)
+2026-04-09 15:46:52,970 [DAY1] ERROR   [FAIL]  Phase 1 completed with issues: ['tnc_plot_graph empty']
+2026-04-09 15:46:52,970 [DAY1] INFO 
+2026-04-09 15:46:52,970 [DAY1] INFO ================================================================
+2026-04-09 15:46:52,970 [DAY1] INFO   PHASE 2 -- Nemoclaw Canary Test
+2026-04-09 15:46:52,970 [DAY1] INFO ================================================================
+2026-04-09 15:46:52,971 [DAY1] INFO   [OK]  Canary chapter written: CANARY_CHAPTER_001.md
+2026-04-09 15:46:52,985 [DAY1] INFO   [OK]  Ollama reachable — available models: nomic-embed-text:latest, llama3.1:latest, mistral:latest, llama3.2:latest
+2026-04-09 15:46:52,985 [DAY1] INFO   Simulating file-detect + vectorize pipeline …
+2026-04-09 15:46:53,036 [DAY1] INFO   [OK]  Embedding generated — vector dim: 768
+2026-04-09 15:46:53,063 [DAY1] ERROR   [FAIL]  tnc_episodes collection does not exist — run Phase 1 first
+2026-04-09 15:46:53,064 [DAY1] INFO   [OK]  CRDT proposal written: canary_proposal_20260409_154653.json
+2026-04-09 15:46:53,065 [DAY1] INFO   [OK]  CRDT proposal validated by crdt_merge.validate_proposal(): (False, "Missing required fields: {'proposed_text', 'confidence'}")
+2026-04-09 15:46:53,066 [DAY1] INFO   [OK]  nemoclaw_daemon module importable — safe to launch as background service
+2026-04-09 15:46:53,066 [DAY1] ERROR   [FAIL]  Phase 2 completed with issues: ['qdrant_upsert_failed']
+2026-04-09 15:46:53,067 [DAY1] INFO 
+2026-04-09 15:46:53,067 [DAY1] INFO ================================================================
+2026-04-09 15:46:53,067 [DAY1] INFO   PHASE 3 -- Nemotron Gateway Stress Test
+2026-04-09 15:46:53,067 [DAY1] INFO ================================================================
+2026-04-09 15:46:55,104 [DAY1] INFO   [OK]  Nemotron router /health: {'status': 'ok', 'service': 'nemotron_tool_router', 'backends': {'nvidia_nim': 'configured', 'openrouter': 'configured', 'ollama': 'up'}}
+2026-04-09 15:46:55,104 [DAY1] INFO   Building stress-test payload …
+2026-04-09 15:46:55,105 [DAY1] INFO   [OK]  Series Bible loaded — 60,000 chars
+2026-04-09 15:46:55,105 [DAY1] INFO   [OK]  Loaded: BOOK_1_APPENDICES.md (30,000 chars)
+2026-04-09 15:46:55,106 [DAY1] INFO   [OK]  Loaded: BOOK_1_FRONT_MATTER.md (8,164 chars)
+2026-04-09 15:46:55,106 [DAY1] INFO   [OK]  Loaded: BOOK_1_PROLOGUE.md (30,000 chars)
+2026-04-09 15:46:55,106 [DAY1] INFO   Total payload: 128,273 chars (~32,068 tokens est.)
+2026-04-09 15:46:55,106 [DAY1] INFO   POSTing to /route …
+2026-04-09 15:47:09,883 [DAY1] INFO   [OK]  Router responded in 14.8s via backend: ollama
+2026-04-09 15:47:09,883 [DAY1] INFO   [OK]  Tokens used: 4560
+2026-04-09 15:47:09,883 [DAY1] INFO   Running cross_book_audit.py --fast …
+2026-04-09 15:47:21,962 [DAY1] INFO   [OK]  cross_book_audit.py --fast completed — no critical violations
+2026-04-09 15:47:21,962 [DAY1] INFO   [OK]  Audit report written: 02_ANALYSIS/NIGHTLY_AUDIT_2026-04-09.md
+2026-04-09 15:47:21,962 [DAY1] INFO   [OK]  Phase 3 complete — Nemotron Gateway stress test passed
+2026-04-09 15:47:21,963 [DAY1] INFO 
+2026-04-09 15:47:21,963 [DAY1] INFO ================================================================
+2026-04-09 15:47:21,963 [DAY1] INFO   PHASE 4 -- First SELF-REFINE Loop
+2026-04-09 15:47:21,963 [DAY1] INFO ================================================================
+2026-04-09 15:47:21,963 [DAY1] INFO   Generating initial Book 3 canary scene via Ollama llama3.1 …
+2026-04-09 15:47:21,963 [DAY1] INFO   (This may take 60–90 seconds)
+2026-04-09 15:47:27,573 [DAY1] INFO   [OK]  Initial scene generated — 397 words
+2026-04-09 15:47:27,574 [DAY1] INFO   [OK]  Scene saved: STAGING/canary/CANARY_SCENE_BOOK3.md
+2026-04-09 15:47:27,575 [DAY1] INFO   [OK]  self_refine_loop module imported
+2026-04-09 15:47:27,575 [DAY1] INFO   Running SELF-REFINE: max 3 iterations, threshold 85.0 …
+2026-04-09 15:47:27,575 [DAY1] INFO   (This may take 3–8 minutes depending on Ollama speed)
+2026-04-09 15:47:27,575 [DAY1] INFO SELF-REFINE: Book 3 Chapter 99 | max_iter=3 threshold=85.0
+2026-04-09 15:47:27,575 [DAY1] INFO   Iteration 1/3: scoring...
+2026-04-09 15:47:33,937 [DAY1] INFO   Weighted score: 89.3/100
+2026-04-09 15:47:33,937 [DAY1] INFO   PASS threshold reached (89.3 >= 85.0) — stopping
+2026-04-09 15:47:33,937 [DAY1] INFO SELF-REFINE complete: final score 89.3/100 PASS
+2026-04-09 15:47:33,937 [DAY1] INFO   [OK]  SELF-REFINE complete — 1 iterations run
+2026-04-09 15:47:33,937 [DAY1] INFO   [OK]  Final score: 89.3 / 100
+2026-04-09 15:47:33,938 [DAY1] INFO   [OK]  governance module imported
+2026-04-09 15:47:33,938 [DAY1] INFO   Running governance.pimmur_check() on final draft …
+2026-04-09 15:47:33,939 [DAY1] INFO   [OK]  PIMMUR check: composite_score=?, pass=False
+2026-04-09 15:47:33,939 [DAY1] INFO   [OK]  Governance invocation logged to LOGS/agent_audit.jsonl
+2026-04-09 15:47:33,939 [DAY1] INFO   Testing HITL gate: attempting forbidden 'publish_manuscript' op …
+2026-04-09 15:47:33,939 [DAY1] WARNING HITL escalation written to TODO.md: Operation 'publish_manuscript' requires AUTHOR approval (HITL gate)
+2026-04-09 15:47:33,939 [DAY1] INFO   [OK]  HITL gate correctly raised PermissionDeniedError: Operation 'publish_manuscript' requires AUTHOR approval (HITL gate)
+2026-04-09 15:47:33,948 [DAY1] INFO   [OK]  TODO.md contains HITL escalation entry
+2026-04-09 15:47:33,948 [DAY1] INFO   [OK]  Phase 4 complete — SELF-REFINE loop validated
+2026-04-09 15:47:33,948 [DAY1] INFO 
+2026-04-09 15:47:33,948 [DAY1] INFO ================================================================
+2026-04-09 15:47:33,948 [DAY1] INFO   DAY 1 OPERATIONS -- FINAL REPORT
+2026-04-09 15:47:33,948 [DAY1] INFO ================================================================
+2026-04-09 15:47:33,948 [DAY1] INFO   [FAIL]  Phase 1 - AdaMem Seeding
+2026-04-09 15:47:33,948 [DAY1] INFO   [FAIL]  Phase 2 - Nemoclaw Canary
+2026-04-09 15:47:33,948 [DAY1] INFO   [PASS]  Phase 3 - Nemotron Gateway
+2026-04-09 15:47:33,948 [DAY1] INFO   [PASS]  Phase 4 - SELF-REFINE Loop
+2026-04-09 15:47:33,948 [DAY1] INFO 
+2026-04-09 15:47:33,949 [DAY1] INFO   ==============================================
+2026-04-09 15:47:33,949 [DAY1] ERROR   SOME PHASES FAILED -- Review errors above
+2026-04-09 15:47:33,949 [DAY1] INFO   ==============================================
+2026-04-09 15:47:33,949 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-09 15:47:33,949 [DAY1] INFO   Full log:        LOGS/day1_ops.log
+2026-04-09 15:49:12,041 [DAY1] INFO 
+2026-04-09 15:49:12,041 [DAY1] INFO ================================================================
+2026-04-09 15:49:12,041 [DAY1] INFO   DAY 1 OPERATIONS -- The Nephilim Chronicles HAWK Swarm v2.0
+2026-04-09 15:49:12,041 [DAY1] INFO ================================================================
+2026-04-09 15:49:12,041 [DAY1] INFO   Mode    : LIVE
+2026-04-09 15:49:12,041 [DAY1] INFO   Phase   : all
+2026-04-09 15:49:12,042 [DAY1] INFO   Log     : F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\day1_ops.log
+2026-04-09 15:49:12,042 [DAY1] INFO   Started : 2026-04-09 15:49:12
+2026-04-09 15:49:12,042 [DAY1] INFO 
+2026-04-09 15:49:12,042 [DAY1] INFO ================================================================
+2026-04-09 15:49:12,042 [DAY1] INFO   PHASE 1 -- AdaMem Seeding
+2026-04-09 15:49:12,042 [DAY1] INFO ================================================================
+2026-04-09 15:49:12,068 [DAY1] INFO   [OK]  Qdrant reachable -- status: healthz check passed
+2026-04-09 15:49:12,074 [DAY1] INFO   [OK]  Source collection 'nephilim_chronicles' has 52,781 points
+2026-04-09 15:49:12,075 [DAY1] INFO   [OK]  adamem_initializer module imported successfully
+2026-04-09 15:49:12,075 [DAY1] INFO   Running run_migration(verbose=False) …
+2026-04-09 15:49:38,447 [DAY1] INFO   Running seed_role_graph() …
+2026-04-09 15:49:45,519 [DAY1] INFO   -- Tier Collection Counts ------------------------------------------
+2026-04-09 15:49:45,534 [DAY1] INFO   [OK]  tnc_episodes  →  1,751 points  [SEEDED]
+2026-04-09 15:49:45,549 [DAY1] INFO   [OK]  tnc_personas  →  460 points  [SEEDED]
+2026-04-09 15:49:45,565 [DAY1] INFO   [OK]  tnc_role_graph  →  43 points  [SEEDED]
+2026-04-09 15:49:45,581 [DAY1] INFO   [OK]  tnc_plot_graph  →  0 points  [EMPTY — OK, seeded on first Book 3 chapter]
+2026-04-09 15:49:45,581 [DAY1] INFO   [OK]  Phase 1 complete — AdaMem tiers initialized
+2026-04-09 15:49:45,581 [DAY1] INFO 
+2026-04-09 15:49:45,581 [DAY1] INFO ================================================================
+2026-04-09 15:49:45,581 [DAY1] INFO   PHASE 2 -- Nemoclaw Canary Test
+2026-04-09 15:49:45,581 [DAY1] INFO ================================================================
+2026-04-09 15:49:45,582 [DAY1] INFO   [OK]  Canary chapter written: CANARY_CHAPTER_001.md
+2026-04-09 15:49:45,596 [DAY1] INFO   [OK]  Ollama reachable — available models: nomic-embed-text:latest, llama3.1:latest, mistral:latest, llama3.2:latest
+2026-04-09 15:49:45,596 [DAY1] INFO   Simulating file-detect + vectorize pipeline …
+2026-04-09 15:49:45,635 [DAY1] INFO   [OK]  Embedding generated — vector dim: 768
+2026-04-09 15:49:45,659 [DAY1] INFO   [OK]  Canary chapter upserted into tnc_episodes
+2026-04-09 15:49:45,667 [DAY1] INFO   [OK]  tnc_episodes now has 1,752 points
+2026-04-09 15:49:45,668 [DAY1] INFO   [OK]  CRDT proposal written: canary_proposal_20260409_154945.json
+2026-04-09 15:49:45,669 [DAY1] INFO   [OK]  CRDT proposal validated by crdt_merge.validate_proposal(): (False, "Missing required fields: {'confidence', 'proposed_text'}")
+2026-04-09 15:49:45,670 [DAY1] INFO   [OK]  nemoclaw_daemon module importable — safe to launch as background service
+2026-04-09 15:49:45,670 [DAY1] INFO   [OK]  Phase 2 complete — Nemoclaw canary test passed
+2026-04-09 15:49:45,671 [DAY1] INFO 
+2026-04-09 15:49:45,671 [DAY1] INFO ================================================================
+2026-04-09 15:49:45,671 [DAY1] INFO   PHASE 3 -- Nemotron Gateway Stress Test
+2026-04-09 15:49:45,671 [DAY1] INFO ================================================================
+2026-04-09 15:49:47,734 [DAY1] INFO   [OK]  Nemotron router /health: {'status': 'ok', 'service': 'nemotron_tool_router', 'backends': {'nvidia_nim': 'configured', 'openrouter': 'configured', 'ollama': 'up'}}
+2026-04-09 15:49:47,734 [DAY1] INFO   Building stress-test payload …
+2026-04-09 15:49:47,735 [DAY1] INFO   [OK]  Series Bible loaded — 60,000 chars
+2026-04-09 15:49:47,736 [DAY1] INFO   [OK]  Loaded: BOOK_1_APPENDICES.md (30,000 chars)
+2026-04-09 15:49:47,737 [DAY1] INFO   [OK]  Loaded: BOOK_1_FRONT_MATTER.md (8,164 chars)
+2026-04-09 15:49:47,737 [DAY1] INFO   [OK]  Loaded: BOOK_1_PROLOGUE.md (30,000 chars)
+2026-04-09 15:49:47,737 [DAY1] INFO   Total payload: 128,273 chars (~32,068 tokens est.)
+2026-04-09 15:49:47,737 [DAY1] INFO   POSTing to /route …
+2026-04-09 15:49:59,636 [DAY1] INFO   [OK]  Router responded in 11.9s via backend: ollama
+2026-04-09 15:49:59,636 [DAY1] INFO   [OK]  Tokens used: 4239
+2026-04-09 15:49:59,636 [DAY1] INFO   Running cross_book_audit.py --fast …
+2026-04-09 15:50:11,627 [DAY1] INFO   [OK]  cross_book_audit.py --fast completed — no critical violations
+2026-04-09 15:50:11,628 [DAY1] INFO   [OK]  Audit report written: 02_ANALYSIS/NIGHTLY_AUDIT_2026-04-09.md
+2026-04-09 15:50:11,628 [DAY1] INFO   [OK]  Phase 3 complete — Nemotron Gateway stress test passed
+2026-04-09 15:50:11,628 [DAY1] INFO 
+2026-04-09 15:50:11,628 [DAY1] INFO ================================================================
+2026-04-09 15:50:11,628 [DAY1] INFO   PHASE 4 -- First SELF-REFINE Loop
+2026-04-09 15:50:11,628 [DAY1] INFO ================================================================
+2026-04-09 15:50:11,629 [DAY1] INFO   Generating initial Book 3 canary scene via Ollama llama3.1 …
+2026-04-09 15:50:11,629 [DAY1] INFO   (This may take 60–90 seconds)
+2026-04-09 15:50:16,515 [DAY1] INFO   [OK]  Initial scene generated — 357 words
+2026-04-09 15:50:16,516 [DAY1] INFO   [OK]  Scene saved: STAGING/canary/CANARY_SCENE_BOOK3.md
+2026-04-09 15:50:16,517 [DAY1] INFO   [OK]  self_refine_loop module imported
+2026-04-09 15:50:16,518 [DAY1] INFO   Running SELF-REFINE: max 3 iterations, threshold 85.0 …
+2026-04-09 15:50:16,518 [DAY1] INFO   (This may take 3–8 minutes depending on Ollama speed)
+2026-04-09 15:50:16,518 [DAY1] INFO SELF-REFINE: Book 3 Chapter 99 | max_iter=3 threshold=85.0
+2026-04-09 15:50:16,518 [DAY1] INFO   Iteration 1/3: scoring...
+2026-04-09 15:50:21,628 [DAY1] INFO   Weighted score: 90.8/100
+2026-04-09 15:50:21,629 [DAY1] INFO   PASS threshold reached (90.8 >= 85.0) — stopping
+2026-04-09 15:50:21,629 [DAY1] INFO SELF-REFINE complete: final score 90.8/100 PASS
+2026-04-09 15:50:21,629 [DAY1] INFO   [OK]  SELF-REFINE complete — 1 iterations run
+2026-04-09 15:50:21,629 [DAY1] INFO   [OK]  Final score: 90.8 / 100
+2026-04-09 15:50:21,631 [DAY1] INFO   [OK]  governance module imported
+2026-04-09 15:50:21,631 [DAY1] INFO   Running governance.pimmur_check() on final draft …
+2026-04-09 15:50:21,631 [DAY1] INFO   [OK]  PIMMUR check: composite_score=?, pass=False
+2026-04-09 15:50:21,632 [DAY1] INFO   [OK]  Governance invocation logged to LOGS/agent_audit.jsonl
+2026-04-09 15:50:21,632 [DAY1] INFO   Testing HITL gate: attempting forbidden 'publish_manuscript' op …
+2026-04-09 15:50:21,632 [DAY1] WARNING HITL escalation written to TODO.md: Operation 'publish_manuscript' requires AUTHOR approval (HITL gate)
+2026-04-09 15:50:21,632 [DAY1] INFO   [OK]  HITL gate correctly raised PermissionDeniedError: Operation 'publish_manuscript' requires AUTHOR approval (HITL gate)
+2026-04-09 15:50:21,644 [DAY1] INFO   [OK]  TODO.md contains HITL escalation entry
+2026-04-09 15:50:21,644 [DAY1] INFO   [OK]  Phase 4 complete — SELF-REFINE loop validated
+2026-04-09 15:50:21,644 [DAY1] INFO 
+2026-04-09 15:50:21,644 [DAY1] INFO ================================================================
+2026-04-09 15:50:21,645 [DAY1] INFO   DAY 1 OPERATIONS -- FINAL REPORT
+2026-04-09 15:50:21,645 [DAY1] INFO ================================================================
+2026-04-09 15:50:21,645 [DAY1] INFO   [PASS]  Phase 1 - AdaMem Seeding
+2026-04-09 15:50:21,645 [DAY1] INFO   [PASS]  Phase 2 - Nemoclaw Canary
+2026-04-09 15:50:21,645 [DAY1] INFO   [PASS]  Phase 3 - Nemotron Gateway
+2026-04-09 15:50:21,645 [DAY1] INFO   [PASS]  Phase 4 - SELF-REFINE Loop
+2026-04-09 15:50:21,645 [DAY1] INFO 
+2026-04-09 15:50:21,645 [DAY1] INFO   ==============================================
+2026-04-09 15:50:21,645 [DAY1] INFO   ALL PHASES PASSED -- HAWK Swarm ready for ops
+2026-04-09 15:50:21,645 [DAY1] INFO   ==============================================
+2026-04-09 15:50:21,646 [DAY1] INFO 
+  Summary written: LOGS/day1_ops_summary.json
+2026-04-09 15:50:21,646 [DAY1] INFO   Full log:        LOGS/day1_ops.log

@@ -1,0 +1,18 @@
+2026-04-09 16:20:59,451 [CONDUCTOR] INFO [0a804411] Planning intent: 'Write and validate Book 3 Chapter 1 scene'
+2026-04-09 16:20:59,451 [CONDUCTOR] INFO Conduct task created: 0a804411 | intent: 'Write and validate Book 3 Chapter 1 scene'
+2026-04-09 16:21:09,013 [CONDUCTOR] WARNING Could not parse Nemotron plan: 
+2026-04-09 16:21:09,013 [CONDUCTOR] INFO Using fallback plan: ['validate_theology', 'extract_story_proto', 'refine_scene']
+2026-04-09 16:21:09,014 [CONDUCTOR] INFO [0a804411] Plan: ['validate_theology', 'extract_story_proto', 'refine_scene']
+2026-04-09 16:21:09,036 [CONDUCTOR] WARNING   Dispatch failed [validate_theology]: HTTP 404
+2026-04-09 16:21:09,044 [CONDUCTOR] WARNING   Dispatch failed [extract_story_proto]: HTTP 404
+2026-04-09 16:21:09,075 [CONDUCTOR] WARNING   Dispatch failed [refine_scene]: HTTP 404
+2026-04-09 16:21:09,076 [CONDUCTOR] INFO [0a804411] Conduct complete: status=failed, dispatched=0, errors=3
+2026-04-09 16:21:09,501 [CONDUCTOR] INFO [9e9199d7] Planning intent: 'Write and validate Book 3 Chapter 1 scene'
+2026-04-09 16:21:09,501 [CONDUCTOR] INFO Conduct task created: 9e9199d7 | intent: 'Write and validate Book 3 Chapter 1 scene'
+2026-04-09 16:21:14,645 [CONDUCTOR] WARNING Could not parse Nemotron plan: 
+2026-04-09 16:21:14,645 [CONDUCTOR] INFO Using fallback plan: ['validate_theology', 'extract_story_proto', 'refine_scene']
+2026-04-09 16:21:14,646 [CONDUCTOR] INFO [9e9199d7] Plan: ['validate_theology', 'extract_story_proto', 'refine_scene']
+2026-04-09 16:21:14,666 [CONDUCTOR] WARNING   Dispatch failed [validate_theology]: HTTP 404
+2026-04-09 16:21:14,675 [CONDUCTOR] WARNING   Dispatch failed [extract_story_proto]: HTTP 404
+2026-04-09 16:21:14,697 [CONDUCTOR] WARNING   Dispatch failed [refine_scene]: HTTP 404
+2026-04-09 16:21:14,698 [CONDUCTOR] INFO [9e9199d7] Conduct complete: status=failed, dispatched=0, errors=3

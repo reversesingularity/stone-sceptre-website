@@ -471,7 +471,7 @@ Raphael represents **divine love expressed through presence**:
 | **Role at End** | Technical support; keeper of the underground network |
 | **Fate** | **Survives** — among the living saints who endure to Christ's return |
 | **Scripture Fulfilled** | "We who are alive and remain shall be caught up" (1 Thess 4:17) |
-| **Legacy** | His technology enables critical intelligence; protects Miriam after Cian's death |
+| **Legacy** | His technology enables critical intelligence; sole guardian of Miriam and Cian's orphaned daughter through the final days |
 
 ### During the Tribulation
 
@@ -482,14 +482,14 @@ Brennan's role is not combat — it is **infrastructure**:
 - His Mars rovers' discoveries legitimize the ancient revelations
 - He manages the logistics that keep the underground church functional
 
-### Protecting Miriam
+### Protecting the Child
 
-After Cian's death, Brennan becomes Miriam's primary protector:
+After Miriam's martyrdom in the demon flood and Cian's subsequent death protecting the Witnesses, Brennan becomes sole guardian of their orphaned daughter:
 
 - He operates the safehouse network
 - He uses his technology expertise to stay ahead of the Mark system
-- He ensures Cian's daughter is born safely
-- He acts as the "uncle" to the child who will never know her father in this life
+- The child is born in the underground network during the latter half of the 1,260 days. When Miriam is martyred in the demon flood, and Cian subsequently falls protecting the Witnesses, Brennan becomes the sole guardian of their orphaned daughter.
+- He acts as the "uncle" to the child, keeping her hidden from the Beast's system until the Last Trump, serving as the living bridge between the martyred parents and the millennial Kingdom
 
 ### The Refusal of the Mark
 

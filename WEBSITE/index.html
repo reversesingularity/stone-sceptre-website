@@ -1,0 +1,880 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#1a1a2e">
+    <title>Kerman Gild Publishing | The Stone and the Sceptre Chronicles</title>
+    <meta name="description" content="Kerman Gild Publishing - Home of The Stone and the Sceptre Chronicles, epic Christian historical fiction exploring ancient prophecies, divine providence, and the journey of covenant faithfulness.">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title" content="Kerman Gild Publishing">
+    <meta property="og:description" content="Epic Christian Historical Fiction - The Stone and the Sceptre Chronicles">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kermangildpublishing.org/">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <style>
+        /* CSS Variables */
+        :root {
+            --primary-gold: #d4af37;
+            --dark-blue: #1a1a2e;
+            --deep-blue: #16213e;
+            --accent-red: #8b0000;
+            --royal-purple: #4b0082;
+            --light-gold: #f4e5a1;
+            --cream: #f5f5dc;
+            --text-light: #f5f5dc;
+            --bg-primary: #1a1a2e;
+            --bg-secondary: #16213e;
+            --font-heading: 'Cinzel', serif;
+            --font-body: 'Cormorant Garamond', serif;
+            --transition-fast: 0.3s ease;
+            --transition-medium: 0.5s ease;
+        }
+
+        /* Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-body);
+            line-height: 1.6;
+            background: linear-gradient(135deg, #0a1133 0%, #1a2447 50%, #2a3366 100%);
+            color: var(--text-light);
+            min-height: 100vh;
+        }
+
+        /* Header / Publisher Brand */
+        .header {
+            background: rgba(0, 0, 0, 0.8);
+            border-bottom: 2px solid var(--primary-gold);
+            padding: 1.5rem 2rem;
+            text-align: center;
+            backdrop-filter: blur(10px);
+        }
+
+        .publisher-logo {
+            font-family: var(--font-heading);
+            font-size: 2.5rem;
+            color: var(--primary-gold);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            margin-bottom: 0.5rem;
+            letter-spacing: 3px;
+        }
+
+        .publisher-tagline {
+            font-family: var(--font-body);
+            font-style: italic;
+            font-size: 1.2rem;
+            color: var(--cream);
+            opacity: 0.9;
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 4rem 2rem;
+            text-align: center;
+            background: radial-gradient(ellipse at center, rgba(212, 175, 55, 0.1) 0%, transparent 70%);
+        }
+
+        .hero h1 {
+            font-family: var(--font-heading);
+            font-size: 2.2rem;
+            color: var(--primary-gold);
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.3rem;
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.8;
+        }
+
+        /* Featured Series Section */
+        .series-section {
+            padding: 3rem 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .series-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .series-header h2 {
+            font-family: var(--font-heading);
+            font-size: 2rem;
+            color: var(--primary-gold);
+            margin-bottom: 0.5rem;
+        }
+
+        .series-header p {
+            font-size: 1.1rem;
+            color: var(--cream);
+            opacity: 0.8;
+        }
+
+        /* Books Grid */
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 3rem;
+            padding: 2rem 0;
+        }
+
+        /* Book Card */
+        .book-card {
+            background: rgba(0, 0, 0, 0.4);
+            border: 2px solid rgba(212, 175, 55, 0.3);
+            border-radius: 20px;
+            overflow: hidden;
+            transition: var(--transition-medium);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .book-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--primary-gold);
+            box-shadow: 0 20px 40px rgba(212, 175, 55, 0.2);
+        }
+
+        .book-card-header {
+            position: relative;
+            padding: 2rem;
+            background: linear-gradient(180deg, rgba(212, 175, 55, 0.15) 0%, transparent 100%);
+            display: flex;
+            gap: 2rem;
+            align-items: flex-start;
+        }
+
+        .book-cover-container {
+            flex-shrink: 0;
+            width: 180px;
+            height: 270px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            transition: var(--transition-fast);
+        }
+
+        .book-card:hover .book-cover-container {
+            transform: scale(1.05) rotate(-2deg);
+        }
+
+        .book-cover-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .book-info {
+            flex: 1;
+        }
+
+        .book-number {
+            font-family: var(--font-heading);
+            font-size: 0.9rem;
+            color: var(--primary-gold);
+            opacity: 0.8;
+            margin-bottom: 0.5rem;
+            letter-spacing: 2px;
+        }
+
+        .book-title {
+            font-family: var(--font-heading);
+            font-size: 1.6rem;
+            color: var(--primary-gold);
+            margin-bottom: 0.5rem;
+            line-height: 1.3;
+        }
+
+        .book-subtitle {
+            font-family: var(--font-body);
+            font-style: italic;
+            font-size: 1.1rem;
+            color: var(--cream);
+            margin-bottom: 1rem;
+        }
+
+        .book-meta {
+            font-size: 0.95rem;
+            color: var(--cream);
+            opacity: 0.7;
+        }
+
+        .book-card-body {
+            padding: 1.5rem 2rem 2rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .book-description {
+            font-size: 1.1rem;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+            flex: 1;
+        }
+
+        .book-quote {
+            background: rgba(212, 175, 55, 0.1);
+            border-left: 4px solid var(--primary-gold);
+            padding: 1rem 1.5rem;
+            margin-bottom: 1.5rem;
+            border-radius: 0 10px 10px 0;
+        }
+
+        .book-quote p {
+            font-style: italic;
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .book-quote cite {
+            font-size: 0.9rem;
+            color: var(--primary-gold);
+        }
+
+        .book-cta {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            font-family: var(--font-heading);
+            font-size: 1rem;
+            padding: 0.8rem 2rem;
+            border-radius: 30px;
+            text-decoration: none;
+            transition: var(--transition-fast);
+            text-align: center;
+            flex: 1;
+            min-width: 150px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary-gold), #b8941f);
+            color: var(--dark-blue);
+            font-weight: 600;
+        }
+
+        .btn-primary:hover {
+            background: linear-gradient(135deg, var(--light-gold), var(--primary-gold));
+            transform: scale(1.05);
+            box-shadow: 0 5px 20px rgba(212, 175, 55, 0.4);
+        }
+
+        .btn-secondary {
+            border: 2px solid var(--primary-gold);
+            color: var(--primary-gold);
+            background: transparent;
+        }
+
+        .btn-secondary:hover {
+            background: rgba(212, 175, 55, 0.1);
+            transform: scale(1.05);
+        }
+
+        /* Coming Soon Badge */
+        .coming-soon-badge {
+            background: linear-gradient(135deg, var(--royal-purple), #6a0dad);
+            color: white;
+            padding: 0.3rem 1rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-family: var(--font-heading);
+            letter-spacing: 1px;
+            display: inline-block;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Future Books Section */
+        .future-section {
+            padding: 4rem 2rem;
+            background: rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+
+        .future-section h2 {
+            font-family: var(--font-heading);
+            font-size: 1.8rem;
+            color: var(--primary-gold);
+            margin-bottom: 1rem;
+        }
+
+        .future-section p {
+            font-size: 1.2rem;
+            max-width: 700px;
+            margin: 0 auto 2rem;
+            opacity: 0.9;
+        }
+
+        .future-teaser {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .future-book {
+            background: rgba(75, 0, 130, 0.2);
+            border: 2px dashed rgba(212, 175, 55, 0.3);
+            border-radius: 15px;
+            padding: 2rem;
+            width: 300px;
+            transition: var(--transition-fast);
+        }
+
+        .future-book:hover {
+            border-color: var(--primary-gold);
+            background: rgba(75, 0, 130, 0.3);
+        }
+
+        .future-book h3 {
+            font-family: var(--font-heading);
+            color: var(--primary-gold);
+            margin-bottom: 0.5rem;
+        }
+
+        .future-book p {
+            font-size: 1rem;
+            opacity: 0.8;
+            margin: 0;
+        }
+
+        /* About Section */
+        .about-section {
+            padding: 4rem 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .about-section h2 {
+            font-family: var(--font-heading);
+            font-size: 1.8rem;
+            color: var(--primary-gold);
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .about-content {
+            font-size: 1.15rem;
+            line-height: 1.8;
+        }
+
+        .about-content p {
+            margin-bottom: 1.5rem;
+        }
+
+        /* Footer */
+        .footer {
+            background: rgba(0, 0, 0, 0.8);
+            border-top: 2px solid var(--primary-gold);
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .footer-brand {
+            font-family: var(--font-heading);
+            font-size: 1.5rem;
+            color: var(--primary-gold);
+            margin-bottom: 0.5rem;
+        }
+
+        .footer-tagline {
+            font-style: italic;
+            opacity: 0.8;
+            margin-bottom: 1rem;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-bottom: 1.5rem;
+        }
+
+        .footer-links a {
+            color: var(--cream);
+            text-decoration: none;
+            transition: var(--transition-fast);
+        }
+
+        .footer-links a:hover {
+            color: var(--primary-gold);
+        }
+
+        .footer-copyright {
+            font-size: 0.9rem;
+            opacity: 0.7;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 900px) {
+            .books-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .book-card-header {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+
+            .book-info {
+                text-align: center;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .publisher-logo {
+                font-size: 1.8rem;
+            }
+
+            .hero h1 {
+                font-size: 1.6rem;
+            }
+
+            .hero p {
+                font-size: 1.1rem;
+            }
+
+            .book-cover-container {
+                width: 150px;
+                height: 225px;
+            }
+
+            .book-title {
+                font-size: 1.3rem;
+            }
+
+            .book-cta {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+            }
+
+            .future-teaser {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .book-card {
+            animation: fadeInUp 0.8s ease-out forwards;
+        }
+
+        .book-card:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        /* Decorative Elements */
+        .celtic-border {
+            height: 4px;
+            background: linear-gradient(90deg, 
+                transparent 0%, 
+                var(--primary-gold) 20%, 
+                var(--primary-gold) 80%, 
+                transparent 100%);
+            margin: 2rem auto;
+            max-width: 300px;
+        }
+
+        /* ═══════════════════════════════════════════════════════
+           THE NEPHILIM CHRONICLES — Dark Amber/Teal Theme
+           Distinct from Stone & Sceptre's Blue/Gold palette
+           ═══════════════════════════════════════════════════════ */
+        .nephilim-series {
+            background: linear-gradient(
+                135deg,
+                rgba(10, 10, 15, 0.97) 0%,
+                rgba(26, 15, 5, 0.93) 50%,
+                rgba(10, 10, 15, 0.97) 100%
+            );
+            border-top: 2px solid rgba(201, 135, 30, 0.45);
+            border-bottom: 2px solid rgba(201, 135, 30, 0.45);
+            margin-top: 3rem;
+            padding: 3rem 2rem;
+        }
+
+        .nephilim-series .series-header h2 {
+            color: #c9871e;
+        }
+
+        .nephilim-series .series-header p {
+            color: #f0e8d0;
+        }
+
+        .nephilim-series p.series-genre {
+            color: #9a9a8a;
+            font-style: italic;
+        }
+
+        .nephilim-series .series-header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .nephilim-series .series-ornament {
+            color: #c9871e;
+            margin-top: 1rem;
+            font-size: 1.1rem;
+            letter-spacing: 4px;
+        }
+
+        .nephilim-series .series-meta {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .nephilim-series .series-meta h2 {
+            font-family: var(--font-heading);
+            font-size: 1.3rem;
+            color: #c9871e;
+            margin-bottom: 0.3rem;
+        }
+
+        .nephilim-card {
+            background: rgba(201, 135, 30, 0.06);
+            border: 2px solid rgba(201, 135, 30, 0.2);
+        }
+
+        .nephilim-card:hover {
+            border-color: rgba(201, 135, 30, 0.55);
+            box-shadow: 0 8px 30px rgba(201, 135, 30, 0.18);
+        }
+
+        .nephilim-card .book-card-header {
+            background: linear-gradient(
+                180deg,
+                rgba(201, 135, 30, 0.12) 0%,
+                transparent 100%
+            );
+        }
+
+        .nephilim-card .book-number {
+            color: #c9871e;
+        }
+
+        .nephilim-card .book-title {
+            color: #c9871e;
+        }
+
+        .nephilim-card .book-quote {
+            background: rgba(42, 157, 143, 0.08);
+            border-left: 4px solid #2a9d8f;
+        }
+
+        .nephilim-card .book-quote p {
+            color: #e8c97a;
+        }
+
+        .nephilim-card .btn-primary {
+            background: linear-gradient(135deg, #c9871e, #d4891a);
+            color: #0a0a0f;
+        }
+
+        .nephilim-card .btn-primary:hover {
+            background: linear-gradient(135deg, #e8c97a, #c9871e);
+            box-shadow: 0 5px 20px rgba(201, 135, 30, 0.5);
+        }
+
+        .nephilim-card .btn-secondary {
+            border-color: #c9871e;
+            color: #c9871e;
+        }
+
+        .nephilim-card .btn-secondary:hover {
+            background: rgba(201, 135, 30, 0.12);
+            box-shadow: 0 0 15px rgba(42, 157, 143, 0.25);
+        }
+
+        /* Nephilim book-card-body layout (mirrors standard) */
+        .nephilim-card .book-card-body {
+            padding: 1.5rem 2rem 2rem;
+        }
+
+        .nephilim-card .book-card-body p {
+            font-size: 1.1rem;
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+            color: #f0e8d0;
+        }
+
+        .nephilim-card .book-card-buttons {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .nephilim-card .book-stats {
+            font-family: var(--font-body);
+            font-size: 0.9rem;
+            color: #f0e8d0;
+            opacity: 0.7;
+            font-style: italic;
+        }
+
+        .nephilim-card .book-subtitle {
+            font-style: italic;
+            color: #f0e8d0;
+        }
+
+        .nephilim-card .book-number-label {
+            font-family: var(--font-heading);
+            font-size: 0.85rem;
+            color: #c9871e;
+            opacity: 0.8;
+            letter-spacing: 2px;
+            display: block;
+            margin-bottom: 0.4rem;
+        }
+
+        .nephilim-card .book-card-info h3 {
+            font-family: var(--font-heading);
+            font-size: 1.5rem;
+            color: #c9871e;
+            margin-bottom: 0.4rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <h1 class="publisher-logo">KERMAN GILD PUBLISHING</h1>
+        <p class="publisher-tagline">Epic Chronicles of Faith, History & Divine Providence</p>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>The Stone and the Sceptre Chronicles</h1>
+        <p>A sweeping saga of ancient prophecies, supernatural warfare, and covenant faithfulness. Journey from the fall of Jerusalem to the establishment of kingdoms in the uttermost parts of the earth, where divine purpose guides the wandering children of Israel to their appointed destiny.</p>
+        <div class="celtic-border"></div>
+    </section>
+
+    <!-- Books Section -->
+    <section class="series-section">
+        <div class="series-header">
+            <h2>The Chronicle Series</h2>
+            <p>Christian Historical Fiction • Epic Fantasy • 6th Century BCE</p>
+        </div>
+
+        <div class="books-grid">
+            <!-- Book 1 -->
+            <article class="book-card">
+                <div class="book-card-header">
+                    <div class="book-cover-container">
+                        <img src="./book1/images/book-cover.jpg" alt="The Stone and the Sceptre: A Scribe's Tale - Book Cover">
+                    </div>
+                    <div class="book-info">
+                        <span class="book-number">BOOK ONE</span>
+                        <h3 class="book-title">The Stone and the Sceptre</h3>
+                        <p class="book-subtitle">A Scribe's Tale</p>
+                        <p class="book-meta">~150,000 words • Complete</p>
+                    </div>
+                </div>
+                <div class="book-card-body">
+                    <p class="book-description">
+                        As Jerusalem falls to Babylon, the prophet Jeremiah flees with a sacred charge: the Stone of Destiny and the last princess of David's line. Aboard the Sea Serpent, they sail into the unknown, carrying the covenant promises to lands beyond the pillars of the world.
+                    </p>
+                    <div class="book-quote">
+                        <p>"I will overturn, overturn, overturn, it: and it shall be no more, until he come whose right it is; and I will give it him."</p>
+                        <cite>— Ezekiel 21:27</cite>
+                    </div>
+                    <div class="book-cta">
+                        <a href="./book1/" class="btn btn-primary">Explore Book 1</a>
+                        <a href="./book1/qr-code.html" class="btn btn-secondary">Share</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- Book 2 -->
+            <article class="book-card">
+                <div class="book-card-header">
+                    <div class="book-cover-container">
+                        <img src="./book2/images/book-cover.jpg" alt="The Red Hand and The Eternal Throne: A Bard's Chronicle - Book Cover">
+                    </div>
+                    <div class="book-info">
+                        <span class="book-number">BOOK TWO</span>
+                        <h3 class="book-title">The Red Hand & The Eternal Throne</h3>
+                        <p class="book-subtitle">A Bard's Chronicle</p>
+                        <p class="book-meta">~160,000 words • Complete</p>
+                    </div>
+                </div>
+                <div class="book-card-body">
+                    <p class="book-description">
+                        In Celtiberian Iberia, Gathelus of the Red Hand and Princess Scota forge a kingdom from the ashes of exile. United against the giant-king Balor and his supernatural hordes, Hebrew refugees and Celtic warriors discover that only divine intervention can overcome the forces of darkness.
+                    </p>
+                    <div class="book-quote">
+                        <p>"And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south."</p>
+                        <cite>— Genesis 28:14</cite>
+                    </div>
+                    <div class="book-cta">
+                        <a href="https://www.amazon.com.au/dp/B0GHMMJ16R" class="btn btn-primary" target="_blank" rel="noopener">Buy on Amazon</a>
+                        <a href="./book2/" class="btn btn-secondary">Explore Book 2</a>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <!-- Future Books Section -->
+    <section class="future-section">
+        <h2>The Journey Continues...</h2>
+        <p>The Stone and the Sceptre Chronicles follows the covenant promises across centuries and continents. Future volumes will continue the epic saga.</p>
+        
+        <div class="future-teaser">
+            <div class="future-book">
+                <span class="coming-soon-badge">COMING SOON</span>
+                <h3>Book Three</h3>
+                <p>The Third Overturn — The throne moves to its final resting place among the emerald isles.</p>
+            </div>
+            <div class="future-book">
+                <span class="coming-soon-badge">IN DEVELOPMENT</span>
+                <h3>Future Chronicles</h3>
+                <p>The covenant story continues through the ages...</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════ -->
+    <!-- THE NEPHILIM CHRONICLES — New Series Section           -->
+    <!-- ═══════════════════════════════════════════════════════ -->
+    <section class="nephilim-series">
+        <div style="max-width:1400px;margin:0 auto;">
+
+            <div class="series-header">
+                <h2>The Nephilim Chronicles</h2>
+                <p>When ancient oaths meet prophetic destiny, the last war begins.
+                A 2,631-year-old Celtic warrior discovers he is one of the Two Witnesses
+                of Revelation — and the imprisoned Watchers are about to be released.</p>
+                <div class="series-ornament">──── ✦ ────</div>
+            </div>
+
+            <div class="series-meta">
+                <h2>The Chronicles Series</h2>
+                <p class="series-genre">Christian Biblical Thriller &bull; Supernatural Fiction &bull;
+                Apocalyptic Fantasy</p>
+            </div>
+
+            <div class="books-grid">
+                <article class="book-card nephilim-card">
+                    <div class="book-card-header">
+                        <div class="book-cover-container">
+                            <img src="./nephilim/images/book-cover.jpg"
+                                 alt="The Cydonian Oaths — Book 1 of The Nephilim Chronicles by Kerman Gild" />
+                        </div>
+                        <div class="book-card-info">
+                            <span class="book-number-label">BOOK ONE</span>
+                            <h3>The Cydonian Oaths</h3>
+                            <p class="book-subtitle">The Nephilim Chronicles</p>
+                            <p class="book-stats">~165,000 words &bull; Available Now</p>
+                        </div>
+                    </div>
+                    <div class="book-card-body">
+                        <p>He has hunted monsters for 2,600 years. He thought he knew what was coming.
+                        He was wrong.</p>
+                        <p>In 586 BCE, Celtic warrior Cian mac Morna received a sword, a commission,
+                        and a secret. Twenty-six centuries later — the sword finally speaks. The Two
+                        Witnesses of Revelation are returning. Cian is their Guardian. And the ancient
+                        enemy has spent five thousand years preparing for exactly this moment.</p>
+                        <div class="book-quote">
+                            <p>&ldquo;The chains are weakening. The oaths are stirring. It has arrived.&rdquo;</p>
+                        </div>
+                        <div class="book-card-buttons">
+                             <a href="https://www.amazon.com.au/dp/B0F5GM2Z5M" 
+                               class="btn btn-primary"
+                               target="_blank"
+                               rel="noopener">Buy on Amazon</a>
+                            <a href="./nephilim/" class="btn btn-secondary">Explore Book 1</a>
+                        </div>
+                    </div>
+                </article>
+                <!-- Nephilim Book 2 -->
+                <article class="book-card nephilim-card">
+                    <div class="book-card-header">
+                        <div class="book-cover-container">
+                            <img src="./nephilim/book2/images/book-cover.jpg"
+                                 alt="The Cauldron of God - Book 2 of The Nephilim Chronicles by Kerman Gild" />
+                        </div>
+                        <div class="book-card-info">
+                            <span class="book-number-label">BOOK TWO</span>
+                            <h3>The Cauldron of God</h3>
+                            <p class="book-subtitle">The Nephilim Chronicles</p>
+                            <p class="book-stats">~130,000 words &bull; Available Now</p>
+                        </div>
+                    </div>
+                    <div class="book-card-body">
+                        <p>Seven weeks after Mars. Two kilometres beneath Antarctic ice, something five thousand years old is waking up.</p>
+                        <p>Cian mac Morna has never lost a war. He has never descended into a Watcher-era prison with a depleted sword and a finite clock. Until now. Naamah has found Dudael &mdash; the antediluvian prison of Azazel &mdash; and she is two kilometres from breaking the final seal.</p>
+                        <div class="book-quote">
+                            <p>&ldquo;Bind Azazel hand and foot, and cast him into the darkness: and make an opening in the desert which is in Dudael.&rdquo;</p>
+                            <cite>&mdash; 1 Enoch 10:4</cite>
+                        </div>
+                        <div class="book-card-buttons">
+                            <a href="https://www.amazon.com.au/" class="btn btn-primary" target="_blank" rel="noopener">Buy on Amazon</a>
+                            <a href="./nephilim/book2/" class="btn btn-secondary">Explore Book 2</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about-section">
+        <h2>About the Author</h2>
+        <div class="about-content">
+            <p>
+                <strong>Kerman Gild</strong> brings together extensive research in ancient history, biblical archaeology, and Celtic traditions to craft these epic chronicles. Drawing from primary sources including Hebrew genealogies, Celtic oral traditions, and archaeological evidence, the author weaves together historical fact and inspired imagination.
+            </p>
+            <p>
+                These works represent years of careful study into the migration patterns of the lost tribes of Israel, the establishment of early Celtic kingdoms, and the intersection of Hebrew and Celtic cultures in the western lands. The chronicles maintain historical authenticity while exploring the spiritual dimensions of covenant faithfulness across generations.
+            </p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <h2 class="footer-brand">Kerman Gild Publishing</h2>
+        <p class="footer-tagline">Where Ancient Prophecy Meets Epic Adventure</p>
+        <nav class="footer-links">
+            <a href="./book1/">Book 1: The Stone and the Sceptre</a>
+            <a href="./book2/">Book 2: The Red Hand Chronicle</a>
+            <a href="./nephilim/">Nephilim Book 1: The Cydonian Oaths</a>
+            <a href="./nephilim/book2/">Nephilim Book 2: The Cauldron of God</a>
+        </nav>
+        <p class="footer-copyright">&copy; 2025-2026 Kerman Gild Publishing. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
