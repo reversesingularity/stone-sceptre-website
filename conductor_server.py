@@ -155,6 +155,9 @@ AGENT_TASK_TYPES = {
     "constitution_update":  "Merge CRDT proposals into canon docs (Agent 3)",
     "cross_book_audit":     "Full cross-book continuity audit (Agent 10)",
     "image_prompt":         "Generate KDP image prompts (Agent 6)",
+    "content_strategy":     "Generate social/SEO/serialization content (Agent 9 — Content Strategist)",
+    "nz_grants":            "Scrape NZ literary grants and update opportunities log (Agent 9 — NZ Monitor)",
+    "youtube_anchor":       "Generate YouTube anchor content brief (Agent 9 — Content Strategist)",
 }
 
 

@@ -50,6 +50,7 @@ STAGING_DIR   = PROJECT_ROOT / "STAGING" / "crdt_proposals"
 LOG_DIR       = PROJECT_ROOT / "LOGS"
 HEALTH_LOG    = LOG_DIR / "DAEMON_HEALTH.log"
 ERROR_LOG     = LOG_DIR / "nemoclaw_errors.log"
+FREEZE_LOCK   = PROJECT_ROOT / "FREEZE_MODE.lock"
 
 N8N_BASE           = "http://localhost:5678"
 QDRANT_URL         = "http://localhost:6333"
@@ -59,7 +60,12 @@ KDP_FORMAT_URL     = "http://localhost:8766"
 STORY_PROTO_URL    = "http://localhost:8767"
 NEMOTRON_ROUTER    = "http://localhost:8768"
 EMBED_MODEL        = "nomic-embed-text"
-DRIFT_MODEL        = "mistral"
+
+# Local Nemotron 3 Super GGUF via llama-server
+LOCAL_NEMOTRON_PORT  = int(os.environ.get("LOCAL_NEMOTRON_PORT", "8780"))
+LOCAL_NEMOTRON_URL   = f"http://localhost:{LOCAL_NEMOTRON_PORT}/v1/chat/completions"
+LOCAL_NEMOTRON_MODEL = os.environ.get("LOCAL_NEMOTRON_MODEL", "nemotron-3-super")
+DRIFT_MODEL        = LOCAL_NEMOTRON_MODEL  # was: "mistral"
 
 # Heartbeat intervals (seconds)
 HEALTH_CHECK_INTERVAL   = 300    # 5 minutes
@@ -105,6 +111,8 @@ SERVICES = {
     "kdp_format":    f"{KDP_FORMAT_URL}/health",
     "story_proto":   f"{STORY_PROTO_URL}/health",
     "nemotron_router": f"{NEMOTRON_ROUTER}/health",
+    "agent_9":       "http://localhost:8772/health",
+    "local_nemotron": f"http://localhost:{LOCAL_NEMOTRON_PORT}/health",
 }
 
 
@@ -185,6 +193,11 @@ def scan_watched_paths():
 def process_file_event(event):
     """Handle a file change event — notify n8n and auto-vectorize."""
     path = event["path"]
+
+    if FREEZE_LOCK.exists():
+        logger.info(f"Author Freeze active — skipping dispatch for {Path(path).name}")
+        return
+
     logger.info(f"Processing: {Path(path).name}")
 
     # 1. Notify n8n
@@ -286,6 +299,9 @@ def embed_and_upsert(text, payload, collection):
 
 def run_crdt_collect():
     """Check for pending proposals; trigger n8n Constitution Updater if found."""
+    if FREEZE_LOCK.exists():
+        logger.debug("Author Freeze active — skipping CRDT collect")
+        return
     if not STAGING_DIR.exists():
         return
 
@@ -310,6 +326,9 @@ def run_crdt_collect():
 
 def run_drift_alert():
     """Run a lightweight drift check on the most recently modified chapter."""
+    if FREEZE_LOCK.exists():
+        logger.debug("Author Freeze active — skipping drift alert")
+        return
     # Find most recently modified chapter across watch paths
     latest_file = None
     latest_mtime = 0

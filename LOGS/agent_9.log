@@ -1,0 +1,38 @@
+2026-04-10 17:31:22,794 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
+2026-04-10 17:31:22,795 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-10 17:31:22,795 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-10 17:34:26,349 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
+2026-04-10 17:34:26,350 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-10 17:34:26,350 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-10 17:42:27,985 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
+2026-04-10 17:42:27,986 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-10 17:42:27,986 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-10 18:42:31,639 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
+2026-04-10 18:42:31,640 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-10 18:42:31,641 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-10 19:00:14,475 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
+2026-04-10 19:00:14,476 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-10 19:00:14,477 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-10 21:33:32,808 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
+2026-04-10 21:33:32,809 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-10 21:33:32,810 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-10 21:41:50,468 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
+2026-04-10 21:41:50,469 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-10 21:41:50,471 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-10 21:48:50,124 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
+2026-04-10 21:48:50,125 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-10 21:48:50,126 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-10 23:59:59,912 [AGENT-9] INFO NZ Grant scrape triggered
+2026-04-11 00:00:01,901 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-11 00:00:02,337 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-11 00:00:41,324 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md
+2026-04-11 19:20:41,666 [AGENT-9] ERROR Nemotron router call failed: HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=300)
+2026-04-11 19:25:43,947 [AGENT-9] ERROR Nemotron router call failed: HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=300)
+2026-04-12 17:10:34,330 [AGENT-9] INFO NZ Grant scrape triggered
+2026-04-12 17:10:35,166 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-12 17:10:35,488 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-12 17:14:10,359 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md
+2026-04-13 00:24:41,928 [AGENT-9] INFO NZ Grant scrape triggered
+2026-04-13 00:24:42,641 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-13 00:24:42,971 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-13 00:26:52,171 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md

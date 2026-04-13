@@ -1,0 +1,124 @@
+2026-04-12 02:46:55,761 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) on port 8773
+2026-04-12 02:47:11,074 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-12 02:47:11,315 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-12 02:47:40,100 [Agent13] INFO  Generating twitter_thread for Book 3 Ch2 (tone=urgent)
+2026-04-12 02:47:40,605 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2026-04-12 02:47:40,782 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
+2026-04-12 02:49:28,846 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-12 02:50:40,539 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) on port 8773
+2026-04-12 02:50:59,503 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) on port 8773
+2026-04-12 02:51:02,706 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) on port 8773
+2026-04-12 02:51:27,713 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) on port 8773
+2026-04-12 02:51:58,304 [Agent13] INFO  Generating twitter_thread for Book 3 Ch2 (tone=urgent)
+2026-04-12 02:52:01,080 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2026-04-12 02:52:01,151 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
+2026-04-12 02:53:29,980 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-12 02:53:29,989 [Agent13] INFO  Generated twitter_thread — 514/803/796 chars (S/M/L)
+2026-04-12 02:54:14,847 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-12 02:54:15,072 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-12 02:54:17,229 [Agent13] INFO  Generating twitter_thread for Book 3 Ch2 (tone=urgent)
+2026-04-12 02:54:19,487 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2026-04-12 02:54:19,567 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
+2026-04-12 02:55:38,520 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-12 02:55:38,523 [Agent13] INFO  Generated twitter_thread — 464/552/589 chars (S/M/L)
+2026-04-12 02:56:27,575 [Agent13] INFO  Generating twitter_thread for Book 3 Ch2 (tone=urgent)
+2026-04-12 02:56:29,576 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2026-04-12 02:56:29,633 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
+2026-04-12 02:58:08,976 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-12 02:58:08,978 [Agent13] INFO  Generated twitter_thread — 500/1500/3204 chars (S/M/L)
+2026-04-12 02:58:11,574 [Agent13] INFO  Generating twitter_thread for Book 3 Ch2 (tone=urgent)
+2026-04-12 02:58:13,593 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2026-04-12 02:58:13,653 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
+2026-04-12 02:59:19,853 [Agent13] INFO  Generating twitter_thread for Book 3 Ch2 (tone=urgent)
+2026-04-12 02:59:49,545 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-12 02:59:50,231 [Agent13] WARNING  Qdrant context pull failed (non-fatal): 
+2026-04-12 03:01:06,559 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-12 03:01:06,568 [Agent13] INFO  Generated twitter_thread — 383/492/852 chars (S/M/L)
+2026-04-12 03:05:16,883 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-12 03:05:17,104 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-12 12:08:02,185 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-12 12:08:02,412 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-12 13:09:33,233 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-12 13:09:33,475 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-12 13:09:44,150 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-12 13:09:44,378 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-12 19:28:26,929 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-12 19:28:27,161 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-13 18:37:44,881 [Agent13] INFO  Seeded YA audience segment
+2026-04-13 18:37:44,882 [Agent13] INFO  Seeded Christian Fiction audience segment
+2026-04-13 18:37:44,884 [Agent13] INFO  Seeded BookTok audience segment
+2026-04-13 18:37:44,886 [Agent13] INFO  Seeded TNC brand voice profile
+2026-04-13 18:38:11,183 [Agent13] INFO  Seeded YA audience segment
+2026-04-13 18:38:11,185 [Agent13] INFO  Seeded Christian Fiction audience segment
+2026-04-13 18:38:11,186 [Agent13] INFO  Seeded BookTok audience segment
+2026-04-13 18:38:11,188 [Agent13] INFO  Seeded TNC brand voice profile
+2026-04-13 18:38:11,221 [Agent13] INFO  Seeded 18 SEO keywords
+2026-04-13 18:38:11,221 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) v2.0 on port 8773
+2026-04-13 18:38:37,564 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-13 18:38:37,805 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-13 18:52:48,059 [Agent13] INFO  Seeded YA audience segment
+2026-04-13 18:52:48,060 [Agent13] INFO  Seeded Christian Fiction audience segment
+2026-04-13 18:52:48,062 [Agent13] INFO  Seeded BookTok audience segment
+2026-04-13 18:52:48,066 [Agent13] INFO  Seeded TNC brand voice profile
+2026-04-13 18:52:48,089 [Agent13] INFO  Seeded 18 SEO keywords
+2026-04-13 18:52:48,090 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) v2.0 on port 8773
+2026-04-13 18:52:48,109 [Agent13] INFO  Autonomous scheduler started — working 24/6, resting on the Sabbath
+2026-04-13 18:52:48,110 [Agent13] INFO  ═══ SCHEDULER STARTED — Agent 13 works 24/6, rests on the Sabbath ═══
+2026-04-13 18:52:48,110 [Agent13] INFO  ─── CYCLE 1 ───
+2026-04-13 18:52:52,279 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2026-04-13 18:52:52,483 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
+2026-04-13 18:53:24,183 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-13 18:53:24,418 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-13 18:54:41,509 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-13 18:54:41,511 [Agent13] ERROR  Content gen task failed: table topic_authority has no column named created_at
+2026-04-13 18:54:42,935 [Agent13] INFO  HTTP Request: GET https://www.publishersweekly.com/pw/feeds/recent/index.xml "HTTP/1.1 200 OK"
+2026-04-13 18:54:42,941 [Agent13] ERROR  Trend scrape failed: table scrape_results has no column named created_at
+2026-04-13 18:55:49,626 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-13 18:55:49,627 [Agent13] INFO  SEO-DISCOVER: suggested keywords for 'dark christian speculative fiction series': []
+2026-04-13 18:55:49,636 [Agent13] INFO  HEALTH-SNAP: 0 campaigns, 0 queued, 18 SEO keywords
+2026-04-13 18:55:49,636 [Agent13] INFO  ─── CYCLE 1 COMPLETE — sleeping 15 min ───
+2026-04-13 19:07:47,008 [Agent13] INFO  Seeded YA audience segment
+2026-04-13 19:07:47,011 [Agent13] INFO  Seeded Christian Fiction audience segment
+2026-04-13 19:07:47,014 [Agent13] INFO  Seeded BookTok audience segment
+2026-04-13 19:07:47,016 [Agent13] INFO  Seeded TNC brand voice profile
+2026-04-13 19:07:47,051 [Agent13] INFO  Seeded 18 SEO keywords
+2026-04-13 19:07:47,052 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) v2.1 on port 8773
+2026-04-13 19:07:47,074 [Agent13] INFO  Autonomous scheduler started — working 24/6, resting on the Sabbath
+2026-04-13 19:07:47,074 [Agent13] INFO  ═══ SCHEDULER STARTED — Agent 13 works 24/6, rests on the Sabbath ═══
+2026-04-13 19:07:47,075 [Agent13] INFO  ─── CYCLE 1 ───
+2026-04-13 19:07:48,407 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2026-04-13 19:07:48,573 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
+2026-04-13 19:09:02,013 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-13 19:09:02,016 [Agent13] ERROR  Content gen task failed: 'dict' object has no attribute 'split'
+2026-04-13 19:09:03,201 [Agent13] INFO  HTTP Request: GET https://www.publishersweekly.com/pw/feeds/recent/index.xml "HTTP/1.1 200 OK"
+2026-04-13 19:09:04,602 [Agent13] INFO  HTTP Request: GET https://bookriot.com/feed/ "HTTP/1.1 200 OK"
+2026-04-13 19:09:05,183 [Agent13] INFO  TREND-SCAN: scraped 2 trend sources
+2026-04-13 19:09:49,572 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-13 19:09:49,574 [Agent13] INFO  SEO-DISCOVER: suggested keywords for 'celtic warrior mythology books': [{'keyword': 'celtic warrior angel stories', 'estimated_volume': 'medium', 'difficulty': 'easy', 'relevance': 8}, {'keyword': 'ya celtic mythology books with angels', 'estimated_volume': 'low', 'difficulty': 'hard', 'relevance': 9}, {'keyword': 'christian fantasy series with nephilim warriors', 'estimated_volume': 'medium', 'difficulty': 'easy', 'relevance': 8.5}]
+2026-04-13 19:09:49,578 [Agent13] INFO  HEALTH-SNAP: 0 campaigns, 0 queued, 18 SEO keywords
+2026-04-13 19:09:49,578 [Agent13] INFO  ─── CYCLE 1 COMPLETE — sleeping 15 min ───
+2026-04-13 19:15:43,314 [Agent13] INFO  Seeded YA audience segment
+2026-04-13 19:15:43,316 [Agent13] INFO  Seeded Christian Fiction audience segment
+2026-04-13 19:15:43,318 [Agent13] INFO  Seeded BookTok audience segment
+2026-04-13 19:15:43,321 [Agent13] INFO  Seeded TNC brand voice profile
+2026-04-13 19:15:43,367 [Agent13] INFO  Seeded 18 SEO keywords
+2026-04-13 19:15:43,367 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) v2.1 on port 8773
+2026-04-13 19:15:43,389 [Agent13] INFO  Autonomous scheduler started — working 24/6, resting on the Sabbath
+2026-04-13 19:15:43,389 [Agent13] INFO  ═══ SCHEDULER STARTED — Agent 13 works 24/6, rests on the Sabbath ═══
+2026-04-13 19:15:43,389 [Agent13] INFO  ─── CYCLE 1 ───
+2026-04-13 19:15:44,616 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2026-04-13 19:15:44,691 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
+2026-04-13 19:17:44,555 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-13 19:17:44,574 [Agent13] INFO  AUTO-GEN: tiktok_script for Ch15 (hopeful tone) → queued to 5 platforms
+2026-04-13 19:17:45,740 [Agent13] INFO  HTTP Request: GET https://www.publishersweekly.com/pw/feeds/recent/index.xml "HTTP/1.1 200 OK"
+2026-04-13 19:17:46,689 [Agent13] INFO  HTTP Request: GET https://bookriot.com/feed/ "HTTP/1.1 200 OK"
+2026-04-13 19:17:47,260 [Agent13] INFO  TREND-SCAN: scraped 2 trend sources
+2026-04-13 19:18:07,022 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-13 19:18:07,434 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-04-13 19:18:42,233 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2026-04-13 19:18:42,235 [Agent13] INFO  SEO-DISCOVER: suggested keywords for 'mars ancient alien mystery novels': [{'keyword': 'young adult mars colony novels', 'estimated_volume': 'low', 'difficulty': 'easy', 'relevance': 8}, {'keyword': 'alien invasion christian YA fiction', 'estimated_volume': 'medium', 'difficulty': 'medium', 'relevance': 9}, {'keyword': 'mars ancient alien mythology books', 'estimated_volume': 'low', 'difficulty': 'hard', 'relevance': 7}]
+2026-04-13 19:18:42,250 [Agent13] INFO  QUEUE-PROCESS: 0 API-posted, 5 staged for manual, 0 failed
+2026-04-13 19:18:42,253 [Agent13] INFO  HEALTH-SNAP: 0 campaigns, 5 queued, 18 SEO keywords
+2026-04-13 19:18:42,253 [Agent13] INFO  ─── CYCLE 1 COMPLETE — sleeping 15 min ───
+2026-04-13 19:27:12,634 [Agent13] INFO  HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-04-13 19:27:12,915 [Agent13] INFO  HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"

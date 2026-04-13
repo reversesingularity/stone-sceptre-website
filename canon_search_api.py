@@ -352,6 +352,12 @@ class CanonSearchHandler(BaseHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(json.dumps(result).encode("utf-8"))
 
+        elif parsed.path == "/health":
+            self.send_response(200)
+            self.send_header("Content-Type", "application/json")
+            self.end_headers()
+            self.wfile.write(json.dumps({"status": "ok", "service": "canon_search_api"}).encode("utf-8"))
+
         else:
             self.send_response(404)
             self.end_headers()

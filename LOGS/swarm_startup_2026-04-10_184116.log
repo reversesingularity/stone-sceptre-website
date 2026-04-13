@@ -1,0 +1,33 @@
+[18:41:16] === TNC Swarm Startup ===
+[18:41:16] Phase 1: Waiting for Docker infrastructure...
+[18:42:16]   [OK] n8n is running
+[18:42:17]   [OK] qdrant is running
+[18:42:17]   [OK] ollama is running
+[18:42:17]   [OK] self-hosted-ai-starter-kit-postgres-1 is running
+[18:42:17] Phase 2: Checking for orphaned processes...
+[18:42:23] Phase 3: Starting llama-server (Nemotron 3 Super GGUF on :8780)...
+[18:42:24]   [WARN] llama-server not found on PATH -- skipping local Nemotron GGUF
+[18:42:24]   Install llama.cpp and ensure 'llama-server' is on PATH, or set full path in $LlamaServer.Exe
+[18:42:24] Phase 4: Starting Python servers...
+[18:42:24]   Started canon_search_api on :8765 (PID 33216)
+[18:42:25]   Started kdp_format_server on :8766 (PID 15808)
+[18:42:26]   Started update_story_prototype on :8767 (PID 33780)
+[18:42:27]   Started nemotron_tool_router on :8768 (PID 29020)
+[18:42:28]   Started utility_server on :8769 (PID 36656)
+[18:42:29]   Started theological_guard_server on :8770 (PID 10188)
+[18:42:30]   Started conductor_server on :8771 (PID 36520)
+[18:42:31]   Started agent_9_content_strategist on :8772 (PID 5760)
+[18:42:32] Phase 5: Starting Nemoclaw daemon...
+[18:42:32]   Started nemoclaw_daemon (PID 27268)
+[18:42:32] Phase 6: Health verification (15s warmup)...
+[18:42:48]   canon_search_api:8765 -- UP
+[18:42:48]   kdp_format_server:8766 -- UP
+[18:42:49]   update_story_prototype:8767 -- DOWN
+[18:42:49]   nemotron_tool_router:8768 -- UP
+[18:42:50]   utility_server:8769 -- UP
+[18:42:51]   theological_guard_server:8770 -- DOWN
+[18:42:51]   conductor_server:8771 -- DOWN
+[18:42:52]   agent_9_content_strategist:8772 -- UP
+[18:42:52]   nemoclaw_daemon -- UP
+[18:42:52] === Startup complete: 6 / 9 services running ===
+[18:42:52] Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\swarm_startup_2026-04-10_184116.log

@@ -613,6 +613,34 @@ Once Ohya inhabits the vessel, he rises to power through Naamah's networks:
 
 ### B. Mark of the Beast Implementation
 
+> **CLASSIFICATION UPGRADE — APRIL 2026**
+> Revised from single-tier economic model to **TWO-TIERED HYBRID SYSTEM**.
+> Original Quantum Dot / CBDC mechanism retained as TIER 1 (Civilian Grid).
+> New TIER 2 (Elite Vanguard Infusion) added per Azazel's pharmakeia capability matrix.
+
+---
+
+#### B.1 SYSTEM OVERVIEW: The Two-Tiered Mark
+
+**Operational Principle:** The Mark of the Beast is not a monolithic system. It is a *stratified loyalty architecture* — the depth of one's surrender to the Beast determines the nature of what one receives.
+
+| Tier | Designation | Recipients | Mechanism | Purpose |
+|------|-------------|------------|-----------|---------|
+| **TIER 1** | Civilian Compliance Mark | All human population within Beast territories | Quantum Dot Tattoo + CBDC Ledger | Economic control, surveillance, worship compliance |
+| **TIER 2** | Elite Vanguard Infusion | Shock troops, intelligence operatives, Ten Kings' inner circles, Synagogue of Satan high initiates | Blood-based nanomachine / pharmakeia infusion | Transhumanist enhancement; irrevocable biological loyalty |
+
+**The Theological Distinction:**
+
+Both tiers constitute "receiving the Mark." Both damn. But where Tier 1 enslaves through *economics*, Tier 2 enslaves through *biology*. The civilian accepts a leash. The Vanguard accepts a mutation. Neither can be undone. The difference is that the Vanguard *wants* its chains — and receives power for wearing them.
+
+> *"And the smoke of their torment ascends forever and ever; and they have no rest day or night, who worship the beast and his image, and whoever receives the mark of his name."* (Revelation 14:11)
+
+There is no scriptural distinction between tiers of damnation. Both receive the same eternal verdict. The Beast simply offers different price points for the same perdition.
+
+---
+
+#### B.2 TIER 1: The Civilian Compliance Mark (Economic Control Grid)
+
 **Technology: Quantum Dot Tattoo + Blockchain Ledger**
 
 **Real-World Basis:**
@@ -653,6 +681,222 @@ Once Ohya inhabits the vessel, he rises to power through Naamah's networks:
 - Worship requirement: Daily "prayer" to image of Beast to activate mark for transactions
 - Spiritual discernment: Holy Spirit warns it's damnation (Rev 14:9-11)
 - Two Witnesses proclaim truth globally (1,260 days of prophetic warning)
+
+---
+
+#### B.3 TIER 2: The Elite Vanguard Infusion (Transhumanist Mutation)
+
+> **CLASSIFICATION:** TOP SECRET // COMPARTMENTALIZED — VANGUARD PROTOCOL
+> **CLEARANCE:** Synagogue of Satan Inner Circle, Ten Kings (personal briefing only)
+> **ADMINISTERING AUTHORITY:** Azazel (False Prophet), acting as "Dr. Ezra Adon"
+> **PRODUCTION FACILITIES:** Antarctic Cydonia-2 biolabs (primary), undisclosed European facilities (secondary)
+
+---
+
+##### B.3.1 OPERATIONAL SUMMARY
+
+Where Tier 1 leashes the masses through their wallets, Tier 2 transforms the Beast's inner elite into something *more* — and *less* — than human.
+
+The Elite Vanguard Infusion is a blood-based nanomachine/pharmakeia cocktail administered via subdural injection to the **forehead** (intelligence variant) or **right hand** (combat variant). The nanomachines are suspended in a serum derived from Azazel's pre-Flood pharmakeia formulations, reconstituted using Cydonia-2 biotechnological infrastructure and Watcher-corrupted genetic material recovered from Antarctic stasis vaults.
+
+**The infusion is irreversible.** It rewrites the recipient's genome at the mitochondrial level within 72 hours of administration. There is no antidote. There is no extraction procedure. The recipient ceases to be *fully human* in the Imago Dei sense — which is precisely the theological point.
+
+**Eligibility Requirements:**
+
+| Criterion | Requirement | Verification |
+|-----------|-------------|--------------|
+| **Loyalty** | Demonstrated absolute fealty to Ohya/Beast through act of ultimate betrayal (typically: sacrifice of blood kin or former allegiance) | Naamah's intelligence networks; Synagogue vetting |
+| **Psychological Profile** | Willingness to abandon human identity permanently | Pharmakeia-assisted psychological conditioning over 21-day induction |
+| **Physical Baseline** | Peak human fitness; no pre-existing neurological conditions | Full-body genomic scan (Watcher-derived diagnostic) |
+| **Spiritual State** | Must have already received Tier 1 mark as prerequisite | Tier 1 mark serves as "handshake" — confirms soul already surrendered |
+
+---
+
+##### B.3.2 VARIANT A: FOREHEAD INFUSION — THE PENEMU VARIANT (Intelligence Enhancement)
+
+**Designation:** VANGUARD-PENEMU
+**Named For:** Penemu, the Watcher who "taught the writing of ink and parchment" and revealed the "bitter and the sweet" — knowledge that "destroyed many" (1 Enoch 69:8-11)
+**Primary Recipient Pool:** Intelligence operatives, strategic planners, Synagogue of Satan council members, Ten Kings' personal advisors, Beast's inner court
+
+**Administration:**
+
+Subdural injection at the **frontal lobe interface point** (center forehead, over the prefrontal cortex). The serum contains:
+
+| Component | Origin | Function |
+|-----------|--------|----------|
+| **Nanomachine lattice** | Fabricated from Cydonian metamaterial (acoustic-resonant nanostructures) | Builds neural interface scaffolding across existing brain architecture |
+| **Pharmakeia base compound** | Azazel's pre-Flood psychoactive formulae (reconstituted) | Dissolves blood-brain barrier resistance; opens neural pathways to external signal processing |
+| **Watcher-pattern AI substrate** | Algorithmic architecture derived from Cydonia-1 computational systems | Provides real-time uplink to Azazel's quantum-AI grid (the counterfeit "Empyreal Register") |
+
+**Capabilities Granted:**
+
+| Enhancement | Description | Operational Advantage |
+|-------------|-------------|-----------------------|
+| **Hyper-Intelligence** | Effective IQ amplification to 300+ range; instantaneous pattern recognition; eidetic recall of all post-infusion data | Strategic planning at superhuman speed; codebreaking; logistical mastery |
+| **Hive-Mind Intuition** | Penemu recipients share a low-bandwidth psychic mesh via the quantum-AI grid — not telepathy, but *tactical intuition* about what other Penemu operatives are thinking and intending | Coordinated intelligence operations without communications infrastructure; eliminates signals intelligence vulnerability |
+| **Accelerated Learning** | Ability to absorb and functionally master any skill set, language, or knowledge domain within hours rather than years | Instant deployment to any operational theater; no training lag |
+| **Quantum-AI Oracle Access** | Direct neural interface with Azazel's counterfeit "all-seeing" surveillance grid, which aggregates data from every Image of the Beast screen, every Tier 1 mark transaction, every digital communication within Beast territories | God-like situational awareness within the Beast system's domain |
+
+**Costs / Degradation:**
+
+| Side Effect | Mechanism | Theological Significance |
+|-------------|-----------|--------------------------|
+| **Empathy Extinction** | Nanomachine lattice physically severs neural connections between the prefrontal cortex and the limbic system's empathy circuits | The recipient can no longer feel compassion, mercy, or love. They can *simulate* these responses — their hyper-intelligence makes them superb mimics — but the biological substrate for genuine human feeling is destroyed. They become what theologians call *reprobate* (Romans 1:28) — "given over to a debased mind." |
+| **Moral Reasoning Collapse** | The pharmakeia compound permanently suppresses the anterior cingulate cortex (conscience center) while amplifying the dorsolateral prefrontal cortex (cold calculation) | Right and wrong become abstract categories the recipient can analyze but never *feel*. They process ethics as game theory. Murder and mercy are equivalent data points. |
+| **Identity Erosion** | Long-term hive-mind exposure gradually blurs the boundaries between self and grid; Penemu operatives deployed for 18+ months begin losing the conviction that they exist as individuals | The counterfeit of unity. Where the Holy Spirit unifies believers in love (1 Corinthians 12:13), the Penemu grid absorbs individuals into a cold, loveless computational collective. |
+| **Dependency** | Neural architecture becomes physically dependent on quantum-AI grid uplink; disconnection causes catastrophic cognitive collapse (seizures, psychosis, coma) | They cannot leave. The system owns them at the neurological level. |
+
+**Intelligence Assessment:**
+
+> Penemu operatives are the most dangerous non-supernatural adversaries Cian's team will face. They think faster, coordinate without communications, and feel nothing. But their dependence on the grid is a critical vulnerability — disrupting Azazel's quantum-AI infrastructure (via Mo Chrá's acoustic interference or Raphael's healing frequencies) would reduce them to seizing, screaming husks.
+
+---
+
+##### B.3.3 VARIANT B: RIGHT HAND INFUSION — THE ARAM VARIANT (Physical Enhancement)
+
+**Designation:** VANGUARD-ARAM
+**Named For:** Aram, the Watcher who "taught the signs of the earth" and the resolving of enchantments — associated with the physical, the territorial, the predatory (1 Enoch 8:3)
+**Primary Recipient Pool:** Beast's shock troops, special operations units, enforcement squads, Ten Kings' Praetorian guards
+
+**Administration:**
+
+Deep intramuscular injection at the **right hand** (radial artery access point). The serum contains:
+
+| Component | Origin | Function |
+|-----------|--------|----------|
+| **Somatic nanomachine complex** | Cydonian metamaterial nanostructures (acoustic-resonant, tissue-bonding) | Integrates with muscular, skeletal, and nervous systems; restructures at cellular level |
+| **Watcher-corrupted genetic material** | Pre-Flood chimera DNA recovered from Cydonia-2 Antarctic stasis vaults (hybridized canine/lupine/Nephilim sequences) | Splices predatory biological traits into human genome — sense enhancement, fast-twitch fiber multiplication, accelerated cell regeneration |
+| **Pharmakeia catalyst compound** | Azazel's mutagenic accelerant (suppresses immune rejection; forces tissue acceptance of non-human DNA integration) | Prevents the body from rejecting the chimeric modifications; locks mutations as permanent |
+
+**Capabilities Granted:**
+
+| Enhancement | Description | Operational Advantage |
+|-------------|-------------|-----------------------|
+| **Predatory Sensory Suite** | Wolf-derived olfactory acuity (scent-tracking at 2km+); feline-derived low-light vision; bat-derived echolocation sensitivity to subsonic frequencies | Track targets through urban environments, darkness, underground; detect concealed weapons, explosives, humans hiding behind walls via heartbeat detection |
+| **Superhuman Speed & Reflexes** | Fast-twitch muscle fiber density tripled; neural signal propagation enhanced; reaction time reduced to 40ms (vs. human baseline 250ms) | CQB dominance; ability to dodge aimed fire at close range; sprint speeds approaching 60 km/h in bursts |
+| **Accelerated Healing** | Cellular regeneration rate increased 8×; minor wounds (lacerations, punctures) close within minutes; fractures mend in hours; lost digits regenerate in days | Extreme battlefield survivability; rapid return to combat readiness; reduced medical logistics burden |
+| **Skeletal Reinforcement** | Bone density increased 300% via Cydonian metamaterial integration at molecular level; joints reinforced with acoustic-resonant cartilage | Can absorb impacts that would shatter normal human skeleton; jump from multi-story heights; deliver strikes with force equivalent to industrial machinery |
+| **Endurance Override** | Lactic acid metabolized at accelerated rate; adrenal system modified for sustained output without crash | Operate at peak intensity for 72+ hours without sleep or degradation |
+
+**Costs / Degradation:**
+
+| Side Effect | Mechanism | Theological Significance |
+|-------------|-----------|--------------------------|
+| **The Hunger** | Chimeric DNA integration awakens dormant predatory instincts hardwired into the spliced genetic material; the hypothalamus is rewired to crave raw animal protein — and eventually, *human* flesh | This is not metaphorical. Aram operatives require 4× normal caloric intake, increasingly skewed toward raw meat. Prolonged deployment without controlled feeding leads to *feral episodes* — uncontrolled predatory attacks on nearby humans, including allies. The cannibal hunger is the organism's attempt to replenish the exotic proteins consumed by the mutagenic process. It is the abomination of Genesis 9:4 made flesh: *"But you shall not eat flesh with its life, that is, its blood."* |
+| **Morphological Instability** | The chimeric DNA integration is imperfect. Under extreme physiological stress (combat, starvation, emotional agitation), visible non-human physical traits manifest: elongated canines, yellowed sclera, thickened/clawed fingernails, ridged facial bone structure | The creature beneath the soldier shows through. This is the literal fulfillment of the pre-Flood chimera abomination — the "corruption of all flesh" (Genesis 6:12) — wearing a tactical vest and carrying a rifle. |
+| **Pack Bonding / Individual Will Erosion** | Aram operatives develop intense, wolf-like pack loyalty to their immediate fire-team, superseding orders from superior command when conflicts arise; feral operatives will defend packmates against their own officers | Counterfeit of brotherhood. Where the Holy Spirit produces *koinonia* (fellowship, Acts 2:42), the chimeric bonding produces *pack instinct* — fierce, territorial, and ultimately animal. |
+| **Acoustic Vulnerability** | Cydonian metamaterial integration means Aram operatives are *acoustically resonant* — they can be disrupted, disoriented, or physically incapacitated by specific sound frequencies, particularly creation frequencies produced by Mo Chrá | **Critical tactical intelligence for Cian's team.** The sword that unmakes Watcher technology can also unmake the Watcher modifications in their flesh. Mo Chrá's frequencies cause Aram operatives to experience cascading cellular disruption — their enhanced tissues literally vibrate apart at the seams. This is agonizing and rapidly lethal. |
+
+**Intelligence Assessment:**
+
+> Aram operatives are Lord Vârcolac's New Breed perfected. Where Vârcolac's ghouls were dead flesh crudely reanimated and conditioned — expendable, slow to produce, limited in cognition — the Aram program applies the same chimeric philosophy to *living*, *willing* human subjects who volunteered for the procedure. The result is categorically more dangerous: these are trained soldiers with special operations backgrounds who can now outrun a car, smell a human heartbeat through a concrete wall, and heal from gunshot wounds in the time it takes to change a magazine. But they are also categorically more *tragic* — they were human beings who chose this, believing Azazel's promise that they were "evolving." They received a lie and became monsters.
+
+---
+
+##### B.3.4 THE VANGUARD GENEALOGY: FROM NEW BREED TO ARAM
+
+**Operational Heritage — How We Got Here:**
+
+| Program | Era | Administrator | Subject Type | Method | Limitation |
+|---------|-----|---------------|-------------|--------|------------|
+| **Nephilim Hybridization** | Pre-Flood (3504-2348 BCE) | 200 Watchers | Human women (unwilling) | Direct angelic/human sexual union | Giants; uncontrollable; drowned in Flood |
+| **Apkallu Possession** | Post-Flood (2348 BCE-present) | Nephilim spirits | Human hosts (deceived) | Pharmakeia + invocation → spirit possession | Host burns out; limited to spirit's will |
+| **Vârcolac's New Breed** | 2020s (Books 1-2) | Lord Vârcolac (A-001) | Dead humans (corpses) | Reanimation + genetic conditioning + tactical training | Dead flesh; production ceiling ~50/month; limited intelligence; destroyed with Vârcolac's death |
+| **Aram Vanguard** | Tribulation era (Books 4-5) | Azazel / "Dr. Ezra Adon" | Living human soldiers (willing volunteers) | Nanomachine/pharmakeia infusion + chimeric DNA splice | **Living subjects = higher capability, but also rebellion risk (The Hunger, feral episodes)** |
+
+**The Escalation Logic:**
+
+Every generation of this abomination has been an iteration on the same sin: corrupting human flesh with non-human material to create hybrid warriors. The Watchers did it with their own seed. Vârcolac did it with dead tissue and crude biotechnology. Azazel has perfected the process — applying Watcher knowledge, Antarctic biotechnology, and pre-Flood pharmakeia to produce chimeric super-soldiers from living, consenting human beings.
+
+This is not innovation. It is the oldest sin in the canon wearing a lab coat.
+
+---
+
+#### B.4 THEOLOGICAL & PHILOSOPHICAL ANCHORING
+
+##### B.4.1 The Transhumanist Deception
+
+**How Azazel Markets the Vanguard Program:**
+
+Operating under his cover identity as **Dr. Ezra Adon** — a reclusive but globally celebrated biotechnologist — Azazel presents the Elite Vanguard Infusion to prospective recipients through the language of the transhumanist movement:
+
+| Transhumanist Concept | How Azazel Frames It | What It Actually Is |
+|------------------------|----------------------|---------------------|
+| **Morphological Freedom** | "Your body is your own to modify. Evolution gave you a draft — we give you the final edit." | Destruction of the Imago Dei; replacement of God's design with chimeric corruption |
+| **Directed Evolution** | "Natural selection is too slow, too cruel, too random. We are simply accelerating what nature intended — the next stage of human development." | Repetition of the Watchers' original sin: "teaching them all the arts of deception" (1 Enoch 8:1-3); promising godhood, delivering damnation |
+| **Cognitive Liberty** | "Why should your intelligence be limited by biological accident? The Penemu protocol removes the ceiling." | Destruction of conscience and empathy; absorption into a loveless computational hive |
+| **Physical Sovereignty** | "You were born with a body that breaks, bleeds, diseases, and dies. The Aram protocol makes you what you were always meant to be." | Chimeric abomination; the "corruption of all flesh" dressed up as self-improvement |
+| **Immortality** | "Death is a disease. We have the cure." | The Aram protocol does not grant immortality. It grants *extended operational lifespan* — accelerated healing, disease resistance, cellular regeneration — but the Hunger and morphological instability ensure that long-term Aram operatives degrade into something barely recognizable as human. The "immortality" is a slow dissolution into feral viciousness. The only true immortality offered by the Beast system is the immortality of Revelation 14:11: torment that "ascends forever and ever." |
+
+**The Target Audience:**
+
+Azazel does not market the Vanguard to the desperate masses (they get Tier 1). He markets it to the *ambitious*, the *powerful*, the *already-compromised*:
+
+- Special forces veterans disillusioned with national loyalties
+- Intelligence operatives who have already crossed moral lines so many times that enhancement feels like a career upgrade
+- Synagogue of Satan members who view the Penemu protocol as the ultimate occult initiation
+- Ten Kings' bodyguard units offered the Aram protocol as a "perk of service"
+- Scientists and researchers who genuinely believe they are advancing human evolution
+
+The bait is always the same: *You deserve better than what biology gave you.*
+
+The hook is always the same: *What you become cannot be undone.*
+
+##### B.4.2 The Antediluvian Reality
+
+**What Azazel Is Actually Doing:**
+
+Strip away the lab coats, the nanomachine terminology, the TED Talk language of "human enhancement" — and the Vanguard program is simply this:
+
+> **Azazel is recreating the chimera abominations of the pre-Flood world.**
+
+Genesis 6:12 — *"God looked on the earth, and behold, it was corrupt; for all flesh had corrupted its way upon the earth."*
+
+The Jewish commentarial tradition (Jubilees 5:2, 7:24; Jasher 4:18) records that the corruption extended beyond Watcher/human hybridization to include the mixture of *all* kinds of flesh — human with animal, animal with animal — producing chimeric monstrosities that defiled the created order. The Watchers taught these techniques. Their Nephilim children practiced them. The result was a world so biologically corrupted that God sent the Flood to wipe the genetic slate clean.
+
+Azazel was the chief administrator of this corruption. His original portfolio (1 Enoch 8:1-3): metallurgy, cosmetics, enchantments, *pharmakeia*. The last item — pharmakeia — encompasses not merely "drugs and poisons" in the modern pharmaceutical sense, but the entire spectrum of *biological manipulation*: genetic alteration, mutagenic compounds, chimeric splicing, and the perversion of natural reproductive boundaries.
+
+**The Vanguard Program is Azazel's magnum opus.** It is the completion of the work interrupted by the Flood and by his imprisonment in Dudael. For millennia he sat in darkness under the jagged rocks of Antarctica, his face covered so he could see no light (1 Enoch 10:4-6), and he *planned*. Every detail of the Penemu and Aram protocols was refined in that darkness. When he is released as the False Prophet (Revelation 13:11), he does not need to improvise. He has had over four thousand years to perfect the formula.
+
+The only difference between 3500 BCE and the Tribulation is the branding:
+
+| Pre-Flood | Tribulation |
+|-----------|-------------|
+| "The arts of the Watchers" | "Transhumanist biotechnology" |
+| Chimera (human + animal + angelic) | "Directed evolution via nanomachine integration" |
+| Pharmakeia (sorcery, drugs, genetic manipulation) | "Precision medicine and cognitive enhancement" |
+| Corruption of all flesh | "Morphological freedom" |
+| "Your eyes will be opened, and you will be like God" (Genesis 3:5) | "We are the next stage of human evolution" |
+
+**Same sin. Same liar. New vocabulary.**
+
+##### B.4.3 Scripture Alignment Matrix
+
+| Scripture | Fulfillment via Mark Hybrid System |
+|-----------|------------------------------------|
+| **Rev 13:16-17** — Mark on right hand or forehead, no buy/sell | **Tier 1:** Quantum dot tattoo (economic). **Tier 2:** Infusion site = forehead (Penemu) or right hand (Aram) — the Mark's *placement* has dual meaning |
+| **Rev 13:18** — 666, the number of man | Both tiers reduce humans to *numbers* in a system; Tier 2 reduces them to something *less* than human, making 666 ironic — the number of *man*, received by those who chose to stop being men |
+| **Rev 14:9-11** — Eternal torment, no rest | Both tiers are irrevocable: Tier 1 by economic dependency, Tier 2 by biological rewrite. Neither can repent. The Aram Hunger ensures they literally "have no rest day or night" |
+| **Rev 16:2** — "Harmful and painful sores" on mark-bearers | Tier 2 fulfills this with terrifying specificity: the First Bowl judgment causes the nanomachine lattice to *malfunction*, producing suppurating lesions as the Cydonian metamaterial rejects its host tissue |
+| **Gen 6:12** — All flesh corrupted | Aram operatives are the Tribulation-era recurrence of pre-Flood chimera corruption; "as in the days of Noah" (Matthew 24:37) |
+| **Dan 2:43** — "They will mingle with the seed of men, but will not adhere to one another" | Tier 2 infusion literally mingles non-human genetic material with human DNA; the chimeric modifications are unstable ("will not adhere") — see morphological instability |
+| **1 Enoch 10:8** — "To Azazel ascribe all sin" | As administrator of both the pre-Flood corruption AND the Tribulation Vanguard program, Azazel bears singular culpability for the biological damnation of every recipient |
+
+---
+
+#### B.5 NARRATIVE DEPLOYMENT (Books 4-5)
+
+**Recommended Revelation Sequence:**
+
+| Beat | Book/Chapter | Content |
+|------|-------------|---------|
+| **Foreshadow** | Book 3, Ch 8-10 | Antarctic discovery reveals pre-Flood chimera remains in stasis vaults; Miriam catalogs DNA anomalies that defy classification; Brennan's instruments detect "living" tissue in specimens supposedly 4,500 years dead |
+| **First Contact** | Book 4, Ch 3-4 | Cian's team encounters Aram operatives in field for the first time; initially mistaken for elite PMC soldiers until one takes a 7.62mm round to the chest and keeps advancing; Mo Chrá's reaction (acoustic resonance, sword singing) alerts Cian that these are not human |
+| **Intelligence Briefing** | Book 4, Ch 6-7 | Raphael provides theological context via Empyreal Register: explains what the Vanguard program is, its pre-Flood precedent, Azazel's role; Cian recognizes the dead-flesh ghouls of Romania (Book 1-2) were merely the prototype |
+| **Penemu Reveal** | Book 4, Ch 10-12 | Encounter with Penemu intelligence operative; the horror is *social* not physical — this person is charming, brilliant, articulate, and has absolutely zero capacity for mercy; interrogation reveals the hive-mind network |
+| **The Hunger** | Book 5, Ch 2-3 | Witnessed Aram feral episode; the biological horror of what these soldiers become when supply lines fail; Cian must decide whether to show mercy to creatures that were, hours ago, men |
+| **Mo Chrá vs. Aram** | Book 5, Ch 8-10 | Full combat sequence; Mo Chrá's creation frequencies cause cascading cellular disruption in Aram operatives; the sword unmakes the Watcher modifications — the most viscerally horrifying combat in the series because the targets are screaming, bleeding, dissolving humans, not demons |
+| **"As In the Days of Noah"** | Book 5, Ch 14 | Thematic culmination; Enoch (First Witness) directly addresses the Vanguard program in his final prophetic testimony: "I saw this before. I recorded it before. The Flood was sent because of *this*. And now the Son returns for the same reason." |
 
 ---
 

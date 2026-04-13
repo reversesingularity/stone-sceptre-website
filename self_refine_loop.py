@@ -62,7 +62,12 @@ OLLAMA_URL        = "http://localhost:11434"
 NEMOTRON_ROUTER   = "http://localhost:8768"
 CANON_SEARCH_URL  = "http://localhost:8765"
 
-SCORE_MODEL  = "mistral"   # fast local scorer
+# Local Nemotron 3 Super GGUF via llama-server (zero-cost CPU scoring)
+LOCAL_NEMOTRON_PORT  = int(os.environ.get("LOCAL_NEMOTRON_PORT", "8780"))
+LOCAL_NEMOTRON_URL   = f"http://localhost:{LOCAL_NEMOTRON_PORT}/v1/chat/completions"
+LOCAL_NEMOTRON_MODEL = os.environ.get("LOCAL_NEMOTRON_MODEL", "nemotron-3-super")
+
+SCORE_MODEL  = LOCAL_NEMOTRON_MODEL   # local Nemotron 3 Super (was: mistral)
 REFINE_MODEL = "llama3.1"  # revision generator (Nemotron preferred via router)
 
 logging.basicConfig(
@@ -108,7 +113,7 @@ assert TOTAL_WEIGHT == 100, f"Rubric weights must sum to 100, got {TOTAL_WEIGHT}
 
 def score_draft(draft: str, book: int, chapter: int, author_notes: str = "") -> dict:
     """
-    Call local scorer (Mistral) to rate the draft against every rubric criterion.
+    Call local scorer (Nemotron 3 Super GGUF) to rate the draft against every rubric criterion.
     Returns dict: {criterion_id: score_0_to_10, ..., "weighted_total": float}
     """
     rubric_text = "\n".join(
@@ -352,6 +357,9 @@ def refine(
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def ollama_generate(model: str, prompt: str, max_tokens: int = 2048) -> str:
+    """Generate via Ollama or — if model matches local Nemotron — via llama-server."""
+    if model == LOCAL_NEMOTRON_MODEL:
+        return local_nemotron_generate(prompt, max_tokens)
     r = requests.post(
         f"{OLLAMA_URL}/api/generate",
         json={"model": model, "prompt": prompt, "stream": False,
@@ -360,6 +368,34 @@ def ollama_generate(model: str, prompt: str, max_tokens: int = 2048) -> str:
     )
     r.raise_for_status()
     return r.json().get("response", "")
+
+
+def local_nemotron_generate(prompt: str, max_tokens: int = 2048) -> str:
+    """Call local Nemotron 3 Super GGUF via llama-server's OpenAI-compatible API."""
+    try:
+        r = requests.post(
+            LOCAL_NEMOTRON_URL,
+            headers={"Content-Type": "application/json"},
+            json={
+                "model": LOCAL_NEMOTRON_MODEL,
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": max_tokens,
+                "temperature": 0.3,
+            },
+            timeout=600,
+        )
+        r.raise_for_status()
+        return r.json()["choices"][0]["message"]["content"]
+    except Exception as e:
+        logger.warning(f"Local Nemotron scorer failed ({e}), falling back to Ollama llama3.1")
+        r = requests.post(
+            f"{OLLAMA_URL}/api/generate",
+            json={"model": "llama3.1", "prompt": prompt, "stream": False,
+                  "options": {"num_predict": max_tokens}},
+            timeout=300,
+        )
+        r.raise_for_status()
+        return r.json().get("response", "")
 
 
 def extract_json(text: str) -> dict | None:

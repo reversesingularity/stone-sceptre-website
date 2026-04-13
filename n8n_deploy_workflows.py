@@ -1,7 +1,7 @@
 """
 DESKTOP-SINGULA — n8n Workflow Deployer
 =========================================
-Creates / updates all 10 v2.0 HAWK swarm workflows in n8n via the REST API.
+Creates / updates all 13 v2.1 HAWK swarm workflows in n8n via the REST API.
 
 Run:
     python n8n_deploy_workflows.py [--dry-run] [--force]
@@ -30,6 +30,7 @@ PYTHON_SERVICES = {
     "utility":          "http://host.docker.internal:8769",
     "theological_guard": "http://host.docker.internal:8770",
     "conductor":        "http://host.docker.internal:8771",
+    "content_strategist": "http://host.docker.internal:8772",
 }
 
 # File paths as seen from INSIDE the n8n container
@@ -84,12 +85,14 @@ def create_workflow(wf_def: dict) -> str:
 
 def update_workflow(wf_id: str, wf_def: dict) -> str:
     payload = {k: v for k, v in wf_def.items() if k != "active"}
-    r = requests.patch(
+    r = requests.put(
         f"{N8N_BASE}/api/v1/workflows/{wf_id}",
         headers=api_headers(),
         json=payload,
         timeout=15,
     )
+    if not r.ok:
+        print(f"    [DEBUG] Response body: {r.text[:600]}")
     r.raise_for_status()
     return wf_id
 
@@ -1102,8 +1105,8 @@ def wf_nightly_audit():
 # ── Registry ────────────────────────────────────────────────────────────────
 
 def wf_image_prompt():
-    """WF6: Agent 6 — Image Prompt Designer. Calls Ollama mistral."""
-    ollama_gen_url = "http://host.docker.internal:11434/api/generate"
+    """WF6: Agent 6 — Image Prompt Designer. Routes through Nemotron Tool Router cascade."""
+    router_url = f"{PYTHON_SERVICES['nemotron_router']}/route"
     return {
         "name": "TNC_WF6_IMAGE_PROMPT",
         "active": True,
@@ -1123,24 +1126,24 @@ def wf_image_prompt():
             },
             {
                 "id": "img-ollama",
-                "name": "Ollama — Generate Image Prompt",
+                "name": "Nemotron — Generate Image Prompt",
                 "type": "n8n-nodes-base.httpRequest",
                 "typeVersion": 4.2,
                 "position": [360, 300],
                 "parameters": {
                     "method": "POST",
-                    "url": ollama_gen_url,
+                    "url": router_url,
                     "sendBody": True,
                     "specifyBody": "json",
                     "jsonBody": (
                         "={"
-                        "\"model\": \"mistral\","
-                        "\"stream\": false,"
+                        "\"task_type\": \"image_prompt\","
                         "\"prompt\": \"You are a KDP illustration prompt designer for The Nephilim Chronicles. "
                         "Generate a vivid, detailed, KDP-safe image prompt for the following scene. "
                         "Include style notes: cinematic, dark fantasy, biblical epic. "
                         "Do NOT include faces clearly (KDP AI art policy). "
-                        "Scene: \" + $('Image Prompt Trigger').item.json.body.scene_text.substring(0, 800)"
+                        "Scene: \" + $('Image Prompt Trigger').item.json.body.scene_text.substring(0, 800),"
+                        "\"max_tokens\": 1024"
                         "}"
                     )
                 }
@@ -1158,7 +1161,7 @@ def wf_image_prompt():
                         "ch{{ $('Image Prompt Trigger').item.json.body.chapter }}_"
                         "{{ new Date().toISOString().replace(/:/g,'').substr(0,15) }}.txt"
                     ),
-                    "dataPropertyName": "={{ $json.response }}"
+                    "dataPropertyName": "={{ $json.choices ? $json.choices[0].message.content : $json.response }}"
                 }
             },
             {
@@ -1170,7 +1173,9 @@ def wf_image_prompt():
                 "parameters": {
                     "respondWith": "json",
                     "responseBody": (
-                        "={ \"prompt\": $('Ollama — Generate Image Prompt').item.json.response, "
+                        "={ \"prompt\": $('Nemotron — Generate Image Prompt').item.json.choices ? "
+                        "$('Nemotron — Generate Image Prompt').item.json.choices[0].message.content : "
+                        "$('Nemotron — Generate Image Prompt').item.json.response, "
                         "\"status\": \"saved\" }"
                     )
                 }
@@ -1178,9 +1183,9 @@ def wf_image_prompt():
         ],
         "connections": {
             "Image Prompt Trigger": {
-                "main": [[{"node": "Ollama — Generate Image Prompt", "type": "main", "index": 0}]]
+                "main": [[{"node": "Nemotron — Generate Image Prompt", "type": "main", "index": 0}]]
             },
-            "Ollama — Generate Image Prompt": {
+            "Nemotron — Generate Image Prompt": {
                 "main": [[{"node": "Write Prompt to File", "type": "main", "index": 0}]]
             },
             "Write Prompt to File": {
@@ -1349,6 +1354,297 @@ def wf_conductor():
     }
 
 
+def wf_social_content():
+    """WF11: Social Content Generator — Agent 9 /generate-social."""
+    agent9_url = PYTHON_SERVICES["content_strategist"]
+    return {
+        "name": "TNC_WF11_SOCIAL_CONTENT",
+        "active": True,
+        "nodes": [
+            {
+                "id": "sc-webhook",
+                "name": "Social Content Trigger",
+                "type": "n8n-nodes-base.webhook",
+                "typeVersion": 2,
+                "position": [100, 300],
+                "parameters": {
+                    "httpMethod": "POST",
+                    "path": "social-content",
+                    "responseMode": "responseNode",
+                    "options": {}
+                }
+            },
+            {
+                "id": "sc-generate",
+                "name": "Generate Social Content",
+                "type": "n8n-nodes-base.httpRequest",
+                "typeVersion": 4.2,
+                "position": [360, 300],
+                "parameters": {
+                    "method": "POST",
+                    "url": f"{agent9_url}/generate-social",
+                    "sendBody": True,
+                    "specifyBody": "json",
+                    "jsonBody": "={{ JSON.stringify($('Social Content Trigger').item.json.body) }}"
+                }
+            },
+            {
+                "id": "sc-log",
+                "name": "Log Social Run",
+                "type": "n8n-nodes-base.code",
+                "typeVersion": 2,
+                "position": [620, 300],
+                "parameters": {
+                    "jsCode": (
+                        "const fs = require('fs');\n"
+                        f"const logPath = '{LOGS}/workflow_runs.jsonl';\n"
+                        "const entry = JSON.stringify({\n"
+                        "  ts: new Date().toISOString(),\n"
+                        "  workflow: 'WF11_SOCIAL_CONTENT',\n"
+                        "  platforms: $input.first().json?.platforms || [],\n"
+                        "});\n"
+                        "fs.appendFileSync(logPath, entry + '\\n');\n"
+                        "return $input.all();"
+                    )
+                }
+            },
+            {
+                "id": "sc-respond",
+                "name": "Respond",
+                "type": "n8n-nodes-base.respondToWebhook",
+                "typeVersion": 1.1,
+                "position": [880, 300],
+                "parameters": {
+                    "respondWith": "json",
+                    "responseBody": "={{ JSON.stringify($('Generate Social Content').item.json) }}"
+                }
+            }
+        ],
+        "connections": {
+            "Social Content Trigger": {
+                "main": [[{"node": "Generate Social Content", "type": "main", "index": 0}]]
+            },
+            "Generate Social Content": {
+                "main": [[{"node": "Log Social Run", "type": "main", "index": 0}]]
+            },
+            "Log Social Run": {
+                "main": [[{"node": "Respond", "type": "main", "index": 0}]]
+            }
+        },
+        "settings": {"executionOrder": "v1"}
+    }
+
+
+def wf_seo_serialization():
+    """WF12: SEO Metadata + Serialization Schedule — Agent 9."""
+    agent9_url = PYTHON_SERVICES["content_strategist"]
+    return {
+        "name": "TNC_WF12_SEO_SERIALIZATION",
+        "active": True,
+        "nodes": [
+            {
+                "id": "ss-webhook",
+                "name": "SEO Serialization Trigger",
+                "type": "n8n-nodes-base.webhook",
+                "typeVersion": 2,
+                "position": [100, 300],
+                "parameters": {
+                    "httpMethod": "POST",
+                    "path": "seo-serialization",
+                    "responseMode": "responseNode",
+                    "options": {}
+                }
+            },
+            {
+                "id": "ss-seo",
+                "name": "Generate SEO Metadata",
+                "type": "n8n-nodes-base.httpRequest",
+                "typeVersion": 4.2,
+                "position": [360, 200],
+                "parameters": {
+                    "method": "POST",
+                    "url": f"{agent9_url}/seo-metadata",
+                    "sendBody": True,
+                    "specifyBody": "json",
+                    "jsonBody": "={{ JSON.stringify($('SEO Serialization Trigger').item.json.body) }}"
+                }
+            },
+            {
+                "id": "ss-schedule",
+                "name": "Generate Serialization Schedule",
+                "type": "n8n-nodes-base.httpRequest",
+                "typeVersion": 4.2,
+                "position": [360, 420],
+                "parameters": {
+                    "method": "POST",
+                    "url": f"{agent9_url}/serialization-schedule",
+                    "sendBody": True,
+                    "specifyBody": "json",
+                    "jsonBody": "={{ JSON.stringify($('SEO Serialization Trigger').item.json.body) }}"
+                }
+            },
+            {
+                "id": "ss-merge",
+                "name": "Merge Results",
+                "type": "n8n-nodes-base.code",
+                "typeVersion": 2,
+                "position": [620, 300],
+                "parameters": {
+                    "jsCode": (
+                        "const seo = $('Generate SEO Metadata').item.json;\n"
+                        "const schedule = $('Generate Serialization Schedule').item.json;\n"
+                        "return [{ json: { seo, schedule } }];"
+                    )
+                }
+            },
+            {
+                "id": "ss-respond",
+                "name": "Respond",
+                "type": "n8n-nodes-base.respondToWebhook",
+                "typeVersion": 1.1,
+                "position": [880, 300],
+                "parameters": {
+                    "respondWith": "json",
+                    "responseBody": "={{ JSON.stringify($json) }}"
+                }
+            }
+        ],
+        "connections": {
+            "SEO Serialization Trigger": {
+                "main": [[
+                    {"node": "Generate SEO Metadata", "type": "main", "index": 0},
+                    {"node": "Generate Serialization Schedule", "type": "main", "index": 0}
+                ]]
+            },
+            "Generate SEO Metadata": {
+                "main": [[{"node": "Merge Results", "type": "main", "index": 0}]]
+            },
+            "Generate Serialization Schedule": {
+                "main": [[{"node": "Merge Results", "type": "main", "index": 0}]]
+            },
+            "Merge Results": {
+                "main": [[{"node": "Respond", "type": "main", "index": 0}]]
+            }
+        },
+        "settings": {"executionOrder": "v1"}
+    }
+
+
+def wf_nz_grant_monitor():
+    """WF13: NZ Grant Monitor — Agent 9 scrape-nz-grants (daily via schedule)."""
+    agent9_url = PYTHON_SERVICES["content_strategist"]
+    return {
+        "name": "TNC_WF13_NZ_GRANT_MONITOR",
+        "active": True,
+        "nodes": [
+            {
+                "id": "gm-schedule",
+                "name": "Daily Grant Scan",
+                "type": "n8n-nodes-base.scheduleTrigger",
+                "typeVersion": 1.2,
+                "position": [100, 300],
+                "parameters": {
+                    "rule": {
+                        "interval": [{"field": "cronExpression", "expression": "0 8 * * *"}]
+                    }
+                }
+            },
+            {
+                "id": "gm-webhook",
+                "name": "Manual Grant Scan",
+                "type": "n8n-nodes-base.webhook",
+                "typeVersion": 2,
+                "position": [100, 500],
+                "parameters": {
+                    "httpMethod": "POST",
+                    "path": "nz-grant-scan",
+                    "options": {}
+                }
+            },
+            {
+                "id": "gm-scrape",
+                "name": "Scrape NZ Grants",
+                "type": "n8n-nodes-base.httpRequest",
+                "typeVersion": 4.2,
+                "position": [360, 400],
+                "parameters": {
+                    "method": "POST",
+                    "url": f"{agent9_url}/scrape-nz-grants",
+                    "sendBody": True,
+                    "specifyBody": "json",
+                    "jsonBody": "{}"
+                }
+            },
+            {
+                "id": "gm-check-new",
+                "name": "Check New Grants",
+                "type": "n8n-nodes-base.if",
+                "typeVersion": 2,
+                "position": [620, 400],
+                "parameters": {
+                    "conditions": {
+                        "options": {"caseSensitive": False},
+                        "conditions": [
+                            {
+                                "leftValue": "={{ $json.grants_found }}",
+                                "rightValue": 0,
+                                "operator": {"type": "number", "operation": "gt"}
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": "gm-log",
+                "name": "Log Grant Results",
+                "type": "n8n-nodes-base.code",
+                "typeVersion": 2,
+                "position": [880, 300],
+                "parameters": {
+                    "jsCode": (
+                        "const fs = require('fs');\n"
+                        f"const logPath = '{LOGS}/workflow_runs.jsonl';\n"
+                        "const entry = JSON.stringify({\n"
+                        "  ts: new Date().toISOString(),\n"
+                        "  workflow: 'WF13_NZ_GRANT_MONITOR',\n"
+                        "  grants_found: $input.first().json?.grants_found || 0,\n"
+                        "  hitl_flags: $input.first().json?.hitl_flags || 0,\n"
+                        "});\n"
+                        "fs.appendFileSync(logPath, entry + '\\n');\n"
+                        "return $input.all();"
+                    )
+                }
+            },
+            {
+                "id": "gm-noop",
+                "name": "No New Grants",
+                "type": "n8n-nodes-base.noOp",
+                "typeVersion": 1,
+                "position": [880, 500],
+                "parameters": {}
+            }
+        ],
+        "connections": {
+            "Daily Grant Scan": {
+                "main": [[{"node": "Scrape NZ Grants", "type": "main", "index": 0}]]
+            },
+            "Manual Grant Scan": {
+                "main": [[{"node": "Scrape NZ Grants", "type": "main", "index": 0}]]
+            },
+            "Scrape NZ Grants": {
+                "main": [[{"node": "Check New Grants", "type": "main", "index": 0}]]
+            },
+            "Check New Grants": {
+                "main": [
+                    [{"node": "Log Grant Results", "type": "main", "index": 0}],
+                    [{"node": "No New Grants", "type": "main", "index": 0}]
+                ]
+            }
+        },
+        "settings": {"executionOrder": "v1"}
+    }
+
+
 WORKFLOWS_TO_DEPLOY = [
     wf_swarm_dispatch,
     wf_nemoclaw_file_event,
@@ -1363,6 +1659,10 @@ WORKFLOWS_TO_DEPLOY = [
     wf_theological_guard,
     # Phase 4 addition
     wf_conductor,
+    # Phase 5 additions — Agent 9 (Content Strategist / NZ Grant Monitor)
+    wf_social_content,
+    wf_seo_serialization,
+    wf_nz_grant_monitor,
 ]
 
 

@@ -786,13 +786,168 @@ def print_report(results: dict):
     logger.info(f"  Full log:        LOGS/day1_ops.log")
 
 
+# ── PHASE 5: Agent 9 Canary Test ─────────────────────────────────────────────
+
+def phase_agent9(dry_run: bool) -> bool:
+    """Test Agent 9 — Content Strategist / NZ Grant Monitor endpoints."""
+    banner("PHASE 5 -- Agent 9 Canary Test")
+    errors = []
+
+    agent9_url = "http://localhost:8772"
+
+    # 5a. Health check
+    try:
+        r = requests.get(f"{agent9_url}/health", timeout=10)
+        r.raise_for_status()
+        data = r.json()
+        if data.get("status") == "ok":
+            ok(f"Agent 9 health: OK (port {data.get('port', '?')})")
+        else:
+            fail(f"Agent 9 health unexpected: {data}")
+            errors.append("health_unexpected")
+    except Exception as e:
+        fail(f"Agent 9 not reachable at {agent9_url}: {e}")
+        errors.append("agent9_unreachable")
+        if not dry_run:
+            fail("Cannot continue Phase 5 without Agent 9 running.")
+            return False
+
+    # 5b. GET /opportunities
+    try:
+        r = requests.get(f"{agent9_url}/opportunities", timeout=10)
+        r.raise_for_status()
+        ok("GET /opportunities — accessible")
+    except Exception as e:
+        fail(f"GET /opportunities failed: {e}")
+        errors.append("opportunities_fail")
+
+    if dry_run:
+        skip("POST endpoint tests (dry-run)")
+        if not errors:
+            ok("Phase 5 complete (dry-run) — Agent 9 health verified")
+            return True
+        return False
+
+    # 5c. POST /generate-social (small test payload)
+    test_chapter = "Cian stood at the edge of the canyon, Mo Chrá humming in its sheath."
+    try:
+        r = requests.post(
+            f"{agent9_url}/generate-social",
+            json={"chapter_text": test_chapter, "book": 1, "chapter": 1},
+            timeout=120,
+        )
+        r.raise_for_status()
+        data = r.json()
+        if "error" not in data or "tiktok_script" in data:
+            ok("POST /generate-social — returned content")
+        else:
+            fail(f"POST /generate-social returned error: {data.get('error', '?')}")
+            errors.append("social_error")
+    except Exception as e:
+        fail(f"POST /generate-social failed: {e}")
+        errors.append("social_fail")
+
+    # 5d. POST /seo-metadata (small test)
+    try:
+        r = requests.post(
+            f"{agent9_url}/seo-metadata",
+            json={"book_title": "The Nephilim Chronicles: Mars Rising",
+                  "description": "Ancient fallen angels, Mars pyramids, and the end of days."},
+            timeout=120,
+        )
+        r.raise_for_status()
+        ok("POST /seo-metadata — returned response")
+    except Exception as e:
+        fail(f"POST /seo-metadata failed: {e}")
+        errors.append("seo_fail")
+
+    if errors:
+        fail(f"Phase 5 completed with issues: {errors}")
+        return False
+
+    ok("Phase 5 complete — Agent 9 all endpoints verified")
+    return True
+
+
+# ── PHASE 6: Local Nemotron GGUF Latency Test ────────────────────────────────
+
+def phase_local_nemotron(dry_run: bool) -> bool:
+    """Direct latency test against local Nemotron 3 Super GGUF (port 8780)."""
+    banner("PHASE 6 -- Local Nemotron GGUF Latency Test")
+    errors = []
+
+    local_url = "http://localhost:8780"
+
+    # 6a. Health check
+    try:
+        r = requests.get(f"{local_url}/health", timeout=10)
+        if r.status_code == 200:
+            ok("llama-server health: UP")
+        else:
+            fail(f"llama-server returned HTTP {r.status_code}")
+            errors.append("llama_health")
+    except Exception as e:
+        fail(f"llama-server not reachable at {local_url}: {e}")
+        fail("Ensure llama-server is running: llama-server -m nemotron-3-super-q4.gguf --port 8780")
+        errors.append("llama_unreachable")
+        if not dry_run:
+            return False
+
+    if dry_run:
+        skip("Inference latency test (dry-run)")
+        if not errors:
+            ok("Phase 6 complete (dry-run) — llama-server health verified")
+            return True
+        return False
+
+    # 6b. Small inference test
+    import time
+    test_prompt = "Summarize the Book of Enoch in one sentence."
+    t0 = time.perf_counter()
+    try:
+        r = requests.post(
+            f"{local_url}/v1/chat/completions",
+            json={
+                "model": "nemotron-3-super",
+                "messages": [{"role": "user", "content": test_prompt}],
+                "max_tokens": 128,
+                "temperature": 0.3,
+            },
+            timeout=300,
+        )
+        r.raise_for_status()
+        elapsed = time.perf_counter() - t0
+        data = r.json()
+        content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+        tokens = data.get("usage", {}).get("completion_tokens", len(content.split()))
+
+        ok(f"Inference complete: {elapsed:.1f}s, ~{tokens} tokens")
+        if elapsed > 60:
+            logger.warning(f"  [WARN] Latency >60s — consider quantization or GPU offload")
+        else:
+            ok(f"  Latency acceptable: {elapsed:.1f}s for {tokens} tokens")
+
+    except Exception as e:
+        fail(f"Local Nemotron inference failed: {e}")
+        errors.append("inference_fail")
+
+    if errors:
+        fail(f"Phase 6 completed with issues: {errors}")
+        return False
+
+    ok("Phase 6 complete — Local Nemotron GGUF operational")
+    return True
+
+
 # ── Entry Point ────────────────────────────────────────────────────────────────
 
 PHASE_MAP = {
-    "adamem":   phase_adamem,
-    "canary":   phase_canary,
-    "nemotron": phase_nemotron,
-    "refine":   phase_refine,
+    "adamem":       phase_adamem,
+    "canary":       phase_canary,
+    "nemotron":     phase_nemotron,
+    "refine":       phase_refine,
+    "agent9":       phase_agent9,
+    "local_gguf":   phase_local_nemotron,
 }
 
 
@@ -802,7 +957,7 @@ def main():
     )
     parser.add_argument(
         "--phase",
-        choices=["all", "adamem", "canary", "nemotron", "refine"],
+        choices=["all", "adamem", "canary", "nemotron", "refine", "agent9", "local_gguf"],
         default="all",
         help="Which phase(s) to execute (default: all)",
     )
@@ -835,6 +990,12 @@ def main():
 
     if args.phase in ("all", "refine"):
         results["Phase 4 - SELF-REFINE Loop"] = phase_refine(args.dry_run, args.verbose)
+
+    if args.phase in ("all", "agent9"):
+        results["Phase 5 - Agent 9 Canary"] = phase_agent9(args.dry_run)
+
+    if args.phase in ("all", "local_gguf"):
+        results["Phase 6 - Local Nemotron GGUF"] = phase_local_nemotron(args.dry_run)
 
     print_report(results)
     all_passed = all(results.values())

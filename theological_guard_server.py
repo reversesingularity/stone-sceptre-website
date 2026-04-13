@@ -44,7 +44,12 @@ import requests
 API_PORT        = 8770
 NEMOTRON_ROUTER = "http://localhost:8768"
 OLLAMA_URL      = "http://localhost:11434"
-FALLBACK_MODEL  = "mistral"
+
+# Local Nemotron 3 Super GGUF via llama-server
+LOCAL_NEMOTRON_PORT  = int(os.environ.get("LOCAL_NEMOTRON_PORT", "8780"))
+LOCAL_NEMOTRON_URL   = f"http://localhost:{LOCAL_NEMOTRON_PORT}/v1/chat/completions"
+LOCAL_NEMOTRON_MODEL = os.environ.get("LOCAL_NEMOTRON_MODEL", "nemotron-3-super")
+FALLBACK_MODEL  = LOCAL_NEMOTRON_MODEL  # was: "mistral"
 
 PROJECT_ROOT = Path(r"F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles")
 LOGS_DIR     = PROJECT_ROOT / "LOGS"

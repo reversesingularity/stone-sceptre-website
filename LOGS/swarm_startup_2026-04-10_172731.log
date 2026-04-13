@@ -1,0 +1,7 @@
+[17:27:31] === TNC Swarm Startup ===
+[17:27:31] Phase 1: Waiting for Docker infrastructure...
+[17:27:31]   [OK] n8n is running
+[17:27:31]   [OK] qdrant is running
+[17:27:31]   [OK] ollama is running
+[17:27:31]   [OK] self-hosted-ai-starter-kit-postgres-1 is running
+[17:27:31] Phase 2: Checking for orphaned processes...

@@ -174,14 +174,27 @@ During escape, discovered Niamh alive after 17 years as a slave:
 
 ### The Wives (Four Deceased)
 
-| Wife | Period | Fate |
-|------|--------|------|
-| **First** | Ancient | Died of age |
-| **Second** | Unknown | Died of age |
-| **Third** | Unknown | Died of age |
-| **Siobhan** | ~1170 CE | Died of age — most recent |
+| Wife | Period | Fate | Notes |
+|------|--------|------|-------|
+| **Aoife** | ~580–540 BCE | Died of age | First wife; Iron Age Ireland. Name resurfaces in McNeeve bloodline (Book 1 Ch5: Aoife McNeeve, Brennan's daughter). |
+| **Second** | Unknown | Died of age | Unnamed in canon. |
+| **Merewyn** | ~980–1050 CE | Died of age | Anglo-Saxon; scholar and pattern-mapper. Identified Nephilim bloodline concentration in European nobility. Designed the counter-intelligence methodology that became the architectural blueprint for the Guardian/Josephite Network. Her research — genealogical mapping of Nephilim-descended aristocratic houses across Western Europe — was the first systematic attempt to document the enemy's corporate structure. Cian carried her framework for 750 years before formalising it. |
+| **Siobhan** | ~1100–1170 CE | Died of age — most recent | Last wife before Miriam. |
 
 **850 years since Siobhan.** Cian swore never again to watch someone he loves age and die while he remains unchanged.
+
+### The Josephite Network (Founded ~1800 CE)
+
+Cian established and funded the Guardian/Josephite Network circa 1800 as an independent counter-intelligence entity against the Thirteen Houses. The catalyst was the French Revolution and Napoleonic upheaval, which exposed Nephilim bloodline manipulation of European power structures at an unprecedented scale — patterns Merewyn had first mapped seven centuries earlier.
+
+The network operates across Michael's jurisdictional territories (Josephite nations: UK, US, Canada, Australia, New Zealand) and functions as an asymmetric resistance force: mortal hunters, financial intelligence analysts, legal warfare specialists, and military operators organised into regional cells. Cian provides strategic direction, institutional memory, and direct combat capability; the network provides scale he cannot achieve alone.
+
+**Key structural elements:**
+- **Tier-1 operators**: Military-grade cells (e.g., NZ Josephites — 12 operators, three 4-person fire teams; Book 2 Ch12)
+- **FININT division**: Financial intelligence tracking Synagogue of Satan shell companies (e.g., Marcus Reeves, Austin)
+- **Lawfare division**: Legal architecture for cover operations (e.g., Sarah McNeeve)
+- **Safe house network**: Global; Stewart Island (NZ), McNeeve Galway, Austin, others
+- **Satellite infrastructure**: McNeeve Space Systems assets (pre-liquidation); transferred to Cayman trust under Guardian protocols (Book 3 Ch1)
 
 ### Raphael ("Liaigh")
 

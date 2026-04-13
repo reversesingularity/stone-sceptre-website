@@ -124,7 +124,7 @@ Before writing ANY scene, verify:
 | **Ohya (Beast)** | Cast into Lake of Fire |
 | **Azazel (False Prophet)** | Cast into Lake of Fire |
 | **Satan** | Bound 1,000 years |
-| **Miriam** | Dies protecting Cian (Book 4-5) |
+| **Miriam** | Dies protecting Cian (Book 4-5). Day ~1,050 of 1,260-day ministry. Orphaned daughter left to Brennan's guardianship. |
 
 ## §3.4 Cosmological Locks
 
@@ -150,8 +150,9 @@ Before writing ANY scene, verify:
 | **Chronological Age** | 2,636 years (as of 2025) |
 | **Lineage** | Descendant of Machir ben Manasseh (giant-slayer heritage) |
 | **Role** | Guardian of the Two Witnesses |
-| **Wives** | Four deceased (most recent: Siobhan, died ~1170 CE); fifth: Miriam |
+| **Wives** | Four deceased: Aoife (~580–540 BCE), unnamed, Merewyn (~980–1050 CE), Siobhan (~1100–1170 CE, most recent); fifth: Miriam |
 | **Estimated Kill Count** | ~50,000 supernatural entities |
+| **Josephite Network** | Founded ~1800 CE; independent Guardian entity against the Thirteen Houses. Built on Merewyn's 11th-century counter-intelligence framework; catalysed by French Revolution / Napoleonic exposure of House manipulation. Operates across Michael's jurisdictional territories (Josephite nations). |
 
 ### Physical Description
 - Tall, lean, deceptive build concealing tremendous power
@@ -230,6 +231,15 @@ Before writing ANY scene, verify:
 - Character, not object
 - 2,600 years of antagonistic but affectionate partnership with Cian
 
+### Azazel's Threat Assessment — Rebuttal (Brennan McNeeve)
+Azazel's assessment of Mo Chrá as "insufficient" is sensory bias. Three factors:
+
+| Factor | Detail |
+|--------|--------|
+| **Masking Effect** | Manganese-zinc ferrite rings on Cydonian composite sheath generate 7.83 Hz Schumann baseline, masking sword's true output. During Dudael breach, Azazel's sensors were fed terrestrial acoustic signature only. |
+| **Primordial Resonance** | Azazel believes the sword is steel. It is Cydonian ore — meteoritic metamaterial that remembers pre-Fall physics. Not measurable by fallen sensory framework. |
+| **Conclusion** | Mo Chrá is not "insufficient" — it is uncalibrated to Azazel's fallen reality. It is a Sentient Universal Anchor, not a weapon. |
+
 ## §4.4 Miriam Ashford
 
 | Attribute | Value |
@@ -287,6 +297,34 @@ Victoria found the drilling programme in her final months. She died knowing coor
 - Miriam: stands untouched — no explanation offered
 - **No character comments on this.** Seed for Books 3–5. Do not resolve prematurely.
 
+### Acoustic Anomaly — Resolution Framework (Books 3–5)
+
+| Element | Detail |
+|---------|--------|
+| **Harmonic Basis** | Miriam's spirit-signature is tuned to the Creation Frequency (the original Word). Identical resonance to Cydonian ore — her lineage tied to unfallen physics preserved before the Cydonian Fall. The Judgment Frequency (Gehenna) passes through her because her spirit contains no "fallen hooks" for it to catch. |
+| **Theological Link** | The Grace Motif. Like Dismas (Thief on the Cross), Miriam's immunity is a "living sermon" — protection by sovereign frequency alignment, not works or strength. The enemy cannot mimic or destroy it. |
+| **Strategic Application (Book 4)** | During the Trumpet Judgments, Miriam's immunity becomes mission-critical. She is the acoustic conduit — her spirit-signature projects Creation frequency through any weapon she wields. The Muromachi katana becomes a tuning fork not through material composition (folded steel, no Cydonian ore) but because Miriam's anomaly projects through physical contact. She can harmonize surrounding environment into a "bubble of unfallen resonance" to guide refugees through judgment-harmonic zones. |
+
+### The Asmodeus Confrontation (Operational Briefing — Books 3–4)
+**Objective:** Neutralize the House Tamiel mark on Miriam Ashford.
+
+| Phase | Operation | Detail |
+|-------|-----------|--------|
+| **I: The Claim** | Acoustic tether activation | Asmodeus activates the House Tamiel mark. High-frequency spiritual drag causes severe physical nausea — mark attempts forcible realignment of Miriam's dermal resonance with demon's location. |
+| **II: The Binding** | The Tobit Protocol | Archangel Liaigh (Raphael) deploys specialized acoustic binding generating local "acoustic vacuum." Isolates demon's frequency in localized stasis field. Prevents use of Miriam's life force as secondary battery. |
+| **III: The Resolution** | The Asmodeus Inversion | Miriam uses Mo Chrá's Creation harmonic to perform destructive counter-harmonic — pulls the mark out of the dermal layer. Permanent severing of tether. |
+| **IV: Post-Conflict** | Acoustic Decay penalty | Cost: temporary vertigo, loss of pitch-perception, lingering "Abyssal Hum." Grace carries a physical price in a fallen world. |
+
+### Covenant Milestones: Romantic Trajectory (Books 3–5)
+
+**STRATEGIC OVERVIEW:** Their union is a covenant partnership forged in war. Miriam's significance derives from her sovereign acoustic anomaly (Grace Motif) and FININT expertise, not bloodline mechanics.
+
+| Date | Milestone | Detail |
+|------|-----------|--------|
+| **March 2028** | The First-Name Milestone | Following Babylon/Tigris-Euphrates extraction. Formal "Mac Morna" retired. In exhaustion where the Guardian role fails, Miriam calls him "Cian." Transition from asset/protector to bonded partnership. |
+| **August 2029** | The Coilgun Proposal | Cian uses Brennan's satellite infrastructure to secure a relic from his 2,600-year history. Proposal is tactical — in a briefing room, acknowledging their union is a declaration of war against the Beast. |
+| **February 2030** | The Marriage Covenant | Jerusalem, during 1,260-day ministry (Ref: Revelation 11). Ceremony performed over the Lia Fáil (Stone of Destiny). A covenant of war and love — shared purpose before the final battle. |
+
 ## §4.5 Brennan mac Niamh
 
 | Attribute | Value |
@@ -337,6 +375,28 @@ Victoria found the drilling programme in her final months. She died knowing coor
 | **Earth Domain Coordinates** | **79°58'22"S, 81°57'18"W** — Antarctic; confirmed Ch2 Movement III via Cian's cartographic overlay against Victoria Ashford's drilling data |
 | **Stele Status** | Beneath Ross Ice Shelf; Naamah has been drilling toward it for 7 years as of Book 2 Ch1 |
 | **Acoustic Status** | As of Book 2 Ch2: acoustic returns from the stele have changed — something beneath the ice is *responding* (not merely absorbing) |
+
+## §5.3 Watcher Acoustic Deployment Grid
+
+**NOTE:** This is a 13-node acoustic warfare system — parallel to but DISTINCT from the Thirteen Houses' corporate/political structure. Only 7 of 13 grid operators are House patriarchs; 6 are non-patriarch Watchers deployed for their specific acoustic domain expertise. The Thirteen Houses operate through financial, political, and cultural channels. This grid operates through sub-tectonic, oceanic, and atmospheric acoustic nodes.
+
+| # | Watcher | Domain Designation | Coordinates | Strategic Purpose |
+|---|---------|-------------------|-------------|-------------------|
+| 1 | Turel | Laurentian Abyss | 45.0°N, 55.0°W (Deep Ocean) | North Atlantic sub-tectonic resonance; dampening of Michael's Atlantic patrols |
+| 2 | Batarel | Marianas Trench | 11.3°N, 142.2°E (Deep Ocean) | Primary Abyss-to-Surface acoustic relay; main uplink for the Apollyon signal |
+| 3 | Ananel | Kermadec Trench | 31.0°S, 177.0°W (Deep Ocean) | Passive surveillance of Stewart Island / Michael Jurisdictional Cordon |
+| 4 | Zaqiel | Philippine Trench | 10.5°N, 126.0°E (Deep Ocean) | Western Pacific "Locust" staging; sub-oceanic kinetic shielding |
+| 5 | Jomjael | Sunda Trench | 10.0°S, 110.0°E (Deep Ocean) | Indian Ocean tectonic counter-harmonics; Ring of Fire destabilization |
+| 6 | Sariel | Alexandria Incursion | 31.2°N, 29.9°E (Coastal) | Eastern Mediterranean disruption via acoustic "smog" and memory alteration |
+| 7 | Ezequeel | Gibraltar Gateway | 36.1°N, 5.3°W (Coastal) | Atlantic-Mediterranean planar gating and flow suppression |
+| 8 | Danel | Caspian Gate | 40.6°N, 50.8°E (Coastal) | Terrestrial leyline anchor: Caucasus to Tigris-Euphrates anomaly |
+| 9 | Baraqiel | Svalbard / Arctic Node | 78.2°N, 15.6°E (Coastal) | Northern planetary acoustic aperture; satellite-based warding disruption |
+| 10 | Armaros | Dudael / Antarctic | 79°58'22"S, 81°57'18"W (Sub-glacial) | Former prison site; planetary resonance amplifier for Azazel broadcast. **NOTE:** Armaros redeployed from Carpathian domain (House Aram, cleared Book 2 Ch6) to Dudael to reinforce Azazel's Antarctic infrastructure post-Carpathian clearing. |
+| 11 | Kokabel | Bering Strait | 66.0°N, 169.0°W (Coastal) | High-latitude planar gate maintenance; intercepting North American angelic sorties |
+| 12 | Araqiel | Greenland Breach | 72.0°N, 40.0°W (Coastal) | Primary gate into unfallen sub-planes; historical "Ancient Future" entry point |
+| 13 | Ramiel | Dead Sea Node | 31.5°N, 35.5°E (Coastal) | Direct acoustic suppression of Jerusalem; low-frequency drone station for Beast Empire |
+
+Sites designated "Unreachable" utilize the "Fountains of the Deep" (Ref: Book 2 Prologue I) to bypass surface-level detection.
 
 ---
 
@@ -509,6 +569,29 @@ Victoria found the drilling programme in her final months. She died knowing coor
 | **Intelligence Gap** | Has coordinates, not name. Does not know Gadreel, Azazel, or Dudael context — only that something immense and old lies below |
 | **Drilling Status** | Acoustic returns changed character in Book 2 Ch2: something beneath is *responding*, not merely absorbing. Drill speed: maximum sustainable |
 | **Shell Company Layer** | Antarctic drilling programme fully documented in Victoria Ashford's Layer 2 intelligence (same UBO chain as Synagogue corporate network) |
+
+## §7.3 Ohya / The Beast — Abyss Mutations
+
+| Attribute | Detail |
+|-----------|--------|
+| **Time in Abyss** | ~5,000 years (since Flood) |
+| **Classification** | Chimeric entity — no longer reflects any angelic geometry |
+| **Lost Ability** | The "Gaiman-register" — ability to project silence/authority (celestial quiet terror) |
+| **Current Emission** | The "Abyssal Scream" — multi-dimensional sub-frequency causing physical nausea and structural failure in nearby matter |
+| **Physical State** | Total Acoustic Decay. Chimeric form bears no resemblance to original Nephilim physiology. |
+| **Vessel Requirement** | Spirit — requires human vessel to manifest on mortal plane |
+| **Endgame** | Cast into Lake of Fire (LOCKED §3.3) |
+
+## §7.4 Tier 2: Elite Vanguard Mark
+
+| Attribute | Detail |
+|-----------|--------|
+| **Classification** | Nanomachine/pharmakeia hybrid infusion |
+| **Recipients** | Beast's shock troops and the Ten Kings |
+| **Distinction** | Unlike the civilian mark (economic control), the Tier 2 mark grants physical enhancements at the cost of total moral erosion |
+| **Enhancements** | Wolf-like senses, accelerated speed |
+| **Cost** | Complete moral erosion — effectively converts human host into a modern Nephilim-vessel |
+| **Theological Mechanism** | Pharmakeia (sorcery-through-drugs, Revelation 18:23) fused with nanomachine technology |
 
 ---
 
@@ -737,6 +820,7 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 |------|---------|
 | THE_CYDONIA_REVELATION.md | Cian's vision narrative |
 | INTELLIGENCE_ASSESSMENTS.md | Cian-Naamah history |
+| INTELLIGENCE_ASSESSMENTS_THE_JOSEPHITE_ORDER.md | Josephite Order of Battle — 7,000-operative force structure, weapons systems, aviation/maritime/space assets, MEREWYN intelligence division, GUARDIAN EYE satellite constellation |
 | MO_CHRA_SWORD_LORE.md | Sword backstory |
 | ENDGAME_FATES.md | Character endpoints |
 
@@ -832,6 +916,19 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 - Added Writing Conventions with examples (§9)
 - Added Critical Distinctions table (§11)
 - Integrated content from: MO_CHRA_SWORD_LORE.md, LORD_VARCOLAC_DOSSIER.md, MIRIAM_ASHFORD_UPDATED.md, THE_SIRENS_DOSSIER.md, SERIES_BIBLE_ADDITIONS.md, INTELLIGENCE_ASSESSMENTS.md
+
+## v3.1 (April 14, 2026)
+
+- §3.3: Added Miriam death timing (Day ~1,050) and orphaned daughter detail
+- §4.3: Added Azazel's Threat Assessment Rebuttal (Brennan McNeeve) — masking effect, primordial resonance
+- §4.4: Added Acoustic Anomaly Resolution Framework (Creation Frequency, Grace Motif, Trumpet Judgments application)
+- §4.4: Added Asmodeus Confrontation operational briefing (Tobit Protocol, Inversion, Acoustic Decay penalty)
+- §4.4: Added Covenant Milestones romantic trajectory (First-Name March 2028, Proposal August 2029, Marriage February 2030)
+- §5.3: Added Watcher Acoustic Deployment Grid (13-node system, distinct from Thirteen Houses corporate structure)
+- §7.3: Added Ohya / The Beast Abyss Mutations (Acoustic Decay, Abyssal Scream, chimeric form)
+- §7.4: Added Tier 2 Elite Vanguard Mark (nanomachine/pharmakeia hybrid)
+- Extricated Miriam Pharez lineage drift — confirmed Jewish-Sephardic, NOT Pharez
+- Integrated content from: NARRATIVE_BRIEFING_SERIES_CONTINUITY.md
 
 ---
 

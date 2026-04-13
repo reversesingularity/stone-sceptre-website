@@ -454,3 +454,69 @@
 [Wed Apr 08 14:38:49 UTC 2026][INFO] [Action] E ItemChanged - -1,49573
 [Wed Apr 08 14:42:11 UTC 2026][INFO] [Action] E SaveBook - Save
 [Wed Apr 08 14:42:12 UTC 2026][INFO] Logger Terminated
+[Mon Apr 13 02:49:35 UTC 2026][INFO] [Action] EE OpenBook - The Cauldrom of God.kcb
+[Mon Apr 13 02:49:58 UTC 2026][INFO] [Action] E DeleteContent - (c,2029,1),B
+[Mon Apr 13 02:49:58 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Apr 13 02:49:58 UTC 2026][INFO] [Action] E DeleteContent - (c,2029,1),B
+[Mon Apr 13 02:49:59 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Apr 13 02:49:59 UTC 2026][INFO] [Action] E DeleteContent - (c,2029,1),B
+[Mon Apr 13 02:49:59 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Apr 13 02:49:59 UTC 2026][INFO] [Action] E DeleteContent - (c,2029,1),B
+[Mon Apr 13 02:49:59 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Apr 13 02:50:03 UTC 2026][INFO] [Action] E DeleteContent - (c,2029,1),B
+[Mon Apr 13 02:50:03 UTC 2026][INFO] [Action] EFail DeleteContent - 4
+[Mon Apr 13 02:55:23 UTC 2026][INFO] [Action] E FixedFormAction - MSwyLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJkZWRpY2F0aW9uX3RleHQiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiVG8gR29kIHRoZSBGYXRoZXIgYW5kIG91ciBMb3JkIEplc3VzIENocmlzdCDigJRcblxud2hvc2UgV29yZCBzcG9rZSB0aGUgZm91bmRhdGlvbnMgb2YgdGhlIGVhcnRoIGludG8gYmVpbmcuXG5Gb3IgdGhlIHByaXZpbGVnZSBvZiB0aGUgR3JlYXQgQ29tbWlzc2lvbiB0byBjYXJyeSBZb3VyIGxpZ2h0XG5pbnRvIHRoZSBkYXJrZXN0IHBsYWNlcywgYW5kIGluIGFic29sdXRlLCB1bndhdmVyaW5nIGhvcGVcbmZvciB0aGUgZWFnZXJseSBhd2FpdGVkIGVzdGFibGlzaG1lbnQgb2YgdGhlIEtpbmdkb20gb2YgR29kLlxuV2UgZW5kdXJlLCB3ZSB0ZXN0aWZ5LCBhbmQgd2Ugd2F0Y2ggZm9yIHRoYXQgZ2xvcmlvdXMgRGF5LlxuXG5UbyBHdWlhIOKAlFxuXG5teSBiZWF1dGlmdWwgd2lmZXkg4oCUIGZvciB5b3VyIHVuY2Vhc2luZyBsb3ZlLCBzdXBwb3J0LFxuYW5kIHRoZSB0cnVseSBzdXBlcm5hdHVyYWwsIGVuZGxlc3MgcGF0aWVuY2UgcmVxdWlyZWRcbnRvIGxpdmUgd2l0aCBhIG1hbiB3aG8gc3BlbmRzIGhpcyBuaWdodHMgcmVzZWFyY2hpbmdcbmFuY2llbnQgTWVzb3BvdGFtaWFuIGN1bHR1cmVzLCA1LDAwMC15ZWFyLW9sZCBXYXRjaGVyIHByaXNvbnMsIGFuZCB0YWN0aWNhbCBlc2NoYXRvbG9neS4gWW91IHBvc3Nlc3MgYSBncmFjZSB0aGF0IHJpdmFscyB0aGUgYW5nZWxzLlxuXG5BbmQgdG8gbXkgY2hpbGRyZW4g4oCUXG5cbkF0aGVuYSBhbmQgbXkgZ3JhbmRzb24gUmljaHRlciDigJQgbXkgcGVyc29uYWwgY2hhb3RpYy1nb29kIGVudGl0aWVzLlxuVGhhbmsgeW91IGZvciBtYWtpbmcgbWUgbGF1Z2ggZXZlcnkgc2luZ2xlIGRheSBhbmQgZm9yXG5zdWNjZXNzZnVsbHkgZGVsZXRpbmcgbXkgZXhoYXVzdGlvbiBhbmQgc3RyZXNzIGZhc3RlclxudGhhbiBhIHdhcmQtcGllcmNpbmcgVGludHJlYWNoIHJvdW5kLiBJZiBsYXVnaHRlciB3ZXJlIGEga2luZXRpYyB3ZWFwb24sIHlvdSB0d28gd291bGQgYmUgY2xhc3NpZmllZCBhcyB3ZWFwb25zIG9mIG1hc3MgZGlzdHJhY3Rpb24uXG5cbklzYWlhaCDigJQgbXkgdW5kaXNwdXRlZCBOby4gMSBmYW4uIEkgd291bGQgZ2l2ZSB5b3UgYSBzZW50aWVudCAyLDYwMC15ZWFyLW9sZCBDeWRvbmlhbiBzd29yZCB0byBwcm92ZSBteSBncmF0aXR1ZGUsIGJ1dCBzaW5jZSB0aG9zZSBhcmUgY3VycmVudGx5IGJhY2tvcmRlcmVkLCB0aGlzIGRlZGljYXRpb24gd2lsbCBoYXZlIHRvIGRvLlxuXG5IYW5zIOKAlCBmb3IgYWN0dWFsbHkgYnV5aW5nIGEgY29weSBvZiBteSBib29rLlxuWW91ciBmaW5hbmNpYWwgY29udHJpYnV0aW9uIHRvIHRoZSBLZXJtYW4gR2lsZCBsaXRlcmFyeSBlbXBpcmVcbmlzIG5vdGVkLCBkZWVwbHkgYXBwcmVjaWF0ZWQsIGFuZCBlbnRpcmVseSBub24tcmVmdW5kYWJsZS5cblxuQW5kIHRvIE1pa2tpIGFuZCBNYXR0aGV3IOKAlCBmb3Igc2ltcGx5IGJlaW5nIHRoZXJlIGZvciBtZS5cbkl0IGlzIGEgaGlnaGx5IGVmZmVjdGl2ZSBjb250cmlidXRpb24gdG8gdGhlIGZhbWlseSBkeW5hbWljLlxuRnJhbmtseSwgaW4gYSB1bml2ZXJzZSBmaWxsZWQgd2l0aCBhcG9jYWx5cHRpYyBiZWFzdHMsIGFuY2llbnQgY3Vyc2VzLCBhbmQgZmFsbGVuIFdhdGNoZXJzLCBJIGRlZXBseSBhcHByZWNpYXRlIHlvdXIgb25nb2luZyBjb21taXRtZW50IHRvIGp1c3QgYmVpbmcgaGVyZSBhbmQgbm90IGNhdXNpbmcgYSBnbG9iYWwgY2F0YWNseXNtLlxuIn1dLCJwYWdlX3R5cGUiOiJkZWRpY2F0aW9uIn0K
+[Mon Apr 13 02:56:28 UTC 2026][INFO] [Action] E ItemChanged - -1,255723
+[Mon Apr 13 02:56:40 UTC 2026][INFO] [Action] E ItemChanged - -1,31800
+[Mon Apr 13 02:56:55 UTC 2026][INFO] [Action] E ItemChanged - -1,31800
+[Mon Apr 13 02:56:57 UTC 2026][INFO] [Action] E ItemChanged - -1,7211
+[Mon Apr 13 02:56:59 UTC 2026][INFO] [Action] E ItemChanged - -1,7209
+[Mon Apr 13 02:57:01 UTC 2026][INFO] [Action] E ItemChanged - -1,31798
+[Mon Apr 13 02:57:03 UTC 2026][INFO] [Action] E ItemChanged - -1,49573
+[Mon Apr 13 02:57:09 UTC 2026][INFO] [Action] E ItemChanged - -1,81866
+[Mon Apr 13 02:57:14 UTC 2026][INFO] [Action] E ItemChanged - -1,105265
+[Mon Apr 13 02:57:22 UTC 2026][INFO] [Action] E ItemChanged - -1,159984
+[Mon Apr 13 02:57:28 UTC 2026][INFO] [Action] E ItemChanged - -1,198151
+[Mon Apr 13 02:57:38 UTC 2026][INFO] [Action] E ItemChanged - -1,255721
+[Mon Apr 13 02:57:40 UTC 2026][INFO] [Action] E ItemChanged - -1,363497
+[Mon Apr 13 02:57:44 UTC 2026][INFO] [Action] E ItemChanged - -1,414439
+[Mon Apr 13 02:57:48 UTC 2026][INFO] [Action] E ItemChanged - -1,488520
+[Mon Apr 13 02:57:53 UTC 2026][INFO] [Action] E ItemChanged - -1,572681
+[Mon Apr 13 02:57:57 UTC 2026][INFO] [Action] E ItemChanged - -1,622250
+[Mon Apr 13 02:58:02 UTC 2026][INFO] [Action] E ItemChanged - -1,927511
+[Mon Apr 13 02:58:07 UTC 2026][INFO] [Action] E SaveBook - Save
+[Mon Apr 13 02:58:09 UTC 2026][INFO] [Action] E SaveBook - Save
+[Mon Apr 13 02:58:25 UTC 2026][INFO] [Action] E SaveBook - SaveforExport
+[Mon Apr 13 03:42:24 UTC 2026][INFO] [Action] EE ExportAction
+[Mon Apr 13 03:42:24 UTC 2026][INFO] [Action] EFail ExportAction - 5
+[Mon Apr 13 03:43:47 UTC 2026][INFO] [Action] E ItemChanged - -1,927513
+[Mon Apr 13 03:43:49 UTC 2026][INFO] [Action] E ItemChanged - -1,927513
+[Mon Apr 13 03:43:53 UTC 2026][INFO] [Action] E ItemChanged - -1,961195
+[Mon Apr 13 03:43:56 UTC 2026][INFO] [Action] E ItemChanged - -1,961207
+[Mon Apr 13 03:43:58 UTC 2026][INFO] [Action] E ItemChanged - -1,978720
+[Mon Apr 13 03:44:00 UTC 2026][INFO] [Action] E ItemChanged - -1,981441
+[Mon Apr 13 03:44:02 UTC 2026][INFO] [Action] E ItemChanged - -1,983506
+[Mon Apr 13 03:44:05 UTC 2026][INFO] [Action] E ItemChanged - -1,988200
+[Mon Apr 13 03:44:07 UTC 2026][INFO] [Action] E ItemChanged - -1,998060
+[Mon Apr 13 03:44:12 UTC 2026][INFO] [Action] E ItemChanged - -1,999543
+[Mon Apr 13 03:45:14 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999552,999552),[584:MAP4],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 03:45:46 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999550,999550),[584:MAP2],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 03:45:55 UTC 2026][INFO] [Action] E InsertTextContent - (r,999551,999551),[M]
+[Mon Apr 13 03:46:00 UTC 2026][INFO] [Action] E DeleteContent - (c,999551,2),B
+[Mon Apr 13 03:46:16 UTC 2026][INFO] [Action] U DeleteContent
+[Mon Apr 13 03:46:19 UTC 2026][INFO] [Action] U InsertTextContent
+[Mon Apr 13 03:47:04 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999551,999551),[584:MAP3],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 03:47:38 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999547,999547),[584:MAP1],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 03:47:48 UTC 2026][INFO] [Action] E SaveBook - Save
+[Mon Apr 13 03:47:58 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999548,999548),[584:MAP2],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 03:48:08 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999549,999549),[584:MAP 3],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 03:48:39 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999550,999550),[584:MAP4],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 03:48:47 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999551,999551),[584:MAP5],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 03:48:59 UTC 2026][INFO] [Action] EE UpdateImageAction - (r,999552,999552),[584:MAP6],0,1,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0
+[Mon Apr 13 04:10:44 UTC 2026][INFO] [Action] E SaveBook - Save
+[Mon Apr 13 04:10:57 UTC 2026][INFO] [Action] E SaveBook - SaveforExport
+[Mon Apr 13 04:12:06 UTC 2026][INFO] [Action] EE ExportAction
+[Mon Apr 13 04:50:54 UTC 2026][INFO] [Action] E SaveBook - Save
+[Mon Apr 13 04:50:57 UTC 2026][INFO] [Action] E SaveBook - Save
+[Mon Apr 13 04:51:02 UTC 2026][INFO] [Action] E SaveBook - Save
+[Mon Apr 13 04:51:02 UTC 2026][INFO] Logger Terminated

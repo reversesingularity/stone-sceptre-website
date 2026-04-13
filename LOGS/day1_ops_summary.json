@@ -1,11 +1,13 @@
 {
-  "timestamp": "2026-04-09T15:50:21.645725",
+  "timestamp": "2026-04-11T19:20:37.250351",
   "results": {
     "Phase 1 - AdaMem Seeding": true,
     "Phase 2 - Nemoclaw Canary": true,
     "Phase 3 - Nemotron Gateway": true,
-    "Phase 4 - SELF-REFINE Loop": true
+    "Phase 4 - SELF-REFINE Loop": true,
+    "Phase 5 - Agent 9 Canary": false,
+    "Phase 6 - Local Nemotron GGUF": true
   },
-  "all_passed": true,
+  "all_passed": false,
   "log_file": "F:\\Projects-cmodi.000\\book_writer_ai_toolkit\\output\\nephilim_chronicles\\LOGS\\day1_ops.log"
 }

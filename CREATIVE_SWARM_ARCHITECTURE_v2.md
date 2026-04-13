@@ -103,7 +103,7 @@ Every component in the swarm maps to exactly one layer.
 | 3 | **Constitution Updater v2** | CRDT-merged SSOT updates with conflict resolution | **Nemotron 3 Super**       | Session note saved       |
 | 4 | **Reader Reaction Matrix**  | Per-scene 8-criterion scoring + SELF-REFINE loop  | llama3.1 (Ollama)                | Manual/auto after draft  |
 | 5 | **Dopamine Ladder**         | Hook density + tension arc mapping                | llama3.1 (Ollama)                | Auto alongside Agent 4   |
-| 6 | **Image Prompt Designer**   | Visual direction prompts for KDP art              | mistral (Ollama)                 | Manual                   |
+| 6 | **Image Prompt Designer**   | Visual direction prompts for KDP art              | Nemotron Router cascade          | Manual                   |
 | 7 | **KDP Formatter**           | Assembles `.docx` from markdown                 | Deterministic (no LLM)           | Manual ("book complete") |
 
 ### New Agents (v2.0 Additions)
@@ -112,10 +112,11 @@ Every component in the swarm maps to exactly one layer.
 | -- | --------------------------------- | ------------------------------------------------------------ | -------------------------- | ---------------------------- |
 | 0  | **Swarm Conductor**         | Master orchestrator; decomposes tasks, routes, audits        | **Nemotron 3 Super** | All swarm dispatches         |
 | 8  | **Story Prototype Manager** | Maintains Role Graph + Plot Graph in Qdrant                  | **Nemotron 3 Super** | Chapter saved; session end   |
-| 9  | **Theological Guard**       | Validates theology against SERIES_BIBLE.md axioms            | **Nemotron 3 Super** | Post-draft, pre-approve      |
+| 9  | **Content Strategist / NZ Grant Monitor** | Social content, SEO, serialization, NZ grants | **Nemotron Router cascade** | Manual / scheduled (daily) |
 | 10 | **Cross-Book Continuity**   | Audits Books 3+4+5 draft coherence as a set                  | **Nemotron 3 Super** | Nightly (02:00)              |
-| 11 | **Self-Refine Scorer**      | Meta-evaluates Agents 4+5 outputs; requests revisions        | mistral (Ollama)           | After Agents 4+5 complete    |
+| 11 | **Self-Refine Scorer**      | Meta-evaluates Agents 4+5 outputs; requests revisions        | Nemotron Router cascade    | After Agents 4+5 complete    |
 | 12 | **Nemoclaw Daemon**         | Persistent 24/7 daemon: background vectorization, graph sync | Nemoclaw (OpenClaw)        | Continuous heartbeat (1 min) |
+| 13 | **Marketing Agent v2.1**    | 24/6 autonomous content generation, multi-platform posting (API + clipboard), campaign planning, SEO tracking, web scraping | llama3.1 (Ollama) + Qdrant | Scheduler (15-min cycles, Sabbath rest) |
 
 ### Agent Dependency Graph
 
@@ -136,6 +137,8 @@ Every component in the swarm maps to exactly one layer.
       │
       ▼
   [6] [7]                      ← PRODUCTION OUTPUT
+
+     [13]                      ← AUTONOMOUS (24/6 scheduler, Sabbath rest)
 ```
 
 ---
@@ -157,8 +160,8 @@ Orchestration / task decomposition                 → Nemotron 3 Super
 ─────────────────────────────────────────────────────────────────────
 Scene-level scoring (1,200–3,000 tokens)           → Ollama (llama3.1)
 Dopamine hook pattern matching                     → Ollama (llama3.1)
-Image prompt generation (short context)            → Ollama (mistral)
-Self-refine scoring (short evaluation chain)       → Ollama (mistral)
+Image prompt generation (short context)            → Nemotron Router cascade
+Self-refine scoring (short evaluation chain)       → Nemotron Router cascade
 Deterministic file assembly                        → Python (no LLM)
 ─────────────────────────────────────────────────────────────────────
 ```
@@ -177,13 +180,17 @@ Nemotron 3 Super (120B) is a hybrid **Mamba-Transformer MoE** with:
 
 ### n8n Nemotron Router Node
 
-In n8n, Nemotron is accessed via an HTTP Request node to either:
+In n8n, Nemotron is accessed via an HTTP Request node to **port 8768** (Nemotron Tool Router),
+which implements a 4-tier cascade:
 
-- **NVIDIA NIM API** (recommended for RTX 3080 offload): `https://integrate.api.nvidia.com/v1`
-- **OpenRouter API** (fallback): `https://openrouter.ai/api/v1/chat/completions`
-  Model string: `nvidia/nemotron-4-340b-instruct` or equivalent Super 120B endpoint
+1. **NVIDIA NIM API** (primary): `https://integrate.api.nvidia.com/v1`
+2. **OpenRouter API** (fallback 1): `https://openrouter.ai/api/v1/chat/completions`
+   Model string: `nvidia/nemotron-4-340b-instruct`
+3. **Local Nemotron 3 Super GGUF** (fallback 2): `http://localhost:8780/v1/chat/completions`
+   Served via llama-server (llama.cpp), CPU-only, zero-cost inference
+4. **Ollama llama3.1** (fallback 3): `http://localhost:11434/api/chat`
 
-The custom n8n node `nemotron_tool_router.js` (see Section 9) handles:
+The router (`nemotron_tool_router.py`) handles:
 
 1. Context budget calculation (how much to load into the 1M window)
 2. Automatic tool schema injection for CRDT/graph operations

@@ -1,15 +1,17 @@
 # THE NEPHILIM CHRONICLES — BOOKS 3–5
-## n8n + Ollama + Nemotron Agent Wiring Architecture v2.0
-*DESKTOP-SINGULA | Creative Swarm v2.0 | 12-Agent HAWK Topology*
-*Supersedes: N8N_AGENT_WIRING_v1.0 (archived to ARCHIVE/superseded/)*
+## n8n + Ollama + Nemotron Agent Wiring Architecture v2.1
+*DESKTOP-SINGULA | Creative Swarm v2.1 | 13-Agent HAWK Topology*
+*Supersedes: N8N_AGENT_WIRING_v2.0*
 
 ---
 
 ## ARCHITECTURE OVERVIEW
 
-The v2.0 Creative Swarm uses a **HAWK 5-layer control hierarchy** with 12 agents
-split between local Ollama (fast scene-level tasks) and NVIDIA NIM Nemotron-3 Super
-(long-horizon cross-book synthesis). All inter-agent traffic routes through n8n.
+The v2.1 Creative Swarm uses a **HAWK 5-layer control hierarchy** with 13 agents
+split between local Ollama/Nemotron GGUF (fast scene-level tasks) and NVIDIA NIM
+Nemotron-3 Super (long-horizon cross-book synthesis). All inter-agent traffic routes
+through n8n. Agent 9 adds content strategy, NZ grant monitoring, and YouTube anchor
+content generation.
 
 ```
 HAWK LAYER STACK
@@ -18,7 +20,7 @@ Layer 0  USER (Chris) — unrestricted authority, HITL gates
 Layer 1  n8n WORKFLOW ORCHESTRATOR — webhook router, job scheduler
 Layer 2  AGENT_0 (Conductor) — Nemotron, context arbiter, dispatches jobs
 Layer 3  WORKER AGENTS 2–11 — Ollama or Nemotron per task profile
-Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8768)
+Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8772), llama-server (8780)
 ─────────────────────────────────────────────────────────────────
 ```
 
@@ -33,12 +35,12 @@ Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8768)
 | AGENT_3 | Constitution Updater | Nemotron-3 Super | SSOT / dossier updates via CRDT proposals |
 | AGENT_4 | Reader Reaction Matrix | Ollama llama3.1 | Scene-level scoring matrix |
 | AGENT_5 | Dopamine Ladder | Ollama llama3.1 | Hook/reward cycle mapping |
-| AGENT_6 | Image Prompt Designer | Ollama mistral | Visual direction briefs |
+| AGENT_6 | Image Prompt Designer | Nemotron Router cascade | Visual direction briefs |
 | AGENT_7 | KDP Formatter | Python (8766) | Manuscript assembly → .docx |
 | AGENT_8 | Story Prototype Extractor | Nemotron-3 Super | Role/Plot graph extraction |
-| AGENT_9 | Foreshadow Planter | Nemotron-3 Super | Unplanted effect detection |
+| AGENT_9 | Content Strategist / NZ Grant Monitor | Nemotron Router cascade | Social content, SEO, serialization, NZ grants |
 | AGENT_10 | Cross-Book Auditor | Nemotron-3 Super | Nightly Books 3+4+5 continuity |
-| AGENT_11 | SELF-REFINE Critic | Ollama mistral | Scene draft scoring + critique |
+| AGENT_11 | SELF-REFINE Critic | Nemotron Router cascade | Scene draft scoring + critique |
 | NEMOCLAW | Background Daemon | asyncio | File watcher, heartbeat, CRDT collector |
 
 ---
@@ -49,11 +51,16 @@ Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8768)
 |---------|------|--------|---------|
 | n8n workflow engine | 5678 | docker | Orchestration backbone |
 | Qdrant vector store | 6333 | docker | 5 collections (see below) |
-| Ollama LLM server | 11434 | ollama | Local GPU inference |
+| Ollama LLM server | 11434 | ollama | Local GPU inference (llama3.1 + nomic-embed) |
 | Canon Search API | 8765 | `canon_search_api.py` | Semantic SSOT search |
 | KDP Format Server | 8766 | `kdp_format_server.py` | Manuscript → .docx assembly |
 | Story Prototype API | 8767 | `update_story_prototype.py` | Role/Plot graph extraction |
-| Nemotron Tool Router | 8768 | `nemotron_tool_router.py` | NVIDIA NIM → OpenRouter → Ollama |
+| Nemotron Tool Router | 8768 | `nemotron_tool_router.py` | NIM → OpenRouter → Local GGUF → Ollama |
+| Utility Server | 8769 | `utility_server.py` | Bookmarks, search utilities |
+| Theological Guard | 8770 | `theological_guard_server.py` | 10-axiom theological validation |
+| Swarm Conductor | 8771 | `conductor_server.py` | Master orchestrator (Agent 0) |
+| Content Strategist | 8772 | `agent_9_content_strategist.py` | Social, SEO, serialization, NZ grants |
+| Local Nemotron GGUF | 8780 | `llama-server` (llama.cpp) | CPU-only Nemotron 3 Super inference |
 
 ---
 
@@ -75,7 +82,7 @@ with 46 locked canon triples. Run `--migrate-only` to port legacy points.
 ## NEMOTRON ROUTING POLICY
 
 All Agents 0, 2, 3, 8, 9, 10 send requests to **port 8768** (Nemotron Tool Router).
-The router implements a 3-tier cascade:
+The router implements a 4-tier cascade:
 
 ```
 1. PRIMARY:   NVIDIA NIM  https://integrate.api.nvidia.com/v1
@@ -86,7 +93,11 @@ The router implements a 3-tier cascade:
 2. FALLBACK1: OpenRouter  https://openrouter.ai/api/v1
               Model: nvidia/nemotron-4-340b-instruct
 
-3. FALLBACK2: Ollama local  http://localhost:11434
+3. FALLBACK2: Local Nemotron 3 Super GGUF  http://localhost:8780/v1
+              Model: nemotron-3-super (llama-server, CPU-only)
+              Context: 131,072 tokens  |  Timeout: 600s
+
+4. FALLBACK3: Ollama local  http://localhost:11434
               Model: llama3.1
               Context cap: ~128K tokens
 ```
@@ -95,7 +106,7 @@ Set `NVIDIA_API_KEY` and `OPENROUTER_API_KEY` in `.env` at project root.
 
 ---
 
-## THE 10 n8n WORKFLOWS
+## THE 13 n8n WORKFLOWS
 
 ---
 
@@ -264,28 +275,28 @@ write_proposal(
 
 ---
 
-### WORKFLOW 7 — IMAGE PROMPT DESIGNER (Agent 6 — Ollama)
+### WORKFLOW 7 — IMAGE PROMPT DESIGNER (Agent 6 — Nemotron Router)
 **Webhook:** `POST /webhook/analyse-chapter`  ← runs in parallel
-**Model:** Ollama mistral
+**Model:** Nemotron Router cascade (was: Ollama mistral)
 
 ```
 [Webhook]
     ↓
 [Read File] → REFERENCE/VISUAL_DIRECTION.md
     ↓
-[Ollama Chat Node]
-  model: mistral
-  system: "You are the Image Prompt Designer for TNC. Visual register: cinematic, baroque..."
-  user: "Chapter text: {{chapter_text}}\nVisual guidelines: {{visual_bible}}"
+[HTTP Request] → POST http://localhost:8768/route
+  body: { "task_type": "image_prompt",
+          "prompt": "Chapter text: {{chapter_text}}\nVisual guidelines: {{visual_bible}}",
+          "max_tokens": 1024 }
     ↓
 [Append File] → 03_IMAGE_PROMPTS/BOOK_{{book}}_PROMPTS.md
 ```
 
 ---
 
-### WORKFLOW 8 — SELF-REFINE LOOP (Agent 11 — Ollama)
+### WORKFLOW 8 — SELF-REFINE LOOP (Agent 11 — Nemotron Router)
 **Webhook:** `POST /webhook/refine-scene`
-**Model:** Ollama mistral (scorer) + llama3.1 (revisor) + Nemotron (revisor if available)
+**Model:** Nemotron Router cascade (scorer) + llama3.1 (revisor) + Nemotron (revisor if available)
 
 ```
 [Webhook] ← POST { "draft_path": "MANUSCRIPT/book_3/CHAPTER_07.md",
@@ -359,6 +370,75 @@ Returns: { "output_path": "...", "chapter_count": N, "word_count": N }
     ↓
 [Append File] → LOGS/AUDIT_SUMMARY.log
 ```
+
+---
+
+### WORKFLOW 11 — SOCIAL CONTENT GENERATOR (Agent 9 — Nemotron Router)
+**Webhook:** `POST /webhook/social-content`
+**Model:** Nemotron Router cascade via Agent 9 microservice
+
+```
+[Webhook] ← POST { "book_title": "...", "chapter_title": "...",
+                    "hook_line": "...", "platforms": ["tiktok","linkedin","twitter","youtube_community"] }
+    ↓
+[HTTP Request] → POST http://localhost:8772/generate-social
+  body: { full payload from webhook }
+    ↓
+Returns: { "tiktok": {...}, "linkedin": {...}, "twitter": {...}, "youtube_community": {...} }
+    ↓
+[Log to LOGS/workflow_runs.jsonl]
+    ↓
+[Respond to Webhook]
+```
+
+---
+
+### WORKFLOW 12 — SEO & SERIALIZATION (Agent 9 — Nemotron Router)
+**Webhook:** `POST /webhook/seo-serialization`
+**Model:** Nemotron Router cascade via Agent 9 microservice
+
+```
+[Webhook] ← POST { "book_title": "...", "series_name": "...",
+                    "genre": "...", "synopsis": "..." }
+    ↓
+┌─── [HTTP Request] → POST http://localhost:8772/seo-metadata
+│      Returns: { keywords, bisac_categories, ab_titles, html_description }
+│
+├─── [HTTP Request] → POST http://localhost:8772/serialization-schedule
+│      Returns: { serialization plan with DTC exclusivity windows }
+    ↓
+[Merge Results Node] → Combines SEO + Schedule payloads
+    ↓
+[Respond to Webhook]
+```
+
+---
+
+### WORKFLOW 13 — NZ GRANT MONITOR (Agent 9 — Schedule + Manual)
+**Schedule:** Daily at 08:00 AM NZST
+**Manual Webhook:** `POST /webhook/nz-grant-scan`
+**Model:** Nemotron Router cascade (LLM-powered extraction from source HTML/RSS)
+
+```
+[Schedule Trigger: 08:00 daily]  OR  [Webhook: POST /webhook/nz-grant-scan]
+    ↓
+[HTTP Request] → POST http://localhost:8772/scrape-nz-grants
+  body: {}
+    ↓
+Returns: { "grants_found": N, "hitl_flags": M, "results": [...] }
+    ↓
+[IF Node] → grants_found > 0?
+  YES → [Log Grant Results to LOGS/workflow_runs.jsonl]
+  NO  → [No-Op]
+```
+
+NZ grant sources scraped:
+- **NZSA** — New Zealand Society of Authors grants/awards
+- **Mātātuhi Foundation** — Māori literary grants
+- **Creative NZ** — Arts Council of New Zealand funding
+
+Results appended to `LOGS/OPPORTUNITIES_LOG.md`. Sources that fail direct scrape
+fall back to RSS, then flag for HITL (human-in-the-loop) review.
 
 ---
 
@@ -460,6 +540,9 @@ python governance.py --show-audit --agent AGENT_3
 | `POST /webhook/refine-scene` | Author | WF8 SELF-REFINE |
 | `POST /webhook/kdp-assemble` | Author | WF9 KDP build |
 | `POST /webhook/nightly-continuity-prep` | Cron 02:00, Nemoclaw 01:45 | WF10 audit |
+| `POST /webhook/social-content` | Author, Conductor | WF11 social content |
+| `POST /webhook/seo-serialization` | Author, Conductor | WF12 SEO + serialization |
+| `POST /webhook/nz-grant-scan` | Author, Schedule 08:00 | WF13 NZ grant monitor |
 
 ---
 
@@ -487,20 +570,21 @@ python adamem_initializer.py --seed-only --verbose
 
 ## WHAT CHANGED FROM v1.0
 
-| v1.0 | v2.0 |
+| v1.0 | v2.1 |
 |------|------|
-| 7 agents (Cowork frame) | 12 agents (HAWK topology) |
-| All Ollama (mistral/llama3.1) | Nemotron-3 Super for Agents 0,2,3,8,9,10 |
+| 7 agents (Cowork frame) | 13 agents (HAWK topology) |
+| All Ollama (mistral/llama3.1) | Nemotron-3 Super for Agents 0,2,3,8,10 + local GGUF cascade |
 | Flat `nephilim_chronicles` collection | 4 AdaMem tier collections + legacy |
 | No Story Prototype | Role Graph + Plot Graph dual-knowledge system |
 | Manual CRDT / no merge safety | Full CRDT staging + atomic write + conflict escalation |
 | No background warden | Nemoclaw daemon (24/7 file watch + health checks) |
 | No scene refinement | SELF-REFINE loop (11-criterion weighted rubric) |
 | No governance layer | Audit log + deontic permissions + PIMMUR compliance |
-| 6 n8n workflows | 10 n8n workflows |
-| Ports 8765–8766 | Ports 8765–8768 |
+| No content strategy | Agent 9: TikTok/LinkedIn/YouTube + NZ grant monitor |
+| 6 n8n workflows | 13 n8n workflows |
+| Ports 8765–8766 | Ports 8765–8772, 8780 (llama-server) |
 
 ---
 
-*Architecture Version 2.0 — DESKTOP-SINGULA | The Nephilim Chronicles Books 3–5*
-*12-Agent HAWK Topology | AdaMem 4-Tier | Story Prototype | CRDT | SELF-REFINE | Governance*
+*Architecture Version 2.1 — DESKTOP-SINGULA | The Nephilim Chronicles Books 3–5*
+*13-Agent HAWK Topology | AdaMem 4-Tier | Story Prototype | CRDT | SELF-REFINE | Governance | Content Strategy*

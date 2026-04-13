@@ -1,0 +1,33 @@
+[19:30:26] === TNC Swarm Startup ===
+[19:30:26] Phase 1: Waiting for Docker infrastructure...
+[21:33:11]   [WARN] n8n not ready after 120s -- continuing anyway
+[21:33:11]   [WARN] qdrant not ready after 120s -- continuing anyway
+[21:33:11]   [WARN] ollama not ready after 120s -- continuing anyway
+[21:33:11]   [WARN] self-hosted-ai-starter-kit-postgres-1 not ready after 120s -- continuing anyway
+[21:33:11] Phase 2: Checking for orphaned processes...
+[21:33:24] Phase 3: Starting llama-server (Nemotron 3 Super GGUF on :8780)...
+[21:33:24]   [WARN] llama-server not found on PATH -- skipping local Nemotron GGUF
+[21:33:24]   Install llama.cpp and ensure 'llama-server' is on PATH, or set full path in $LlamaServer.Exe
+[21:33:24] Phase 4: Starting Python servers...
+[21:33:24]   Started canon_search_api on :8765 (PID 25356)
+[21:33:25]   Started kdp_format_server on :8766 (PID 3084)
+[21:33:26]   Started update_story_prototype on :8767 (PID 27800)
+[21:33:27]   Started nemotron_tool_router on :8768 (PID 28308)
+[21:33:28]   Started utility_server on :8769 (PID 28504)
+[21:33:30]   Started theological_guard_server on :8770 (PID 25968)
+[21:33:31]   Started conductor_server on :8771 (PID 8492)
+[21:33:32]   Started agent_9_content_strategist on :8772 (PID 27976)
+[21:33:33] Phase 5: Starting Nemoclaw daemon...
+[21:33:33]   Started nemoclaw_daemon (PID 26736)
+[21:33:33] Phase 6: Health verification (15s warmup)...
+[21:33:48]   canon_search_api:8765 -- UP
+[21:33:48]   kdp_format_server:8766 -- UP
+[21:33:48]   update_story_prototype:8767 -- DOWN
+[21:33:49]   nemotron_tool_router:8768 -- UP
+[21:33:49]   utility_server:8769 -- UP
+[21:33:49]   theological_guard_server:8770 -- DOWN
+[21:33:49]   conductor_server:8771 -- DOWN
+[21:33:50]   agent_9_content_strategist:8772 -- UP
+[21:33:50]   nemoclaw_daemon -- UP
+[21:33:50] === Startup complete: 6 / 9 services running ===
+[21:33:50] Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\swarm_startup_2026-04-10_193026.log

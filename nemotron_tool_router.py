@@ -64,6 +64,11 @@ NEMOTRON_MODEL_NVIDIA = "nvidia/nemotron-3-8b-base-4k"  # use the available NIM 
 NEMOTRON_MODEL_OR     = "nvidia/nemotron-4-340b-instruct"  # OpenRouter variant
 OLLAMA_FALLBACK_MODEL = "llama3.1"
 
+# Local Nemotron 3 Super GGUF via llama-server (zero-cost CPU inference)
+LOCAL_NEMOTRON_PORT  = int(os.environ.get("LOCAL_NEMOTRON_PORT", "8780"))
+LOCAL_NEMOTRON_URL   = f"http://localhost:{LOCAL_NEMOTRON_PORT}/v1/chat/completions"
+LOCAL_NEMOTRON_MODEL = os.environ.get("LOCAL_NEMOTRON_MODEL", "nemotron-3-super")
+
 # Context budget: 900K token safety ceiling (1M window, 10% headroom)
 MAX_CONTEXT_TOKENS = 900_000
 CHARS_PER_TOKEN    = 0.75   # conservative estimate
@@ -169,53 +174,55 @@ def call_openrouter(messages, max_tokens, tool_schemas):
     return r.json()
 
 
-def call_ollama(messages, max_tokens, model=None):
+def call_ollama(messages, max_tokens, model=None, json_mode=False):
     """Call local Ollama (tertiary fallback)."""
     model = model or OLLAMA_FALLBACK_MODEL
-    # Convert to Ollama's format
-    prompt_parts = []
-    for m in messages:
-        role = m.get("role", "user")
-        content = m.get("content", "")
-        if role == "system":
-            prompt_parts.append(f"[SYSTEM] {content}")
-        elif role == "user":
-            prompt_parts.append(f"[USER] {content}")
-        elif role == "assistant":
-            prompt_parts.append(f"[ASSISTANT] {content}")
-
-    prompt_text = "\n".join(prompt_parts)
+    # Use OpenAI-compatible endpoint so json_mode works cleanly
+    payload = {
+        "model":    model,
+        "messages": messages,
+        "stream":   False,
+        "options":  {"num_predict": max_tokens or 2048},
+    }
+    if json_mode:
+        payload["response_format"] = {"type": "json_object"}
 
     r = requests.post(
-        f"{OLLAMA_URL}/api/generate",
-        json={
-            "model":  model,
-            "prompt": prompt_text,
-            "stream": False,
-            "options": {"num_predict": max_tokens or 2048},
-        },
+        f"{OLLAMA_URL}/v1/chat/completions",
+        json=payload,
         timeout=300,
     )
     r.raise_for_status()
-    ollama_resp = r.json()
+    data = r.json()
 
-    # Normalise to OpenAI style
-    return {
-        "id":     "ollama-fallback",
-        "model":  model,
-        "object": "chat.completion",
-        "choices": [{
-            "index":         0,
-            "message":       {"role": "assistant", "content": ollama_resp.get("response", "")},
-            "finish_reason": "stop",
-        }],
-        "usage": {
-            "prompt_tokens":     ollama_resp.get("prompt_eval_count", 0),
-            "completion_tokens": ollama_resp.get("eval_count", 0),
-            "total_tokens":      ollama_resp.get("prompt_eval_count", 0) + ollama_resp.get("eval_count", 0),
-        },
-        "_backend": "ollama",
+    # Normalise: /v1/chat/completions already returns OpenAI format
+    data["_backend"] = "ollama"
+    return data
+
+
+def call_local_nemotron(messages, max_tokens, tool_schemas):
+    """Call local Nemotron 3 Super GGUF via llama-server (OpenAI-compatible)."""
+    payload = {
+        "model":      LOCAL_NEMOTRON_MODEL,
+        "messages":   messages,
+        "max_tokens": max_tokens or 4096,
+        "temperature": 0.7,
+        "top_p": 0.9,
     }
+    if tool_schemas:
+        payload["tools"] = tool_schemas
+        payload["tool_choice"] = "auto"
+
+    r = requests.post(
+        LOCAL_NEMOTRON_URL,
+        headers={"Content-Type": "application/json"},
+        json=payload,
+        timeout=600,  # CPU inference can be slow
+    )
+    r.raise_for_status()
+    result = r.json()
+    result["_backend"] = "local_nemotron"
+    return result
 
 
 def validate_tool_calls(completion: dict) -> list:
@@ -269,6 +276,7 @@ def route_request(req: dict) -> dict:
     max_tokens   = req.get("max_tokens", 4096)
     tool_schemas = req.get("tool_schemas", [])
     force_local  = req.get("force_local", False)
+    json_mode    = req.get("json_mode", False)
 
     messages = build_messages(req)
     total_estimated = estimate_total_tokens(messages)
@@ -318,9 +326,24 @@ def route_request(req: dict) -> dict:
             errors.append(f"openrouter: {err_msg}")
             logger.warning(f"  OpenRouter failed: {err_msg}")
 
-    # FALLBACK 2: Ollama local
+    # FALLBACK 2: Local Nemotron 3 Super GGUF (zero-cost CPU)
     try:
-        result = call_ollama(messages, max_tokens)
+        result = call_local_nemotron(messages, max_tokens, tool_schemas)
+        result["_task_type"] = task_type
+        if tool_schemas:
+            result["_tool_calls"] = validate_tool_calls(result)
+        logger.info(f"  Local Nemotron success — backend=local_nemotron")
+        if errors:
+            result["_warnings"] = errors
+        return result
+    except Exception as e:
+        err_msg = str(e)
+        errors.append(f"local_nemotron: {err_msg}")
+        logger.warning(f"  Local Nemotron failed: {err_msg}")
+
+    # FALLBACK 3: Ollama local
+    try:
+        result = call_ollama(messages, max_tokens, json_mode=json_mode)
         result["_backend"] = "ollama"
         result["_task_type"] = task_type
         logger.info(f"  Ollama fallback success — model={OLLAMA_FALLBACK_MODEL}")
@@ -334,7 +357,7 @@ def route_request(req: dict) -> dict:
     return {
         "error":    "ALL_BACKENDS_FAILED",
         "backends": errors,
-        "message":  "NVIDIA NIM, OpenRouter, and Ollama all unreachable.",
+        "message":  "NVIDIA NIM, OpenRouter, local Nemotron, and Ollama all unreachable.",
     }
 
 
@@ -371,21 +394,30 @@ class RouterHandler(BaseHTTPRequestHandler):
             except Exception:
                 pass
 
+            local_nem_ok = False
+            try:
+                r = requests.get(f"http://localhost:{LOCAL_NEMOTRON_PORT}/health", timeout=5)
+                local_nem_ok = r.status_code == 200
+            except Exception:
+                pass
+
             self.send_json({
                 "status":   "ok",
                 "service":  "nemotron_tool_router",
                 "backends": {
-                    "nvidia_nim":   "configured" if nim_ok else "unconfigured",
-                    "openrouter":   "configured" if or_ok  else "unconfigured",
-                    "ollama":       "up" if ollama_ok else "down",
+                    "nvidia_nim":      "configured" if nim_ok else "unconfigured",
+                    "openrouter":      "configured" if or_ok  else "unconfigured",
+                    "local_nemotron":  "up" if local_nem_ok else "down",
+                    "ollama":          "up" if ollama_ok else "down",
                 }
             })
         elif self.path == "/models":
             self.send_json({
-                "primary":   NEMOTRON_MODEL_NVIDIA,
-                "secondary": NEMOTRON_MODEL_OR,
-                "fallback":  OLLAMA_FALLBACK_MODEL,
-                "embed":     EMBED_MODEL,
+                "primary":        NEMOTRON_MODEL_NVIDIA,
+                "secondary":      NEMOTRON_MODEL_OR,
+                "local_nemotron": LOCAL_NEMOTRON_MODEL,
+                "fallback":       OLLAMA_FALLBACK_MODEL,
+                "embed":          EMBED_MODEL,
             })
         else:
             self.send_json({"error": "Not found"}, 404)
