@@ -1,34 +1,30 @@
 # Author Task List — The Nephilim Chronicles
 **Generated:** April 9, 2026  
-**Last Updated:** April 18, 2026 (task cleanup 23:45)  
+**Last Updated:** April 18, 2026 (Book 2 KDP publication)  
 **Status:** Active
 
 ---
 
-## PRIORITY 1 — Book 2 Publishing Pipeline
+## PRIORITY 1 — ✅ COMPLETE: Book 2 Published on KDP (April 18, 2026)
 
-Book 2 first draft is **complete** (Prologue + Ch1–14 + Epilogue, ~125,000 words). These tasks move it to KDP:
+**Status:** Book 2 is live on Amazon KDP.
 
-- [ ] **Full continuity audit** — Read through all chapters sequentially; flag timeline inconsistencies, name drift, or contradictions with locked canon (SSOT_v3_MASTER.md)
-- [ ] **Polish/revision pass** — Line-level prose editing across all 18 chapter files in `MANUSCRIPT/book_2/CHAPTERS/`
-- [ ] **Resolve open decisions** (from HANDOFF_PROMPT_KEY_ELEMENTS.md):
-  - [ ] Noctis Labyrinthus as Mars station — confirm or reject
-  - [ ] Gate mechanics (Acoustic Resonance Depletion Model) — confirm or reject
-  - [ ] Michael territorial interdict over Greenland — confirm or reject
-  - [ ] Inter-domain transit frequency discovery — confirm or reject
-  - [ ] Liaigh's access to Dudael/Cydonia-class sites — resolve
-  - [ ] Mo Chrá cold-weather behavior at Antarctic temps — resolve
-  - [ ] Acoustic key: 5 remaining tones mechanism — decide
-  - [ ] Mo Chrá recovery timeline post-Gehenna expenditure — resolve
-  - [ ] Liaigh's silence at end of Ch6 — decide cause
-  - [ ] Miriam's acoustic compatibility with Gehenna frequency — resolve or leave seeded
-- [ ] **Generate chapter art** — Midjourney v6.1 using prompts from `MANUSCRIPT/book_2/IMAGE_PROMPTS/`
-- [ ] **Upscale images** — Real-ESRGAN 4x (`realesrgan-ncnn-vulkan.exe -n realesrgan-x4plus -s 4`)
-- [ ] **Resize to KDP specs** — Run `resize_to_kdp.ps1` (1650px max width, 300 DPI)
-- [ ] **Build .docx** — `$env:KDP_BOOK = "2"; python build_manuscript.py`
-- [ ] **Update TOC** — In Word: Ctrl+A → F9
-- [ ] **Final proofread** — full read-through in .docx format
-- [ ] **Upload to KDP**
+**Completed:**
+- [x] Full continuity audit
+- [x] Polish/revision pass
+- [x] Resolve open decisions (Noctis Labyrinthus, gate mechanics, Michael interdict, Liaigh access, Mo Chrá cold-weather, acoustic key, recovery timeline, Ch6 silence, Miriam compatibility)
+- [x] Generate chapter art (Midjourney v6.1)
+- [x] Upscale images (Real-ESRGAN 4x)
+- [x] Resize to KDP specs
+- [x] Build .docx
+- [x] Update TOC
+- [x] Final proofread
+- [x] Upload to KDP
+
+**Book 2 Details:**
+- Title: *The Nephilim Chronicles: Book 2*
+- Word count: ~125,000 words (Prologue + Ch1–14 + Epilogue)
+- Status: Live on Amazon KDP
 
 ---
 
