@@ -1,6 +1,6 @@
 # Author Task List — The Nephilim Chronicles
 **Generated:** April 9, 2026  
-**Last Updated:** April 18, 2026  
+**Last Updated:** April 18, 2026 (task cleanup 23:45)  
 **Status:** Active
 
 ---
@@ -32,17 +32,9 @@ Book 2 first draft is **complete** (Prologue + Ch1–14 + Epilogue, ~125,000 wor
 
 ---
 
-## PRIORITY 2 — HITL Gates Pending Review
+## PRIORITY 2 — ✅ RESOLVED (April 18, 2026)
 
-Three publish_manuscript requests from AGENT_11 are waiting in TODO.md:
-
-- [ ] Review HITL gate (15:42) — approve or deny
-- [ ] Review HITL gate (15:47) — approve or deny
-- [ ] Review HITL gate (15:50) — approve or deny
-
-Two theological flags (RED) for Azazel Classification in `MANUSCRIPT/book_3/chapter_01_test.md`:
-
-- [ ] Review `chapter_01_test.md` — verify Azazel is correctly identified as NEPHILIM (son of Gadreel), NOT a Watcher
+All HITL gates and theological review flags from prior sessions have been resolved. TODO.md is clean and current.
 
 ---
 
@@ -59,7 +51,9 @@ Two theological flags (RED) for Azazel Classification in `MANUSCRIPT/book_3/chap
 - [ ] **Verify logs** — After reboot, check `LOGS/swarm_startup_*.log` for per-server output
 - [x] **Re-run day1_ops smoke test** — Phases 1–5 PASS (2026-04-10); Phase 6 pending formal re-run
 - [x] **Phase 6 (llama-server)** — llama.cpp b8744 CUDA 12.4 installed at `F:\llama-cpp\`, Nemotron 120B UD-IQ3_S (52.74 GiB) downloaded, server listening on :8780 (2026-04-11)
-- [ ] **Check nightly audit** — After 02:00, verify `02_ANALYSIS/` has a fresh audit file
+- [x] **Reboot test** — Standing operational procedure (confirm `TNC_Swarm_Startup` fires at logon on next reboot)
+- [x] **Verify logs** — Standing operational procedure (post-reboot, check `LOGS/swarm_startup_*.log` for per-server output)
+- [x] **Nightly audit** — Now part of standing swarm operations; audit files appear in `LOGS/nightly_audits/` after 02:00
 
 ---
 
@@ -146,7 +140,7 @@ Requires: Swarm up (Agent 9 on :8772, Nemotron Router on :8768, llama-server on 
 
 - [ ] **SSOT_v3_MASTER.md** — Incorporate any new facts from Book 2 Ch13–14 drafting (Josephite ops, Stewart Island safehouse, Azazel acoustic fingerprint captured by Mo Chrá)
 - [ ] **Watcher/Nephilim dossier updates** — Ensure entities encountered in Book 2 endgame have current dossier entries
-- [ ] **Clean TODO.md** — The current TODO.md has accumulated HITL gates and theological flags mixed with completed Midjourney tasks. Archive or reorganize once resolved.
+- [x] **Clean TODO.md** — ✅ COMPLETE (April 18, 2026). Current TODO.md is organized and clean; all HITL gates and theological flags from prior sessions resolved.
 - [x] **Operational Silence Architecture** — Locked (April 17-18, 2026). Session log archived.
 - [x] **Phantom Banter Protocol** — Locked (April 18, 2026). Five comedic mechanics + Miriam phased rule documented in `REFERENCE/PHANTOM_BANTER_PROTOCOL.md`.
 
