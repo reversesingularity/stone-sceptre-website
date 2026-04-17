@@ -140,7 +140,7 @@ Cian's eyes never left the monitors, but something in his posture eased—a warr
 
 On the monitors, the rover continued its patient work. Flash. Maneuver. Flash. Each photograph another piece of the impossible puzzle.
 
-"Methuselah - the original wielder of the sword appeared to me in a dream...He told me he'd seen me before... in a vision," Cian continued. "Seen me standing with two prophets at the end of days. Seen me holding a sword that would taste the blood of the Beast. And then he handed it to me—this blade that had never known defeat, forged from metals that don't exist in nature, inscribed with names of God that burn the tongue to speak—and he said: 'I am the bridge between the world that was and the world that will be. You are the bridge between judgment past and judgment coming. Keep faith. Keep fighting. The Witnesses are waiting.'"
+"Methuselah - the original wielder of the sword appeared to me in a dream...He told me he'd seen me before... in a vision," Cian continued. "Seen me standing with two prophets at the end of days. Seen me holding a sword that would taste the blood of the Nephilim. And then he handed it to me—this blade that had never known defeat, forged from metals that don't exist in nature, inscribed with names of God that burn the tongue to speak—and he said: 'I am the bridge between the world that was and the world that will be. You are the bridge between judgment past and judgment coming. Keep faith. Keep fighting. The Witnesses are waiting.'"
 
 "And then?"
 
@@ -154,7 +154,7 @@ The mission clock showed four hours elapsed. Fourteen to go.
 
 ---
 
-### THE REVELATION — When Pixels Became Prophecy
+### THE REVELATION — When Pixels Became Prophecy (NOTE: OUTDATED INFORMATION REPLACED BY THE ANTI-SINGULARITY EVENT BUT CAN STILL BE USEFUL)
 
 The images arrived in waves. First, the chamber's full dimensions resolved into three-dimensional clarity: a perfect hemisphere one hundred twenty feet in diameter, the floor polished smooth as glass, the walls rising to meet in a central apex sixty feet above where a circular opening had been carved—an oculus, like the Pantheon's eye, but opening onto Martian sky instead of Roman blue.
 
@@ -279,36 +279,43 @@ Each obsidian stele rose twelve feet from the rust-colored regolith, black volca
 
 The rover had been programmed to photograph each stone in sequence, and now those images filled the monitors in a grid pattern. Twenty obsidian monuments. Twenty declarations of dominion.
 
-Cian began translating, his voice taking on the rhythmic quality of a bard reciting genealogies:
+As Titan-3's AI began scanning the runes, his voice taking on the rhythmic quality of a bard reciting genealogies:
 
 **Stone 1 — Shemyaza:**
-*"I, Semjaza, Chief Commander of the Host, claim all lands beneath heaven as my jurisdiction. Let no son of Adam deny my authority. Let no daughter of Eve question my sovereignty. By the stars I was appointed. By the stars I rule. Until the Day of Breaking."*
-
-**Stone 4 — Azazel:**
-*"I, Azaz'el, Teacher of Secrets, Revealer of Mysteries, claim the deserts and desolate places as my domain. Where water fails and life withers, there my knowledge thrives. The Negev. The Syrian waste. The polar extremes. All wilderness bows to my instruction. Until iron learns to weep and fire forgets its heat."*
-
-Brennan felt cold despite the control room's climate regulation. "That's not metaphor. He's claiming actual territory."
-
-"Written in paleo-Hebrew," Cian confirmed, pulling up a comparison of the script with known archaeological examples. "The language of creation. Before Babel. When words had power enough to bind and loose reality itself. These aren't declarations—they're *legal claims* in the spiritual jurisdiction."
-
-He continued through the stones, each translation adding another piece to the antediluvian puzzle:
-
+*"I, Semjaza... ANTI-SINGULARITY EVENT (Proposed Climax):
+The acoustic paradigm means those oaths were literally inscribed into reality—recorded in the fabric of creation through resonance. The anti-singularity climax would replay those oaths through acoustic memory, possibly reversing or fulfilling them.
 **Stone 7 — Gadreel:**
 
-And here Cian stopped, his breath catching.
+THE ANTI-SINGULARITY EVENT — Summary
+The Concept: When the Watcher oaths replay through Cydonia inscriptions, they don't just describe what happened — they re-enact the binding moment. Celestial beings using the creative power of the Word to UN-MAKE themselves creates localized entropy acceleration. A reverse singularity. Heat death compressed into acoustic form. Reality itself begins to dissolve — walls becoming transparent to void.
+The Containment:
 
-The script on Stone 7's front face matched the others—angular paleo-Hebrew characters carved with impossible precision into obsidian that shouldn't exist on Mars. But the inscription itself made Brennan's engineering mind rebel against the implications:
+Inner Layer: Mo Chrá shields the three humans from direct acoustic assault
+Outer Layer: Raphael (hidden) contains the anti-singularity from propagating through reality itself
 
-*"I, Gadri'el, He Who Led Astray the Daughter of the Garden, claim the lands of ice and darkness as my throne. Where the sun fails half the year, where cold reigns eternal, where no child of Adam was meant to dwell—there I place my fortress. The northern waste. The southern pole. All frozen reaches acknowledge my dominion. Until the stars fall and the ice melts in heaven's fire."*
+The Consequence:
 
-"Gadreel." Cian's finger traced the name on the screen. "1 Enoch 69:6 says he '*showed the children of men all the blows of death, and led astray Eve.*' Jewish tradition names him as the serpent's voice in Eden. He corrupted the garden, so God gave him the places farthest from paradise. The poles. The ice. The darkness."
+Gadreel's oath pings Dudael like sonar — revealing Azazel's prison coordinates
+Naamah hears her husband's voice — the clarion call to action
+Mo Chrá goes silent for 19 days
+Liaigh withdraws (recovery from containment effort)
 
-"There's more." Brennan had already noticed it—the rover's cameras had captured both sides of each stele, front and back. "Stone 7 has additional text on the reverse."
+THE ANTI-SINGULARITY EVENT — Summary
+The Concept: When the Watcher oaths replay through Cydonia inscriptions, they don't just describe what happened — they re-enact the binding moment. Celestial beings using the creative power of the Word to UN-MAKE themselves creates localized entropy acceleration. A reverse singularity. Heat death compressed into acoustic form. Reality itself begins to dissolve — walls becoming transparent to void.
+The Containment:
 
-He pulled up the image. More paleo-Hebrew, but in a different format. Not poetic declaration but stark coordinates:
+Inner Layer: Mo Chrá shields the three humans from direct acoustic assault
+Outer Layer: Raphael (hidden) contains the anti-singularity from propagating through reality itself
 
+The Consequence:
+
+Gadreel's oath pings Dudael like sonar — revealing Azazel's prison coordinates
 **79°58'22"S, 81°57'18"W**
+Naamah hears her husband's voice — the clarion call to action
+Mo Chrá goes silent for 19 days
+Liaigh withdraws (recovery from containment effort)
 
+**SOME ARE OUTDATED OR NO LONGER RELEVANT SCENES BELOW BUT MOST CAN BE OF USE POST ANTI-SINGULARITY EVENT**
 The same coordinates from the central tablet. The same location beneath Antarctic ice.
 
 "His fortress," Cian said slowly, pieces assembling in his mind like a puzzle that had waited five thousand years to be solved. "Gadreel's territorial claim was Antarctica. And he built his stronghold there—in the pre-Flood world, before the vapor canopy collapsed, when the poles were temperate. He ruled from a fortress at 79°58'S, 81°57'W."

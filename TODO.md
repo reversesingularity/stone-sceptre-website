@@ -1,5 +1,5 @@
 # TODO — The Nephilim Chronicles
-**Updated:** April 13, 2026
+**Updated:** April 18, 2026
 
 ---
 
@@ -13,6 +13,15 @@
 **Prologue: ✅ COMPLETE** — `MANUSCRIPT/book_3/CHAPTERS/prologue.md` (~1,580 words, two movements)
 
 Ref: `ARCHIVE/session_logs/SESSION_LOG_2026-04-11.md` for full session state.
+
+---
+
+## ✅ COMPLETE — Operational Silence & Comedic Protocol (April 17-18, 2026)
+
+- [x] **Operational Silence Architecture** — Raphael/Liaigh arc: conversational Empyreal Register severed at Book 3 Ch14 (Eden departure); combat protection maintained through Book 5 Ch10; 2 permitted exceptions locked; 8 Raphael POV chapters mapped; naming convention table locked. Saved to `ARCHIVE/session_logs/OPERATIONAL_SILENCE_ARCHITECTURE_April18_2026.md`
+- [x] **Phantom Banter & Comedic Relief Protocol** — Five comedic mechanics for quiet chapters (Phantom Banter, Mo Chrá Peanut Gallery, James Tactical Deadpan, Brennan Engineering Neurosis, Miriam Phased Rule). Miriam comedic constraint evolves at baptism boundary (Book 3 Eden): Phase 1 GCHQ composure → Phase 2 Operational Affection → Phase 3 Devastation Payload (John 15:13 setup). Saved to `REFERENCE/PHANTOM_BANTER_PROTOCOL.md`
+- [x] **SSOT_v3 cross-referenced** — Phantom Banter §4.2, Mo Chrá §4.3, Miriam §4.4 all verified consistent
+- [x] **DEFERRED_ROMANCE_BEATS.md** (repo memory) — Red line updated: "Comedy never at Miriam's expense" now phased to pre-baptism only; post-baptism evolves to Operational Affection
 
 ---
 

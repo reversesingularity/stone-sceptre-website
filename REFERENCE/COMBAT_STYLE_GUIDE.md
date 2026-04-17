@@ -174,16 +174,32 @@ The overarching action aesthetic is a fusion of:
 
 | Style | Author Model | Assigned To | Status |
 |-------|-------------|-------------|--------|
-| Tactical planning / weapons briefings | Tom Clancy | Ch5.II (Armoury) | WRITTEN |
-| One-vs-many methodical kill progression | Mark Greaney | Ch5.IV (First Contact) | WRITTEN |
-| CQB / practical combat psychology / veteran weight | Jack Carr | Ch6.I–II (Descent + Elite Emergence) | WRITTEN |
-| Precision marksmanship / bolt cycling | Stephen Hunter | Ch6.II (firefights, overwatch) | WRITTEN |
-| Fantasy martial arts duel | R.A. Salvatore | Ch6.III–IV (Champion's Challenge + Hallowed Conflagration) | WRITTEN |
+| Tactical planning / weapons briefings | Tom Clancy | B2 Ch5.II (Armoury) | WRITTEN |
+| One-vs-many methodical kill progression | Mark Greaney | B2 Ch5.IV (First Contact) | WRITTEN |
+| CQB / practical combat psychology / veteran weight | Jack Carr | B2 Ch6.I–II (Descent + Elite Emergence) | WRITTEN |
+| Precision marksmanship / bolt cycling | Stephen Hunter | B2 Ch6.II (firefights, overwatch) | WRITTEN |
+| Fantasy martial arts duel | R.A. Salvatore | B2 Ch6.III–IV (Champion's Challenge + Hallowed Conflagration) | WRITTEN |
+| Tactical driving / vehicular pursuit | Tom Clancy | B3 Ch4.I–II (Leyline Highway + Acoustic Pursuit) | ARCHITECTURE LOCKED |
+| Overwhelming odds / kinetic economy | Mark Greaney | B3 Ch4.II–IV (Pursuit + Running Fight) | ARCHITECTURE LOCKED |
+| CQB gunplay + dual-wield (SIG + blade) | Jack Carr + R.A. Salvatore | B3 Ch4.IV (Dual-Wield CQB Masterclass) | ARCHITECTURE LOCKED |
+| Precision marksmanship rhythm (pistol) | Stephen Hunter | B3 Ch4.IV (*Tine Láimhe* shot placement) | ARCHITECTURE LOCKED |
+| Mo Chrá *claidheamh* choreography | R.A. Salvatore | B3 Ch4.IV (short-sword vs Khem blades) | ARCHITECTURE LOCKED |
+| Acoustic physics as hard science | Tim Powers | B3 Ch4.I–V (perimeter approach, detection logic) | ARCHITECTURE LOCKED |
+| Non-anthropomorphic cherubim / scale-shifting | Madeleine L'Engle | B3 Ch4.III, V (Spinning Ring of Fire + Threshold) | ARCHITECTURE LOCKED |
+| Sensory surrealism at plane overlap | Ted Dekker | B3 Ch4.III, V (threshold transition) | ARCHITECTURE LOCKED |
+| Quiet terror of celestial presence | Neil Gaiman | B3 Ch4.V (The Harmonization) | ARCHITECTURE LOCKED |
 
 **Key tech locked from Books 1–2:**
 - **Tintreach rounds** — 47,000V piezoelectric ammunition; used by James Madigan and Brennan McNeeve against lesser Watcher elites
 - **Halogen Rain** — acoustic-saturation munition; disrupts standing-wave wards
 - **Bás Beag** — secondary blade; targets unwarded joints of exoskeleton-enhanced enemies
+
+**Key tech locked for Book 3 Ch4:**
+- **Mo Chrá *claidheamh*** — 19-inch Irish short sword form (right hand); creation frequency at combat intensity
+- **Tine Láimhe** — SIG P320-XTEN, 10mm Auto, 200-grain blessed hardcast lead (left hand)
+- **HCV nitrogen micro-thrusters** — 12× Inconel 718 nozzles, 2.1m lateral dash, 14 bursts; enables dodge/weave against supernaturally fast Nephilim-blooded operatives
+- **Ward Runner** — Rivian R1T, 500hp hybrid, silver-mesh armour; dies at cherubim threshold
+- **Fuartáin cryo-grenades** — 40mm, 30m cold zone, acoustic masking; Josephite rearguard
 
 ---
 

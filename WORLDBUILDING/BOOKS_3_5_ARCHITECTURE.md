@@ -55,20 +55,21 @@
 | Ch 1 | Stewart Island, March 2028 | Dudael debrief (Naamah won the Dudael sequence); Brennan dissolves McNeeve Space Systems (Chapter 7 liquidation process begins); Mo Chrá enters compass mode |
 | Ch 2 | Global / Synagogue of Satan | Azazel's first "miracle" — directed energy weapon framed as divine fire; the 2nd Seal breaks (War); Ten Kings first meeting |
 | Ch 3 | Stewart Island → transit | Miriam maps Mo Chrá harmonics against Eden GPS candidates; 3rd Seal breaks (Famine); Brennan farewell scene; team departs |
-| Ch 4 | Brennan POV (interlude) | His underground network construction begins; Mark system Layer Zero prototyping; the moral cost of leading frightened people |
-| Ch 5 | Journey to Eden perimeter | Landscape shifts; atmospheric pressure changes; cherubim frequency pressure felt before visible; Mo Chrá camping at the perimeter edge |
-| Ch 6 | Eden perimeter | Mo Chrá creation harmonic activates — the frequency that spoke the world into being; cherubim harmonize and step aside; gate opens; Cian and Miriam enter Eden — pain is absent for the first time |
-| Ch 7 | Eden | Enoch meets Cian; "I made it for you" (the sword's harmonic key was built into Mo Chrá before the Flood); Scribe's function, the Empyreal Register, Heaven's record-keeping clarified |
+| Ch 4 | **"The Gauntlet"** — Iraqi desert / Mesopotamian floodplain | **10/10 ADRENALINE PEAK.** Ward Runner pursuit across House Khem territory; acoustic chase (Khem detects conventional signatures, NOT creation harmonic); vehicles die at cherubim threshold; on-foot running fight (Cian dual-wields Mo Chrá *claidheamh* + *Tine Láimhe* SIG vs Nephilim-blooded Khem operatives); Josephite operators doomed rearguard; Cian turns back on enemy at veil → Mo Chrá harmonizes with cherubim → threshold surrender → absolute silence. **(RESEQUENCED from original Ch5-6 beats; see session April 17, 2026)** |
+| Ch 5 | Brennan POV (interlude) | **BREATH chapter after Ch4 peak.** Underground network construction begins; Mark system Layer Zero prototyping; the moral cost of leading frightened people. **(RESEQUENCED from original Ch4)** |
+| Ch 6 | Eden | Mo Chrá creation harmonic — the frequency that spoke the world into being; Cian and Miriam enter Eden — pain is absent for the first time. Enoch meets Cian; "I made it for you" (the sword's harmonic key was built into Mo Chrá before the Flood); Scribe's function, the Empyreal Register, Heaven's record-keeping clarified. **(RESEQUENCED: consolidates original Ch6-7 Eden entry + Enoch meeting)** |
+| Ch 7 | Eden | Elijah meets Cian; tests his worthiness; three-way dynamic (Scribe / Prophet / Guardian) established |
 | Ch 8 | Eden | Elijah meets Cian; tests his worthiness; three-way dynamic (Scribe / Prophet / Guardian) established |
 | Ch 9 | Eden | **Dismas speaks** — the theological centerpiece of the series; 2,600-year worthiness crisis answered by the thief who had no time to earn his place; Miriam's SRA burden released |
-| Ch 10 | Eden — The River | **Baptism**: Elijah officiates; Cian first ("Not to earn it. Because it's already done."); Miriam second; Dismas witnesses from the bank; Mo Chrá quiet pulse |
+| Ch 10 | Eden — The River | **Baptism**: Elijah officiates; Cian first ("Not to earn it. Because it's already done."); Miriam second; Dismas witnesses from the bank; Mo Chrá quiet pulse. **Operational Silence seed:** Liaigh speaks cryptic warning: "WHAT COMETH NEXT REQUIRETH MORE OF ME THAN I HAVE GIVEN IN ALL THE CENTURIES OF OUR COMPANIONSHIP" |
 | Ch 11 | Global / Brennan POV | Azazel unveils Defense Grid ("He who can make war?"); Ohya vessel preparation hinted in Synagogue back-channel |
 | Ch 12 | Eden | Modern world briefing to Witnesses; Enoch on the internet ("Tower of Babel, but faster"); Elijah on geopolitics; both confirm they understand they will die publicly |
 | Ch 13 | Brennan's network | Mark system evolves to biological acoustic enrollment (Cydonian-derived biometric); Josephite cell martyred; Brennan's first operational failure |
-| Ch 14 | Eden perimeter → fallen world | Departure; Dismas at threshold (he stays — his post is Eden); Witnesses enter the fallen world; Brennan message: "Jerusalem position secure" |
+| Ch 14 | Eden perimeter → fallen world | **THE OPERATIONAL SILENCE.** Liaigh requests private conversation (unprecedented). Explains: 1,260-day ministry requires 100% combat bandwidth; conversational link is lethal luxury. Addresses Mo Chrá: "KEEP HIM FATAL, LITTLE SINGER" (sword responds with subsonic grief-salute). Final exchange: Cian: "Watch your own back for once, Liaigh." / Liaigh: "AND THOU THINE, WARRIOR." Channel drops. Absolute silence. **Then:** Dismas at threshold (he stays); Witnesses enter the fallen world; Brennan message: "Jerusalem position secure" |
 | Ch 15 | Jerusalem | **Day 1 public declaration**: Enoch reads aloud from the Empyreal Register; Elijah fires (Rev 11:5 — fire from mouth); Cian stands facing the crowd, sword drawn, Guardian |
 | Epilogue Mvt I | — | Azazel alone in his operational center. 1,260 days on the clock. Planning. |
 | Epilogue Mvt II | Eden | Dismas kneels in the garden and begins to pray — a vigil that will last the entire ministry |
+| Epilogue Mvt III | Spiritual airspace above Jerusalem | **RAPHAEL POV (first taste).** Already deployed. Already fighting. Already silent. Preliminary Archon engagements — Prince of Greece and Prince of Persia testing perimeters. Raphael maps enemy deployment. Watches Cian far below on Day 1 — a man with a sword, utterly alone, in the most public moment of his life. Cannot speak. Cannot comfort. Can only fight. The triptych: the enemy plans, the saint prays, the angel bleeds. |
 
 ### Appendices
 
@@ -95,18 +96,21 @@
 
 | # | Title | Key Beat |
 |---|-------|----------|
-| Prologue | Day 30 — Four Cuts | Enoch / Elijah / Cian / Brennan simultaneously; establishes the new normal |
+| Prologue Mvt I | Day 30 — Four Cuts | Enoch / Elijah / Cian / Brennan simultaneously; establishes the new normal |
+| Prologue Mvt II | **RAPHAEL POV** | Route-clearing: Eden → Jerusalem; Raphael flies ahead engaging territorial spirits; each mile purchased in celestial blood; the "easy" journey the mortals experienced was easy because an Archangel bled for every step |
 | Ch 1 | Month 1 | Daily texture of ministry; Azazel deploys acoustic dead-zones; Mo Chrá develops counter-frequency; enemy unaware of adaptation for ~90 days |
 | Ch 2 | Ohya's Release | 4th Seal; Thanatos rides; Ohya/Apollyon emerges from the Abyss; first recognition and confrontation between Ohya and Cian |
 | Ch 3 | Horseman's Mercy | Direct encounter with Thanatos; "Not within my mandate... yet"; Cian's first full sight of Hades as entity |
 | Ch 4 | Witness Plagues | Water to blood (Rev 11:6); Azazel's counter-narrative machine; no rain on Beast territories; Brennan distributing food through safehouse network |
 | Ch 5 | The Underground (Brennan POV) | Month 4; 40+ city network; large extraction mission fails partially; cell leader martyred; Brennan's operational board — logistics of apocalypse |
 | Ch 6 | Shemyaza's Suspicion | Shemyaza calculates Naamah holds his True Name; devastation; begins planning his counter-move; first Synagogue fracture (Rev 17:16 setup) |
-| Ch 7 | **The Wedding** | Jerusalem safehouse; quiet Jewish ceremony; **Tobit Moment** — Raphael destroys Asmodeus-class demon that was targeting Miriam; marriage as sacramental culmination of Book 3 baptism |
+| Ch 7 Mvt I | **The Wedding** | Jerusalem safehouse; quiet Jewish ceremony; marriage as sacramental culmination of Book 3 baptism |
+| Ch 7 Mvt II | **RAPHAEL POV — The Tobit Exception** | Asmodeus activates House Tamiel mark on Miriam. Raphael breaks from perimeter for localized Tobit Protocol (acoustic vacuum). Inside field: "I AM RAPHAEL, THE HEALING OF GOD" — Miriam hears, Cian outside, hears nothing. Cost: three Principalities breach the perimeter during binding. Miriam learns the Name Consequence, chooses to keep the secret. |
 | Ch 8 | The Long Middle (vignette) | Days 180→1,000; the grind of faithfulness; Day 1,000: Miriam reveals pregnancy; brotherhood deepening; Enoch/Cian on worthiness at night on the city wall |
 | Ch 9 | Shemyaza's Discovery | Confrontation with Naamah; True Name gambit; Synagogue fracture confirmed; "The ten kings shall hate the whore" |
 | Ch 10 | Rev 12 Approach | Signs in sky (Rev 12:1-3); Michael's preparations; Naamah assembles the demon flood; Miriam refuses evacuation ("I don't leave him") |
-| Ch 11 | War in Heaven | Michael casts Satan out; Satan falls to Earth; 30-hour sustained combat — the worst stretch of the ministry thus far |
+| Ch 11 Mvt I | War in Heaven | Michael casts Satan out (Rev 12:7-9); Satan falls to Earth with great fury; 30-hour sustained combat — the worst stretch of the ministry |
+| Ch 11 Mvt II | **RAPHAEL POV — The Principalities Battle** | Raphael holds secondary front while Michael engages the Dragon. Every angel engaged, no reserves. Cian takes mortal wound; Raphael's bandwidth spikes; one word bleeds through Operational Silence: "HOLD." The ONLY micro-fracture in the entire 1,260 days. |
 | Ch 12 | **THE FLOOD — [OPTION B]** | Demon flood overwhelms Cian; **Miriam interposes and dies saving him** (~Day 1,050); earth swallows remaining flood (Rev 12:16); Brennan holds living child and dead mother; Cian grieves at speed — there are still 200 days left |
 | Ch 13 | Gathering Storm | Days 1,200–1,255; Naamah being destroyed from within by the ten kings; Cian/Witnesses on Jerusalem rooftop at night; final approach; Azazel and Ohya converge |
 | Epilogue Mvt I | — | Azazel and Ohya: plan to break prophecy by holding the bodies and preventing resurrection |
@@ -138,14 +142,16 @@
 | Prologue | The Last Watch — Day 1,258 | Mo Chrá sings valedictory frequency; Cian: "I know what today is. I'm not afraid." |
 | Ch 1 | Day 1,259 | Scale of assault; Witnesses testify through it; 96 hours of sustained combat; Mo Chrá fighting differently — each swing a farewell |
 | Ch 2 | **[LOCKED: Miriam's Chapter]** | Miriam already dead (Day ~1,050); this chapter is Cian fighting his final days in the grief of her absence, carrying their daughter's existence as his reason. No sentimentality — just the man doing his job |
-| Ch 3 | Post-Miriam fighting | Enoch: "She was braver than any soldier I have ever written." Elijah: hand on shoulder. No more words. Cian simplified to pure purpose |
-| Ch 4 | **The Final Stand — Day 1,260** | The last battle; Cian speaks John 15:13 aloud; sword falls; "It's done. They'll finish it now." |
+| Ch 3 Mvt I | Post-Miriam fighting | Enoch: "She was braver than any soldier I have ever written." Elijah: hand on shoulder. No more words. Cian simplified to pure purpose |
+| Ch 3 Mvt II | **RAPHAEL POV — The Endgame** | Azazel/Ohya convergence; the spiritual noose tightens; Raphael's reserves approaching zero; the final deployment |
+| Ch 4 Mvt I | **The Final Stand — Day 1,260** | The last battle; Cian speaks John 15:13 aloud; sword falls; "It's done. They'll finish it now." |
+| Ch 4 Mvt II | **RAPHAEL POV — The Final Watch** | Raphael watches the man he has guarded for 2,636 years speak John 15:13 and die. The assignment completes — not a severing but a COMPLETION. For the first time since 586 BCE, Raphael is unassigned. The operational silence becomes existential. He is, for a brief and terrible interval, alone. |
 | Ch 5 | Hades Receives the Guardian | Full ENDGAME_FATES scene; Hades: "I am not your end. I am your waiting room"; three brothers in the waiting passage — Cian, Enoch, Elijah |
 | Ch 6 | Three-and-a-Half Days | Jerusalem (bodies in the street; world celebrates — Rev 11:10); Brennan (vigil with orphaned daughter); Eden (Dismas at prayer — the vigil that began at Book 3's epilogue now reaching its end) |
 | Ch 7 | Dismas Holds the Garden | Dragon attacks Eden (Rev 12:17 — "went to make war with the remnant"); Dismas defends with pure testimony: "You have no claim here. Grace has no surface for your accusation." |
 | Ch 8 | **The Last Trump** | 1 Cor 15:52; Witnesses rise; Rev 11:11 "great fear fell upon all who saw them"; the Voice: "Come up here"; Hades opens |
 | Ch 9 | **The Resurrection** | Cian wakes — no pain for the first time in 2,631 years; Enoch: "Did you think you would miss this?"; multitude beyond counting; Mo Chrá quiet at his side |
-| Ch 10 | Raphael's Name | The Watchers' Ban lifts; Raphael speaks his own name in a normal voice for the first time since the descent; "You were the finest duty I was ever given"; reunion between guardian and archangel as equals |
+| Ch 10 | **RAPHAEL POV → CIAN POV — Raphael's Name** | The Watchers' Ban lifts. Raphael walks (not flies) toward Cian at human pace. Drops the Empyreal Register for the first time. Normal voice: "My name is Raphael." Then: "You were the finest duty I was ever given." Reunion between guardian and archangel as equals. The Operational Silence lifted — not by tactical necessity but by the end of all tactics, the end of the fallen world's rules. |
 | Ch 11 | **[LOCKED: Miriam/Daughter Reunion]** | Cian reunited with Miriam (resurrected) and the daughter he died without ever holding. "That's why it's grace." — the Dismas sermon, lived and received |
 | Ch 12 | Vindication | The thirteen Synagogue Houses' fates; Mo Chrá's final fate; Dismas watching grace at scale; John 15:13 as testimony not prophecy — "He laid down His life. They laid down theirs." |
 | Epilogue | The Garden of What It Costs | Eden gate open; Cian / Miriam / Enoch / Elijah walk through; Dismas nods at Cian — no words necessary; Mo Chrá rests; John 15:13 lived |

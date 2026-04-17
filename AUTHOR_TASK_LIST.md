@@ -1,6 +1,6 @@
 # Author Task List — The Nephilim Chronicles
 **Generated:** April 9, 2026  
-**Last Updated:** April 13, 2026  
+**Last Updated:** April 18, 2026  
 **Status:** Active
 
 ---
@@ -147,6 +147,8 @@ Requires: Swarm up (Agent 9 on :8772, Nemotron Router on :8768, llama-server on 
 - [ ] **SSOT_v3_MASTER.md** — Incorporate any new facts from Book 2 Ch13–14 drafting (Josephite ops, Stewart Island safehouse, Azazel acoustic fingerprint captured by Mo Chrá)
 - [ ] **Watcher/Nephilim dossier updates** — Ensure entities encountered in Book 2 endgame have current dossier entries
 - [ ] **Clean TODO.md** — The current TODO.md has accumulated HITL gates and theological flags mixed with completed Midjourney tasks. Archive or reorganize once resolved.
+- [x] **Operational Silence Architecture** — Locked (April 17-18, 2026). Session log archived.
+- [x] **Phantom Banter Protocol** — Locked (April 18, 2026). Five comedic mechanics + Miriam phased rule documented in `REFERENCE/PHANTOM_BANTER_PROTOCOL.md`.
 
 ---
 
@@ -156,6 +158,7 @@ Requires: Swarm up (Agent 9 on :8772, Nemotron Router on :8768, llama-server on 
 |------|---------|
 | `Start-TNCSwarm.ps1` | Boot-time swarm startup (registered as scheduled task) |
 | `REFERENCE/COMBAT_STYLE_GUIDE.md` | Mandatory action/combat style framework |
+| `REFERENCE/PHANTOM_BANTER_PROTOCOL.md` | Comedic relief & quiet chapter protocol (5 mechanics, Miriam phased rule) |
 | `WORLDBUILDING/BOOKS_3_5_ARCHITECTURE.md` | Locked architecture for Books 3–5 |
 | `WORLDBUILDING/ENDGAME_FATES.md` | Character fates (Option B locked) |
 | `WORLDBUILDING/FIVE_BOOK_STRUCTURE.md` | Series-level structure |

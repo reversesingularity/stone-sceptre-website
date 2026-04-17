@@ -184,11 +184,51 @@ Before writing ANY scene, verify:
 | **NAME CONSEQUENCE** | If Cian learns his true name | Direct communication ends forever |
 
 ### Speech Register
-- **Empyreal Register MANDATORY**
+- **Empyreal Register MANDATORY** (when speaking)
 - Thee/thou, elevated vocabulary
 - ALL CAPS for proclamations
 - Divine gravitas, cosmic perspective
 - Example: "THY PETITION WAS UNNECESSARY. I OFFER MINE ASSESSMENT AS ONE WHO HATH OBSERVED BOTH THY NATURE AND HERS."
+
+### The Operational Silence (Book 3 Ch 14 → Book 5 Ch 10)
+
+| Element | Detail |
+|---------|--------|
+| **Trigger** | Book 3 Ch 10 (post-baptism seed): "WHAT COMETH NEXT REQUIRETH MORE OF ME THAN I HAVE GIVEN IN ALL THE CENTURIES OF OUR COMPANIONSHIP" |
+| **Full Severance** | Book 3 Ch 14 (Eden departure): Raphael requests Cian's silence; Cian grants it; channel closes |
+| **What is severed** | Conversational Empyreal Register link — 2,600 years of banter, counsel, comfort |
+| **What is NOT severed** | Raphael's assignment, physical/spiritual presence, combat protection; Mo Chrá's passive acoustic link |
+| **Reason** | 1,260-day ministry requires 100% of Archangel combat bandwidth; conversational link is a lethal luxury |
+| **Mo Chrá Farewell** | Raphael addresses the sword directly before severance: "KEEP HIM FATAL, LITTLE SINGER." Mo Chrá responds with subsonic grief-salute. |
+| **Final Exchange** | Cian: "Watch your own back for once, Liaigh." — Raphael: "AND THOU THINE, WARRIOR." — Channel drops. |
+| **The Single Micro-Fracture** | Book 4 Ch 11 (Principalities Battle) ONLY: Cian takes mortal wound; one word bleeds through: "HOLD." Never again. |
+| **Tobit Protocol Exception** | Book 4 Ch 7: Raphael deploys acoustic binding inside sealed stasis field; Miriam hears "I AM RAPHAEL, THE HEALING OF GOD"; Cian is outside the vacuum, hears nothing |
+| **Phantom Banter** | During 1,260 days: Cian mimics Liaigh's Empyreal Register in campfire stories and briefing-room anecdotes; Mo Chrá reacts as comedic straight man; comedy always ends with grief |
+| **Lifted** | Book 5 Ch 10: Raphael speaks his true name to Cian as Cian dies; Empyreal Register dropped; normal voice: "My name is Raphael. You were the finest duty I was ever given." |
+
+### Raphael POV Chapters (Books 3-5)
+
+| Book | Placement | Content |
+|------|-----------|--------|
+| Book 3 | Epilogue Mvt III | First taste: Raphael already deployed, already fighting, already silent; triptych with Azazel (Mvt I) and Dismas (Mvt II) |
+| Book 4 | Prologue | Route-clearing: Eden → Jerusalem; Raphael engages territorial spirits; the "easy" journey cost an Archangel |
+| Book 4 | Ch 7 Mvt II | The Tobit Exception: cost of breaking from perimeter; Miriam learns the name; three Principalities breach |
+| Book 4 | Mid-book | The grinding war: 1,260-day attrition; budget-tracking celestial reserves |
+| Book 4 | Ch 11 | War in Heaven: Michael casts Satan out (Rev 12:7-9); Raphael holds secondary front; 30-hour sustained combat |
+| Book 5 | Early | Endgame deployment: Azazel/Ohya convergence; the spiritual noose tightens |
+| Book 5 | Ch 4 | The Final Watch: Raphael watches Cian speak John 15:13 and die; assignment completes |
+| Book 5 | Ch 10 | The Name: Ban lifts; Raphael walks (not flies) to Cian; speaks in normal voice for the first time |
+
+### Knowledge-Tracked Naming Convention
+
+| POV | Name Used |
+|-----|-----------|
+| Cian's POV (all books) | "Liaigh" — INVIOLABLE until Book 5 Ch 10 |
+| Raphael's own POV | "Raphael" |
+| Miriam pre-Tobit | "Liaigh" / "the guardian" |
+| Miriam post-Tobit (Book 4 Ch 7+) | "Raphael" (internal) / "Liaigh" (spoken) |
+| Enoch/Elijah POV | "Raphael" |
+| Brennan POV | "Liaigh" / "the angel" |
 
 ## §4.3 Mo Chrá (Methuselah's Sword)
 
@@ -916,6 +956,18 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 - Added Writing Conventions with examples (§9)
 - Added Critical Distinctions table (§11)
 - Integrated content from: MO_CHRA_SWORD_LORE.md, LORD_VARCOLAC_DOSSIER.md, MIRIAM_ASHFORD_UPDATED.md, THE_SIRENS_DOSSIER.md, SERIES_BIBLE_ADDITIONS.md, INTELLIGENCE_ASSESSMENTS.md
+
+## v3.2 (April 17, 2026)
+
+- §4.2: Added Operational Silence protocol (Book 3 Ch 14 → Book 5 Ch 10): conversational link severed, presence maintained
+- §4.2: Added Operational Silence parting beats (Mo Chrá farewell: "KEEP HIM FATAL, LITTLE SINGER"; role reversal: "Watch your own back for once, Liaigh" / "AND THOU THINE, WARRIOR")
+- §4.2: Added single micro-fracture rule (Book 4 Ch 11 ONLY — one word: "HOLD")
+- §4.2: Added Tobit Protocol acoustic vacuum mechanism (Miriam learns Raphael's identity inside sealed field; Cian outside; Name Consequence drives secrecy)
+- §4.2: Added Raphael POV chapter framework (8 dedicated POV sections across Books 3-5)
+- §4.2: Added Knowledge-Tracked Naming Convention (Cian POV = "Liaigh" inviolable; Raphael POV = "Raphael"; Miriam post-Tobit = internal "Raphael" / spoken "Liaigh")
+- §4.2: Added Phantom Banter mechanism (Cian mimics Empyreal Register in campfire stories; Mo Chrá as comedic straight man)
+- Updated BOOKS_3_5_ARCHITECTURE.md: Book 3 Ch 10 (Operational Silence seed), Ch 14 (full severance), Epilogue Mvt III (Raphael POV triptych); Book 4 Prologue Mvt II (route-clearing), Ch 7 (Tobit split into 2 movements), Ch 11 (Principalities Battle split into 2 movements); Book 5 Ch 3 (Raphael endgame Mvt II), Ch 4 (Final Watch Mvt II), Ch 10 (expanded name scene)
+- Updated raphael-register skill file: new naming convention, Operational Silence rules, Phantom Banter mechanism, Raphael internal register modes
 
 ## v3.1 (April 14, 2026)
 
