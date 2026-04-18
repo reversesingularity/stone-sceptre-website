@@ -1,17 +1,19 @@
-2026-04-10 21:48:50,124 [AGENT-9] INFO Agent 9 — Content Strategist listening on :8772
-2026-04-10 21:48:50,125 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
-2026-04-10 21:48:50,126 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
-2026-04-10 23:59:59,912 [AGENT-9] INFO NZ Grant scrape triggered
-2026-04-11 00:00:01,901 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
-2026-04-11 00:00:02,337 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
-2026-04-11 00:00:41,324 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md
-2026-04-11 19:20:41,666 [AGENT-9] ERROR Nemotron router call failed: HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=300)
-2026-04-11 19:25:43,947 [AGENT-9] ERROR Nemotron router call failed: HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=300)
-2026-04-12 17:10:34,330 [AGENT-9] INFO NZ Grant scrape triggered
-2026-04-12 17:10:35,166 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
-2026-04-12 17:10:35,488 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
-2026-04-12 17:14:10,359 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md
-2026-04-13 00:24:41,928 [AGENT-9] INFO NZ Grant scrape triggered
-2026-04-13 00:24:42,641 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
-2026-04-13 00:24:42,971 [AGENT-9] WARNING   NZSA — New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
-2026-04-13 00:26:52,171 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md
+2026-04-15 20:57:29,634 [AGENT-9] INFO Agent 9 â€” Content Strategist listening on :8772
+2026-04-15 20:57:29,649 [AGENT-9] INFO   Nemotron Router: http://localhost:8768
+2026-04-15 20:57:29,657 [AGENT-9] INFO   Opportunities Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\OPPORTUNITIES_LOG.md
+2026-04-16 18:11:07,159 [AGENT-9] INFO NZ Grant scrape triggered
+2026-04-16 18:11:08,001 [AGENT-9] WARNING   NZSA â€” New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-16 18:11:08,340 [AGENT-9] WARNING   NZSA â€” New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-16 18:16:13,589 [AGENT-9] ERROR Nemotron router call failed: HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=300)
+2026-04-16 18:21:17,741 [AGENT-9] ERROR Nemotron router call failed: HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=300)
+2026-04-16 18:21:17,751 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md
+2026-04-17 00:32:43,924 [AGENT-9] INFO NZ Grant scrape triggered
+2026-04-17 00:32:44,607 [AGENT-9] WARNING   NZSA â€” New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-17 00:32:44,948 [AGENT-9] WARNING   NZSA â€” New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-17 00:40:17,758 [AGENT-9] ERROR Nemotron router call failed: HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=300)
+2026-04-17 00:40:17,770 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md
+2026-04-18 01:14:43,231 [AGENT-9] INFO NZ Grant scrape triggered
+2026-04-18 01:14:43,965 [AGENT-9] WARNING   NZSA â€” New Zealand Society of Authors direct scrape failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /grants-and-opportunities/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-18 01:14:44,314 [AGENT-9] WARNING   NZSA â€” New Zealand Society of Authors RSS fallback failed: HTTPSConnectionPool(host='www.nzsa.co.nz', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nzsa.co.nz'. (_ssl.c:1028)")))
+2026-04-18 01:23:16,022 [AGENT-9] ERROR Nemotron router call failed: HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=300)
+2026-04-18 01:23:16,040 [AGENT-9] INFO Updated OPPORTUNITIES_LOG.md

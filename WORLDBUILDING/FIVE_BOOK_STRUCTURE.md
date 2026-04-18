@@ -71,7 +71,7 @@ His thematic verse: **John 15:13** — *"Greater love hath no man than this, tha
 
 ---
 
-### Book 3: THE RISING
+### Book 3: THE EDENIC MANDATE
 
 **Focus:** The war begins — Azazel released — Cian guards the Witnesses against the False Prophet
 

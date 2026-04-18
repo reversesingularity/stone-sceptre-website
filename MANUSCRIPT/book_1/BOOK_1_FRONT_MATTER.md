@@ -47,7 +47,7 @@ The Cydonian Oaths *(Book 1)*
 
 The Gathering *(Book 2 — forthcoming)*
 
-The Rising *(Book 3 — forthcoming)*
+The Edenic Mandate *(Book 3 — forthcoming)*
 
 The Testimony *(Book 4 — forthcoming)*
 

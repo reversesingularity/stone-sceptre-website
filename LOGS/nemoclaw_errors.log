@@ -1258,3 +1258,121 @@
 2026-04-13 18:23:13,948 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
 2026-04-13 18:28:18,361 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
 2026-04-13 18:33:22,770 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
+2026-04-14 22:38:18,058 [NEMOCLAW] INFO ════════════════════════════════════════════════════════════
+2026-04-14 22:38:18,058 [NEMOCLAW] INFO   NEMOCLAW DAEMON — The Nephilim Chronicles v2.0
+2026-04-14 22:38:18,059 [NEMOCLAW] INFO   Heartbeat loop running. Press Ctrl+C to stop.
+2026-04-14 22:38:18,059 [NEMOCLAW] INFO ════════════════════════════════════════════════════════════
+2026-04-14 22:38:32,538 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-14 22:38:46,937 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-15 01:21:18,621 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-15 01:45:06,634 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-15 01:45:06,703 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-15 20:57:31,715 [NEMOCLAW] INFO ════════════════════════════════════════════════════════════
+2026-04-15 20:57:31,752 [NEMOCLAW] INFO   NEMOCLAW DAEMON — The Nephilim Chronicles v2.0
+2026-04-15 20:57:31,759 [NEMOCLAW] INFO   Heartbeat loop running. Press Ctrl+C to stop.
+2026-04-15 20:57:31,767 [NEMOCLAW] INFO ════════════════════════════════════════════════════════════
+2026-04-15 20:57:49,194 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-15 20:58:06,537 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-15 21:03:11,610 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-16 18:16:14,532 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-16 18:21:17,454 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-16 18:26:15,350 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-17 00:36:46,088 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-17 00:41:44,002 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-17 01:45:09,476 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-17 01:45:09,608 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-17 21:09:48,279 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_03_TheLastCartography.md
+2026-04-17 21:09:48,352 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 21:10:18,368 [NEMOCLAW] INFO File change detected: CHAPTER_03_TheLastCartography.md
+2026-04-17 21:10:18,374 [NEMOCLAW] INFO Processing: CHAPTER_03_TheLastCartography.md
+2026-04-17 21:10:18,383 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 21:10:20,409 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 21:10:22,544 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 21:39:58,816 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_03_TheLastCartography.md
+2026-04-17 21:39:58,857 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 22:10:00,692 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-17 22:10:00,707 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 22:14:15,026 [NEMOCLAW] INFO File change detected: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:14:15,031 [NEMOCLAW] INFO Processing: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:14:15,056 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 22:14:16,880 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 22:14:18,951 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 22:30:32,022 [NEMOCLAW] INFO File change detected: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:30:32,023 [NEMOCLAW] INFO Processing: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:30:32,044 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 22:30:33,162 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 22:30:35,233 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 22:31:39,592 [NEMOCLAW] INFO File change detected: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:31:39,593 [NEMOCLAW] INFO Processing: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:31:39,600 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 22:31:39,885 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 22:31:41,937 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 22:40:06,295 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-17 22:40:06,323 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 22:47:54,969 [NEMOCLAW] INFO File change detected: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:47:54,973 [NEMOCLAW] INFO Processing: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:47:54,984 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 22:47:56,042 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 22:47:58,082 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 23:10:15,551 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-17 23:10:15,563 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 23:40:21,821 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-17 23:40:21,835 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 00:10:30,153 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 00:10:30,163 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 00:40:36,266 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 00:40:36,292 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 01:10:42,441 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 01:10:42,476 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 01:18:26,237 [NEMOCLAW] WARNING Services DOWN: ['agent_9']
+2026-04-18 01:23:34,051 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-18 01:40:47,424 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 01:40:47,438 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 01:45:01,809 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-18 01:45:01,821 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-18 02:10:53,781 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 02:10:53,809 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 02:41:00,058 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 02:41:00,087 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 03:11:06,366 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 03:11:06,384 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 03:41:12,761 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 03:41:12,788 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 04:11:19,146 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 04:11:19,157 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 04:41:25,238 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 04:41:25,272 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 05:11:27,092 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 05:11:27,119 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 05:41:33,294 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 05:41:33,318 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 06:11:39,596 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 06:11:39,630 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 06:41:45,902 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 06:41:45,936 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 07:11:52,273 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 07:11:52,308 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 07:41:58,520 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 07:41:58,555 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 08:12:04,839 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 08:12:04,864 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 08:42:11,079 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 08:42:11,103 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 09:12:17,207 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 09:12:17,239 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 09:42:23,378 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 09:42:23,394 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 10:12:29,815 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 10:12:29,849 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 10:42:36,107 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 10:42:36,121 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 11:12:42,433 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 11:12:42,461 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 11:42:48,678 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 11:42:48,702 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 12:12:54,846 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 12:12:54,863 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 12:42:56,747 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 12:42:56,774 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 13:13:03,102 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 13:13:03,114 [NEMOCLAW] INFO   Drift check triggered: 404

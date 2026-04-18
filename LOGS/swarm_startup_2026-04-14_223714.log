@@ -1,0 +1,37 @@
+[22:37:14] === TNC Swarm Startup ===
+[22:37:14] Phase 1: Waiting for Docker infrastructure...
+[22:37:14]   [OK] n8n is running
+[22:37:14]   [OK] qdrant is running
+[22:37:14]   [OK] ollama is running
+[22:37:14]   [OK] self-hosted-ai-starter-kit-postgres-1 is running
+[22:37:14] Phase 2: Checking for orphaned processes...
+[22:37:15]   [WARN] Port 8767 in use by PID 5676 -- killing orphan
+[22:37:16]   [WARN] Port 8770 in use by PID 25200 -- killing orphan
+[22:37:17]   [WARN] Port 8771 in use by PID 44136 -- killing orphan
+[22:37:18] Phase 3: Starting llama-server (Nemotron 3 Super GGUF on :8780)...
+[22:37:18]   [WARN] Port 8780 in use by PID 49472 -- killing orphan
+[22:37:19]   Started llama_server_nemotron on :8780 (PID 45708)
+[22:37:19] Phase 4: Starting Python servers...
+[22:37:19]   Started canon_search_api on :8765 (PID 57800)
+[22:37:20]   Started kdp_format_server on :8766 (PID 62816)
+[22:37:21]   Started update_story_prototype on :8767 (PID 17840)
+[22:37:31]   Started nemotron_tool_router on :8768 (PID 45592)
+[22:38:13]   Started utility_server on :8769 (PID 24612)
+[22:38:14]   Started theological_guard_server on :8770 (PID 60660)
+[22:38:15]   Started conductor_server on :8771 (PID 45740)
+[22:38:16]   Started agent_9_content_strategist on :8772 (PID 69180)
+[22:38:17] Phase 5: Starting Nemoclaw daemon...
+[22:38:17]   Started nemoclaw_daemon (PID 16568)
+[22:38:17] Phase 6: Health verification (15s warmup)...
+[22:38:32]   canon_search_api:8765 -- UP
+[22:38:33]   kdp_format_server:8766 -- UP
+[22:38:33]   update_story_prototype:8767 -- UP
+[22:38:33]   nemotron_tool_router:8768 -- UP
+[22:38:34]   utility_server:8769 -- UP
+[22:38:34]   theological_guard_server:8770 -- UP
+[22:38:34]   conductor_server:8771 -- UP
+[22:38:34]   agent_9_content_strategist:8772 -- UP
+[22:38:34]   nemoclaw_daemon -- UP
+[22:38:35]   llama_server_nemotron:8780 -- UP
+[22:38:35] === Startup complete: 10 / 10 services running ===
+[22:38:35] Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\swarm_startup_2026-04-14_223714.log

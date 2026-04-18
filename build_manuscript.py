@@ -108,6 +108,27 @@ IMAGE_DIR_BOOK2 = Path(
     r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_2\IMAGES\kdp_ready\chapters"
 )
 
+# Book 3 Configuration
+MANUSCRIPT_DIR_BOOK3 = Path(
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_3\CHAPTERS"
+)
+OUTPUT_FILE_BOOK3 = Path(
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\NephilimChronicles_Book3_MANUSCRIPT.docx"
+)
+
+SOURCE_FILES_BOOK3 = [
+    MANUSCRIPT_DIR_BOOK3 / "prologue.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_01_TheArchitectureOfResistance.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_02_TheFrequencyBeneathTheCure.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_03_TheLastCartography.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_04_TheGauntlet.md",
+    # Add subsequent Book 3 chapters here as they are drafted
+]
+
+IMAGE_DIR_BOOK3 = Path(
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_3\IMAGES\kdp_ready\chapters"
+)
+
 # Chapter filename pattern → image filename (order matters: longer prefixes first)
 CHAPTER_IMAGE_MAP = {
     "PROLOGUE_SCENE1": "prologue1.png",
@@ -142,6 +163,7 @@ MAP_IMAGES = [
 BOOK_TITLES = {
     1: "The Cydonian Oaths",
     2: "The Cauldron of God",
+    3: "The Edenic Mandate",
 }
 
 # ---------------------------------------------------------------------------
@@ -1098,6 +1120,13 @@ def main():
         image_dir = IMAGE_DIR_BOOK2
         book_title = BOOK_TITLES[2]
         has_front_matter = True
+    elif book == 3:
+        manuscript_dir = MANUSCRIPT_DIR_BOOK3
+        output_file = OUTPUT_FILE_BOOK3
+        source_files = SOURCE_FILES_BOOK3
+        image_dir = IMAGE_DIR_BOOK3
+        book_title = BOOK_TITLES[3]
+        has_front_matter = False  # Book 3 uses chapter files only (no front matter yet)
     else:
         manuscript_dir = MANUSCRIPT_DIR
         output_file = OUTPUT_FILE

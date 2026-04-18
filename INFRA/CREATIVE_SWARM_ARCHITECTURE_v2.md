@@ -2,7 +2,7 @@
 
 ## Creative Swarm — Architecture Upgrade Specification v2.0
 
-**Target:** Books 3–5 (The Rising, The Testimony, The Glory)
+**Target:** Books 3–5 (The Edenic Mandate, The Testimony, The Glory)
 **Prepared for:** Kerman Gild Publishing | Chris Modina
 **Date:** April 8, 2026
 **Status:** PRODUCTION BLUEPRINT — Ready for implementation
@@ -996,5 +996,5 @@ curl -X PUT http://localhost:6333/collections/tnc_plot_graph \
 ---
 
 *Architecture Version 2.0 — DESKTOP-SINGULA | April 8, 2026*
-*Books 3–5: The Rising, The Testimony, The Glory*
+*Books 3–5: The Edenic Mandate, The Testimony, The Glory*
 *Kerman Gild Publishing*

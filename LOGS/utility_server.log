@@ -1,19 +1,23 @@
-2026-04-10 21:48:46,881 [UTILITY] INFO Utility Server starting on port 8769
-2026-04-10 21:48:46,882 [UTILITY] INFO Project root: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles
-2026-04-10 21:48:46,892 [UTILITY] INFO Utility Server ready � http://localhost:8769/health
-2026-04-12 10:45:46,401 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
-2026-04-12 10:45:46,464 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
-2026-04-12 10:45:46,466 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
-2026-04-12 10:45:46,532 [UTILITY] INFO   Book 3: 0 chapters loaded
-2026-04-12 10:45:46,534 [UTILITY] INFO   Book 4: 0 chapters loaded
-2026-04-12 10:45:46,536 [UTILITY] INFO   Book 5: 0 chapters loaded
-2026-04-12 10:45:46,538 [UTILITY] WARNING No chapters found to audit.
-2026-04-12 10:45:46,538 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
-2026-04-12 18:25:23,939 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
-2026-04-12 18:25:23,953 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
-2026-04-12 18:25:23,953 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
-2026-04-12 18:25:24,021 [UTILITY] INFO   Book 3: 0 chapters loaded
-2026-04-12 18:25:24,021 [UTILITY] INFO   Book 4: 0 chapters loaded
-2026-04-12 18:25:24,021 [UTILITY] INFO   Book 5: 0 chapters loaded
-2026-04-12 18:25:24,021 [UTILITY] WARNING No chapters found to audit.
-2026-04-12 18:25:24,022 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-15 20:57:26,453 [UTILITY] INFO Utility Server starting on port 8769
+2026-04-15 20:57:26,484 [UTILITY] INFO Project root: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles
+2026-04-15 20:57:26,583 [UTILITY] INFO Utility Server ready — http://localhost:8769/health
+2026-04-17 13:07:32,188 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-17 13:07:32,189 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-17 13:07:32,190 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-17 13:07:32,190 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-17 13:07:32,191 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-17 13:07:32,249 [UTILITY] INFO   Book 3: 0 chapters loaded
+2026-04-17 13:07:32,250 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-17 13:07:32,250 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-17 13:07:32,251 [UTILITY] WARNING No chapters found to audit.
+2026-04-17 13:07:32,252 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-17 18:20:24,585 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-17 18:20:24,586 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-17 18:20:24,586 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-17 18:20:24,586 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-17 18:20:24,587 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-17 18:20:24,635 [UTILITY] INFO   Book 3: 0 chapters loaded
+2026-04-17 18:20:24,636 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-17 18:20:24,636 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-17 18:20:24,636 [UTILITY] WARNING No chapters found to audit.
+2026-04-17 18:20:24,636 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -

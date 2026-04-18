@@ -41,3 +41,14 @@ _No opportunities extracted._
 
 ### Creative NZ — Literature Grants — Status: scraped
 _No opportunities extracted._
+
+## Scrape: 2026-04-18 01:23
+
+### NZSA — New Zealand Society of Authors — Status: needs_human_review
+_No opportunities extracted._
+
+### Mātātuhi Foundation — Status: scraped
+_No opportunities extracted._
+
+### Creative NZ — Literature Grants — Status: scraped
+_No opportunities extracted._

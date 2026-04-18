@@ -1,8 +1,12 @@
 2026-04-15 20:57:38,038 [Agent13] INFO  Seeded 18 SEO keywords
 2026-04-15 20:57:38,042 [Agent13] INFO  Starting Marketing Content Agent (Agent 13) v2.1 on port 8773
+INFO:     Started server process [48032]
+INFO:     Waiting for application startup.
 2026-04-15 20:57:38,440 [Agent13] INFO  Autonomous scheduler started — working 24/6, resting on the Sabbath
 2026-04-15 20:57:38,447 [Agent13] INFO  ═══ SCHEDULER STARTED — Agent 13 works 24/6, rests on the Sabbath ═══
 2026-04-15 20:57:38,468 [Agent13] INFO  ─── CYCLE 1 ───
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8773 (Press CTRL+C to quit)
 2026-04-15 20:57:41,368 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
 2026-04-15 20:57:41,433 [Agent13] INFO  HTTP Request: POST http://localhost:6333/collections/nephilim_chronicles/points/search "HTTP/1.1 200 OK"
 2026-04-15 20:58:01,729 [Agent13] INFO  HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"

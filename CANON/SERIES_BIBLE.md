@@ -922,7 +922,7 @@ This self-awareness should inform all dialogue and characterization:
 | **Raphael's confirmation** | *"THE FIRST SEAL IS BROKEN. THE RIDER GOES FORTH."* |
 | **Scene possibility** | News broadcast showing inexplicable military victories, charismatic leader emerging from nowhere |
 
-#### BOOK 3: THE RISING
+#### BOOK 3: THE EDENIC MANDATE
 
 **Second and Third Seals Break — War and Famine Ride**
 
@@ -1285,7 +1285,7 @@ This section establishes which documents are authoritative, their order of prece
 | **Prequel: The Stone and the Sceptre** | reference_materials/prequels/THE_STONE_AND_THE_SCEPTRE.md | 586 BCE Ireland, Jeremiah, Tea Tephi, sword quest, Niamh rescue |
 | **Book 1: The Cydonian Oaths** | SERIES_BIBLE.md, characters/*.md | 2024 awakening, Cian's commission, Brennan revelation, divine vision |
 | **Book 2: The Gathering** | MARS_ANTARCTICA_INTEGRATION.md, STRATEGIC_DEPLOYMENT_MARS_ANTARCTICA.md | Mars investigation, stele analysis, Eden journey |
-| **Book 3: The Rising** | ATMOSPHERIC_SCENES_MARS_ANTARCTICA.md, AZAZELS_PRISON_DUDAEL_ANTARCTICA.md | Antarctic expedition, Dudael discovery, Azazel release |
+| **Book 3: The Edenic Mandate** | ATMOSPHERIC_SCENES_MARS_ANTARCTICA.md, AZAZELS_PRISON_DUDAEL_ANTARCTICA.md | Antarctic expedition, Dudael discovery, Azazel release |
 | **Book 4: The Testimony** | characters/CIAN_MAC_MORNA.md (Principalities Battle) | Witnesses emerge, Eden, 1,260 days, principalities |
 | **Book 5: The Glory** | ENDGAME_FATES.md, BEAST_VESSEL_DOSSIER.md | Beast system, Tribulation, martyrdom, resurrection |
 

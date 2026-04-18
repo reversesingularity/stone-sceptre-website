@@ -1,0 +1,135 @@
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 49988)
+Traceback (most recent call last):
+  File "C:\Python313\Lib\socketserver.py", line 318, in _handle_request_noblock
+    self.process_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 349, in process_request
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 465, in do_POST
+    extracted = extract_triples_from_chapter(chapter_text, book_num, chapter_num)
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 161, in extract_triples_from_chapter
+    system = TRIPLE_SYSTEM.format(book=book_num, chapter=chapter_num)
+KeyError: '\n  "role_triples"'
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 61414)
+Traceback (most recent call last):
+  File "C:\Python313\Lib\socketserver.py", line 318, in _handle_request_noblock
+    self.process_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 349, in process_request
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 465, in do_POST
+    extracted = extract_triples_from_chapter(chapter_text, book_num, chapter_num)
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 161, in extract_triples_from_chapter
+    system = TRIPLE_SYSTEM.format(book=book_num, chapter=chapter_num)
+KeyError: '\n  "role_triples"'
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 64617)
+Traceback (most recent call last):
+  File "C:\Python313\Lib\socketserver.py", line 318, in _handle_request_noblock
+    self.process_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 349, in process_request
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 465, in do_POST
+    extracted = extract_triples_from_chapter(chapter_text, book_num, chapter_num)
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 161, in extract_triples_from_chapter
+    system = TRIPLE_SYSTEM.format(book=book_num, chapter=chapter_num)
+KeyError: '\n  "role_triples"'
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 55838)
+Traceback (most recent call last):
+  File "C:\Python313\Lib\socketserver.py", line 318, in _handle_request_noblock
+    self.process_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 349, in process_request
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 465, in do_POST
+    extracted = extract_triples_from_chapter(chapter_text, book_num, chapter_num)
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 161, in extract_triples_from_chapter
+    system = TRIPLE_SYSTEM.format(book=book_num, chapter=chapter_num)
+KeyError: '\n  "role_triples"'
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 57655)
+Traceback (most recent call last):
+  File "C:\Python313\Lib\socketserver.py", line 318, in _handle_request_noblock
+    self.process_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 349, in process_request
+    self.finish_request(request, client_address)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+    ~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 436, in handle
+    self.handle_one_request()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Python313\Lib\http\server.py", line 424, in handle_one_request
+    method()
+    ~~~~~~^^
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 465, in do_POST
+    extracted = extract_triples_from_chapter(chapter_text, book_num, chapter_num)
+  File "F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\update_story_prototype.py", line 161, in extract_triples_from_chapter
+    system = TRIPLE_SYSTEM.format(book=book_num, chapter=chapter_num)
+KeyError: '\n  "role_triples"'
+----------------------------------------

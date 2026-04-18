@@ -1,0 +1,35 @@
+[20:55:54] === TNC Swarm Startup ===
+[20:55:54] Phase 1: Waiting for Docker infrastructure...
+[20:57:07]   [OK] n8n is running
+[20:57:08]   [OK] qdrant is running
+[20:57:08]   [OK] ollama is running
+[20:57:08]   [OK] self-hosted-ai-starter-kit-postgres-1 is running
+[20:57:08] Phase 2: Checking for orphaned processes...
+[20:57:20] Phase 3: Starting llama-server (Nemotron 3 Super GGUF on :8780)...
+[20:57:21]   Started llama_server_nemotron on :8780 (PID 48036)
+[20:57:21] Phase 4: Starting Python servers...
+[20:57:21]   Started canon_search_api on :8765 (PID 25952)
+[20:57:22]   Started kdp_format_server on :8766 (PID 33268)
+[20:57:24]   Started update_story_prototype on :8767 (PID 47452)
+[20:57:25]   Started nemotron_tool_router on :8768 (PID 47820)
+[20:57:26]   Started utility_server on :8769 (PID 17520)
+[20:57:27]   Started theological_guard_server on :8770 (PID 47932)
+[20:57:28]   Started conductor_server on :8771 (PID 9976)
+[20:57:29]   Started agent_9_content_strategist on :8772 (PID 47852)
+[20:57:30]   Started marketing_agent on :8773 (PID 3340)
+[20:57:31] Phase 5: Starting Nemoclaw daemon...
+[20:57:31]   Started nemoclaw_daemon (PID 42608)
+[20:57:31] Phase 6: Health verification (15s warmup)...
+[20:57:47]   canon_search_api:8765 -- UP
+[20:57:48]   kdp_format_server:8766 -- UP
+[20:57:49]   update_story_prototype:8767 -- UP
+[20:57:50]   nemotron_tool_router:8768 -- UP
+[20:57:51]   utility_server:8769 -- UP
+[20:57:52]   theological_guard_server:8770 -- UP
+[20:57:53]   conductor_server:8771 -- UP
+[20:57:54]   agent_9_content_strategist:8772 -- UP
+[20:57:55]   marketing_agent:8773 -- UP
+[20:57:55]   nemoclaw_daemon -- UP
+[20:57:56]   llama_server_nemotron:8780 -- UP
+[20:57:56] === Startup complete: 11 / 11 services running ===
+[20:57:56] Log: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\LOGS\swarm_startup_2026-04-15_205554.log

@@ -36,7 +36,7 @@
 
 ---
 
-## BOOK 3: THE RISING
+## BOOK 3: THE EDENIC MANDATE
 
 ### Overview
 

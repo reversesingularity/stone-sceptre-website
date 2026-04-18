@@ -1,777 +1,109 @@
-2026-04-10 21:48:51,159 [NEMOCLAW] INFO   NEMOCLAW DAEMON � The Nephilim Chronicles v2.0
-2026-04-10 21:48:51,159 [NEMOCLAW] INFO   Heartbeat loop running. Press Ctrl+C to stop.
-2026-04-10 21:49:11,674 [NEMOCLAW] WARNING Services DOWN: ['n8n', 'canon_search', 'story_proto', 'local_nemotron']
-2026-04-10 21:49:32,229 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'story_proto', 'local_nemotron']
-2026-04-10 21:54:32,767 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'story_proto', 'local_nemotron']
-2026-04-10 21:59:33,320 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'story_proto', 'local_nemotron']
-2026-04-10 22:04:34,003 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'story_proto', 'local_nemotron']
-2026-04-10 22:09:34,528 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'story_proto', 'local_nemotron']
-2026-04-10 22:14:35,096 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'story_proto', 'local_nemotron']
-2026-04-10 22:19:35,693 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'story_proto', 'local_nemotron']
-2026-04-10 22:24:34,180 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 22:29:42,707 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 22:34:51,308 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 22:39:59,828 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 22:45:08,323 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 22:50:16,846 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 22:55:25,304 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:00:33,710 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:05:42,119 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:10:50,603 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:15:59,035 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:21:07,456 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:26:15,941 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:31:24,446 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:36:32,868 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:41:41,346 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:45:31,392 [NEMOCLAW] INFO File change detected: prologue.md
-2026-04-10 23:45:31,398 [NEMOCLAW] INFO Processing: prologue.md
-2026-04-10 23:45:31,437 [NEMOCLAW] WARNING   n8n webhook returned 404
-2026-04-10 23:45:33,228 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
-2026-04-10 23:45:35,291 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-04-10 23:46:43,684 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:49:43,708 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-10 23:49:43,726 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-10 23:51:52,152 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-10 23:57:00,590 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 00:02:09,152 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 00:07:17,784 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 00:12:26,349 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 00:17:31,478 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 00:19:51,790 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 00:19:51,890 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 00:22:36,408 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 00:27:43,910 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router']
-2026-04-11 00:32:48,722 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 00:37:53,475 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 00:43:01,151 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router']
-2026-04-11 00:48:09,736 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 17:44:15,176 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 17:44:15,178 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 17:44:15,294 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 17:49:23,870 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 17:54:32,452 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 17:59:41,028 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:04:49,620 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:09:58,160 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:14:18,175 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 18:14:18,207 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 18:15:06,795 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:20:15,431 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:25:23,989 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:30:32,592 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:35:41,211 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:40:52,712 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:44:21,469 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 18:44:21,809 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 18:45:47,712 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'local_nemotron']
-2026-04-11 18:50:52,439 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 18:56:00,072 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router']
-2026-04-11 19:01:04,882 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 19:06:12,542 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router']
-2026-04-11 19:11:20,154 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router']
-2026-04-11 19:14:30,193 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 19:14:30,525 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 19:16:33,026 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router', 'agent_9']
-2026-04-11 19:21:35,508 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router', 'agent_9']
-2026-04-11 19:26:32,974 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router']
-2026-04-11 19:31:37,482 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 19:36:41,935 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 19:41:46,398 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 19:44:36,412 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 19:44:36,472 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 19:46:50,954 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 19:51:55,413 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 19:56:59,882 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:02:04,306 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:07:08,776 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:12:13,280 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:14:43,289 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 20:14:43,306 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 20:17:17,832 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:22:22,341 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:27:26,825 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:32:31,316 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:37:35,824 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:42:40,352 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:44:50,363 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 20:44:50,394 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 20:47:44,886 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:52:49,425 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 20:57:53,967 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:02:58,463 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:08:02,939 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:13:07,454 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:14:57,460 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 21:14:57,487 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 21:18:11,987 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:23:16,525 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:28:20,995 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:33:25,567 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:38:30,108 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:43:34,613 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:45:04,625 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 21:45:04,669 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 21:48:39,117 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:53:43,525 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 21:58:48,034 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:03:52,430 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:08:56,976 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:14:01,448 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:15:11,467 [NEMOCLAW] INFO Drift Alert: Checking prologue.md
-2026-04-11 22:15:11,495 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 22:19:06,073 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:24:10,587 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:29:15,062 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:34:19,550 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:39:23,988 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:44:28,525 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:45:18,533 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-11 22:45:18,572 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 22:49:33,062 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:54:37,533 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 22:59:42,086 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:04:46,596 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:09:51,065 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:14:55,535 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:15:25,541 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-11 23:15:25,559 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 23:19:59,981 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:25:04,412 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:30:08,858 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:35:13,299 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:40:17,794 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:45:22,294 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:45:32,314 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-11 23:45:32,338 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-11 23:50:26,834 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-11 23:55:31,296 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:00:35,782 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:05:40,289 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:10:44,817 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:15:49,345 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:15:49,348 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 00:15:49,355 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 00:20:53,845 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:25:58,347 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:31:02,896 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:36:07,423 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:41:11,886 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:45:51,904 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 00:45:51,940 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 00:46:16,393 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:51:20,843 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 00:56:25,328 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:01:29,787 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:06:34,183 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:08:54,197 [NEMOCLAW] INFO File change detected: CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 01:08:54,199 [NEMOCLAW] INFO Processing: CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 01:08:54,211 [NEMOCLAW] WARNING   n8n webhook returned 404
-2026-04-12 01:08:58,481 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
-2026-04-12 01:09:00,565 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-04-12 01:11:00,575 [NEMOCLAW] INFO File change detected: CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 01:11:00,579 [NEMOCLAW] INFO Processing: CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 01:11:00,589 [NEMOCLAW] WARNING   n8n webhook returned 404
-2026-04-12 01:11:00,997 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
-2026-04-12 01:11:03,059 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-04-12 01:11:37,523 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:15:58,149 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 01:15:58,192 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 01:16:42,680 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:21:47,159 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:26:51,635 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:31:56,106 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:37:00,563 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:42:05,109 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:45:05,132 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
-2026-04-12 01:45:05,149 [NEMOCLAW] INFO   Nightly prep triggered: 404
-2026-04-12 01:46:05,152 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 01:46:05,174 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 01:47:09,612 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:52:14,101 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 01:57:18,611 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:02:23,133 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:07:27,662 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:12:32,102 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:16:12,115 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_01_TheArchitectureOfResistance.md
-2026-04-12 02:16:12,142 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 02:17:36,635 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:22:41,165 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:27:45,681 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:32:50,182 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:37:54,629 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:42:59,121 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:45:29,129 [NEMOCLAW] INFO File change detected: CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 02:45:29,134 [NEMOCLAW] INFO Processing: CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 02:45:29,148 [NEMOCLAW] WARNING   n8n webhook returned 404
-2026-04-12 02:45:32,229 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
-2026-04-12 02:45:34,309 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-2026-04-12 02:46:14,312 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 02:46:14,354 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 02:48:08,959 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:53:13,549 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 02:58:18,108 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:03:22,546 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:08:26,998 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:13:31,539 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:16:21,566 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 03:16:21,600 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 03:18:36,094 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:23:40,609 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:28:45,064 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:33:49,592 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:38:54,042 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:43:58,512 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:46:28,519 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 03:46:28,543 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 03:49:03,035 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:54:07,516 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 03:59:11,956 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:04:16,391 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:09:20,853 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:14:25,360 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:16:35,383 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 04:16:35,391 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 04:19:29,932 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:24:34,446 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:29:38,888 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:34:43,384 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:39:47,834 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:44:52,318 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:46:42,328 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 04:46:42,359 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 04:49:56,837 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 04:55:01,351 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:00:05,811 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:05:10,305 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:10:14,767 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:15:19,178 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:16:49,184 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 05:16:49,216 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 05:20:23,679 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:25:28,182 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:30:32,653 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:35:37,150 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:40:41,563 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:45:46,005 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:46:56,013 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 05:46:56,036 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 05:50:50,516 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 05:55:54,991 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:00:59,499 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:06:03,993 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:11:08,464 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:16:12,933 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:17:02,940 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 06:17:02,961 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 06:21:17,464 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:26:21,903 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:31:26,397 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:36:30,845 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:41:35,319 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:46:39,782 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:47:09,785 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 06:47:09,803 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 06:51:44,245 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 06:56:48,681 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:01:53,140 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:06:57,628 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:12:02,135 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:17:06,573 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:17:16,579 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 07:17:16,603 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 07:22:11,051 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:27:15,575 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:32:20,073 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:37:24,570 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:42:28,987 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:47:33,460 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:47:33,465 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 07:47:33,499 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 07:52:37,957 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 07:57:42,418 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:02:46,861 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:07:51,383 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:12:55,883 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:17:35,907 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 08:17:35,936 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 08:18:00,400 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:23:04,881 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:28:09,307 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:33:13,785 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:38:18,209 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:43:22,720 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:47:42,735 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 08:47:42,747 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 08:48:27,164 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:53:31,665 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 08:58:36,107 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:03:40,549 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:08:45,011 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:13:49,501 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:17:49,512 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 09:17:49,540 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 09:18:54,001 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:23:58,467 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:29:02,913 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:34:07,382 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:39:11,923 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:44:16,463 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:47:56,474 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 09:47:56,493 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 09:49:20,941 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:54:25,380 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 09:59:29,809 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:04:34,304 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:09:38,793 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:14:43,287 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:18:03,302 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 10:18:03,324 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 10:19:47,803 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:24:52,240 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:29:56,740 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:35:01,284 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:40:05,803 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:45:10,270 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:48:10,284 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 10:48:10,311 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 10:50:14,769 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 10:55:19,273 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:00:23,725 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:05:28,172 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:10:32,625 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:15:37,148 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:18:17,160 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 11:18:17,186 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 11:20:41,574 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:25:45,989 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:30:50,514 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:35:54,954 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:40:59,410 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:46:03,880 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:48:23,891 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 11:48:23,919 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 11:51:08,448 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 11:56:12,900 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:01:17,300 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:06:21,758 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:11:26,306 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:16:30,761 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:18:30,772 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 12:18:30,786 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 12:21:35,277 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:26:39,799 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:31:44,282 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:36:48,778 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:41:53,230 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:46:57,742 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:48:37,769 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 12:48:37,776 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 12:52:02,316 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 12:57:06,779 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:02:11,285 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:07:15,732 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:12:20,243 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:17:24,742 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:18:44,748 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 13:18:44,788 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 13:22:29,234 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:27:33,755 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:32:38,233 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:37:42,728 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:42:47,261 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:47:51,800 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:48:51,804 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 13:48:51,827 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 13:52:56,425 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 13:58:00,929 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:03:05,413 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:08:09,843 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:13:14,312 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:18:18,896 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:18:58,903 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 14:18:58,924 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 14:23:23,352 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:28:27,794 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:33:32,210 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:38:36,749 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:43:41,213 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:48:45,707 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:49:05,714 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 14:49:05,728 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 14:53:50,224 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 14:58:54,683 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:03:59,136 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:09:03,625 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:14:08,205 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:19:12,676 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:19:12,682 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 15:19:12,711 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 15:24:17,223 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:29:21,725 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:34:26,278 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:39:30,729 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:44:39,051 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:49:19,107 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 15:49:19,123 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 15:49:43,571 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:54:48,017 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 15:59:52,498 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:04:56,941 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:10:01,427 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:15:05,830 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:19:25,860 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 16:19:25,881 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 16:20:10,278 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:25:14,730 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:30:19,145 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:35:23,692 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:40:28,192 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:45:32,691 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:49:32,709 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 16:49:32,736 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 16:50:37,266 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 16:55:41,714 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:00:46,209 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:05:50,716 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:11:03,144 [NEMOCLAW] WARNING Services DOWN: ['canon_search', 'nemotron_router', 'agent_9']
-2026-04-12 17:15:57,923 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:19:37,979 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 17:19:38,107 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 17:21:02,610 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:26:07,199 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:31:11,797 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:36:16,404 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:41:20,997 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:46:25,572 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:49:45,585 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 17:49:45,611 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 17:51:30,061 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 17:56:34,581 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:01:39,109 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:06:43,566 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:11:48,167 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:16:52,667 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:19:52,701 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 18:19:52,732 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 18:21:57,178 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:27:01,706 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:32:06,220 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:37:10,723 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:42:15,183 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:47:19,664 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:49:59,677 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 18:49:59,705 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 18:52:24,212 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 18:57:28,652 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:02:33,095 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:07:37,553 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:12:42,051 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:17:46,477 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:20:06,503 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 19:20:06,540 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 19:22:50,985 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:27:55,414 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:32:59,883 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:38:04,400 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:43:08,900 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:48:13,368 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:50:13,378 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 19:50:13,392 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 19:53:17,934 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 19:58:22,475 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:03:26,950 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:08:31,450 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:13:35,941 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:18:40,493 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:20:20,499 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 20:20:20,526 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 20:23:45,003 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:28:49,462 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:33:53,921 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:38:58,426 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:44:02,940 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:49:07,475 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:50:27,483 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 20:50:27,517 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 20:54:11,968 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 20:59:16,451 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:04:20,936 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:09:25,412 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:14:29,923 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:19:34,434 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:20:34,438 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 21:20:34,472 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 21:24:39,023 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:29:43,485 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:34:48,020 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:39:52,552 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:44:57,049 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:50:01,540 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 21:50:41,542 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 21:50:41,578 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 21:55:06,059 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:00:10,586 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:05:15,075 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:10:19,597 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:15:24,112 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:20:28,623 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:20:48,629 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 22:20:48,647 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 22:25:33,114 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:30:37,592 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:35:42,148 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:40:48,305 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:45:52,779 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:50:57,289 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 22:50:57,289 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 22:50:57,307 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 22:56:01,807 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:01:06,220 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:06:10,762 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:11:15,237 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:16:19,682 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:20:59,699 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 23:20:59,725 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 23:21:24,159 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:26:28,634 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:31:33,142 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:36:37,621 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:41:42,139 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:46:46,638 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:51:06,651 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-12 23:51:06,678 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-12 23:51:51,183 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-12 23:56:55,669 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:02:00,140 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:07:04,620 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:12:09,146 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:17:13,623 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:21:13,635 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-13 00:21:13,656 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-13 00:22:18,155 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:27:22,805 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:32:27,276 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:37:31,745 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:42:36,258 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:47:40,792 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:51:20,806 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-13 00:51:20,847 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-13 00:52:45,359 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 00:57:49,819 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:02:54,284 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:07:58,755 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:13:03,264 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:18:07,834 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:21:27,846 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-13 01:21:27,854 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-13 01:23:12,334 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:28:16,833 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:33:21,281 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:38:25,772 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:43:30,307 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:45:00,316 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
-2026-04-13 01:45:00,338 [NEMOCLAW] INFO   Nightly prep triggered: 404
-2026-04-13 01:48:34,834 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:51:34,879 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-13 01:51:34,912 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-13 01:53:39,477 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 01:58:43,935 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:03:48,439 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:08:52,979 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:13:57,487 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:19:01,993 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:21:42,003 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_02_TheFrequencyBeneathTheCure.md
-2026-04-13 02:21:42,031 [NEMOCLAW] INFO   Drift check triggered: 404
-2026-04-13 02:24:06,487 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:29:10,927 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:34:15,424 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:39:19,932 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:44:24,467 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:49:28,953 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:54:33,472 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 02:59:37,977 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:04:42,498 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:09:46,982 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:14:51,435 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:19:55,933 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:25:00,376 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:30:04,880 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:35:09,474 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:40:13,999 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:45:18,508 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:50:22,948 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 03:55:27,452 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:00:31,912 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:05:36,421 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:10:40,892 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:15:45,453 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:20:49,913 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:25:54,396 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:30:58,913 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:36:03,458 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:41:07,981 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:46:12,504 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:51:17,133 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 04:56:21,618 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:01:26,099 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:06:30,537 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:11:34,990 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:16:39,511 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:21:44,027 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:26:48,514 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:31:52,944 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:36:57,380 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:42:01,825 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:47:06,311 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:52:10,783 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 05:57:15,309 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:02:19,820 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:07:24,224 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:12:28,730 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:17:33,221 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:22:37,711 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:27:42,205 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:32:46,678 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:37:51,136 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:42:55,608 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:48:00,018 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:53:04,531 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 06:58:08,977 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:03:13,485 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:08:17,980 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:13:22,517 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:18:26,964 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:23:31,416 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:28:35,937 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:33:40,399 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:38:44,919 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:43:49,403 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:48:53,899 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:53:58,396 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 07:59:02,890 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:04:07,345 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:09:11,840 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:14:16,289 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:19:20,705 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:24:25,127 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:29:29,612 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:34:34,129 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:39:38,586 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:44:43,076 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:49:47,592 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:54:52,067 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 08:59:56,503 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:05:00,982 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:10:05,418 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:15:09,921 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:20:14,481 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:25:18,954 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:30:23,458 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:35:27,960 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:40:32,363 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:45:36,849 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:50:41,333 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 09:55:45,798 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:00:50,281 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:05:54,809 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:10:59,328 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:16:03,865 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:21:08,330 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:26:12,845 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:31:17,333 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:36:21,858 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:41:26,280 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:46:30,761 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:51:35,238 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 10:56:39,681 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:01:44,157 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:06:48,571 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:11:53,065 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:16:57,584 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:22:02,082 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:27:06,558 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:32:11,104 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:37:15,516 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:42:19,974 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:47:24,524 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:52:29,039 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 11:57:33,443 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:02:37,930 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:07:42,435 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:12:46,944 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:17:51,419 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:22:55,861 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:28:00,325 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:33:04,734 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:38:09,242 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:43:13,756 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:48:18,291 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:53:22,777 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 12:58:27,251 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:03:31,722 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:08:36,249 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:13:40,735 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:18:45,152 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:23:49,583 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:28:54,088 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:33:58,548 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:39:02,925 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:44:07,315 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:49:11,729 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:54:16,197 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 13:59:20,710 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:04:25,173 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:09:29,618 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:14:34,016 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:19:38,466 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:24:43,057 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:29:47,530 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:34:52,020 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:39:56,491 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:45:01,032 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:50:05,638 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 14:55:10,198 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:00:14,669 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:05:19,111 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:10:23,525 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:15:28,072 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:20:32,534 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:25:37,002 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:30:41,465 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:35:45,999 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:40:50,549 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:45:55,035 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:50:59,443 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 15:56:03,921 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:01:08,376 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:06:12,757 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:11:17,268 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:16:21,812 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:21:26,327 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:26:30,818 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:31:35,266 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:36:39,709 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:41:44,217 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:46:48,804 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:51:53,335 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 16:56:57,843 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:02:02,280 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:07:06,722 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:12:11,236 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:17:15,687 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:22:20,170 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:27:24,638 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:32:29,118 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:37:33,600 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:42:38,092 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:47:42,603 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:52:47,101 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 17:57:51,556 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 18:02:56,041 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 18:08:00,516 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 18:13:04,981 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 18:18:09,436 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 18:23:13,948 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 18:28:18,361 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
-2026-04-13 18:33:22,770 [NEMOCLAW] WARNING Services DOWN: ['canon_search']
+2026-04-15 20:57:31,715 [NEMOCLAW] INFO ════════════════════════════════════════════════════════════
+2026-04-15 20:57:31,752 [NEMOCLAW] INFO   NEMOCLAW DAEMON — The Nephilim Chronicles v2.0
+2026-04-15 20:57:31,759 [NEMOCLAW] INFO   Heartbeat loop running. Press Ctrl+C to stop.
+2026-04-15 20:57:31,767 [NEMOCLAW] INFO ════════════════════════════════════════════════════════════
+2026-04-15 20:57:49,194 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-15 20:58:06,537 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-15 21:03:11,610 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-16 18:16:14,532 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-16 18:21:17,454 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-16 18:26:15,350 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-17 00:36:46,088 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-17 00:41:44,002 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-17 01:45:09,476 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-17 01:45:09,608 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-17 21:09:48,279 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_03_TheLastCartography.md
+2026-04-17 21:09:48,352 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 21:10:18,368 [NEMOCLAW] INFO File change detected: CHAPTER_03_TheLastCartography.md
+2026-04-17 21:10:18,374 [NEMOCLAW] INFO Processing: CHAPTER_03_TheLastCartography.md
+2026-04-17 21:10:18,383 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 21:10:20,409 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 21:10:22,544 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 21:39:58,816 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_03_TheLastCartography.md
+2026-04-17 21:39:58,857 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 22:10:00,692 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-17 22:10:00,707 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 22:14:15,026 [NEMOCLAW] INFO File change detected: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:14:15,031 [NEMOCLAW] INFO Processing: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:14:15,056 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 22:14:16,880 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 22:14:18,951 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 22:30:32,022 [NEMOCLAW] INFO File change detected: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:30:32,023 [NEMOCLAW] INFO Processing: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:30:32,044 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 22:30:33,162 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 22:30:35,233 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 22:31:39,592 [NEMOCLAW] INFO File change detected: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:31:39,593 [NEMOCLAW] INFO Processing: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:31:39,600 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 22:31:39,885 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 22:31:41,937 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 22:40:06,295 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-17 22:40:06,323 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 22:47:54,969 [NEMOCLAW] INFO File change detected: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:47:54,973 [NEMOCLAW] INFO Processing: CHAPTER_04_TheGauntlet.md
+2026-04-17 22:47:54,984 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-17 22:47:56,042 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-17 22:47:58,082 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-17 23:10:15,551 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-17 23:10:15,563 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-17 23:40:21,821 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-17 23:40:21,835 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 00:10:30,153 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 00:10:30,163 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 00:40:36,266 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 00:40:36,292 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 01:10:42,441 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 01:10:42,476 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 01:18:26,237 [NEMOCLAW] WARNING Services DOWN: ['agent_9']
+2026-04-18 01:23:34,051 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-18 01:40:47,424 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 01:40:47,438 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 01:45:01,809 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-18 01:45:01,821 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-18 02:10:53,781 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 02:10:53,809 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 02:41:00,058 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 02:41:00,087 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 03:11:06,366 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 03:11:06,384 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 03:41:12,761 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 03:41:12,788 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 04:11:19,146 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 04:11:19,157 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 04:41:25,238 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 04:41:25,272 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 05:11:27,092 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 05:11:27,119 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 05:41:33,294 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 05:41:33,318 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 06:11:39,596 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 06:11:39,630 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 06:41:45,902 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 06:41:45,936 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 07:11:52,273 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 07:11:52,308 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 07:41:58,520 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 07:41:58,555 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 08:12:04,839 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 08:12:04,864 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 08:42:11,079 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 08:42:11,103 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 09:12:17,207 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 09:12:17,239 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 09:42:23,378 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 09:42:23,394 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 10:12:29,815 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 10:12:29,849 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 10:42:36,107 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 10:42:36,121 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 11:12:42,433 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 11:12:42,461 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 11:42:48,678 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 11:42:48,702 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 12:12:54,846 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 12:12:54,863 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 12:42:56,747 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 12:42:56,774 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 13:13:03,102 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 13:13:03,114 [NEMOCLAW] INFO   Drift check triggered: 404

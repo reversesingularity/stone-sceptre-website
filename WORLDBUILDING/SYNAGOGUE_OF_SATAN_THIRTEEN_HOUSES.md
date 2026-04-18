@@ -659,7 +659,7 @@ The Ten Kings are **drawn from** the thirteen houses, but each King rules a spec
 |------|----------------|-------------------|
 | **Book 1: The Cydonian Oaths** | Shinar (data centre), Aram (Vârcolac contract), Tamiel (Asmodeus Director mentioned), Satar (internal security assessment of Miriam) | Houses revealed as vague infrastructure — readers sense the system without seeing it clearly |
 | **Book 2: The Gathering** | Tamiel (Asmodeus Director becomes named antagonist), Satar (actively hunting team), Baraqel (financial obstruction), Khem (competing for Antarctic coordinates) | Houses begin to crystallize as distinct factions; inter-house tensions visible |
-| **Book 3: The Rising** | Khem (Antarctic expedition), Aram (military response), Kokabel (surveillance), ALL HOUSES (Azazel's release reshuffles power)| Full thirteen-house infrastructure exposed; Azazel's return disrupts the balance |
+| **Book 3: The Edenic Mandate** | Khem (Antarctic expedition), Aram (military response), Kokabel (surveillance), ALL HOUSES (Azazel's release reshuffles power)| Full thirteen-house infrastructure exposed; Azazel's return disrupts the balance |
 | **Book 4: The Testimony** | Ramiel (propaganda against Witnesses), Shamshiel (Mark infrastructure), Penemu (theological justification for Beast worship), Zaqiel (food weaponization) | Houses serve the Beast system; operational rather than political |
 | **Book 5: The Glory** | Shinar (Beast Empire governance), ALL (collapse and judgment) | Houses destroyed with the system they built |
 

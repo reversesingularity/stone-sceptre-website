@@ -163,7 +163,7 @@ MAP_IMAGES = [
 BOOK_TITLES = {
     1: "The Cydonian Oaths",
     2: "The Cauldron of God",
-    3: "The Tigris Protocol",
+    3: "The Edenic Mandate",
 }
 
 # ---------------------------------------------------------------------------

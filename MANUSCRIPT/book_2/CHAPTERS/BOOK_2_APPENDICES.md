@@ -298,7 +298,7 @@ And the light has not overcome it. Not yet.
 ---
 
 *The Nephilim Chronicles continues in*
-***Book Three: The Rising***
+***Book Three: The Edenic Mandate***
 
 ---
 
