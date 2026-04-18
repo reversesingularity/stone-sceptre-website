@@ -71,6 +71,168 @@
 | Epilogue Mvt II | Eden | Dismas kneels in the garden and begins to pray — a vigil that will last the entire ministry |
 | Epilogue Mvt III | Spiritual airspace above Jerusalem | **RAPHAEL POV (first taste).** Already deployed. Already fighting. Already silent. Preliminary Archon engagements — Prince of Greece and Prince of Persia testing perimeters. Raphael maps enemy deployment. Watches Cian far below on Day 1 — a man with a sword, utterly alone, in the most public moment of his life. Cannot speak. Cannot comfort. Can only fight. The triptych: the enemy plans, the saint prays, the angel bleeds. |
 
+---
+
+## BOOK 3 ACT I: DETAILED BEAT ARCHITECTURE
+
+### Pre-Draft Lock: Four Strategic Decisions
+1. **Noctis Labyrinthus confirmed as Mars station** — Chapter 9 (Book 2, "The Labyrinth of Night") locked: Araqiel escape bunker in Noctis Labyrinthus canyon system; Cydonia-1 destroyed in Book 1
+2. **Acoustic Resonance Depletion Model confirmed** — Chapter 8 (Book 2): Greenland gate has 3-4 transit limit before catastrophic failure from 5,000-year thermal cycling micro-fractures
+3. **Michael's territorial interdict remains ACTIVE over Greenland** — Even after gate collapse, interdict prevents Naamah/House Kokabel sweep/recovery operations
+4. **Mo Chrá compass mode LOCKED at Book 3 open** — Prologue establishes: sword shifts from 7.83 Hz subsistence to 432 Hz pure compass frequency with precise Tigris-Euphrates vector
+
+### Chapter 1: THE ARCHITECTURE OF RESISTANCE
+
+**Status:** FULL DRAFT COMPLETE (April 18, 2026)  
+**Location:** Stewart Island Safehouse, March 2028 (Week 1 post-Dudael)  
+**POV:** Miriam Ashford (primary), Cian mac Morna (secondary)  
+**Word Target:** ~3,500–4,000 words
+
+**Movement I: The Debrief**
+- War room operational briefing; Dudael intelligence synthesis
+- Brennan presents Cydonian archive samples analysis
+- Mo Chrá's compass vector established (bearing southeast → Tigris-Euphrates anomaly)
+- Status assessment: casualties, strategic gains, next operational window
+
+**Movement II: The Financial Anatomy (Miriam POV)**
+- FININT trace through SWIFT backdoors → Synagogue financial infrastructure
+- Identifies House Khem's geomantic resonance funding mechanism
+- **Critical realization:** The cure is a trojan horse; carries Cydonian metamaterial suspended in solution
+- Marked observation: vaccinated persons within 50m of demonic presence trigger resonance (marks them for Nephilim network visibility)
+
+**Movement III: The Dissolution (Cian witnesses)**
+- Brennan liquidates McNeeve Space Systems (complete equity transfer to Josephites)
+- Corporate death scene: shedding corporate identity for resistance fighter
+- **Brennan's line:** "I built machines to reach Mars. I found something that reaches deeper. I'm done building monuments to dead stars."
+
+**Movement IV: The Compass (Cian POV)**
+- Mo Chrá's vector points unmistakably southeast (Mesopotamia, Tigris)
+- Raphael provides Empyreal Register excerpt: "Where the cherubim's ring of fire has ever turned, there the Foundation stands"
+- Cian recognition: path to Eden
+- **Final decision:** "We're going to Iraq."
+
+**Constraint:** Raphael SILENT throughout (Operational Silence). Mo Chrá carries all celestial communication. Team senses something is wrong but cannot ask.
+
+**Next Chapter Hook:** Brennan reveals the cure's hidden mechanism (Cydonian metamaterial countermeasure synthesis begins).
+
+---
+
+### Chapter 2: THE FREQUENCY BENEATH THE CURE
+
+**Status:** ARCHITECTURE LOCKED (Prose draft pending)  
+**Location:** TBD (Global intelligence feeds; Brennan's lab)  
+**POV:** Brennan McNeeve (primary), intelligence montage (secondary)  
+**Word Target:** ~3,500–4,000 words
+
+**Core Beat:** Brennan proves Adon's cure is embedded with Cydonian Watcher resonance; Mo Chrá produces the perfect harmonic countermeasure
+
+**Movement I: The Lab Analysis**
+- Brennan reverse-engineers vaccine vials from Dudael samples
+- Electron microscopy reveals metamaterial suspension (Cydonian ore fragments at nano-scale)
+- Brennan triangulates the carrier frequency: 432 Hz (same harmonic as Mo Chrá's compass mode)
+
+**Movement II: The Trap Architecture**
+- Azazel's "cure" doubles as a broadcast vector; every vaccinated person becomes a resonance transmitter
+- The system is bidirectional: Cydonian frequency "listens" for demonic/angelic presences; feeds location data to Nephilim network
+- House Khem tactical advantage: they can field-locate any supernatural signature without conventional tech
+
+**Movement III: The Countermeasure (Mo Chrá synthesis)**
+- Mo Chrá realizes she CAN generate the creation harmonic (432 Hz base + additional frequency layers)
+- Brennan builds acoustic jammer prototype using Mo Chrá's harmonic blueprint
+- Countermeasure neutralizes the cure's transmitter function (vaccinated persons "go dark" on Nephilim radar)
+
+**Movement IV: The Stakes Clarification**
+- Brennan understands: the team has a counter-tool, but Azazel already has global distribution
+- Millions of vaccinated humans are now potentially visible to Nephilim forces
+- The race is on: deploy counter-frequency before House Khem begins mass-harvesting vaccinated populations
+
+**Next Chapter Hook:** Miriam's FININT mapping of House Khem's acoustic geomantic web begins; team prepares for departure.
+
+---
+
+### Chapter 3: THE LAST CARTOGRAPHY
+
+**Status:** ARCHITECTURE LOCKED (Prose draft pending)  
+**Location:** Stewart Island → transit preparations  
+**POV:** Miriam Ashford (primary), Brennan McNeeve (secondary)  
+**Word Target:** ~3,500–4,000 words
+
+**Core Beat:** Miriam utilizes FININT to map House Khem's acoustic geomantic web; Brennan stays behind to build Philadelphian underground resistance; team departs for Iraq
+
+**Movement I: The Web Mapping (Miriam)**
+- Miriam cross-references FININT, satellite thermal signatures, and acoustic resonance anomalies
+- Maps House Khem's territorial grid across Middle East (focused on Mesopotamian floodplain)
+- Identifies transmission nodes, Nephilim operational positions, supply lines
+
+**Movement II: The Geomantic Realization**
+- The grid is not random; it follows ancient ley-line patterns from pre-Flood Watcher settlements
+- House Khem is literally walking in the footsteps of Nephilim territorial claims from 3504 BCE
+- The acoustic topology is *still active* — Cydonia-era infrastructure predates even the Flood
+
+**Movement III: The Brennan Farewell (Cian + Brennan POV)**
+- Brennan will NOT go with them to Eden/Iraq
+- Brennan's mission: establish Layer Zero underground network (Philadelphian Cell architecture)
+- He will build the infrastructure for resistance fighters, safe houses, acoustic countermeasure distribution
+- **Brennan's farewell line:** "You're going to need someone fighting behind the lines. I'm staying."
+
+**Movement IV: The Departure**
+- Team equipped with countermeasure jammer, compass vector, and Miriam's FININT map
+- Final briefing: House Khem presence is confirmed; the journey to Iraq will be contested
+- Mo Chrá quiet; team spirits hardened; next stop is the Mesopotamian floodplain
+
+**Next Chapter Hook:** The journey begins; House Khem detection imminent.
+
+---
+
+### Chapter 4: THE GAUNTLET
+
+**Status:** ARCHITECTURE LOCKED (Prose draft pending; 10/10 adrenaline peak)  
+**Location:** Iraqi desert / Mesopotamian floodplain  
+**POV:** Cian mac Morna (primary), Miriam Ashford (secondary), celestial plane (tertiary)  
+**Word Target:** ~5,000–6,000 words (longer action chapter)
+
+**Core Beat:** 10/10 adrenaline peak; dual-plane vehicle and foot chase across Mesopotamian floodplain; CQB against House Khem operatives; Cian and Miriam reach cherubim's spinning ring of fire and surrender to enter Eden
+
+**Movement I: The Chase Begins**
+- Ward Runner pursuit across House Khem territory (Khem detects conventional heat signatures via thermal overlay network)
+- Team in armored vehicles; attempting to break through Khem cordon toward Tigris-Euphrates anomaly coordinates
+- House Khem operatives: Nephilim-blooded warriors with acoustic weaponry (sonic battering rams, resonance grenades)
+
+**Movement II: The Acoustic Cat-and-Mouse**
+- Khem deploys acoustic tracking (vibration sensors tuned to conventional vehicle vibrations)
+- Khem CANNOT detect Mo Chrá's creation harmonic (it exists outside Watcher-tech monitoring)
+- Team's advantage: the sword is acoustic invisibility; the vehicles are acoustic bullseyes
+- Decision point: abandon vehicles, go on foot with sword and rifle, run for the threshold
+
+**Movement III: The Vehicle Graveyard**
+- Vehicles die at cherubim threshold (electromagnetic systems overload due to angelic perimeter interference)
+- Team dismounts; last Josephite operators provide rearguard (known-casualties operation; they stay behind to delay Khem)
+- Cian and Miriam begin final sprint toward the coordinates on foot
+
+**Movement IV: The Running Fight (CQB Sequence)**
+- Cian dual-wields: Mo Chrá *claidheamh* (sword primary) + *Tine Láimhe* SIG Sauer P365 (sidearm)
+- Miriam: supporting rifle fire, ammo management, route-finding
+- Nephilim-blooded House Khem operatives attack in coordinated waves (trained military tactics + demonic strength)
+- Combat progression: long-range fire → close-quarter engagement → Mo Chrá active combat
+- **Key moment:** Cian turns back on pursuing enemy at the veil; faces them alone while Miriam reaches the threshold
+
+**Movement V: The Threshold Crossing**
+- Cian reaches the final enemy position between him and the veil
+- Mo Chrá produces the creation harmonic at full amplitude (the frequency that spoke the world into existence)
+- The sword harmonizes with the cherubim's perimeter (spinning ring of fire visible now to mortal eyes)
+- Cian and Miriam surrender to the threshold (not fighting, but *offering*); pass through into Eden
+- Absolute silence. House Khem operatives cannot follow. The veil is closed.
+
+**Dual-Plane Element:**
+- Celestial warfare occurs simultaneously: Mo Chrá's harmonic creates acoustic vulnerability in demonic forces; Raphael operatives capitalize; mid-tier Nephilim destroyed at threshold
+- Miriam experiences the veil crossing as painlessness for the first time in her life (SRA healing begins in Eden's atmosphere)
+
+**Final Image:** Cian and Miriam standing in Eden, breathing the air, weapon still drawn, eyes adjusting to a light source that has no sun.
+
+**Next Chapter Hook:** Chapter 5 (breath chapter): Brennan's POV; underground network construction begins; the moral cost of leading frightened people into resistance.
+
+---
+
 ### Appendices
 
 | Appendix | Content |
