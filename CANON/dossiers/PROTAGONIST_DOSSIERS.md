@@ -1,7 +1,7 @@
 # PROTAGONIST DOSSIERS
 ## THE NEPHILIM CHRONICLES — Character Reference
 **Classification:** CANONICAL  
-**Last Updated:** February 6, 2026  
+**Last Updated:** April 18, 2026  
 **Authority:** Defers to SSOT_v3_MASTER.md and SERIES_BIBLE.md
 
 ---
@@ -573,10 +573,10 @@ Brennan leads the classified Mars expedition that discovers the Cydonia stele �
 | Attribute | Value |
 |-----------|-------|
 | **Identity** | Enoch, seventh from Adam |
-| **Status** | Never died; translated to Eden |
-| **Role** | First Witness (Revelation 11) |
-| **Duration in Eden** | ~5,000 years (since translation) |
-| **Sustained By** | Tree of Life |
+| **Status** | **ACTIVE — Departed Eden** (Book 2 Epilogue, February 2028) |
+| **Current Role** | First Witness; executing 1,260-day prophetic ministry in Jerusalem |
+| **Eden Duration** | ~5,000 years (from translation until Book 2 Epilogue) |
+| **Sustained By** | Tree of Life (during Eden period); now operates in fallen world |
 | **Known For** | Walked with God; wrote 1 Enoch; forged Methuselah's Sword |
 
 ---
@@ -603,10 +603,10 @@ Enoch returns from Eden for the 1,260-day ministry in Jerusalem alongside Elijah
 | Attribute | Value |
 |-----------|-------|
 | **Identity** | Elijah the Tishbite |
-| **Status** | Never died; taken to Eden by chariot of fire |
-| **Role** | Second Witness (Revelation 11) |
-| **Duration in Eden** | ~2,900 years |
-| **Sustained By** | Tree of Life |
+| **Status** | **ACTIVE — Departed Eden** (Book 2 Epilogue, February 2028) |
+| **Current Role** | Second Witness; executing 1,260-day prophetic ministry in Jerusalem |
+| **Eden Duration** | ~2,900 years (from chariot translation until Book 2 Epilogue) |
+| **Sustained By** | Tree of Life (during Eden period); now operates in fallen world |
 | **Known For** | Mount Carmel confrontation; killed prophets of Baal and Asherah |
 
 ---
@@ -715,6 +715,120 @@ Raphael and Mo Chrá communicate via harmonic resonance. They share knowledge Ci
 ## MO CHRÁ'S ASSESSMENT OF RAPHAEL
 
 > *"We make strange partnership. Thou hast watched over him when I could not perceive. When he slept, when he grieved, when he questioned whether any of this mattered."*
+
+---
+
+# DOSSIER P-007: DISMAS
+
+## The Thief on the Cross — Grace Made Manifest — The Prayer Warrior
+
+---
+
+## VITAL STATISTICS
+
+| Attribute | Value |
+|-----------|-------|
+| **Identity** | Dismas (Greek: Δύσμας) — "Sunset" or "West" |
+| **Historical Context** | Crucified alongside Jesus Christ (Luke 23:39-43) |
+| **Status** | **ACTIVE — Permanent Resident of Eden** |
+| **Role** | Prayer Warrior; Spiritual Anchor; Living Embodiment of Unmerited Grace |
+| **Primary Function** | Intercedes continuously for the Witnesses and their Guardian (Cian) |
+| **Spiritual Authority** | Received directly by Christ on Calvary: "Today shalt thou be with me in Paradise" |
+| **Known For** | Deathbed conversion; rebuked the other thief; recognized Jesus as King |
+
+---
+
+## THE HISTORICAL ACCOUNT (Luke 23:39-43)
+
+### Two Thieves, One Choice
+
+Both thieves were crucified with Jesus. Both saw the same signs. Both heard the same words.
+
+**The First Thief (Gestas/Titus):** Mocked Jesus. Demanded: "If thou be the Christ, save thyself and us."
+
+**Dismas:** Rebuked Gestas. Confessed: "Lord, remember me when thou comest into thy kingdom."
+
+**Jesus's Response:** "Verily I say unto thee, Today shalt thou be with me in paradise."
+
+### The Theological Significance
+
+Dismas received salvation in his *final moments* — without works, without time for demonstration, without any credential except faith in a dying stranger he recognized as King.
+
+**He is the ultimate proof that grace is NOT contingent on performance.**
+
+This makes him supremely dangerous to the Synagogue of Satan, whose entire theology rests on cosmic debt-keeping, earned achievement, and transactional exchange.
+
+---
+
+## EDEN MINISTRY (Ongoing)
+
+### Dismas's Commission
+
+Upon entering Paradise, Dismas was given a specific charge: **Intercession.**
+
+| Intercessory Focus | Purpose |
+|-------------------|---------|
+| **Cian mac Morna** | Guardian of the Witnesses — bearing unbearable weight for 2,600 years |
+| **Enoch the Scribe** | First Witness — preparing testimony in Jerusalem |
+| **Elijah the Prophet** | Second Witness — bracing for persecution and death |
+| **Miriam Ashford** | Baptized bride; target of demonic persecution (Asmodeus Director) |
+| **Mo Chrá** | The Sword — praying that she may know she is more than a weapon |
+
+### The Prayer Vigil
+
+Every moment of every day (Eden operates outside chronological time), Dismas holds these five in intercession before God's throne.
+
+**He never sleeps. He never wavers. He never stops.**
+
+| Prayer Type | Direction |
+|-----------|-----------|
+| **Petition** | "Grant them wisdom in the hour of trial" |
+| **Thanksgiving** | "I thank thee for their faithfulness" |
+| **Confession** | "I confess I was undeserving, yet received all" |
+| **Intercession** | "Spare them from despair; hold them fast" |
+
+---
+
+## RELATIONSHIP WITH CIAN
+
+Cian does not know that Dismas prays for him.
+
+But Dismas knows Cian. Knows him deeply:
+- Knows the weight of 2,600 years
+- Knows the losses: four wives, generations of descendants
+- Knows the loneliness of immortality
+- Knows the questioning: "Does God still care? Does any of this matter?"
+
+**Dismas's prayer is, in essence: "Yes. It matters. You are seen. You are not alone."**
+
+---
+
+## RELATIONSHIP WITH THE WITNESSES
+
+Dismas remembers Jesus. Remembers seeing Him crucified. Remembers the promise He made.
+
+**He is the bridge between the Witnesses' mission and Calvary's victory.**
+
+When Enoch and Elijah stand in Jerusalem proclaiming the Empyreal Register's testimony, Dismas is in Eden, anchoring their spiritual authority in the completed work of Christ — the only authority that supersedes demons and death.
+
+---
+
+## DISMAS IN THE ENDGAME
+
+### The Resurrection Protocol
+
+Cian, Enoch, and Elijah will all fall before the end times conclude. But all three will rise at the Last Trump — the resurrection of the just.
+
+**Dismas will witness their rising.**
+
+And in that moment, the theological circle will complete:
+
+| Figure | Death | Resurrection | Significance |
+|--------|-------|-------------|--------------|
+| **Christ** | Calvary (33 CE) | Third Day | Victory over death |
+| **Dismas** | Calvary (33 CE) | Immediate to Paradise | Grace without works |
+| **Witnesses** | Jerusalem (1,260+ days) | Last Trump | Testimony vindicated |
+| **Cian** | Protecting the Witnesses | Last Trump | Guardian redeemed |
 
 ---
 

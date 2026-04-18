@@ -1,7 +1,7 @@
 # ANTAGONIST DOSSIERS
 ## THE NEPHILIM CHRONICLES — Threat Assessment Reference
 **Classification:** CANONICAL  
-**Last Updated:** February 6, 2026  
+**Last Updated:** April 18, 2026  
 **Authority:** Defers to SSOT_v3_MASTER.md and SERIES_BIBLE.md
 
 ---
@@ -20,9 +20,9 @@
 | **Classification** | Turned Vampire, Sumerian Origin |
 | **Age** | Approximately 5,000-5,500 years (turned c. 3000-3500 BCE) |
 | **Origin** | Sumer (possibly Ur or Eridu) |
-| **Current Status** | Active; coordinating ghoul operations in Eastern Europe |
-| **Primary Target** | Brennan mac Niamh's daughter (blood debt payment) |
-| **Threat Level** | EXTREME — Primary antagonist (vampire operations) |
+| **Current Status** | **DEAD/DESTROYED** — Decapitated and burned to ash by Miriam Ashford at Dunluce Castle (Book 2, Chapter 10) |
+| **Final Defeat** | May 2028 (chronological), Book 2 Ch10 (narrative) |
+| **Threat Level** | ELIMINATED — No longer a threat
 
 ---
 
@@ -206,6 +206,39 @@ Traditional ghouls: slow, stupid, effective only in numbers. Lord Vârcolac reco
 
 ---
 
+## ⚰️ DEATH ACCOUNT — DUNLUCE CASTLE (May 2028 / Book 2, Chapter 10)
+
+**Status: PERMANENTLY TERMINATED**
+
+### The Final Encounter
+
+| Detail | Description |
+|--------|-------------|
+| **Location** | Dunluce Castle, County Antrim, Northern Ireland |
+| **Opponent** | Miriam Ashford (baptized; Operational Affection phase) |
+| **Catalyst** | Vârcolac cornered Miriam during the endgame Antarctic evacuation sequence |
+| **Combat Duration** | Approximately 90 seconds |
+| **Final Method** | **Decapitation followed by incineration** |
+
+### The Death Blow
+
+Vârcolac had survived 5,000 years of hunting, warfare, and Cian's relentless opposition. He fell to a baptized woman wielding newfound spiritual authority.
+
+**Miriam's tactical advantage:** Armed knowledge of Vârcolac's psychology. She understood his obsession with "the ledger," his calculation-based approach to violence, his conviction that he was *owed.*
+
+**Her execution:** She turned his obsession against him, forcing him into predictable defensive postures. Mo Chrá delivered the decapitation strike. Sacred flame incinerated the remains.
+
+**His final realization:** The woman he had been contracted to leave unharmed became his destroyer.
+
+### Operational Aftermath
+
+- All new-breed ghoul production ceased immediately (facilities destroyed or abandoned)
+- Remaining ghouls (est. 300-500 survivors) scattered, leaderless
+- Blood debt declared **PAID IN FULL** by supernatural accounting (Nephilim spirits that had enforced it dissipated)
+- Romanian/Eastern European vampire infrastructure dismantled
+
+---
+
 ## THE MIRIAM CONNECTION
 
 ### The Contract
@@ -266,8 +299,8 @@ When Cian learns that Vârcolac killed Miriam's mother, it will add another laye
 | **Lineage** | Daughter of Lamech (Cainite), sister of Tubal-Cain |
 | **Primary Watcher Consort** | SHEMYAZA — Commander of the 200 |
 | **Offspring** | OHYA and HAHYA (twin Nephilim) — per Book of Giants |
-| **Current Status** | ACTIVE — Transcended mortality; spiritual entity manifesting through cultural forms |
-| **Threat Level** | MAXIMUM — Key facilitator of the Beast system |
+| **Current Status** | **OBJECTIVE ACHIEVED** — Extracted Azazel from Dudael; acquired pre-prison Watcher Archive (Gadreel's weapon specs, Nephilim hybridization data, Cydonia-2 architectural plans). Book 2 Ch14+ consolidating power. |
+| **Threat Level** | MAXIMUM — Now possesses strategic intelligence previously unavailable to the Synagogue |
 | **Endgame Fate** | Sealed alive in ephah vessel (Zechariah 5) |
 
 ---
@@ -678,6 +711,76 @@ The 1 Enoch instruction to "ascribe all sin to Azazel" refers to his EXPANSION o
 ## ENDGAME FATE (LOCKED)
 
 **Cast into Lake of Fire** (Revelation 19:20)
+
+---
+
+# DOSSIER A-004: THE ASMODEUS DIRECTOR
+
+## Possessed Patriarch of House Tamiel — The Architect of Miriam's Persecution
+
+### VITAL STATISTICS
+
+| Attribute | Value |
+|-----------|-------|
+| **Possessed Host** | Original human patriarch (name unknown); current iteration unknown |
+| **Demon Identity** | ASMODEUS — the Rage-bringer; one of the Seven Princes of Hell |
+| **House Affiliation** | House Tamiel — Watchers' breeding program strategists |
+| **Primary Objective** | Eliminate Miriam Ashford (baptized, spiritually dangerous) |
+| **Secondary Objective** | Execute the Asmodeus Director's doctrinal mandate: preserve Nephilim bloodlines from Hunter interference |
+| **Current Status** | ACTIVE; hunting Miriam across Book 3 events; will trigger **Raphael's Tobit Protocol** binding |
+| **Threat Level** | EXTREME — Demonically possessed house patriarch with full authority over House Tamiel operations |
+
+### THE THREAT TO MIRIAM
+
+Asmodeus fixates on Miriam Ashford for three theological reasons:
+
+1. **Baptism** — Her baptism at Eden (Book 2 Epilogue) made her permanently sealed in Christ's name. Demons cannot touch her spirit, only her circumstances.
+2. **Mo Chrá Connection** — Through Miriam, Cian's sword is indirectly empowered by Miriam's faith. The sword becomes exponentially more lethal against demonic forces.
+3. **Lineage Threat** — Miriam's potential offspring would inherit dual spiritual authority: Cian's ancient commission + Miriam's post-baptism grace. Unacceptable to the Synagogue.
+
+### THE TOBIT PROTOCOL (Book 4 Foreshadowing)
+
+*See OPERATIONAL_SILENCE_ARCHITECTURE_April18_2026.md §2: Raphael's Exception Mechanisms*
+
+Asmodeus's persecution of Miriam will trigger one of Raphael's two permitted exceptions to conversational silence. Raphael will manifest in Book 4 Ch11 to bind Asmodeus using the **Tobit Protocol** — the same binding that immobilized Asmodeus in the Book of Tobit apocrypha.
+
+---
+
+# DOSSIER A-005: VOIVODE DRAGAN
+
+## Champion of Naamah — Cursed Greatsword Wielder — DEAD
+
+### VITAL STATISTICS
+
+| Attribute | Value |
+|-----------|-------|
+| **Title** | Voivode (Medieval Eastern European war-lord) |
+| **Classification** | Nephilim Hybrid (9 feet tall) |
+| **Ancestry** | Unknown Nephilim line + human consort (Watcher-descended bloodline) |
+| **Primary Weapon** | Cursed greatsword (pre-Flood Watcher artifact) |
+| **Master/Patron** | NAAMAH bat Lamech |
+| **Operational Theater** | Carpathian Mountains (medieval era → present) |
+| **Current Status** | **DEAD/DESTROYED** (May 2028 / Book 2, Chapter 6) |
+| **Final Killer** | Mo Chrá (wielded by Cian mac Morna) |
+
+### THE DEATH ACCOUNT
+
+**Location:** Carpathian Mountain stronghold (Book 2, Ch6)  
+**Opponent:** Cian mac Morna  
+**Combat Duration:** Approximately 2 minutes (protracted against normal enemies; brief against Cian's tactical mastery)  
+**Final Method:** Mo Chrá's **Chains of Abyssal Damnation** — Cian's evolved combat form
+
+### The Chains of Abyssal Damnation
+
+During Book 2's climactic Antarctic breach sequence, Mo Chrá evolved a new combat pattern: **Chains of Abyssal Damnation.** This form manifests as oscillating frequency chains that bind Nephilim essence-signatures, preventing regeneration and trapping the entity in progressive dimensional collapse.
+
+Voivode Dragan's Nephilim biology was unprepared for this attack pattern. His greatsword, cursed as it was, could not counter frequency-based weaponry. Mo Chrá's Chains wrapped his physical form and his spiritual essence simultaneously.
+
+**Result:** Complete destruction. Not merely dead — **erased.** His Nephilim spirit was severed from any possible resurrection mechanism.
+
+### Naamah's Assessment
+
+Voivode Dragan served Naamah for centuries. His loss signals to her that direct military confrontation with Cian is obsolete. By Book 3, Naamah has shifted strategy entirely to political/spiritual mechanisms (House Tamiel deployment, Azazel's UN emergence, etc.).
 
 ---
 

@@ -1,8 +1,8 @@
 # NEPHILIM CHRONICLES — SINGLE SOURCE OF TRUTH v3
 ## SSOT_v3_MASTER.md
-**Version:** 3.1  
+**Version:** 3.2  
 **Status:** CANONICAL MASTER REFERENCE  
-**Last Updated:** March 4, 2026  
+**Last Updated:** April 18, 2026  
 **Purpose:** The definitive, authoritative consolidation of ALL canon facts. All other documents defer to SSOT_v3 where conflicts arise.
 
 ---

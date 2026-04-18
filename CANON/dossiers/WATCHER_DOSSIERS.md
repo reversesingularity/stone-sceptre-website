@@ -3,7 +3,9 @@
 ## DOSSIERS: THE TWENTY CHIEFS OF THE WATCHERS
 
 **Primary Source:** The Book of Enoch (1 Enoch)  
-**Supplementary:** Book of Giants, Jubilees, Genesis
+**Supplementary:** Book of Giants, Jubilees, Genesis  
+**Last Updated:** April 18, 2026  
+**Classification:** CANONICAL
 
 **COMPILED BY THE GUARDIAN'S NETWORK**  
 *For Use by Authorized Hunter Operatives Only*

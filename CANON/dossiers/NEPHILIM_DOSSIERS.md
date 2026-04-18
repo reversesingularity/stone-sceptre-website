@@ -3,7 +3,9 @@
 ## DOSSIERS: THE NEPHILIM — FIRST GENERATION
 
 **Primary Source:** The Book of Giants (4Q530-532), 1 Enoch, Genesis 6  
-**Supplementary:** Jubilees, Greek Mythology (interpreted as corrupted memory)
+**Supplementary:** Jubilees, Greek Mythology (interpreted as corrupted memory)  
+**Last Updated:** April 18, 2026  
+**Classification:** CANONICAL
 
 **COMPILED BY THE GUARDIAN'S NETWORK**  
 *For Use by Authorized Hunter Operatives Only*
