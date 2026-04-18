@@ -81,12 +81,22 @@
 3. **Michael's territorial interdict remains ACTIVE over Greenland** — Even after gate collapse, interdict prevents Naamah/House Kokabel sweep/recovery operations
 4. **Mo Chrá compass mode LOCKED at Book 3 open** — Prologue establishes: sword shifts from 7.83 Hz subsistence to 432 Hz pure compass frequency with precise Tigris-Euphrates vector
 
+### Prologue: THE FIRMAMENT OPENS
+
+**Status:** ✅ PROSE DRAFT COMPLETE (April 18, 2026)  
+**Location:** Stewart Island Safehouse, March 14–15, 2028  
+**POV:** Brennan McNeeve (Movement I), Cian/Miriam/Brennan (Movement II)  
+**Word Count:** ~4,200 words
+**Key Content:** Azazel's UN presentation (the cure); Mo Chrá's nine-second creation harmonic emission
+
+---
+
 ### Chapter 1: THE ARCHITECTURE OF RESISTANCE
 
-**Status:** FULL DRAFT COMPLETE (April 18, 2026)  
+**Status:** ✅ PROSE DRAFT COMPLETE (April 18, 2026)  
 **Location:** Stewart Island Safehouse, March 2028 (Week 1 post-Dudael)  
 **POV:** Miriam Ashford (primary), Cian mac Morna (secondary)  
-**Word Target:** ~3,500–4,000 words
+**Word Count:** ~3,800 words
 
 **Movement I: The Debrief**
 - War room operational briefing; Dudael intelligence synthesis
@@ -119,10 +129,10 @@
 
 ### Chapter 2: THE FREQUENCY BENEATH THE CURE
 
-**Status:** ARCHITECTURE LOCKED (Prose draft pending)  
-**Location:** TBD (Global intelligence feeds; Brennan's lab)  
-**POV:** Brennan McNeeve (primary), intelligence montage (secondary)  
-**Word Target:** ~3,500–4,000 words
+**Status:** ✅ PROSE DRAFT COMPLETE (April 18, 2026)  
+**Location:** Stewart Island Safehouse, Sub-Level 2 (Lab)  
+**POV:** Brennan McNeeve (primary), Cian mac Morna (secondary)  
+**Word Count:** ~3,600 words
 
 **Core Beat:** Brennan proves Adon's cure is embedded with Cydonian Watcher resonance; Mo Chrá produces the perfect harmonic countermeasure
 
@@ -152,10 +162,10 @@
 
 ### Chapter 3: THE LAST CARTOGRAPHY
 
-**Status:** ARCHITECTURE LOCKED (Prose draft pending)  
-**Location:** Stewart Island → transit preparations  
-**POV:** Miriam Ashford (primary), Brennan McNeeve (secondary)  
-**Word Target:** ~3,500–4,000 words
+**Status:** ✅ PROSE DRAFT COMPLETE (April 18, 2026)  
+**Location:** Stewart Island Safehouse, Sub-Level 2 (Lab)  
+**POV:** Miriam Ashford (primary), Cian mac Morna (secondary)  
+**Word Count:** ~3,900 words
 
 **Core Beat:** Miriam utilizes FININT to map House Khem's acoustic geomantic web; Brennan stays behind to build Philadelphian underground resistance; team departs for Iraq
 
@@ -186,10 +196,10 @@
 
 ### Chapter 4: THE GAUNTLET
 
-**Status:** ARCHITECTURE LOCKED (Prose draft pending; 10/10 adrenaline peak)  
-**Location:** Iraqi desert / Mesopotamian floodplain  
-**POV:** Cian mac Morna (primary), Miriam Ashford (secondary), celestial plane (tertiary)  
-**Word Target:** ~5,000–6,000 words (longer action chapter)
+**Status:** ✅ PROSE DRAFT COMPLETE (April 18, 2026)  
+**Location:** Iraqi desert / Mesopotamian floodplain (March 20, 2028, 0437 Hours)  
+**POV:** Miriam Ashford (primary), Cian mac Morna (secondary), celestial plane (tertiary)  
+**Word Count:** ~4,500+ words (10/10 adrenaline peak; opening sequence locked)
 
 **Core Beat:** 10/10 adrenaline peak; dual-plane vehicle and foot chase across Mesopotamian floodplain; CQB against House Khem operatives; Cian and Miriam reach cherubim's spinning ring of fire and surrender to enter Eden
 

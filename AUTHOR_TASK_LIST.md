@@ -75,28 +75,61 @@ All HITL gates and theological review flags from prior sessions have been resolv
 ## PRIORITY 5 — Book 3 Pre-Production ← **IN PROGRESS**
 
 Architecture is locked in `WORLDBUILDING/BOOKS_3_5_ARCHITECTURE.md`.
-**Status:** Prologue DRAFTED and APPROVED (2026-04-11). Chapter 1 next.
+**Status:** Prologue + Chapters 1–4 DRAFTED (April 18, 2026). Editorial pass + Chapters 5–15 next.
 
 **Completed:**
 
-- [X] Prologue architecture interview (9 questions + 4 follow-ups)
-- [X] Prologue Movement I (~1,050 words) — Brennan POV, Azazel as "Dr. Ezra Adon" at UN, pharmakeia miracle
-- [X] Prologue Movement II (~530 words) — Cian/Miriam/Brennan at Stewart Island, Mo Chrá compass mode
-- [X] Saved to `MANUSCRIPT/book_3/CHAPTERS/prologue.md`
+- [X] Pre-draft strategic decisions LOCKED (April 18, 2026)
+  - [X] Noctis Labyrinthus confirmed as Mars station (Book 2 Ch9, "The Labyrinth of Night")
+  - [X] Acoustic Resonance Depletion Model confirmed (Book 2 Ch8, 3–4 transit limit)
+  - [X] Michael's territorial interdict remains ACTIVE over Greenland
+  - [X] Mo Chrá compass mode LOCKED at Book 3 open (432 Hz pure compass frequency)
 
-**Pre-draft decisions still needed:**
+- [X] **Prologue: THE FIRMAMENT OPENS** — ~4,200 words DRAFTED
+  - [X] Movement I: Brennan POV, Azazel UN presentation (HFRS-9 cure), spectrograph analysis
+  - [X] Movement II: Stewart Island kitchen, Mo Chrá nine-second creation harmonic, team reaction
+  - [X] Saved to `MANUSCRIPT/book_3/CHAPTERS/prologue.md`
 
-- [ ] Confirm or reject: Noctis Labyrinthus as Mars station (carried from Book 2)
-- [ ] Confirm or reject: Acoustic Resonance Depletion Model for gate mechanics
-- [ ] Decide: Michael territorial interdict over Greenland — still active in Book 3?
-- [ ] Decide: Liaigh's access to Dudael/Cydonia sites after Book 2 events
-- [ ] Confirm: Mo Chrá is in compass mode at Book 3 open (not weapon mode)
+- [X] **Chapter 1: THE ARCHITECTURE OF RESISTANCE** — ~3,800 words DRAFTED
+  - [X] Movement I: War room debrief; Dudael intelligence synthesis
+  - [X] Movement II: Miriam's FININT financial anatomy (cure as trojan horse)
+  - [X] Movement III: Brennan dissolves McNeeve Space Systems
+  - [X] Movement IV: Mo Chrá compass vector established (southeast → Tigris-Euphrates)
+  - [X] Saved to `MANUSCRIPT/book_3/CHAPTERS/CHAPTER_01_TheArchitectureOfResistance.md`
 
-**Scaffolding (do before or during first draft session):**
+- [X] **Chapter 2: THE FREQUENCY BENEATH THE CURE** — ~3,600 words DRAFTED
+  - [X] Movement I: Spectral archaeology; Brennan reverse-engineers vaccine vials
+  - [X] Movement II: Trap architecture (Cydonian metamaterial suspension revealed)
+  - [X] Movement III: Mo Chrá synthesizes acoustic countermeasure (432 Hz harmonic)
+  - [X] Movement IV: Stakes clarification (millions vaccinated; House Khem race begins)
+  - [X] Saved to `MANUSCRIPT/book_3/CHAPTERS/CHAPTER_02_TheFrequencyBeneathTheCure.md`
 
-- [X] **Scaffold Book 3 manuscript** — `MANUSCRIPT/book_3/CHAPTERS/prologue.md` created; Ch1+ still needed
-- [ ] **Update build_manuscript.py** — Add `SOURCE_FILES_BOOK3`, `MANUSCRIPT_DIR_BOOK3`, `OUTPUT_FILE_BOOK3` constants; add `elif book == 3:` block
-- [ ] **Lock Book 3 detailed outline** — Beat-by-beat scene breakdown using `BOOKS_3_5_ARCHITECTURE.md` chapter map
+- [X] **Chapter 3: THE LAST CARTOGRAPHY** — ~3,900 words DRAFTED
+  - [X] Movement I: Miriam maps House Khem acoustic geomantic web via FININT
+  - [X] Movement II: Geomantic realization (House Khem walks Nephilim territorial claims from 3504 BCE)
+  - [X] Movement III: Brennan farewell (stays behind to build Philadelphian Cell Layer Zero)
+  - [X] Movement IV: Team departure for Iraq with countermeasure jammer
+  - [X] Saved to `MANUSCRIPT/book_3/CHAPTERS/CHAPTER_03_TheLastCartography.md`
+
+- [X] **Chapter 4: THE GAUNTLET** — ~4,500+ words DRAFTED (10/10 adrenaline peak)
+  - [X] Movement I: Ward Runner pursuit across House Khem territory
+  - [X] Movement II: Acoustic cat-and-mouse (Khem detects vehicles, not Mo Chrá creation harmonic)
+  - [X] Movement III: Vehicle graveyard at cherubim threshold; Josephite rearguard known-casualties op
+  - [X] Movement IV: Running fight CQB (Cian dual-wields Mo Chrá + SIG Sauer P365)
+  - [X] Movement V: Threshold crossing (Mo Chrá creation harmonic; absolute silence; Eden entry)
+  - [X] Saved to `MANUSCRIPT/book_3/CHAPTERS/CHAPTER_04_TheGauntlet.md`
+
+**Scaffolding (completed):**
+
+- [X] **Scaffold Book 3 manuscript** — All chapter markdown files created + populated
+- [X] **Update build_manuscript.py** — SOURCE_FILES_BOOK3, MANUSCRIPT_DIR_BOOK3, OUTPUT_FILE_BOOK3, elif book == 3 routing completed (Commit 41309d0)
+- [X] **Lock Book 3 detailed outline** — Act I (Prologue + Ch1–4) beat architecture fully locked (Commit 41309d0)
+
+**Next phase:**
+
+- [ ] **Editorial pass** — Prologue + Ch1–4 continuity audit, Acoustic Paradigm verification, canon alignment check
+- [ ] **Chapter 5 architecture interview** — Brennan POV interlude; underground network construction begins
+- [ ] **Chapters 5–15 drafting** — Full remaining Book 3 composition (~60,000–70,000 words remaining)
 
 **First scene target — Prologue Movement I: ✅ COMPLETE**
 POV: Brennan McNeeve (debriefing at Stewart Island, watching UN broadcast)
