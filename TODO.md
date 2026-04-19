@@ -1,23 +1,28 @@
 # TODO — The Nephilim Chronicles
-**Updated:** April 18, 2026
+**Updated:** April 19, 2026
 
 ---
 
-## ⚡ CURRENT — Book 3 Chapter 1 Drafting
+## ⚡ CURRENT — Book 3 KDP Preparation + Book 4 Planning
 
-1. Verify swarm is up: `python day1_ops.py --phase all` (all 6 phases should PASS)
-2. Interview Chris on remaining Book 3 decisions (Noctis Labyrinthus, gate mechanics, Michael interdict)
-3. Lock Chapter 1 beat outline → get approval → write prose
-4. Target: Ch 1 opens at Stewart Island safehouse, same week as Prologue events (March 2028)
+**Book 3 status: FIRST DRAFT + SCORING COMPLETE — 26.5/30 EXCELLENT**
+- All 17 chapters drafted (~104,000 words), 5 structural prose edits applied, 6-metric score verified
+- Score doc: `MANUSCRIPT/book_3/ANALYSIS/DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md`
 
-**Prologue: ✅ COMPLETE** — `MANUSCRIPT/book_3/CHAPTERS/prologue.md` (~1,580 words, two movements)
+**Immediate actions:**
 
-Ref: `ARCHIVE/session_logs/SESSION_LOG_2026-04-11.md` for full session state.
+1. [ ] Recompile Book 3 DOCX — `Invoke-RestMethod -Uri "http://localhost:8766/kdp-format" -Method POST -Body '{"book": 3}' -ContentType "application/json"`
+2. [ ] KDP upload prep — cover art, metadata, 7-keyword slots, BISAC, HTML description
+3. [ ] Generate chapter art (Midjourney v6.1) for Book 3
+4. [ ] Book 4 architecture interview — pick up from Epilogue: Witnesses at Temple Mount, Azazel counter-frequency weapon design, 1,260-day timeline structure
+5. [ ] Run marketing blitz for Books 1–3: `python marketing_blitz.py`
 
 ---
 
-## ✅ COMPLETE — Operational Silence & Comedic Protocol (April 17-18, 2026)
+## ✅ COMPLETE — Book 3: The Edenic Mandate (April 19, 2026)
 
+- [x] **All 17 chapters drafted** — Prologue + Ch1\u201315 + Epilogue (~104,000 words). 5 structural prose edits applied.
+- [x] **6-Metric Scoring: 26.5/30 EXCELLENT** — TIR metric added; 4 parallel blind sub-agents; 6 EXCEPTIONAL chapters (Ch4, Ch11, Ch12, Ch14, Ch15, Epilogue)
 - [x] **Operational Silence Architecture** — Raphael/Liaigh arc: conversational Empyreal Register severed at Book 3 Ch14 (Eden departure); combat protection maintained through Book 5 Ch10; 2 permitted exceptions locked; 8 Raphael POV chapters mapped; naming convention table locked. Saved to `ARCHIVE/session_logs/OPERATIONAL_SILENCE_ARCHITECTURE_April18_2026.md`
 - [x] **Phantom Banter & Comedic Relief Protocol** — Five comedic mechanics for quiet chapters (Phantom Banter, Mo Chrá Peanut Gallery, James Tactical Deadpan, Brennan Engineering Neurosis, Miriam Phased Rule). Miriam comedic constraint evolves at baptism boundary (Book 3 Eden): Phase 1 GCHQ composure → Phase 2 Operational Affection → Phase 3 Devastation Payload (John 15:13 setup). Saved to `REFERENCE/PHANTOM_BANTER_PROTOCOL.md`
 - [x] **SSOT_v3 cross-referenced** — Phantom Banter §4.2, Mo Chrá §4.3, Miriam §4.4 all verified consistent

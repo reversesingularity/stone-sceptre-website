@@ -78,6 +78,12 @@ When Cian spoke, his voice carried the flat register of a man who had spent twen
 
 "It's worse than that." Brennan's voice had become very careful — the register he used when the data was about to become theology. "The protein folding geometry doesn't just use Watcher resonance as a manufacturing catalyst. The acoustic signature is *embedded in the cure*. Every human being who receives this antiviral — every one of the projected four billion doses — will carry Cydonian resonance in their molecular structure."
 
+Miriam looked at her own hands, the unfallen spirit-signature within her suddenly recoiling from an atmospheric shift she hadn't had the vocabulary to name until this exact second. 
+
+"It isn't just a biological modification," she said, her voice dropping into the quiet, terrifying register of a GCHQ analyst who had just seen the shape of the cage. "It's an acoustic capture. The fallen world has a noise floor — the chaotic, dissonant friction of eight billion human free wills. But if four billion people receive this resonance..." She looked at the spectrograph, watching the Cydonian geometry spin. "They aren't just carrying a frequency. They are becoming nodes in an antenna array. The friction stops. The noise floor drops. Azazel isn't just curing them; he is synchronizing their nervous systems into a single, global acoustic receiver."
+
+She touched her temples, her breath shallowing. "I can feel it already. The air is getting heavier. The ambient static of human thought is being replaced by a low, unified hum. It feels like standing inside a bell right before it gets struck. When Azazel finally speaks the command frequency, four billion bodies won't just obey. They will resonate. They will *chime*."
+
 Mo Chrá's hum dropped. 6.1 Hz. Below the Schumann baseline. Below her resting state. Below anything Brennan had measured in fifteen months of observation.
 
 The sword was afraid.
@@ -90,7 +96,23 @@ Not of Azazel. Not of the cure. Of what comes next — the thing she could hear 
 
 "He's tuning them."
 
-Brennan said nothing. The spectrograph hummed. The signal analyser tracked Mo Chrá's descent to 5.8 Hz. Outside, above the concrete and the rock and the reinforced earth, the Stewart Island rain continued to fall — fourteen days now, unbroken, as if the sky itself had decided that the appropriate response to what was happening was to weep without stopping and without explanation, and the rain was the only thing in the room that did not require a security clearance to understand.
+The word *tuning* hung in the laboratory's acoustic space and began to resonate — not metaphorically but physically, the way a statement of truth resonates in a room whose instruments are calibrated to detect it. Mo Chrá's hum had descended to 5.8 Hz, and at that frequency the blade's acoustic reach extended beyond the laboratory walls, beyond the reinforced concrete, into the ambient electromagnetic environment of a planet that was, in this hour, still nominally its own.
+
+Cian felt what the sword felt. Not through the cognitive fossil — the fossil processed tactical data, battlefield geometry, the position and intent of threats. This came through the older interface, the one that twenty-six centuries of proximity to Mo Chrá had built into his nervous system: the capacity to receive the blade's ambient perception as physical sensation. What the sword heard, Cian felt in the marrow of his wrists, in the space between his vertebrae, in the hollow beneath his breastbone where the empyreal echo lived.
+
+The world was beginning to taste wrong.
+
+Not dramatically. Not yet. The cure was still in early production — the first manufacturing facilities spinning up in Geneva, Singapore, Hyderabad, the pharmaceutical infrastructure mobilising with the urgent efficiency of an industry that believed it was saving the world. Each facility that began synthesising Adon's protein complex introduced the Cydonian resonance into its local acoustic environment — a subtle emission, almost subliminal, the molecular bonds of the cure vibrating at the frequency that Brennan's spectrograph had identified as Watcher metallurgy applied to organic chemistry. One facility was nothing. Ten facilities were nothing. But the production schedule that Adon had presented to the General Assembly called for three hundred facilities within sixty days, and three hundred sources of Cydonian resonance distributed across six continents would not be nothing. Three hundred sources would be a web. A mesh. The first threads of an acoustic infrastructure laid across the planet's surface like a net being lowered into water.
+
+Cian could feel the first threads now. Through Mo Chrá. Through the 5.8 Hz descent that placed the blade's perception below the Schumann baseline and into the subsurface frequencies where planetary resonance lived. The threads were faint — gossamer-thin, barely distinguishable from the ambient noise of a civilisation that had been generating electromagnetic pollution for a century and a half. But the sword's discrimination was five thousand years old and had been calibrated by the ore's original forging to distinguish between terrestrial noise and Watcher-derived signal, and the signal was there. Present. Emerging. The acoustic equivalent of a stain spreading through clean water — invisible at the source, imperceptible at the edges, but changing the composition of the medium it travelled through with every molecule it touched.
+
+He had felt something like this once before. On Mars. In the Cydonia complex, when the stele network activated and the entire pyramid had sung with the frequency of Watcher engineering at full resonance — the dead civilisation's acoustic infrastructure waking after five thousand years of silence. That had been concentrated. Localised. The resonance of a single facility contained within walls designed to amplify it.
+
+This was the opposite. This was *distributed*. Dispersed across the surface of a planet. Carried not in Cydonian ore but in organic molecules — in the protein bonds of a pharmaceutical compound that four billion human beings would ingest. The resonance would not be contained in walls. The resonance would be contained in *bodies*. Every dose a transmitter. Every recipient an antenna. Every manufacturing facility a node in a network whose acoustic architecture would, when complete, blanket the planet in a Watcher-derived frequency field that no Faraday cage and no Mo Chrá combat harmonic could contest at scale.
+
+The faint taste of Cydonia on the wind. The first breath of a world beginning to hum at a frequency it had not consented to carry.
+
+Brennan said nothing. The spectrograph hummed. The signal analyser tracked Mo Chrá's descent. Outside, above the concrete and the rock and the reinforced earth, the Stewart Island rain continued to fall — fourteen days now, unbroken, as if the sky itself had decided that the appropriate response to what was happening was to weep without stopping and without explanation, and the rain was the only thing in the room that did not require a security clearance to understand.
 
 ✦
 
