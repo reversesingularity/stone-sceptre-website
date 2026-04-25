@@ -1,7 +1,7 @@
 # Author Task List — The Nephilim Chronicles
 
 **Generated:** April 9, 2026
-**Last Updated:** April 19, 2026 (Book 3 complete + 6-metric scoring)
+**Last Updated:** April 26, 2026 (Book 3 website deployed)
 **Status:** Active
 
 ---
@@ -98,6 +98,33 @@ Architecture is locked in `WORLDBUILDING/BOOKS_3_5_ARCHITECTURE.md`.
   - [X] Saved to `MANUSCRIPT/book_3/CHAPTERS/CHAPTER_01_TheArchitectureOfResistance.md`
 
 - [X] **Chapter 2: THE FREQUENCY BENEATH THE CURE** — ~3,600 words DRAFTED
+
+---
+
+## PRIORITY 6 — ✅ COMPLETE: Book 3 Website Deployed (April 26, 2026)
+
+**Status:** Full website integration for *The Edenic Mandate* (Book 3) live on `kermangildpublishing.org`.
+
+**Completed:**
+
+- [X] Created full Book 3 landing page (`nephilim/book3/index.html`) with:
+  - [X] Hero section with Revelation 11:3 quote
+  - [X] Full synopsis (Azazel release, Two Witnesses in Eden, Brennan interludes)
+  - [X] 9 character cards (Cian, Liaigh, Enoch, Elijah, Miriam, Brennan, Dismas, Azazel, Mo Chrá)
+  - [X] All 15 chapters + prologue/epilogue triptych with full chapter descriptions
+  - [X] Author bio and Book 4 teaser
+  - [X] Responsive 3D book cover display (front + back + spine)
+- [X] Added Book 3 to series navigation on Book 1 page (`nephilim/index.html`)
+- [X] Added Book 3 teaser section on Book 1 page
+- [X] Added Book 3 footer link on Book 1 page
+- [X] Added Book 3 to series navigation on Book 2 page (`nephilim/book2/index.html`)
+- [X] Added Book 3 teaser section before footer on Book 2 page
+- [X] Added Book 3 footer link on Book 2 page
+- [X] Added Book 3 card to root landing page (`index.html`) with Revelation 11:3 quote
+- [X] Added Book 3 footer link to root landing page
+- [X] Deployed 7 files to GitHub Pages via REST API (April 26, 2026)
+
+**Live URL:** https://kermangildpublishing.org/nephilim/book3/
   - [X] Movement I: Spectral archaeology; Brennan reverse-engineers vaccine vials
   - [X] Movement II: Trap architecture (Cydonian metamaterial suspension revealed)
   - [X] Movement III: Mo Chrá synthesizes acoustic countermeasure (432 Hz harmonic)

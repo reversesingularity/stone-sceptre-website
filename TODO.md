@@ -1,21 +1,23 @@
 # TODO — The Nephilim Chronicles
-**Updated:** April 19, 2026
+**Updated:** April 26, 2026
 
 ---
 
 ## ⚡ CURRENT — Book 3 KDP Preparation + Book 4 Planning
 
-**Book 3 status: FIRST DRAFT + SCORING COMPLETE — 26.5/30 EXCELLENT**
+**Book 3 status: WEBSITE DEPLOYED + KDP PREPARATION READY**
 - All 17 chapters drafted (~104,000 words), 5 structural prose edits applied, 6-metric score verified
 - Score doc: `MANUSCRIPT/book_3/ANALYSIS/DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md`
+- Website: Live at https://kermangildpublishing.org/nephilim/book3/
 
 **Immediate actions:**
 
-1. [ ] Recompile Book 3 DOCX — `Invoke-RestMethod -Uri "http://localhost:8766/kdp-format" -Method POST -Body '{"book": 3}' -ContentType "application/json"`
-2. [ ] KDP upload prep — cover art, metadata, 7-keyword slots, BISAC, HTML description
-3. [ ] Generate chapter art (Midjourney v6.1) for Book 3
-4. [ ] Book 4 architecture interview — pick up from Epilogue: Witnesses at Temple Mount, Azazel counter-frequency weapon design, 1,260-day timeline structure
-5. [ ] Run marketing blitz for Books 1–3: `python marketing_blitz.py`
+1. [X] Deploy Book 3 website — All pages updated with navigation, teasers, footers (April 26, 2026)
+2. [ ] Recompile Book 3 DOCX — `Invoke-RestMethod -Uri "http://localhost:8766/kdp-format" -Method POST -Body '{"book": 3}' -ContentType "application/json"`
+3. [ ] KDP upload prep — cover art (AI-upscaled 1600×2560), metadata, 7-keyword slots, BISAC, HTML description
+4. [ ] Generate chapter art (Midjourney v6.1) for Book 3 — 17 chapters/prologue/epilogue
+5. [ ] Book 4 architecture interview — pick up from Epilogue: Witnesses at Temple Mount, Azazel counter-frequency weapon design, 1,260-day timeline structure
+6. [ ] Run marketing blitz for Books 1–3: `python marketing_blitz.py`
 
 ---
 
@@ -27,6 +29,11 @@
 - [x] **Phantom Banter & Comedic Relief Protocol** — Five comedic mechanics for quiet chapters (Phantom Banter, Mo Chrá Peanut Gallery, James Tactical Deadpan, Brennan Engineering Neurosis, Miriam Phased Rule). Miriam comedic constraint evolves at baptism boundary (Book 3 Eden): Phase 1 GCHQ composure → Phase 2 Operational Affection → Phase 3 Devastation Payload (John 15:13 setup). Saved to `REFERENCE/PHANTOM_BANTER_PROTOCOL.md`
 - [x] **SSOT_v3 cross-referenced** — Phantom Banter §4.2, Mo Chrá §4.3, Miriam §4.4 all verified consistent
 - [x] **DEFERRED_ROMANCE_BEATS.md** (repo memory) — Red line updated: "Comedy never at Miriam's expense" now phased to pre-baptism only; post-baptism evolves to Operational Affection
+- [x] **Website deployed** — Full landing page + series navigation updates (April 26, 2026)
+  - New page: `nephilim/book3/index.html` (2,200+ lines, 9 character cards, 15 chapter summaries)
+  - Updated: `nephilim/index.html`, `nephilim/book2/index.html`, `index.html` (root)
+  - Files pushed: 7 (HTML×3, CSS, JS, cover image, root index.html)
+  - Live: https://kermangildpublishing.org/nephilim/book3/
 
 ---
 
