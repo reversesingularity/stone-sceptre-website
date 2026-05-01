@@ -714,6 +714,62 @@ The sword has outlasted countless scabbards. Cian's current sheath is:
 
 ---
 
+# PART VII: THE COMPANION WEAPON — THE MUROMACHI KATANA (Book 4)
+
+## Overview
+
+Mo Chrá is the source. The Muromachi katana is the projector.
+
+During the 1,260-day ministry (Book 4), Miriam Ashford wields a Muromachi-era tamahagane steel katana as her primary weapon. It does not possess Mo Chrá's Cydonian memory, nor any supernatural properties of its own — but in Miriam's hands, it becomes something the Watcher-derived world cannot replicate: **an acoustic antenna for an unfallen spirit-signature**.
+
+## Provenance
+
+- **Period:** Muromachi era, 1336–1573 CE
+- **Material:** Tamahagane (traditional Japanese folded steel, no synthetic alloys or Cydonian content)
+- **Source:** Procured by Brennan McNeeve through Guardian Network Japan contacts via underground channels
+- **Delivery:** Jerusalem safehouse, Ministry Day 1-30 window (Book 4 Ch 2)
+- **First appearance:** Cian presents the katana in Book 2 Ch 5 as a warrior's gift; it is field-tested in Book 2 Ch 6 (Miriam's first blade kill at the Carpathian keep: *"She was shaking. The blade was not."*)
+
+## Acoustic Function
+
+Tamahagane steel is *acoustically transparent* — pure folded iron contains no synthetic composite layers that would interfere with acoustic propagation. This is entirely passive; the steel carries no inherent supernatural charge.
+
+The function emerges from the bearer, not the blade.
+
+Miriam's post-Eden baptismal seal (Book 3, Eden baptism) aligned her spirit-signature with the Creation Frequency — the same unfallen resonance embedded in Mo Chrá's Cydonian ore. When Miriam grips the katana with intentional faith-posture, her spirit-signature propagates *through* the acoustically transparent steel into the environment.
+
+**Result:** The katana projects Miriam's unfallen resonance as a localized bubble of Creation Frequency. Mo Chrá is the source frequency (Cydonian ore); the katana is the projector (tamahagane antenna). Neither duplicates the other.
+
+## Combat Effects
+
+| Effect | Detail |
+|--------|--------|
+| **Non-lethal to unmodified humans** | Unfallen resonance has no destructive harmonic against unmodified human tissue |
+| **Disorienting to demonic entities** | Demons cannot operate inside the projection field without severe interference; their acoustic signatures fragment on contact with Creation Frequency |
+| **Lethal to Aram Vanguard** | Watcher-corrupted chimeric DNA spliced into Aram operatives *recoils* from Creation Frequency; cascading cellular disruption begins immediately on contact with the field; proximity to the projection causes the Watcher-DNA splice to tear at the molecular level; agonizing and rapidly lethal |
+| **Penetration radius** | Variable; scales with Miriam's intentional focus; maximum ~3-4 metres under full concentration |
+| **Refugee guidance** | Miriam can extend a bubble of unfallen resonance large enough to guide groups through Trumpet Judgment acoustic zones (Rev 11:6 plague-frequency environments) |
+
+## Limitations
+
+- **Bearer-dependent:** Completely inert in any hand but Miriam's. No acoustic function without her spirit-signature as the source.
+- **Faith-posture required:** Miriam must be in intentional, grounded faith-posture for the field to activate. Doubt, fear, or distraction degrades output. This is not a mechanical limitation — it is a theological one.
+- **Cannot substitute for Mo Chrá:** The katana projects but does not generate. Miriam cannot use it to perform any of Mo Chrá's specific functions (binding chains, ward-shattering, healing frequency, acoustic fingerprinting).
+
+## The Silence (Book 4 Ch 13)
+
+When Miriam interposes and takes the killing blow meant for Cian, the katana goes silent at the moment of her death. Not broken — the blade is intact. The tamahagane steel simply ceases to carry the frequency. The acoustic antenna has lost its source.
+
+The blade remains in Brennan's possession after Ch 13. It does not function again.
+
+## Cross-Reference
+
+- SSOT_v3_MASTER.md — §4.3 Miriam Acoustic Anomaly + Strategic Application (Book 4)
+- SSOT_v3_MASTER.md — §4.4 Romance beats (Katana gift, Ch 2 Book 2)
+- WORLDBUILDING/BEAST_SYSTEM_GEOPOLITICS.md — §B.3.3 Aram Acoustic Vulnerability
+
+---
+
 *Document Status: CANONICAL*
 *Last Updated: July 2025*
 *Integration: SERIES_BIBLE.md, CIAN_MAC_MORNA.md, Book 1 Chapters 13-Epilogue, Book 2 Chapters 6-14 + Epilogue*

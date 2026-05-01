@@ -487,3 +487,11 @@ Grace.
 The word the whole garden was built to prove.
 
 The word that two wet, baptised, covenanted, terrified, hopeful, scarred, unfinished people were beginning — just beginning, in the first uncertain syllables of a vocabulary they would spend the rest of their lives learning to speak — to live.
+
+Cian rose from the water. The 432 Hz creation harmonic of the river folded around him, completing the covenant. For a fraction of a second, the peace was absolute.
+
+Then, the bedrock beneath the river shuddered.
+
+It was a sub-audible impact, heavy and blunt as a tectonic plate snapping. Mo Chrá's hum stuttered in her sheath. Miriam looked toward the perimeter. Through the perfect acoustic canopy of the Garden, they heard the muffled, concussive roar of demonic static slamming into an impenetrable wall.
+
+Outside the gates, seventy Archons had just hit the perimeter. The baptism was complete. The 1,260-day siege had begun.

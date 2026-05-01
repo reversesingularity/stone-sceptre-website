@@ -93,7 +93,9 @@ Before writing ANY scene, verify:
 
 # PART 3: LOCKED CANON (CANNOT CHANGE)
 
-## §3.1 The Unholy Trinity
+## §3.1 The Satanic Triumvirate
+
+> **Terminology note:** Per SERIES_BIBLE §1.4, these three do NOT form an "Unholy Trinity" — there is no divine Trinity to parody. They are an operational command hierarchy: Empowerer, Political Ruler, Technological/Spiritual Enforcer.
 
 | Role | Identity | Relationship |
 |------|----------|--------------|
@@ -747,7 +749,7 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 | 1 | THE CYDONIAN OATHS | Cian receives Guardian calling; Cydonia vision | Foreshadowing only |
 | 2 | THE GATHERING | Finding Eden; retrieving BOTH Witnesses; Cian + Miriam | CONQUEST rides |
 | 3 | THE EDENIC MANDATE | Azazel released; war begins | WAR + FAMINE ride |
-| 4 | THE TESTIMONY | 1,260 days; daily protection of Witnesses | THANATOS rides, HADES follows |
+| 4 | THE MOUNT ZION INDICTMENT | 1,260 days; daily protection of Witnesses | THANATOS rides, HADES follows |
 | 5 | THE GLORY | Deaths, resurrection, vindication | Hades receives/releases Cian |
 
 ## §10.4 Book 2 Chapter Framework (Confirmed)
@@ -819,7 +821,7 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 | Azazel is a Watcher | **Azazel is NEPHILIM** (son of Gadreel) |
 | Asael = Azazel | **Asael is Azazel's LIEUTENANT** (different entity) |
 | Ohya is Shemyaza | **Ohya is Shemyaza's SON** (the Beast) |
-| Horsemen serve the Beast | **Horsemen serve HEAVEN** — oppose Unholy Trinity |
+| Horsemen serve the Beast | **Horsemen serve HEAVEN** — oppose Satanic Triumvirate |
 | Hades rides fourth horse | **Hades WALKS behind** — Thanatos rides |
 | Miriam survived SRA | **Miriam was TARGET** — mother died preventing ceremonies |
 | Miriam connected to Niamh | **NO CONNECTION** — separate bloodlines |
@@ -837,6 +839,79 @@ Key phrase: **"I FORSAKE MY MA'ON"**
 | Naamah | Siren (transformed human) | Active — Whore of Babylon |
 
 ---
+
+## §11.3 Four Horsemen — Book 4 Canon Notes (LOCKED)
+
+**Jurisdiction:** Horsemen serve HEAVEN, not the Beast. They are divine instruments, not adversarial tools.
+
+### Seals 1-3 (Conquest / War / Famine)
+- Operate as **uncontrollable cosmic weather** — they are OUTSIDE Beast control
+- They actively fracture Beast's infrastructure-building operations; he cannot harness or direct them
+- No direct Horseman/protagonist dialogue for Seals 1-3; they manifest as environmental catastrophe
+- Raphael observes them from the route-clearing journey (Book 4 Prologue) as unstoppable force
+
+### The Fourth Seal: Thanatos and Hades
+
+**Thanatos (Death) — rides the pale horse:**
+- Locked dialogue with Cian (Book 4 Ch 4): **"You are not within my mandate... yet."**
+- Tone: cold, indifferent, unremarkable — NOT theatrical; NOT hostile
+- He delivers this statement the way a bureaucrat states a boundary. There is no menace intended. He is simply stating a jurisdictional fact.
+- The pause before the word "yet" is more terrifying than any combat advance because it is *unremarkable to him*
+
+**Hades (Sheol / The Realm) — walks behind Thanatos:**
+- Visual definition (LOCKED): Vast shadow with no edges, filled with countless souls in quiet procession
+- Does NOT ride; WALKS on foot — patient beyond imagination
+- Gives Cian a look of recognition, not hostility: *"I know your name. I know when. I will be ready."*
+- No dialogue in Book 4. The look is sufficient.
+- Book 5 Ch 5: Hades speaks — "I am not your end. I am your waiting room"
+
+**Self-awareness (both Thanatos and Hades):**
+- Both know Revelation 20:14 — the Lake of Fire is their decommissioning
+- They carry no bitterness about this. Complete acceptance. They have a function. They perform it. When the function ends, it ends.
+- This cosmic resignation makes them *more* terrifying than any raging adversary
+
+**Mandatory Tonal Instruction (enforced in all Book 4 drafting):**
+> The Horsemen are not theatrical. The pause is more terrifying than the advance because it is unremarkable to them. They advance with cold, indifferent inevitability. Writers who give them speeches, dramatic posturing, or theatrical menace are violating Book 4 tone. The horror of these entities is that they are *doing their job*.
+
+### The Eastern Coalition — Book 4 Ch 6 (LOCKED)
+
+**Framing: GEOPOLITICAL — Sino-Russian bloc, NOT Rev 9:16 theological Euphrates force**
+
+| Element | Canon Value |
+|---------|-------------|
+| **Core nations** | China, Russia, Iran (plus secondary Central Asian states) |
+| **Motivation** | National sovereignty + strategic competition — refusal of Azazel's biometric ledger on geopolitical, not theological, grounds |
+| **Army scale** | 200 million strong — conventional military mobilization |
+| **Opposition to Beast** | They resist the Western Beast Empire's tech supremacy (BEAST_SYSTEM_GEOPOLITICS §A: "Configuration 1") because it threatens their territorial and economic independence |
+| **Not theological** | They do not resist out of faith or righteousness — they resist because Azazel's control architecture is incompatible with their command structures |
+| **Euphrates setup** | Their land invasion logistics require crossing the Euphrates. The literal drying of the Euphrates (Rev 16:12) is the tactical enabling event for the 200M army's westward advance (Book 5 timeline) |
+| **Tom Clancy framing** | Treat as Great Power competition: order-of-battle, logistics corridors, theatre commands — full Clancy-level operational realism |
+
+> **Author's note:** Grounding the Eastern Coalition in real-world geopolitics preserves the "Tom Clancy meets Frank Peretti" aesthetic. The supernatural element is the *scale* (200M), not the motivation.
+
+### The Daughter — Book 4 Naming Canon (LOCKED)
+
+| Item | Canon Decision |
+|------|---------------|
+| **Book 4 naming** | UNNAMED — referred to only as "the child" or "the daughter" throughout Book 4 |
+| **Book 5 naming** | Named for the FIRST TIME by Brennan when Cian is resurrected at the Last Trump (Book 5, Ch 11) |
+| **Candidate names** | *Victoria* (after Miriam's mother) OR *Niamh* (after Cian's sister) — final selection deferred to Book 5 drafting |
+| **Narrative purpose** | Withheld name maximises grief payload. Cian endures 1,260 days not knowing his daughter's name. Hearing it for the first time at resurrection delivers the cathartic payoff that validates his blind endurance. |
+| **Brennan's role** | He raises the orphaned child in the underground — the Epilogue Mvt I beat ("The Guardian of Grace") — and chooses and guards the name until Book 5. |
+
+---
+
+## §11.4 Ministry Day 1 — LOCKED (Author Ratified May 2, 2026)
+
+**Source lock:** Book 3 Ch 15 ("Jerusalem") published manuscript. Brennan's signal on-screen as Cian and the Witnesses step onto the Temple Mount reads: *"JERUSALEM POSITION SECURE. JOSEPHITE NETWORK OPERATIONAL. 19 APRIL 2028"*. This is a continuity hard-lock. No date adjustment is permitted without revising the Book 3 manuscript.
+
+| Item | **LOCKED Value** | Derivation |
+|------|-----------------|------------|
+| **Ministry Day 1** | **April 19, 2028** | LOCKED — Book 3 Ch 15 manuscript |
+| **Wedding (Day ~396)** | **~May 20, 2029** | Day 1 + 396 days |
+| **Child born (Day ~1,000)** | **~January 14, 2031** | Day 1 + 1,000 days |
+| **Miriam's martyrdom (Day ~1,050)** | **~March 5, 2031** | Day 1 + 1,050 days |
+| **Ministry ends (Day 1,260)** | **October 1, 2031** | Day 1 + 1,260 days |
 
 # PART 12: CROSS-REFERENCE INDEX
 

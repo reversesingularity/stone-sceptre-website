@@ -2,6 +2,14 @@
 
 ## THE PROPHET
 
+The fire did not burn; it *judged*.
+
+Elijah stood beneath the canopy, and the air around him ignited into a dark red-gold frequency that carried the acoustic weight of Mount Carmel. It struck Cian's Iron Age substrate like a physical blow. Every combat instinct forged over 2,636 years screamed at the Guardian to draw Mo Chrá and strike. The cognitive fossil demanded violence to survive the oppressive, suffocating heat of uncorrupted prophetic authority.
+
+Cian's hands shook. He locked his elbows to his sides. He did not draw. He stood in the fire of the Prophet, enduring the agonizing pressure of holiness, proving for the first time in millennia that he knew how to lose a fight in order to win a war.
+
+---
+
 The Scribe had walked with them for what might have been an hour. Or a day. Or the space between one breath and the next. Eden did not measure.
 
 Enoch moved through the garden the way a man moves through the rooms of a house he built with his own hands — not with ownership, but with the particular, bone-deep familiarity of a craftsman who knows where every joint was placed and why. His gait was unhurried. His eyes — old, terribly old, older than any eyes Cian had encountered in twenty-six centuries of meeting ancient things — carried the warmth of a fire that had been burning so long it no longer flickered. It simply held.
@@ -409,3 +417,7 @@ Tomorrow, the water.
 Tonight — if tonight existed in this place — rest.
 
 Cian mac Morna, Guardian of the Two Witnesses, stood at the river's edge and breathed air that carried no cost, and the breath did not prepare him for anything. It simply sustained him. And for now — for this moment, in this place, where time was unnecessary and war was absent and the gap in his chest was closing at the speed of grace — that was enough.
+
+Elijah turned toward the water, the dark red-gold frequency of Mount Carmel banking to a low, localized heat. But the fire did not extinguish.
+
+It lingered in the air around Cian, thick and oppressive, an acoustic pressure that offered no absolution and no immediate comfort. The Prophet had tested the Guardian's restraint and walked away without delivering a verdict. Cian stood alone in the clearing, the cognitive fossil recognizing the terrifying reality of the silence: he had survived the interrogation, but the true trial had not yet begun.

@@ -417,3 +417,5 @@ And in the garden — in the timeless, perfect, uncorrupted sanctuary where eigh
 Here, the night had ten months of weight.
 
 Brennan worked the problem.
+
+And across the globe, the algorithm that had bypassed his flawless Cydonian shielding with a bag of groceries continued to learn. It was refining its own code in the dark, methodically preparing to turn the remaining witnesses into targets.
