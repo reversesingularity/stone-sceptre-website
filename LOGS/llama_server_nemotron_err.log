@@ -16,7 +16,7 @@ llama_params_fit_impl: projected to use 16803 MiB of device memory vs. 8915 MiB 
 llama_params_fit_impl: cannot meet free memory target of 1024 MiB, need to reduce device memory by 8912 MiB
 llama_params_fit_impl: context size set by user to 131072 -> no change
 llama_params_fit: failed to fit params to free device memory: n_gpu_layers already set by user to 25, abort
-llama_params_fit: fitting params to free memory took 1.00 seconds
+llama_params_fit: fitting params to free memory took 0.59 seconds
 llama_model_load_from_file_impl: using device CUDA0 (NVIDIA GeForce RTX 3080) (0000:06:00.0) - 9097 MiB free
 llama_model_loader: additional 2 GGUFs metadata loaded.
 llama_model_loader: loaded meta data with 59 key-value pairs and 763 tensors from F:\models\nemotron-super\UD-IQ3_S\NVIDIA-Nemotron-3-Super-120B-A12B-UD-IQ3_S-00001-of-00003.gguf (version GGUF V3 (latest))
@@ -195,7 +195,7 @@ sched_reserve:      CUDA0 compute buffer size =  1332.25 MiB
 sched_reserve:  CUDA_Host compute buffer size =   356.18 MiB
 sched_reserve: graph nodes  = 5105
 sched_reserve: graph splits = 623 (with bs=512), 149 (with bs=1)
-sched_reserve: reserve took 140.19 ms, sched copies = 1
+sched_reserve: reserve took 77.35 ms, sched copies = 1
 common_init_from_params: warming up the model with an empty run - please wait ... (--no-warmup to disable)
 srv    load_model: initializing slots, n_slots = 4
 common_speculative_is_compat: the target context does not support partial sequence removal
@@ -229,7 +229,7 @@ slot get_availabl: id  3 | task -1 | selected slot by LRU, t_last = -1
 srv  get_availabl: updating prompt cache
 srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
 srv        update:  - cache state: 0 prompts, 0.000 MiB (limits: 8192.000 MiB, 131072 tokens, 8589934592 est)
-srv  get_availabl: prompt cache update took 0.38 ms
+srv  get_availabl: prompt cache update took 0.47 ms
 slot launch_slot_: id  3 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
 slot launch_slot_: id  3 | task 0 | processing task, is_child = 0
 slot update_slots: id  3 | task 0 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2111
@@ -240,15 +240,15 @@ slot update_slots: id  3 | task 0 | prompt processing progress, n_tokens = 2107,
 slot update_slots: id  3 | task 0 | created context checkpoint 1 of 32 (pos_min = 1594, pos_max = 1594, n_tokens = 1595, size = 164.688 MiB)
 slot update_slots: id  3 | task 0 | n_tokens = 2107, memory_seq_rm [2107, end)
 reasoning-budget: activated, budget=2147483647 tokens
-slot init_sampler: id  3 | task 0 | init sampler, took 1.14 ms, tokens: text = 2111, total = 2111
+slot init_sampler: id  3 | task 0 | init sampler, took 0.44 ms, tokens: text = 2111, total = 2111
 slot update_slots: id  3 | task 0 | prompt processing done, n_tokens = 2111, batch.n_tokens = 4
 slot update_slots: id  3 | task 0 | created context checkpoint 2 of 32 (pos_min = 2106, pos_max = 2106, n_tokens = 2107, size = 164.688 MiB)
 reasoning-budget: deactivated (natural end)
 slot print_timing: id  3 | task 0 | 
-prompt eval time =  438078.14 ms /  2111 tokens (  207.52 ms per token,     4.82 tokens per second)
-       eval time =   78755.66 ms /   141 tokens (  558.55 ms per token,     1.79 tokens per second)
-      total time =  516833.79 ms /  2252 tokens
-slot      release: id  3 | task 0 | stop processing: n_tokens = 2251, truncated = 0
+prompt eval time =   84836.41 ms /  2111 tokens (   40.19 ms per token,    24.88 tokens per second)
+       eval time =   28253.18 ms /    91 tokens (  310.47 ms per token,     3.22 tokens per second)
+      total time =  113089.59 ms /  2202 tokens
+slot      release: id  3 | task 0 | stop processing: n_tokens = 2201, truncated = 0
 srv  update_slots: all slots are idle
 srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
 srv  params_from_: Chat format: peg-native
@@ -256,170 +256,887 @@ slot get_availabl: id  2 | task -1 | selected slot by LRU, t_last = -1
 srv  get_availabl: updating prompt cache
 srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
 srv        update:  - cache state: 0 prompts, 0.000 MiB (limits: 8192.000 MiB, 131072 tokens, 8589934592 est)
-srv  get_availabl: prompt cache update took 0.45 ms
+srv  get_availabl: prompt cache update took 0.01 ms
 slot launch_slot_: id  2 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
-slot launch_slot_: id  2 | task 144 | processing task, is_child = 0
+slot launch_slot_: id  2 | task 94 | processing task, is_child = 0
 slot slot_save_an: id  3 | task -1 | saving idle slot to prompt cache
-srv   prompt_save:  - saving prompt with length 2251, total state size = 182.300 MiB
-slot prompt_clear: id  3 | task -1 | clearing prompt with 2251 tokens
-srv        update:  - cache state: 1 prompts, 511.677 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
-srv        update:    - prompt 00000232CF2E23C0:    2251 tokens, checkpoints:  2,   511.677 MiB
-slot update_slots: id  2 | task 144 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
-slot update_slots: id  2 | task 144 | n_tokens = 0, memory_seq_rm [0, end)
-slot update_slots: id  2 | task 144 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
-slot update_slots: id  2 | task 144 | n_tokens = 2048, memory_seq_rm [2048, end)
-slot update_slots: id  2 | task 144 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
-slot update_slots: id  2 | task 144 | n_tokens = 2359, memory_seq_rm [2359, end)
-slot update_slots: id  2 | task 144 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
-slot update_slots: id  2 | task 144 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
-slot update_slots: id  2 | task 144 | n_tokens = 2871, memory_seq_rm [2871, end)
+srv   prompt_save:  - saving prompt with length 2201, total state size = 181.909 MiB
+slot prompt_clear: id  3 | task -1 | clearing prompt with 2201 tokens
+srv        update:  - cache state: 1 prompts, 511.286 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F52413F40:    2201 tokens, checkpoints:  2,   511.286 MiB
+slot update_slots: id  2 | task 94 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
+slot update_slots: id  2 | task 94 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  2 | task 94 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
+slot update_slots: id  2 | task 94 | n_tokens = 2048, memory_seq_rm [2048, end)
+slot update_slots: id  2 | task 94 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
+slot update_slots: id  2 | task 94 | n_tokens = 2359, memory_seq_rm [2359, end)
+slot update_slots: id  2 | task 94 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
+slot update_slots: id  2 | task 94 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
+slot update_slots: id  2 | task 94 | n_tokens = 2871, memory_seq_rm [2871, end)
 reasoning-budget: activated, budget=2147483647 tokens
-slot init_sampler: id  2 | task 144 | init sampler, took 1.51 ms, tokens: text = 2875, total = 2875
-slot update_slots: id  2 | task 144 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
-slot update_slots: id  2 | task 144 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
+slot init_sampler: id  2 | task 94 | init sampler, took 0.32 ms, tokens: text = 2875, total = 2875
+slot update_slots: id  2 | task 94 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
+slot update_slots: id  2 | task 94 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
 reasoning-budget: deactivated (natural end)
-slot print_timing: id  2 | task 144 | 
-prompt eval time =  383049.80 ms /  2875 tokens (  133.23 ms per token,     7.51 tokens per second)
-       eval time =   61057.09 ms /    73 tokens (  836.40 ms per token,     1.20 tokens per second)
-      total time =  444106.89 ms /  2948 tokens
-slot      release: id  2 | task 144 | stop processing: n_tokens = 2947, truncated = 0
+slot print_timing: id  2 | task 94 | 
+prompt eval time =   39085.43 ms /  2875 tokens (   13.59 ms per token,    73.56 tokens per second)
+       eval time =  170722.59 ms /   104 tokens ( 1641.56 ms per token,     0.61 tokens per second)
+      total time =  209808.02 ms /  2979 tokens
+slot      release: id  2 | task 94 | stop processing: n_tokens = 2978, truncated = 0
 srv  update_slots: all slots are idle
 srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
 srv  params_from_: Chat format: peg-native
 slot get_availabl: id  1 | task -1 | selected slot by LRU, t_last = -1
 srv  get_availabl: updating prompt cache
 srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
-srv          load:  - found better prompt with f_keep = 0.938, sim = 1.000
-srv        update:  - cache state: 0 prompts, 0.000 MiB (limits: 8192.000 MiB, 131072 tokens, 8589934592 est)
-srv  get_availabl: prompt cache update took 685.52 ms
+srv        update:  - cache state: 1 prompts, 511.286 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F52413F40:    2201 tokens, checkpoints:  2,   511.286 MiB
+srv  get_availabl: prompt cache update took 0.57 ms
 slot launch_slot_: id  1 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
-slot launch_slot_: id  1 | task 221 | processing task, is_child = 0
+slot launch_slot_: id  1 | task 202 | processing task, is_child = 0
 slot slot_save_an: id  2 | task -1 | saving idle slot to prompt cache
-srv   prompt_save:  - saving prompt with length 2947, total state size = 187.746 MiB
-slot prompt_clear: id  2 | task -1 | clearing prompt with 2947 tokens
-srv        update:  - cache state: 1 prompts, 517.123 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
-srv        update:    - prompt 00000232B7D28A00:    2947 tokens, checkpoints:  2,   517.123 MiB
-slot update_slots: id  1 | task 221 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2111
-slot update_slots: id  1 | task 221 | n_past = 2111, slot.prompt.tokens.size() = 2251, seq_id = 1, pos_min = 2250, n_swa = 0
-slot update_slots: id  1 | task 221 | Checking checkpoint with [2106, 2106] against 2111...
-slot update_slots: id  1 | task 221 | restored context checkpoint (pos_min = 2106, pos_max = 2106, n_tokens = 2107, n_past = 2107, size = 164.688 MiB)
-slot update_slots: id  1 | task 221 | n_tokens = 2107, memory_seq_rm [2107, end)
+srv   prompt_save:  - saving prompt with length 2978, total state size = 187.988 MiB
+slot prompt_clear: id  2 | task -1 | clearing prompt with 2978 tokens
+srv        update:  - cache state: 2 prompts, 1028.651 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F52413F40:    2201 tokens, checkpoints:  2,   511.286 MiB
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+slot update_slots: id  1 | task 202 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2166
+slot update_slots: id  1 | task 202 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  1 | task 202 | prompt processing progress, n_tokens = 1650, batch.n_tokens = 1650, progress = 0.761773
+slot update_slots: id  1 | task 202 | n_tokens = 1650, memory_seq_rm [1650, end)
+slot update_slots: id  1 | task 202 | prompt processing progress, n_tokens = 2162, batch.n_tokens = 512, progress = 0.998153
+slot update_slots: id  1 | task 202 | created context checkpoint 1 of 32 (pos_min = 1649, pos_max = 1649, n_tokens = 1650, size = 164.688 MiB)
+slot update_slots: id  1 | task 202 | n_tokens = 2162, memory_seq_rm [2162, end)
 reasoning-budget: activated, budget=2147483647 tokens
-slot init_sampler: id  1 | task 221 | init sampler, took 0.54 ms, tokens: text = 2111, total = 2111
-slot update_slots: id  1 | task 221 | prompt processing done, n_tokens = 2111, batch.n_tokens = 4
-reasoning-budget: deactivated (natural end)
-slot print_timing: id  1 | task 221 | 
-prompt eval time =   28223.71 ms /     4 tokens ( 7055.93 ms per token,     0.14 tokens per second)
-       eval time =  112931.41 ms /    87 tokens ( 1298.06 ms per token,     0.77 tokens per second)
-      total time =  141155.12 ms /    91 tokens
-slot      release: id  1 | task 221 | stop processing: n_tokens = 2197, truncated = 0
-srv  update_slots: all slots are idle
+slot init_sampler: id  1 | task 202 | init sampler, took 1.16 ms, tokens: text = 2166, total = 2166
+slot update_slots: id  1 | task 202 | prompt processing done, n_tokens = 2166, batch.n_tokens = 4
+slot update_slots: id  1 | task 202 | created context checkpoint 2 of 32 (pos_min = 2161, pos_max = 2161, n_tokens = 2162, size = 164.688 MiB)
+srv          stop: cancel task, id_task = 202
 srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+slot      release: id  1 | task 202 | stop processing: n_tokens = 2236, truncated = 0
+srv  update_slots: all slots are idle
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  1 | task -1 | selected slot by LCP similarity, sim_best = 0.212 (> 0.100 thold), f_keep = 0.209
+srv  get_availabl: updating prompt cache
+srv   prompt_save:  - saving prompt with length 2236, total state size = 182.183 MiB
+srv          load:  - looking for better prompt, base f_keep = 0.209, sim = 0.212
+srv        update:  - cache state: 3 prompts, 1540.211 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F52413F40:    2201 tokens, checkpoints:  2,   511.286 MiB
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv  get_availabl: prompt cache update took 710.57 ms
+slot launch_slot_: id  1 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  1 | task 277 | processing task, is_child = 0
+slot update_slots: id  1 | task 277 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2206
+slot update_slots: id  1 | task 277 | n_past = 468, slot.prompt.tokens.size() = 2236, seq_id = 1, pos_min = 2235, n_swa = 0
+slot update_slots: id  1 | task 277 | Checking checkpoint with [2161, 2161] against 468...
+slot update_slots: id  1 | task 277 | Checking checkpoint with [1649, 1649] against 468...
+slot update_slots: id  1 | task 277 | forcing full prompt re-processing due to lack of cache data (likely due to SWA or hybrid/recurrent memory, see https://github.com/ggml-org/llama.cpp/pull/13194#issuecomment-2868343055)
+slot update_slots: id  1 | task 277 | erased invalidated context checkpoint (pos_min = 1649, pos_max = 1649, n_tokens = 1650, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  1 | task 277 | erased invalidated context checkpoint (pos_min = 2161, pos_max = 2161, n_tokens = 2162, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  1 | task 277 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  1 | task 277 | prompt processing progress, n_tokens = 1690, batch.n_tokens = 1690, progress = 0.766092
+slot update_slots: id  1 | task 277 | n_tokens = 1690, memory_seq_rm [1690, end)
+slot update_slots: id  1 | task 277 | prompt processing progress, n_tokens = 2202, batch.n_tokens = 512, progress = 0.998187
+slot update_slots: id  1 | task 277 | created context checkpoint 1 of 32 (pos_min = 1689, pos_max = 1689, n_tokens = 1690, size = 164.688 MiB)
+slot update_slots: id  1 | task 277 | n_tokens = 2202, memory_seq_rm [2202, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  1 | task 277 | init sampler, took 1.67 ms, tokens: text = 2206, total = 2206
+slot update_slots: id  1 | task 277 | prompt processing done, n_tokens = 2206, batch.n_tokens = 4
+slot update_slots: id  1 | task 277 | created context checkpoint 2 of 32 (pos_min = 2201, pos_max = 2201, n_tokens = 2202, size = 164.688 MiB)
+srv          stop: cancel task, id_task = 277
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+slot      release: id  1 | task 277 | stop processing: n_tokens = 2474, truncated = 0
+srv  update_slots: all slots are idle
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  1 | task -1 | selected slot by LCP similarity, sim_best = 0.219 (> 0.100 thold), f_keep = 0.189
+srv  get_availabl: updating prompt cache
+srv   prompt_save:  - saving prompt with length 2474, total state size = 184.045 MiB
+srv          load:  - looking for better prompt, base f_keep = 0.189, sim = 0.219
+srv        update:  - cache state: 4 prompts, 2053.633 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F52413F40:    2201 tokens, checkpoints:  2,   511.286 MiB
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv  get_availabl: prompt cache update took 2227.40 ms
+slot launch_slot_: id  1 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  1 | task 550 | processing task, is_child = 0
+slot update_slots: id  1 | task 550 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2138
+slot update_slots: id  1 | task 550 | n_past = 468, slot.prompt.tokens.size() = 2474, seq_id = 1, pos_min = 2473, n_swa = 0
+slot update_slots: id  1 | task 550 | Checking checkpoint with [2201, 2201] against 468...
+slot update_slots: id  1 | task 550 | Checking checkpoint with [1689, 1689] against 468...
+slot update_slots: id  1 | task 550 | forcing full prompt re-processing due to lack of cache data (likely due to SWA or hybrid/recurrent memory, see https://github.com/ggml-org/llama.cpp/pull/13194#issuecomment-2868343055)
+slot update_slots: id  1 | task 550 | erased invalidated context checkpoint (pos_min = 1689, pos_max = 1689, n_tokens = 1690, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  1 | task 550 | erased invalidated context checkpoint (pos_min = 2201, pos_max = 2201, n_tokens = 2202, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  1 | task 550 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  1 | task 550 | prompt processing progress, n_tokens = 1622, batch.n_tokens = 1622, progress = 0.758653
+slot update_slots: id  1 | task 550 | n_tokens = 1622, memory_seq_rm [1622, end)
+slot update_slots: id  1 | task 550 | prompt processing progress, n_tokens = 2134, batch.n_tokens = 512, progress = 0.998129
+slot update_slots: id  1 | task 550 | created context checkpoint 1 of 32 (pos_min = 1621, pos_max = 1621, n_tokens = 1622, size = 164.688 MiB)
+slot update_slots: id  1 | task 550 | n_tokens = 2134, memory_seq_rm [2134, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  1 | task 550 | init sampler, took 1.22 ms, tokens: text = 2138, total = 2138
+slot update_slots: id  1 | task 550 | prompt processing done, n_tokens = 2138, batch.n_tokens = 4
+slot update_slots: id  1 | task 550 | created context checkpoint 2 of 32 (pos_min = 2133, pos_max = 2133, n_tokens = 2134, size = 164.688 MiB)
+srv          stop: cancel task, id_task = 550
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+slot      release: id  1 | task 550 | stop processing: n_tokens = 2397, truncated = 0
+srv  update_slots: all slots are idle
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  1 | task -1 | selected slot by LCP similarity, sim_best = 0.215 (> 0.100 thold), f_keep = 0.195
+srv  get_availabl: updating prompt cache
+srv   prompt_save:  - saving prompt with length 2397, total state size = 183.443 MiB
+srv          load:  - looking for better prompt, base f_keep = 0.195, sim = 0.215
+srv        update:  - cache state: 5 prompts, 2566.452 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F52413F40:    2201 tokens, checkpoints:  2,   511.286 MiB
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv  get_availabl: prompt cache update took 1411.50 ms
+slot launch_slot_: id  1 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  1 | task 814 | processing task, is_child = 0
+slot update_slots: id  1 | task 814 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2181
+slot update_slots: id  1 | task 814 | n_past = 468, slot.prompt.tokens.size() = 2397, seq_id = 1, pos_min = 2396, n_swa = 0
+slot update_slots: id  1 | task 814 | Checking checkpoint with [2133, 2133] against 468...
+slot update_slots: id  1 | task 814 | Checking checkpoint with [1621, 1621] against 468...
+slot update_slots: id  1 | task 814 | forcing full prompt re-processing due to lack of cache data (likely due to SWA or hybrid/recurrent memory, see https://github.com/ggml-org/llama.cpp/pull/13194#issuecomment-2868343055)
+slot update_slots: id  1 | task 814 | erased invalidated context checkpoint (pos_min = 1621, pos_max = 1621, n_tokens = 1622, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  1 | task 814 | erased invalidated context checkpoint (pos_min = 2133, pos_max = 2133, n_tokens = 2134, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  1 | task 814 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  1 | task 814 | prompt processing progress, n_tokens = 1665, batch.n_tokens = 1665, progress = 0.763411
+slot update_slots: id  1 | task 814 | n_tokens = 1665, memory_seq_rm [1665, end)
+slot update_slots: id  1 | task 814 | prompt processing progress, n_tokens = 2177, batch.n_tokens = 512, progress = 0.998166
+slot update_slots: id  1 | task 814 | created context checkpoint 1 of 32 (pos_min = 1664, pos_max = 1664, n_tokens = 1665, size = 164.688 MiB)
+slot update_slots: id  1 | task 814 | n_tokens = 2177, memory_seq_rm [2177, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  1 | task 814 | init sampler, took 1.41 ms, tokens: text = 2181, total = 2181
+slot update_slots: id  1 | task 814 | prompt processing done, n_tokens = 2181, batch.n_tokens = 4
+slot update_slots: id  1 | task 814 | created context checkpoint 2 of 32 (pos_min = 2176, pos_max = 2176, n_tokens = 2177, size = 164.688 MiB)
+srv          stop: cancel task, id_task = 814
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+slot      release: id  1 | task 814 | stop processing: n_tokens = 2356, truncated = 0
+srv  update_slots: all slots are idle
 srv  params_from_: Chat format: peg-native
 slot get_availabl: id  0 | task -1 | selected slot by LRU, t_last = -1
 srv  get_availabl: updating prompt cache
 srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
-srv        update:  - cache state: 1 prompts, 517.123 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
-srv        update:    - prompt 00000232B7D28A00:    2947 tokens, checkpoints:  2,   517.123 MiB
-srv  get_availabl: prompt cache update took 0.60 ms
+srv        update:  - cache state: 5 prompts, 2566.452 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F52413F40:    2201 tokens, checkpoints:  2,   511.286 MiB
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv  get_availabl: prompt cache update took 1.16 ms
 slot launch_slot_: id  0 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
-slot launch_slot_: id  0 | task 309 | processing task, is_child = 0
+slot launch_slot_: id  0 | task 994 | processing task, is_child = 0
 slot slot_save_an: id  1 | task -1 | saving idle slot to prompt cache
-srv   prompt_save:  - saving prompt with length 2197, total state size = 181.878 MiB
-slot prompt_clear: id  1 | task -1 | clearing prompt with 2197 tokens
-srv        update:  - cache state: 2 prompts, 1028.377 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
-srv        update:    - prompt 00000232B7D28A00:    2947 tokens, checkpoints:  2,   517.123 MiB
-srv        update:    - prompt 00000232E479D740:    2197 tokens, checkpoints:  2,   511.255 MiB
-slot update_slots: id  0 | task 309 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
-slot update_slots: id  0 | task 309 | n_tokens = 0, memory_seq_rm [0, end)
-slot update_slots: id  0 | task 309 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
-slot update_slots: id  0 | task 309 | n_tokens = 2048, memory_seq_rm [2048, end)
-slot update_slots: id  0 | task 309 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
-slot update_slots: id  0 | task 309 | n_tokens = 2359, memory_seq_rm [2359, end)
-slot update_slots: id  0 | task 309 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
-slot update_slots: id  0 | task 309 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
-slot update_slots: id  0 | task 309 | n_tokens = 2871, memory_seq_rm [2871, end)
+srv   prompt_save:  - saving prompt with length 2356, total state size = 183.122 MiB
+slot prompt_clear: id  1 | task -1 | clearing prompt with 2356 tokens
+srv        update:  - cache state: 6 prompts, 3078.951 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F52413F40:    2201 tokens, checkpoints:  2,   511.286 MiB
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+slot update_slots: id  0 | task 994 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 5999
+slot update_slots: id  0 | task 994 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  0 | task 994 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.341390
+slot update_slots: id  0 | task 994 | n_tokens = 2048, memory_seq_rm [2048, end)
+slot update_slots: id  0 | task 994 | prompt processing progress, n_tokens = 4096, batch.n_tokens = 2048, progress = 0.682780
+srv          stop: cancel task, id_task = 994
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+slot      release: id  0 | task 994 | stop processing: n_tokens = 4096, truncated = 0
+srv  update_slots: all slots are idle
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  3 | task -1 | selected slot by LRU, t_last = 33409872326
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv          load:  - found better prompt with f_keep = 0.493, sim = 0.514
+srv        update:  - cache state: 5 prompts, 2567.665 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv  get_availabl: prompt cache update took 571.02 ms
+slot launch_slot_: id  3 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  3 | task 998 | processing task, is_child = 0
+slot slot_save_an: id  0 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 4096, total state size = 196.736 MiB
+slot prompt_clear: id  0 | task -1 | clearing prompt with 4096 tokens
+srv        update:  - cache state: 6 prompts, 2764.401 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 000002FDBDDE3E90:    4096 tokens, checkpoints:  0,   196.736 MiB
+slot update_slots: id  3 | task 998 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2111
+slot update_slots: id  3 | task 998 | n_past = 1085, slot.prompt.tokens.size() = 2201, seq_id = 3, pos_min = 2200, n_swa = 0
+slot update_slots: id  3 | task 998 | Checking checkpoint with [2106, 2106] against 1085...
+slot update_slots: id  3 | task 998 | Checking checkpoint with [1594, 1594] against 1085...
+slot update_slots: id  3 | task 998 | forcing full prompt re-processing due to lack of cache data (likely due to SWA or hybrid/recurrent memory, see https://github.com/ggml-org/llama.cpp/pull/13194#issuecomment-2868343055)
+slot update_slots: id  3 | task 998 | erased invalidated context checkpoint (pos_min = 1594, pos_max = 1594, n_tokens = 1595, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  3 | task 998 | erased invalidated context checkpoint (pos_min = 2106, pos_max = 2106, n_tokens = 2107, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  3 | task 998 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  3 | task 998 | prompt processing progress, n_tokens = 1595, batch.n_tokens = 1595, progress = 0.755566
+slot update_slots: id  3 | task 998 | n_tokens = 1595, memory_seq_rm [1595, end)
+slot update_slots: id  3 | task 998 | prompt processing progress, n_tokens = 2107, batch.n_tokens = 512, progress = 0.998105
+slot update_slots: id  3 | task 998 | created context checkpoint 1 of 32 (pos_min = 1594, pos_max = 1594, n_tokens = 1595, size = 164.688 MiB)
+slot update_slots: id  3 | task 998 | n_tokens = 2107, memory_seq_rm [2107, end)
 reasoning-budget: activated, budget=2147483647 tokens
-slot init_sampler: id  0 | task 309 | init sampler, took 1.54 ms, tokens: text = 2875, total = 2875
-slot update_slots: id  0 | task 309 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
-slot update_slots: id  0 | task 309 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
+slot init_sampler: id  3 | task 998 | init sampler, took 3.14 ms, tokens: text = 2111, total = 2111
+slot update_slots: id  3 | task 998 | prompt processing done, n_tokens = 2111, batch.n_tokens = 4
+slot update_slots: id  3 | task 998 | created context checkpoint 2 of 32 (pos_min = 2106, pos_max = 2106, n_tokens = 2107, size = 164.688 MiB)
 reasoning-budget: deactivated (natural end)
-slot print_timing: id  0 | task 309 | 
-prompt eval time =  348999.25 ms /  2875 tokens (  121.39 ms per token,     8.24 tokens per second)
-       eval time =   66672.07 ms /    88 tokens (  757.64 ms per token,     1.32 tokens per second)
-      total time =  415671.32 ms /  2963 tokens
-slot      release: id  0 | task 309 | stop processing: n_tokens = 2962, truncated = 0
+slot print_timing: id  3 | task 998 | 
+prompt eval time =  381709.21 ms /  2111 tokens (  180.82 ms per token,     5.53 tokens per second)
+       eval time =   28822.36 ms /    69 tokens (  417.72 ms per token,     2.39 tokens per second)
+      total time =  410531.56 ms /  2180 tokens
+slot      release: id  3 | task 998 | stop processing: n_tokens = 2179, truncated = 0
 srv  update_slots: all slots are idle
 srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
 srv  params_from_: Chat format: peg-native
-slot get_availabl: id  3 | task -1 | selected slot by LRU, t_last = 76961462163
+slot get_availabl: id  2 | task -1 | selected slot by LRU, t_last = 33626941516
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv        update:  - cache state: 6 prompts, 2764.401 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 000002FDBDDE3E90:    4096 tokens, checkpoints:  0,   196.736 MiB
+srv  get_availabl: prompt cache update took 1.33 ms
+slot launch_slot_: id  2 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  2 | task 1070 | processing task, is_child = 0
+slot slot_save_an: id  3 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 2179, total state size = 181.737 MiB
+slot prompt_clear: id  3 | task -1 | clearing prompt with 2179 tokens
+srv        update:  - cache state: 7 prompts, 3275.515 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 000002FDBDDE3E90:    4096 tokens, checkpoints:  0,   196.736 MiB
+srv        update:    - prompt 0000030F3FCA1250:    2179 tokens, checkpoints:  2,   511.114 MiB
+slot update_slots: id  2 | task 1070 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
+slot update_slots: id  2 | task 1070 | erased invalidated context checkpoint (pos_min = 2358, pos_max = 2358, n_tokens = 2359, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  2 | task 1070 | erased invalidated context checkpoint (pos_min = 2870, pos_max = 2870, n_tokens = 2871, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  2 | task 1070 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  2 | task 1070 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
+slot update_slots: id  2 | task 1070 | n_tokens = 2048, memory_seq_rm [2048, end)
+slot update_slots: id  2 | task 1070 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
+slot update_slots: id  2 | task 1070 | n_tokens = 2359, memory_seq_rm [2359, end)
+slot update_slots: id  2 | task 1070 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
+slot update_slots: id  2 | task 1070 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
+slot update_slots: id  2 | task 1070 | n_tokens = 2871, memory_seq_rm [2871, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  2 | task 1070 | init sampler, took 3.21 ms, tokens: text = 2875, total = 2875
+slot update_slots: id  2 | task 1070 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
+slot update_slots: id  2 | task 1070 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  2 | task 1070 | 
+prompt eval time =  326384.50 ms /  2875 tokens (  113.53 ms per token,     8.81 tokens per second)
+       eval time =   31179.26 ms /    76 tokens (  410.25 ms per token,     2.44 tokens per second)
+      total time =  357563.76 ms /  2951 tokens
+slot      release: id  2 | task 1070 | stop processing: n_tokens = 2950, truncated = 0
+srv  update_slots: all slots are idle
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  1 | task -1 | selected slot by LRU, t_last = 88821767179
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv          load:  - found better prompt with f_keep = 1.000, sim = 0.549
+srv        update:  - cache state: 6 prompts, 3078.779 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3FCA1250:    2179 tokens, checkpoints:  2,   511.114 MiB
+srv  get_availabl: prompt cache update took 1516.30 ms
+slot launch_slot_: id  1 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  1 | task 1150 | processing task, is_child = 0
+slot slot_save_an: id  2 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 2950, total state size = 187.769 MiB
+slot prompt_clear: id  2 | task -1 | clearing prompt with 2950 tokens
+srv        update:  - cache state: 7 prompts, 3595.925 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3FCA1250:    2179 tokens, checkpoints:  2,   511.114 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+slot update_slots: id  1 | task 1150 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 7459
+slot update_slots: id  1 | task 1150 | n_tokens = 4096, memory_seq_rm [4096, end)
+slot update_slots: id  1 | task 1150 | prompt processing progress, n_tokens = 6144, batch.n_tokens = 2048, progress = 0.823703
+slot update_slots: id  1 | task 1150 | n_tokens = 6144, memory_seq_rm [6144, end)
+slot update_slots: id  1 | task 1150 | prompt processing progress, n_tokens = 6943, batch.n_tokens = 799, progress = 0.930822
+srv          stop: cancel task, id_task = 1150
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+slot      release: id  1 | task 1150 | stop processing: n_tokens = 6943, truncated = 0
+srv  update_slots: all slots are idle
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  0 | task -1 | selected slot by LRU, t_last = 105519558048
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv          load:  - found better prompt with f_keep = 0.969, sim = 1.000
+srv        update:  - cache state: 6 prompts, 3084.811 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv  get_availabl: prompt cache update took 1117.21 ms
+slot launch_slot_: id  0 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  0 | task 1154 | processing task, is_child = 0
+slot slot_save_an: id  1 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 6943, total state size = 219.010 MiB
+slot prompt_clear: id  1 | task -1 | clearing prompt with 6943 tokens
+srv        update:  - cache state: 7 prompts, 3303.822 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FC9FFF0:    6943 tokens, checkpoints:  0,   219.010 MiB
+slot update_slots: id  0 | task 1154 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2111
+slot update_slots: id  0 | task 1154 | n_past = 2111, slot.prompt.tokens.size() = 2179, seq_id = 0, pos_min = 2178, n_swa = 0
+slot update_slots: id  0 | task 1154 | Checking checkpoint with [2106, 2106] against 2111...
+slot update_slots: id  0 | task 1154 | restored context checkpoint (pos_min = 2106, pos_max = 2106, n_tokens = 2107, n_past = 2107, size = 164.688 MiB)
+slot update_slots: id  0 | task 1154 | n_tokens = 2107, memory_seq_rm [2107, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  0 | task 1154 | init sampler, took 0.23 ms, tokens: text = 2111, total = 2111
+slot update_slots: id  0 | task 1154 | prompt processing done, n_tokens = 2111, batch.n_tokens = 4
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  0 | task 1154 | 
+prompt eval time =    9128.21 ms /     4 tokens ( 2282.05 ms per token,     0.44 tokens per second)
+       eval time =   33574.19 ms /    47 tokens (  714.34 ms per token,     1.40 tokens per second)
+      total time =   42702.40 ms /    51 tokens
+slot      release: id  0 | task 1154 | stop processing: n_tokens = 2157, truncated = 0
+srv  update_slots: all slots are idle
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  3 | task -1 | selected slot by LRU, t_last = 126230545781
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv        update:  - cache state: 7 prompts, 3303.822 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FC9FFF0:    6943 tokens, checkpoints:  0,   219.010 MiB
+srv  get_availabl: prompt cache update took 0.04 ms
+slot launch_slot_: id  3 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  3 | task 1202 | processing task, is_child = 0
+slot slot_save_an: id  0 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 2157, total state size = 181.565 MiB
+slot prompt_clear: id  0 | task -1 | clearing prompt with 2157 tokens
+srv        update:  - cache state: 8 prompts, 3814.763 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FC9FFF0:    6943 tokens, checkpoints:  0,   219.010 MiB
+srv        update:    - prompt 0000030F3FCA0ED0:    2157 tokens, checkpoints:  2,   510.942 MiB
+slot update_slots: id  3 | task 1202 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
+slot update_slots: id  3 | task 1202 | erased invalidated context checkpoint (pos_min = 1594, pos_max = 1594, n_tokens = 1595, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  3 | task 1202 | erased invalidated context checkpoint (pos_min = 2106, pos_max = 2106, n_tokens = 2107, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  3 | task 1202 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  3 | task 1202 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
+slot update_slots: id  3 | task 1202 | n_tokens = 2048, memory_seq_rm [2048, end)
+slot update_slots: id  3 | task 1202 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
+slot update_slots: id  3 | task 1202 | n_tokens = 2359, memory_seq_rm [2359, end)
+slot update_slots: id  3 | task 1202 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
+slot update_slots: id  3 | task 1202 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
+slot update_slots: id  3 | task 1202 | n_tokens = 2871, memory_seq_rm [2871, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  3 | task 1202 | init sampler, took 1.45 ms, tokens: text = 2875, total = 2875
+slot update_slots: id  3 | task 1202 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
+slot update_slots: id  3 | task 1202 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  3 | task 1202 | 
+prompt eval time =  325840.75 ms /  2875 tokens (  113.34 ms per token,     8.82 tokens per second)
+       eval time =   33529.28 ms /    81 tokens (  413.94 ms per token,     2.42 tokens per second)
+      total time =  359370.03 ms /  2956 tokens
+slot      release: id  3 | task 1202 | stop processing: n_tokens = 2955, truncated = 0
+srv  update_slots: all slots are idle
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  2 | task -1 | selected slot by LRU, t_last = 126594269272
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv          load:  - found better prompt with f_keep = 1.000, sim = 0.850
+srv        update:  - cache state: 7 prompts, 3595.753 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0ED0:    2157 tokens, checkpoints:  2,   510.942 MiB
+srv  get_availabl: prompt cache update took 1780.86 ms
+slot launch_slot_: id  2 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  2 | task 1287 | processing task, is_child = 0
+slot slot_save_an: id  3 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 2955, total state size = 187.808 MiB
+slot prompt_clear: id  3 | task -1 | clearing prompt with 2955 tokens
+srv        update:  - cache state: 8 prompts, 4112.938 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0ED0:    2157 tokens, checkpoints:  2,   510.942 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+slot update_slots: id  2 | task 1287 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 8173
+slot update_slots: id  2 | task 1287 | n_tokens = 6943, memory_seq_rm [6943, end)
+slot update_slots: id  2 | task 1287 | prompt processing progress, n_tokens = 7657, batch.n_tokens = 714, progress = 0.936865
+slot update_slots: id  2 | task 1287 | n_tokens = 7657, memory_seq_rm [7657, end)
+slot update_slots: id  2 | task 1287 | prompt processing progress, n_tokens = 8169, batch.n_tokens = 512, progress = 0.999511
+slot update_slots: id  2 | task 1287 | created context checkpoint 1 of 32 (pos_min = 7656, pos_max = 7656, n_tokens = 7657, size = 164.688 MiB)
+slot update_slots: id  2 | task 1287 | n_tokens = 8169, memory_seq_rm [8169, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  2 | task 1287 | init sampler, took 2.33 ms, tokens: text = 8173, total = 8173
+slot update_slots: id  2 | task 1287 | prompt processing done, n_tokens = 8173, batch.n_tokens = 4
+slot update_slots: id  2 | task 1287 | created context checkpoint 2 of 32 (pos_min = 8168, pos_max = 8168, n_tokens = 8169, size = 164.688 MiB)
+srv          stop: cancel task, id_task = 1287
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+slot      release: id  2 | task 1287 | stop processing: n_tokens = 8931, truncated = 0
+srv  update_slots: all slots are idle
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  1 | task -1 | selected slot by LRU, t_last = 187350589675
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv          load:  - found better prompt with f_keep = 0.503, sim = 0.514
+srv        update:  - cache state: 7 prompts, 3601.997 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv  get_availabl: prompt cache update took 9510.02 ms
+slot launch_slot_: id  1 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  1 | task 2050 | processing task, is_child = 0
+slot slot_save_an: id  2 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 8931, total state size = 234.564 MiB
+slot prompt_clear: id  2 | task -1 | clearing prompt with 8931 tokens
+srv        update:  - cache state: 8 prompts, 4165.938 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3A961710:    8931 tokens, checkpoints:  2,   563.941 MiB
+slot update_slots: id  1 | task 2050 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2112
+slot update_slots: id  1 | task 2050 | n_past = 1085, slot.prompt.tokens.size() = 2157, seq_id = 1, pos_min = 2156, n_swa = 0
+slot update_slots: id  1 | task 2050 | Checking checkpoint with [2106, 2106] against 1085...
+slot update_slots: id  1 | task 2050 | Checking checkpoint with [1594, 1594] against 1085...
+slot update_slots: id  1 | task 2050 | forcing full prompt re-processing due to lack of cache data (likely due to SWA or hybrid/recurrent memory, see https://github.com/ggml-org/llama.cpp/pull/13194#issuecomment-2868343055)
+slot update_slots: id  1 | task 2050 | erased invalidated context checkpoint (pos_min = 1594, pos_max = 1594, n_tokens = 1595, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  1 | task 2050 | erased invalidated context checkpoint (pos_min = 2106, pos_max = 2106, n_tokens = 2107, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  1 | task 2050 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  1 | task 2050 | prompt processing progress, n_tokens = 1596, batch.n_tokens = 1596, progress = 0.755682
+slot update_slots: id  1 | task 2050 | n_tokens = 1596, memory_seq_rm [1596, end)
+slot update_slots: id  1 | task 2050 | prompt processing progress, n_tokens = 2108, batch.n_tokens = 512, progress = 0.998106
+slot update_slots: id  1 | task 2050 | created context checkpoint 1 of 32 (pos_min = 1595, pos_max = 1595, n_tokens = 1596, size = 164.688 MiB)
+slot update_slots: id  1 | task 2050 | n_tokens = 2108, memory_seq_rm [2108, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  1 | task 2050 | init sampler, took 0.25 ms, tokens: text = 2112, total = 2112
+slot update_slots: id  1 | task 2050 | prompt processing done, n_tokens = 2112, batch.n_tokens = 4
+slot update_slots: id  1 | task 2050 | created context checkpoint 2 of 32 (pos_min = 2107, pos_max = 2107, n_tokens = 2108, size = 164.688 MiB)
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  1 | task 2050 | 
+prompt eval time =  141734.98 ms /  2112 tokens (   67.11 ms per token,    14.90 tokens per second)
+       eval time =  317066.50 ms /   997 tokens (  318.02 ms per token,     3.14 tokens per second)
+      total time =  458801.48 ms /  3109 tokens
+slot      release: id  1 | task 2050 | stop processing: n_tokens = 3108, truncated = 0
+srv  update_slots: all slots are idle
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  0 | task -1 | selected slot by LRU, t_last = 207984101400
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv        update:  - cache state: 8 prompts, 4165.938 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3A961710:    8931 tokens, checkpoints:  2,   563.941 MiB
+srv  get_availabl: prompt cache update took 0.90 ms
+slot launch_slot_: id  0 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  0 | task 3050 | processing task, is_child = 0
+slot slot_save_an: id  1 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 3108, total state size = 189.005 MiB
+slot prompt_clear: id  1 | task -1 | clearing prompt with 3108 tokens
+srv        update:  - cache state: 9 prompts, 4684.320 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3A961710:    8931 tokens, checkpoints:  2,   563.941 MiB
+srv        update:    - prompt 0000030F3FC97230:    3108 tokens, checkpoints:  2,   518.382 MiB
+slot update_slots: id  0 | task 3050 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
+slot update_slots: id  0 | task 3050 | erased invalidated context checkpoint (pos_min = 1594, pos_max = 1594, n_tokens = 1595, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  0 | task 3050 | erased invalidated context checkpoint (pos_min = 2106, pos_max = 2106, n_tokens = 2107, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  0 | task 3050 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  0 | task 3050 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
+slot update_slots: id  0 | task 3050 | n_tokens = 2048, memory_seq_rm [2048, end)
+slot update_slots: id  0 | task 3050 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
+slot update_slots: id  0 | task 3050 | n_tokens = 2359, memory_seq_rm [2359, end)
+slot update_slots: id  0 | task 3050 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
+slot update_slots: id  0 | task 3050 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
+slot update_slots: id  0 | task 3050 | n_tokens = 2871, memory_seq_rm [2871, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  0 | task 3050 | init sampler, took 0.33 ms, tokens: text = 2875, total = 2875
+slot update_slots: id  0 | task 3050 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
+slot update_slots: id  0 | task 3050 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  0 | task 3050 | 
+prompt eval time =   34261.07 ms /  2875 tokens (   11.92 ms per token,    83.91 tokens per second)
+       eval time =  114580.26 ms /   390 tokens (  293.80 ms per token,     3.40 tokens per second)
+      total time =  148841.33 ms /  3265 tokens
+slot      release: id  0 | task 3050 | stop processing: n_tokens = 3264, truncated = 0
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  update_slots: all slots are idle
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  3 | task -1 | selected slot by LRU, t_last = 208351045694
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv          load:  - found better prompt with f_keep = 0.349, sim = 0.514
+srv        update:  - cache state: 8 prompts, 4165.938 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3A961710:    8931 tokens, checkpoints:  2,   563.941 MiB
+srv  get_availabl: prompt cache update took 13825.16 ms
+slot launch_slot_: id  3 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  3 | task 3444 | processing task, is_child = 0
+slot slot_save_an: id  0 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 3264, total state size = 190.226 MiB
+slot prompt_clear: id  0 | task -1 | clearing prompt with 3264 tokens
+srv        update:  - cache state: 9 prompts, 4685.541 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3A961710:    8931 tokens, checkpoints:  2,   563.941 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+slot update_slots: id  3 | task 3444 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2112
+slot update_slots: id  3 | task 3444 | n_past = 1085, slot.prompt.tokens.size() = 3108, seq_id = 3, pos_min = 3107, n_swa = 0
+slot update_slots: id  3 | task 3444 | Checking checkpoint with [2107, 2107] against 1085...
+slot update_slots: id  3 | task 3444 | Checking checkpoint with [1595, 1595] against 1085...
+slot update_slots: id  3 | task 3444 | forcing full prompt re-processing due to lack of cache data (likely due to SWA or hybrid/recurrent memory, see https://github.com/ggml-org/llama.cpp/pull/13194#issuecomment-2868343055)
+slot update_slots: id  3 | task 3444 | erased invalidated context checkpoint (pos_min = 1595, pos_max = 1595, n_tokens = 1596, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  3 | task 3444 | erased invalidated context checkpoint (pos_min = 2107, pos_max = 2107, n_tokens = 2108, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  3 | task 3444 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  3 | task 3444 | prompt processing progress, n_tokens = 1596, batch.n_tokens = 1596, progress = 0.755682
+slot update_slots: id  3 | task 3444 | n_tokens = 1596, memory_seq_rm [1596, end)
+slot update_slots: id  3 | task 3444 | prompt processing progress, n_tokens = 2108, batch.n_tokens = 512, progress = 0.998106
+slot update_slots: id  3 | task 3444 | created context checkpoint 1 of 32 (pos_min = 1595, pos_max = 1595, n_tokens = 1596, size = 164.688 MiB)
+slot update_slots: id  3 | task 3444 | n_tokens = 2108, memory_seq_rm [2108, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  3 | task 3444 | init sampler, took 1.03 ms, tokens: text = 2112, total = 2112
+slot update_slots: id  3 | task 3444 | prompt processing done, n_tokens = 2112, batch.n_tokens = 4
+slot update_slots: id  3 | task 3444 | created context checkpoint 2 of 32 (pos_min = 2107, pos_max = 2107, n_tokens = 2108, size = 164.688 MiB)
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  3 | task 3444 | 
+prompt eval time =  109838.19 ms /  2112 tokens (   52.01 ms per token,    19.23 tokens per second)
+       eval time =   15525.23 ms /    50 tokens (  310.50 ms per token,     3.22 tokens per second)
+      total time =  125363.42 ms /  2162 tokens
+slot      release: id  3 | task 3444 | stop processing: n_tokens = 2161, truncated = 0
+srv  update_slots: all slots are idle
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  2 | task -1 | selected slot by LRU, t_last = 273602127531
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv        update:  - cache state: 9 prompts, 4685.541 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3A961710:    8931 tokens, checkpoints:  2,   563.941 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+srv  get_availabl: prompt cache update took 0.83 ms
+slot launch_slot_: id  2 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  2 | task 3497 | processing task, is_child = 0
+slot slot_save_an: id  3 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 2161, total state size = 181.596 MiB
+slot prompt_clear: id  3 | task -1 | clearing prompt with 2161 tokens
+srv        update:  - cache state: 10 prompts, 5196.514 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3A961710:    8931 tokens, checkpoints:  2,   563.941 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+srv        update:    - prompt 0000030F3A960BB0:    2161 tokens, checkpoints:  2,   510.973 MiB
+slot update_slots: id  2 | task 3497 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
+slot update_slots: id  2 | task 3497 | erased invalidated context checkpoint (pos_min = 7656, pos_max = 7656, n_tokens = 7657, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  2 | task 3497 | erased invalidated context checkpoint (pos_min = 8168, pos_max = 8168, n_tokens = 8169, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  2 | task 3497 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  2 | task 3497 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
+slot update_slots: id  2 | task 3497 | n_tokens = 2048, memory_seq_rm [2048, end)
+slot update_slots: id  2 | task 3497 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
+slot update_slots: id  2 | task 3497 | n_tokens = 2359, memory_seq_rm [2359, end)
+slot update_slots: id  2 | task 3497 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
+slot update_slots: id  2 | task 3497 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
+slot update_slots: id  2 | task 3497 | n_tokens = 2871, memory_seq_rm [2871, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  2 | task 3497 | init sampler, took 0.32 ms, tokens: text = 2875, total = 2875
+slot update_slots: id  2 | task 3497 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
+slot update_slots: id  2 | task 3497 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  2 | task 3497 | 
+prompt eval time =   37805.36 ms /  2875 tokens (   13.15 ms per token,    76.05 tokens per second)
+       eval time =   30225.20 ms /   101 tokens (  299.26 ms per token,     3.34 tokens per second)
+      total time =   68030.56 ms /  2976 tokens
+slot      release: id  2 | task 3497 | stop processing: n_tokens = 2975, truncated = 0
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  update_slots: all slots are idle
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  1 | task -1 | selected slot by LRU, t_last = 327206653243
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv          load:  - found better prompt with f_keep = 0.915, sim = 1.000
+srv        update:  - cache state: 9 prompts, 4632.572 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+srv        update:    - prompt 0000030F3A960BB0:    2161 tokens, checkpoints:  2,   510.973 MiB
+srv  get_availabl: prompt cache update took 1595.39 ms
+slot launch_slot_: id  1 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  1 | task 3602 | processing task, is_child = 0
+slot slot_save_an: id  2 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 2975, total state size = 187.965 MiB
+slot prompt_clear: id  2 | task -1 | clearing prompt with 2975 tokens
+srv        update:  - cache state: 10 prompts, 5149.914 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+srv        update:    - prompt 0000030F3A960BB0:    2161 tokens, checkpoints:  2,   510.973 MiB
+srv        update:    - prompt 0000030F3B07AB70:    2975 tokens, checkpoints:  2,   517.342 MiB
+slot update_slots: id  1 | task 3602 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 8173
+slot update_slots: id  1 | task 3602 | n_past = 8173, slot.prompt.tokens.size() = 8931, seq_id = 1, pos_min = 8930, n_swa = 0
+slot update_slots: id  1 | task 3602 | Checking checkpoint with [8168, 8168] against 8173...
+slot update_slots: id  1 | task 3602 | restored context checkpoint (pos_min = 8168, pos_max = 8168, n_tokens = 8169, n_past = 8169, size = 164.688 MiB)
+slot update_slots: id  1 | task 3602 | n_tokens = 8169, memory_seq_rm [8169, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  1 | task 3602 | init sampler, took 0.90 ms, tokens: text = 8173, total = 8173
+slot update_slots: id  1 | task 3602 | prompt processing done, n_tokens = 8173, batch.n_tokens = 4
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  1 | task 3602 | 
+prompt eval time =    2857.87 ms /     4 tokens (  714.47 ms per token,     1.40 tokens per second)
+       eval time =  120123.75 ms /   332 tokens (  361.82 ms per token,     2.76 tokens per second)
+      total time =  122981.62 ms /   336 tokens
+slot      release: id  1 | task 3602 | stop processing: n_tokens = 8504, truncated = 0
+srv  update_slots: all slots are idle
+srv          stop: cancel task, id_task = 3602
+srv  update_slots: all slots are idle
+srv    operator(): got exception: {"error":{"code":500,"message":"Failed to parse input at pos 1482: <|im_end|>","type":"server_error"}}
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 500
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  0 | task -1 | selected slot by LRU, t_last = 327361277919
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv          load:  - found better prompt with f_keep = 0.977, sim = 1.000
+srv        update:  - cache state: 9 prompts, 4638.941 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+srv        update:    - prompt 0000030F3B07AB70:    2975 tokens, checkpoints:  2,   517.342 MiB
+srv  get_availabl: prompt cache update took 14624.35 ms
+slot launch_slot_: id  0 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  0 | task 3936 | processing task, is_child = 0
+slot slot_save_an: id  1 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 8504, total state size = 231.223 MiB
+slot prompt_clear: id  1 | task -1 | clearing prompt with 8504 tokens
+srv        update:  - cache state: 10 prompts, 5199.542 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+srv        update:    - prompt 0000030F3B07AB70:    2975 tokens, checkpoints:  2,   517.342 MiB
+srv        update:    - prompt 0000030F3FC9F180:    8504 tokens, checkpoints:  2,   560.600 MiB
+slot update_slots: id  0 | task 3936 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2112
+slot update_slots: id  0 | task 3936 | n_past = 2112, slot.prompt.tokens.size() = 2161, seq_id = 0, pos_min = 2160, n_swa = 0
+slot update_slots: id  0 | task 3936 | Checking checkpoint with [2107, 2107] against 2112...
+slot update_slots: id  0 | task 3936 | restored context checkpoint (pos_min = 2107, pos_max = 2107, n_tokens = 2108, n_past = 2108, size = 164.688 MiB)
+slot update_slots: id  0 | task 3936 | n_tokens = 2108, memory_seq_rm [2108, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  0 | task 3936 | init sampler, took 0.24 ms, tokens: text = 2112, total = 2112
+slot update_slots: id  0 | task 3936 | prompt processing done, n_tokens = 2112, batch.n_tokens = 4
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  0 | task 3936 | 
+prompt eval time =    3497.11 ms /     4 tokens (  874.28 ms per token,     1.14 tokens per second)
+       eval time =   71138.25 ms /   156 tokens (  456.01 ms per token,     2.19 tokens per second)
+      total time =   74635.35 ms /   160 tokens
+slot      release: id  0 | task 3936 | stop processing: n_tokens = 2267, truncated = 0
+srv  update_slots: all slots are idle
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  3 | task -1 | selected slot by LRU, t_last = 445900537809
+srv  get_availabl: updating prompt cache
+srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
+srv        update:  - cache state: 10 prompts, 5199.542 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+srv        update:    - prompt 0000030F3B07AB70:    2975 tokens, checkpoints:  2,   517.342 MiB
+srv        update:    - prompt 0000030F3FC9F180:    8504 tokens, checkpoints:  2,   560.600 MiB
+srv  get_availabl: prompt cache update took 0.06 ms
+slot launch_slot_: id  3 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
+slot launch_slot_: id  3 | task 4093 | processing task, is_child = 0
+slot slot_save_an: id  0 | task -1 | saving idle slot to prompt cache
+srv   prompt_save:  - saving prompt with length 2267, total state size = 182.426 MiB
+slot prompt_clear: id  0 | task -1 | clearing prompt with 2267 tokens
+srv        update:  - cache state: 11 prompts, 5711.344 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
+srv        update:    - prompt 0000030F3A9612B0:    2978 tokens, checkpoints:  2,   517.365 MiB
+srv        update:    - prompt 0000030F3A962890:    2236 tokens, checkpoints:  2,   511.560 MiB
+srv        update:    - prompt 0000030F3A9606E0:    2474 tokens, checkpoints:  2,   513.422 MiB
+srv        update:    - prompt 000002FDBDDE85E0:    2397 tokens, checkpoints:  2,   512.819 MiB
+srv        update:    - prompt 0000030F521B3E60:    2356 tokens, checkpoints:  2,   512.499 MiB
+srv        update:    - prompt 0000030F3A961BE0:    2950 tokens, checkpoints:  2,   517.146 MiB
+srv        update:    - prompt 0000030F3FCA0060:    2955 tokens, checkpoints:  2,   517.185 MiB
+srv        update:    - prompt 0000030F3FC97BD0:    3264 tokens, checkpoints:  2,   519.603 MiB
+srv        update:    - prompt 0000030F3B07AB70:    2975 tokens, checkpoints:  2,   517.342 MiB
+srv        update:    - prompt 0000030F3FC9F180:    8504 tokens, checkpoints:  2,   560.600 MiB
+srv        update:    - prompt 0000030F3FC9E380:    2267 tokens, checkpoints:  2,   511.802 MiB
+slot update_slots: id  3 | task 4093 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
+slot update_slots: id  3 | task 4093 | erased invalidated context checkpoint (pos_min = 1595, pos_max = 1595, n_tokens = 1596, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  3 | task 4093 | erased invalidated context checkpoint (pos_min = 2107, pos_max = 2107, n_tokens = 2108, n_swa = 0, pos_next = 0, size = 164.688 MiB)
+slot update_slots: id  3 | task 4093 | n_tokens = 0, memory_seq_rm [0, end)
+slot update_slots: id  3 | task 4093 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
+slot update_slots: id  3 | task 4093 | n_tokens = 2048, memory_seq_rm [2048, end)
+slot update_slots: id  3 | task 4093 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
+slot update_slots: id  3 | task 4093 | n_tokens = 2359, memory_seq_rm [2359, end)
+slot update_slots: id  3 | task 4093 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
+slot update_slots: id  3 | task 4093 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
+slot update_slots: id  3 | task 4093 | n_tokens = 2871, memory_seq_rm [2871, end)
+reasoning-budget: activated, budget=2147483647 tokens
+slot init_sampler: id  3 | task 4093 | init sampler, took 0.32 ms, tokens: text = 2875, total = 2875
+slot update_slots: id  3 | task 4093 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
+slot update_slots: id  3 | task 4093 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
+reasoning-budget: deactivated (natural end)
+slot print_timing: id  3 | task 4093 | 
+prompt eval time =  121880.37 ms /  2875 tokens (   42.39 ms per token,    23.59 tokens per second)
+       eval time =  151479.41 ms /   100 tokens ( 1514.79 ms per token,     0.66 tokens per second)
+      total time =  273359.78 ms /  2975 tokens
+slot      release: id  3 | task 4093 | stop processing: n_tokens = 2974, truncated = 0
+srv  update_slots: all slots are idle
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+slot get_availabl: id  2 | task -1 | selected slot by LRU, t_last = 445977349695
 srv  get_availabl: updating prompt cache
 srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
 srv          load:  - found better prompt with f_keep = 0.961, sim = 1.000
-srv        update:  - cache state: 1 prompts, 517.123 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
-srv        update:    - prompt 00000232B7D28A00:    2947 tokens, checkpoints:  2,   517.123 MiB
-srv  get_availabl: prompt cache update took 13079.88 ms
-slot launch_slot_: id  3 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
-slot launch_slot_: id  3 | task 401 | processing task, is_child = 0
-slot slot_save_an: id  0 | task -1 | saving idle slot to prompt cache
-srv   prompt_save:  - saving prompt with length 2962, total state size = 187.863 MiB
-slot prompt_clear: id  0 | task -1 | clearing prompt with 2962 tokens
-srv        update:  - cache state: 2 prompts, 1034.363 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
-srv        update:    - prompt 00000232B7D28A00:    2947 tokens, checkpoints:  2,   517.123 MiB
-srv        update:    - prompt 00000232B7D281B0:    2962 tokens, checkpoints:  2,   517.240 MiB
-slot update_slots: id  3 | task 401 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2111
-slot update_slots: id  3 | task 401 | n_past = 2111, slot.prompt.tokens.size() = 2197, seq_id = 3, pos_min = 2196, n_swa = 0
-slot update_slots: id  3 | task 401 | Checking checkpoint with [2106, 2106] against 2111...
-slot update_slots: id  3 | task 401 | restored context checkpoint (pos_min = 2106, pos_max = 2106, n_tokens = 2107, n_past = 2107, size = 164.688 MiB)
-slot update_slots: id  3 | task 401 | n_tokens = 2107, memory_seq_rm [2107, end)
-reasoning-budget: activated, budget=2147483647 tokens
-slot init_sampler: id  3 | task 401 | init sampler, took 0.44 ms, tokens: text = 2111, total = 2111
-slot update_slots: id  3 | task 401 | prompt processing done, n_tokens = 2111, batch.n_tokens = 4
-reasoning-budget: deactivated (natural end)
-slot print_timing: id  3 | task 401 | 
-prompt eval time =   49231.09 ms /     4 tokens (12307.77 ms per token,     0.08 tokens per second)
-       eval time =  135676.30 ms /    60 tokens ( 2261.27 ms per token,     0.44 tokens per second)
-      total time =  184907.39 ms /    64 tokens
-slot      release: id  3 | task 401 | stop processing: n_tokens = 2170, truncated = 0
-srv  update_slots: all slots are idle
+srv          stop: cancel task, id_task = 4197
 srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
 srv  params_from_: Chat format: peg-native
-slot get_availabl: id  2 | task -1 | selected slot by LRU, t_last = 77412629683
-srv  get_availabl: updating prompt cache
-srv          load:  - looking for better prompt, base f_keep = -1.000, sim = 0.000
-srv        update:  - cache state: 2 prompts, 1034.363 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
-srv        update:    - prompt 00000232B7D28A00:    2947 tokens, checkpoints:  2,   517.123 MiB
-srv        update:    - prompt 00000232B7D281B0:    2962 tokens, checkpoints:  2,   517.240 MiB
-srv  get_availabl: prompt cache update took 13.65 ms
-slot launch_slot_: id  2 | task -1 | sampler chain: logits -> ?penalties -> ?dry -> ?top-n-sigma -> top-k -> ?typical -> top-p -> min-p -> ?xtc -> temp-ext -> dist 
-slot launch_slot_: id  2 | task 462 | processing task, is_child = 0
-slot slot_save_an: id  3 | task -1 | saving idle slot to prompt cache
-srv   prompt_save:  - saving prompt with length 2170, total state size = 181.667 MiB
-slot prompt_clear: id  3 | task -1 | clearing prompt with 2170 tokens
-srv        update:  - cache state: 3 prompts, 1545.406 MiB (limits: 8192.000 MiB, 131072 tokens, 131072 est)
-srv        update:    - prompt 00000232B7D28A00:    2947 tokens, checkpoints:  2,   517.123 MiB
-srv        update:    - prompt 00000232B7D281B0:    2962 tokens, checkpoints:  2,   517.240 MiB
-srv        update:    - prompt 00000232B7D27730:    2170 tokens, checkpoints:  2,   511.043 MiB
-slot update_slots: id  2 | task 462 | new prompt, n_ctx_slot = 131072, n_keep = 0, task.n_tokens = 2875
-slot update_slots: id  2 | task 462 | erased invalidated context checkpoint (pos_min = 2358, pos_max = 2358, n_tokens = 2359, n_swa = 0, pos_next = 0, size = 164.688 MiB)
-slot update_slots: id  2 | task 462 | erased invalidated context checkpoint (pos_min = 2870, pos_max = 2870, n_tokens = 2871, n_swa = 0, pos_next = 0, size = 164.688 MiB)
-slot update_slots: id  2 | task 462 | n_tokens = 0, memory_seq_rm [0, end)
-slot update_slots: id  2 | task 462 | prompt processing progress, n_tokens = 2048, batch.n_tokens = 2048, progress = 0.712348
-slot update_slots: id  2 | task 462 | n_tokens = 2048, memory_seq_rm [2048, end)
-slot update_slots: id  2 | task 462 | prompt processing progress, n_tokens = 2359, batch.n_tokens = 311, progress = 0.820522
-slot update_slots: id  2 | task 462 | n_tokens = 2359, memory_seq_rm [2359, end)
-slot update_slots: id  2 | task 462 | prompt processing progress, n_tokens = 2871, batch.n_tokens = 512, progress = 0.998609
-slot update_slots: id  2 | task 462 | created context checkpoint 1 of 32 (pos_min = 2358, pos_max = 2358, n_tokens = 2359, size = 164.688 MiB)
-slot update_slots: id  2 | task 462 | n_tokens = 2871, memory_seq_rm [2871, end)
-reasoning-budget: activated, budget=2147483647 tokens
-slot init_sampler: id  2 | task 462 | init sampler, took 2.70 ms, tokens: text = 2875, total = 2875
-slot update_slots: id  2 | task 462 | prompt processing done, n_tokens = 2875, batch.n_tokens = 4
-slot update_slots: id  2 | task 462 | created context checkpoint 2 of 32 (pos_min = 2870, pos_max = 2870, n_tokens = 2871, size = 164.688 MiB)
-reasoning-budget: deactivated (natural end)
-slot print_timing: id  2 | task 462 | 
-prompt eval time =  314380.95 ms /  2875 tokens (  109.35 ms per token,     9.14 tokens per second)
-       eval time =   45651.15 ms /    66 tokens (  691.68 ms per token,     1.45 tokens per second)
-      total time =  360032.09 ms /  2941 tokens
-slot      release: id  2 | task 462 | stop processing: n_tokens = 2940, truncated = 0
-srv  update_slots: all slots are idle
+srv          stop: cancel task, id_task = 4199
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4201
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4203
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4205
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4207
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4209
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4211
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4213
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4215
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4217
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4219
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4221
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4223
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4225
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4227
+srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200
+srv  params_from_: Chat format: peg-native
+srv          stop: cancel task, id_task = 4229
 srv  log_server_r: done request: POST /v1/chat/completions 127.0.0.1 200

@@ -65,6 +65,7 @@ except ImportError:
         "AGENT_10": {"APPEND"},
         "AGENT_11": {"APPEND"},
         "AGENT_13": {"APPEND"},   # Marketing Content Agent — sabbath-aware
+        "AGENT_15": {"APPEND"},     # Audiobook Prep — sanitize/machine-ear/manifest/diarize
         "AUTHOR":   {"APPEND", "MODIFY", "DEPRECATE", "DELETE"},
     }
 

@@ -1,23 +1,110 @@
-2026-04-15 20:57:26,453 [UTILITY] INFO Utility Server starting on port 8769
-2026-04-15 20:57:26,484 [UTILITY] INFO Project root: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles
-2026-04-15 20:57:26,583 [UTILITY] INFO Utility Server ready — http://localhost:8769/health
-2026-04-17 13:07:32,188 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
-2026-04-17 13:07:32,189 [UTILITY] INFO ════════════════════════════════════════════════════════════
-2026-04-17 13:07:32,190 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
-2026-04-17 13:07:32,190 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
-2026-04-17 13:07:32,191 [UTILITY] INFO ════════════════════════════════════════════════════════════
-2026-04-17 13:07:32,249 [UTILITY] INFO   Book 3: 0 chapters loaded
-2026-04-17 13:07:32,250 [UTILITY] INFO   Book 4: 0 chapters loaded
-2026-04-17 13:07:32,250 [UTILITY] INFO   Book 5: 0 chapters loaded
-2026-04-17 13:07:32,251 [UTILITY] WARNING No chapters found to audit.
-2026-04-17 13:07:32,252 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
-2026-04-17 18:20:24,585 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
-2026-04-17 18:20:24,586 [UTILITY] INFO ════════════════════════════════════════════════════════════
-2026-04-17 18:20:24,586 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
-2026-04-17 18:20:24,586 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
-2026-04-17 18:20:24,587 [UTILITY] INFO ════════════════════════════════════════════════════════════
-2026-04-17 18:20:24,635 [UTILITY] INFO   Book 3: 0 chapters loaded
-2026-04-17 18:20:24,636 [UTILITY] INFO   Book 4: 0 chapters loaded
-2026-04-17 18:20:24,636 [UTILITY] INFO   Book 5: 0 chapters loaded
-2026-04-17 18:20:24,636 [UTILITY] WARNING No chapters found to audit.
-2026-04-17 18:20:24,636 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-18 15:18:44,843 [UTILITY] INFO Utility Server starting on port 8769
+2026-04-18 15:18:44,844 [UTILITY] INFO Project root: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles
+2026-04-18 15:18:44,893 [UTILITY] INFO Utility Server ready — http://localhost:8769/health
+2026-04-18 18:08:52,701 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-18 18:08:52,701 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-18 18:08:52,701 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-18 18:08:52,701 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-18 18:08:52,702 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-18 18:08:52,706 [UTILITY] INFO   Book 3: 0 chapters loaded
+2026-04-18 18:08:52,706 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-18 18:08:52,706 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-18 18:08:52,706 [UTILITY] WARNING No chapters found to audit.
+2026-04-18 18:08:52,707 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-19 20:16:56,477 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-19 20:16:56,479 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-19 20:16:56,479 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-19 20:16:56,479 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-19 20:16:56,480 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-19 20:16:56,489 [UTILITY] INFO   Book 3: 2 chapters loaded
+2026-04-19 20:16:56,489 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-19 20:16:56,490 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-19 20:16:56,490 [UTILITY] INFO Total chapters for audit: 2
+2026-04-19 20:16:56,490 [UTILITY] INFO Sending to Nemotron via tool router...
+2026-04-19 20:26:58,587 [UTILITY] WARNING Nemotron unavailable (HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=600)) — falling back to Ollama
+2026-04-19 20:33:21,310 [UTILITY] INFO Ollama audit complete: 0 violations
+2026-04-19 20:33:21,319 [UTILITY] INFO Audit report written: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\02_ANALYSIS\NIGHTLY_AUDIT_2026-04-19.md
+2026-04-19 20:33:21,323 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-20 19:06:38,621 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-20 19:06:38,623 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-20 19:06:38,624 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-20 19:06:38,625 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-20 19:06:38,625 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-20 19:06:38,647 [UTILITY] INFO   Book 3: 4 chapters loaded
+2026-04-20 19:06:38,648 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-20 19:06:38,649 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-20 19:06:38,649 [UTILITY] INFO Total chapters for audit: 4
+2026-04-20 19:06:38,650 [UTILITY] INFO Sending to Nemotron via tool router...
+2026-04-20 19:16:40,763 [UTILITY] WARNING Nemotron unavailable (HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=600)) — falling back to Ollama
+2026-04-20 19:20:04,985 [UTILITY] INFO Ollama audit complete: 0 violations
+2026-04-20 19:20:04,995 [UTILITY] INFO Audit report written: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\02_ANALYSIS\NIGHTLY_AUDIT_2026-04-20.md
+2026-04-20 19:20:04,999 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-21 19:08:47,074 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-21 19:08:47,075 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-21 19:08:47,075 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-21 19:08:47,075 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-21 19:08:47,076 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-21 19:08:47,190 [UTILITY] INFO   Book 3: 5 chapters loaded
+2026-04-21 19:08:47,191 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-21 19:08:47,191 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-21 19:08:47,191 [UTILITY] INFO Total chapters for audit: 5
+2026-04-21 19:08:47,192 [UTILITY] INFO Sending to Nemotron via tool router...
+2026-04-21 19:18:49,327 [UTILITY] WARNING Nemotron unavailable (HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=600)) — falling back to Ollama
+2026-04-21 19:21:29,894 [UTILITY] INFO Ollama audit complete: 0 violations
+2026-04-21 19:21:29,905 [UTILITY] INFO Audit report written: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\02_ANALYSIS\NIGHTLY_AUDIT_2026-04-21.md
+2026-04-21 19:21:29,908 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-23 22:23:04,292 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-23 22:23:04,294 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-23 22:23:04,294 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-23 22:23:04,294 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-23 22:23:04,294 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-23 22:23:04,428 [UTILITY] INFO   Book 3: 5 chapters loaded
+2026-04-23 22:23:04,429 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-23 22:23:04,429 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-23 22:23:04,429 [UTILITY] INFO Total chapters for audit: 5
+2026-04-23 22:23:04,430 [UTILITY] INFO Sending to Nemotron via tool router...
+2026-04-23 22:28:38,046 [UTILITY] INFO Nemotron audit complete: 0 violations
+2026-04-23 22:28:38,052 [UTILITY] INFO Audit report written: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\02_ANALYSIS\NIGHTLY_AUDIT_2026-04-23.md
+2026-04-23 22:28:38,055 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-25 18:13:06,251 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-25 18:13:06,252 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-25 18:13:06,253 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-25 18:13:06,253 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-25 18:13:06,253 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-25 18:13:06,360 [UTILITY] INFO   Book 3: 5 chapters loaded
+2026-04-25 18:13:06,360 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-25 18:13:06,361 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-25 18:13:06,361 [UTILITY] INFO Total chapters for audit: 5
+2026-04-25 18:13:06,361 [UTILITY] INFO Sending to Nemotron via tool router...
+2026-04-25 18:23:08,475 [UTILITY] WARNING Nemotron unavailable (HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=600)) — falling back to Ollama
+2026-04-25 18:26:59,549 [UTILITY] INFO Ollama audit complete: 0 violations
+2026-04-25 18:26:59,555 [UTILITY] INFO Audit report written: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\02_ANALYSIS\NIGHTLY_AUDIT_2026-04-25.md
+2026-04-25 18:26:59,556 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-27 13:02:03,557 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-27 13:02:03,557 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-27 13:02:03,557 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-27 13:02:03,558 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-27 13:02:03,558 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-27 13:02:03,680 [UTILITY] INFO   Book 3: 5 chapters loaded
+2026-04-27 13:02:03,680 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-27 13:02:03,681 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-27 13:02:03,681 [UTILITY] INFO Total chapters for audit: 5
+2026-04-27 13:02:03,681 [UTILITY] INFO Sending to Nemotron via tool router...
+2026-04-27 13:12:05,709 [UTILITY] WARNING Nemotron unavailable (HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=600)) — falling back to Ollama
+2026-04-27 13:15:45,752 [UTILITY] INFO Ollama audit complete: 0 violations
+2026-04-27 13:15:45,753 [UTILITY] INFO Audit report written: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\02_ANALYSIS\NIGHTLY_AUDIT_2026-04-27.md
+2026-04-27 13:15:45,754 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -
+2026-04-27 18:00:36,864 [UTILITY] INFO CROSS-BOOK AUDIT: books=[3, 4, 5] fast=False
+2026-04-27 18:00:36,865 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-27 18:00:36,865 [UTILITY] INFO   CROSS-BOOK CONTINUITY AUDIT
+2026-04-27 18:00:36,865 [UTILITY] INFO   Books: [3, 4, 5]  |  Fast: False
+2026-04-27 18:00:36,865 [UTILITY] INFO ════════════════════════════════════════════════════════════
+2026-04-27 18:00:36,980 [UTILITY] INFO   Book 3: 5 chapters loaded
+2026-04-27 18:00:36,981 [UTILITY] INFO   Book 4: 0 chapters loaded
+2026-04-27 18:00:36,981 [UTILITY] INFO   Book 5: 0 chapters loaded
+2026-04-27 18:00:36,981 [UTILITY] INFO Total chapters for audit: 5
+2026-04-27 18:00:36,981 [UTILITY] INFO Sending to Nemotron via tool router...
+2026-04-27 18:10:39,041 [UTILITY] WARNING Nemotron unavailable (HTTPConnectionPool(host='localhost', port=8768): Read timed out. (read timeout=600)) — falling back to Ollama
+2026-04-27 18:15:29,334 [UTILITY] INFO Ollama audit complete: 0 violations
+2026-04-27 18:15:29,336 [UTILITY] INFO Audit report written: F:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\02_ANALYSIS\NIGHTLY_AUDIT_2026-04-27.md
+2026-04-27 18:15:29,337 [UTILITY] INFO 127.0.0.1 "POST /cross-book-audit HTTP/1.1" 200 -

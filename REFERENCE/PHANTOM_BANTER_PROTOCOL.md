@@ -206,6 +206,67 @@ Before finalising any quiet chapter, safehouse interlude, or post-combat recover
 
 ---
 
+## PHANTOM BANTER DEPLOYMENT TRACKER
+
+**Cap: 3–5 instances. Status: 4 CONFIRMED / 1 RESERVE**
+
+| # | Beat Title | Book / Chapter | Status | Grief Landing |
+|---|-----------|---------------|--------|---------------|
+| 1 | Internet Briefing to the Witnesses | B3 Ch 12 | ✅ DEPLOYED (live manuscript) | *"WHAT COMETH NEXT REQUIRETH MORE OF ME…"* — Liaigh's voice fractures; the digital age is too large even for an archangel's performance |
+| 2 | The 8-Year Silent Treatment | B4 Ch 9 | PLANNED | Enoch: *"He told me about those eight years. They were the longest of his commission."* — airspace silent; Mo Chrá subsonic pulse |
+| 3 | The Steve/Harold/Gerald Incident | B4 Ch 9 | PLANNED | Miriam: *"Did you ever just ask?"* / Cian: *"…No."* — looks at the empty air; doesn't speak |
+| 4 | The Wireless Headphones Incident | B4 Ch 8 | PLANNED | Battered AirPods case set on the ground between them in silence — carried from Dublin through the Gauntlet into Jerusalem; perfectly useless; still here |
+| 5 | Reserve | B5 TBD | RESERVE | TBD |
+
+### Instance #4 Architecture — The Wireless Headphones Incident (Full Spec)
+
+**Setup:** Brennan, auditing Cian's pre-ministry investment portfolio via secure comms during a lull in the Days 400–1,000 montage, flags an anomalous ROI line item — a seed position in a wireless audio start-up, ~2003, with exceptional returns and two orphanages built from the proceeds.
+
+**The Confession:** Cian invested during wireless audio's commercial infancy. He attended consumer electronics conferences under a cover identity (2004, 2006 — lanyards kept). He lobbied manufacturers for miniaturisation and battery life improvements and drove consumer adoption. Total motivation: he wanted to argue with Liaigh and Mo Chrá in public without alarming civilians.
+
+**The Comedy Architecture (3-tier Liaigh objection in theatrical Empyreal baritone):**
+1. **Economic tier** — *"The return on those funds could have—"*; Cian: *"I built two orphanages."*; [silence]; *"…Nevertheless—"*
+2. **Theological tier** — Before wireless audio, the Augustinians at Killarney nearly inducted Cian into the community; they assumed his composed public silence indicated a contemplative vocation; the headphones destroyed that impression forever
+3. **Mo Chrá tier** — the sword agrees with all three objections simultaneously; Cian: *"Don't gang up on me."*; Mo Chrá: [hums in agreement with Liaigh]
+
+**Secondary comedy engine:** Enoch's confusion. The function of a wireless earpiece as social cover represents a significant civilisational regression: in Cian's era, a man speaking audibly to empty air was assumed to receive divine instruction; in the modern era, assumed to be drunk. *"That is a significant theological regression."*
+
+**Grief landing:** Laughter settles. Cian reaches into his field kit. Sets a battered AirPods case on the ground between them. Doesn't say anything. Carried from Dublin. Through the Gauntlet. Into Jerusalem. Completely useless in a world post-singularity. Still here.
+
+**Book 5 Echo (Ch 10, post-Raphael reveal):** Cian tells Raphael the full story at normal conversational volume for the first time. Raphael: *"The economic objection was valid."* [beat] *"I was glad to hear the unedited version of you. For 2,636 years I received the clipped version."* / Cian: *"You could have told me."* / Raphael: *"You never asked."* Same three words as the Meltdown beat. Different weight entirely.
+
+---
+
+## BOOK 4 NON-PHANTOM-BANTER COMEDY BEATS
+
+These beats do not count toward the Phantom Banter instance cap. They use the other four mechanics.
+
+| Beat | Chapter | Mechanic | Function |
+|------|---------|----------|----------|
+| Miriam's Seamless Switch | Ch 5 | Mechanic 5 (Miriam Phase 2) | Establishes post-baptism Miriam: lethality + affection coexist; proves she hasn't lost her teeth |
+| Iron Age Arm-Ring Protocol | Ch 8 | Mechanics 5 + 3 (Miriam + James) | Romance beat via Iron Age courtship logic; Enoch/Elijah witness comedy (Enoch: *"I like him"*) |
+| Tamid Office-Hours | Ch 9 | Mechanics 1 (absurdity, not impression) + 2 | Operational exhale; earns the airspace silence that follows the grief landings in the same chapter |
+| James deadpan throughout | Ch 5, 8, 9 | Mechanic 3 | Sustained ground-level tonal anchor; ensures comms feel like a person, not a radio |
+| Brennan Engineering Neurosis | Ch 8 comms | Mechanic 4 | *"Forty-three pages of notes. Seventeen say 'HOW?'"* — stakes-weighted comedy from the operational backbone |
+
+---
+
+## BOOK 5 ENSEMBLE COMEDY SUITE (Ch 10 — post-Raphael-reveal)
+
+Deployed together as a suite after *"My name is Raphael"*. All five characters active simultaneously for the first time.
+
+| Beat | Primary Mechanic | Grief/Weight |
+|------|-----------------|-------------|
+| Jetpack Revelation | Mechanics 4 + 1 (Brennan star-struck + Raphael teasing) | None — earned victory lap |
+| Pyrenees Incident / Jealousy Protocol | Mechanics 2 + 5 | None — Cian survives the indignity |
+| Gossiping Entities / The Meltdown | Mechanic 2 (Mo Chrá) + Mechanic 1 echo | YES — Mo Chrá delivers 2,636 years of warmth in one held hum; Cian does not speak after |
+| Wireless Headphones Echo | Mechanic 1 echo | YES — *"You never asked."* Three words; different weight |
+
+**Book 5 Coilgun Callback (Ch 12 / Epilogue):**
+Mechanic 5 (Miriam Phase 2). Series bookend to the Book 1 coilgun exchange (*"She said 'after.' Not 'no.'"*). Four books and a resurrection; the answer was always the same.
+
+---
+
 ## THE COMEDIC TONE — AUTHOR MODELS
 
 | Element | Model Author | Register |
@@ -228,6 +289,7 @@ Before finalising any quiet chapter, safehouse interlude, or post-combat recover
 | OPERATIONAL_SILENCE_ARCHITECTURE (Apr 18, 2026) | Full Raphael silence mechanics, Phantom Banter rules |
 | DEFERRED_ROMANCE_BEATS.md | Romance arc Books 1–2, red lines |
 | SACRAMENTAL_SEQUENCE.md | Baptism (Book 3 Eden) and Marriage (Book 4 Jerusalem) |
+| WORLDBUILDING/BOOKS_3_5_ARCHITECTURE.md | Comedy beat annotations in Book 4 Ch 5, 8, 9 and Book 5 Ch 10, 12 |
 | COMBAT_STYLE_GUIDE.md | Action tone; comedic protocol is the COMPLEMENT to combat protocol |
 | SERIES_BIBLE.md §2.4 | 1,260-day Witness ministry framework |
 | raphael-register skill | Empyreal Register voice rules (what Cian mimics) |

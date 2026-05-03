@@ -365,7 +365,7 @@ Victoria found the drilling programme in her final months. She died knowing coor
 |------|-----------|--------|
 | **March 2028** | The First-Name Milestone | Following Babylon/Tigris-Euphrates extraction. Formal "Mac Morna" retired. In exhaustion where the Guardian role fails, Miriam calls him "Cian." Transition from asset/protector to bonded partnership. |
 | **August 2029** | The Coilgun Proposal | Cian uses Brennan's satellite infrastructure to secure a relic from his 2,600-year history. Proposal is tactical — in a briefing room, acknowledging their union is a declaration of war against the Beast. |
-| **February 2030** | The Marriage Covenant | Jerusalem, during 1,260-day ministry (Ref: Revelation 11). Ceremony performed over the Lia Fáil (Stone of Destiny). A covenant of war and love — shared purpose before the final battle. |
+| **February 2030** | The Marriage Covenant | Jerusalem, during 1,260-day ministry (Ref: Revelation 11). Covenant ceremony without the Lia Fáil — stone remains in England until the Millennium (Ez 21:27 Three Overturns: "until HE come whose right it is" — final transplanting is a Millennial event requiring the True King; LOCKED). A covenant of war and love — shared purpose before the final battle. |
 
 ## §4.5 Brennan mac Niamh
 
@@ -517,6 +517,18 @@ Sites designated "Unreachable" utilize the "Fountains of the Deep" (Ref: Book 2 
 - Classification: Sirens, lilitu, succubi
 - No longer "dwelt upon the land" — survived Flood's land-based destruction
 - Became "goddesses" of post-Flood mythology
+
+## §6.4 Aram Vanguard — Acoustic Vulnerability (LOCKED — Book 4 Ch 3)
+
+**Established:** Book 4 Ch 3 "The Vanguard" (first field contact, May 2, 2026 session)
+
+| Element | Canon Value |
+|---------|-------------|
+| **Vulnerability Mechanism** | Cydonian metamaterial nanomachines integrate with host genome via acoustic bond. Mo Chrá's 432.7 Hz creation frequency inverts the governing resonance → bond severs at molecular level → cascading cellular disruption |
+| **Effect** | The corruption unmakes itself in the presence of the frequency it was built to counterfeit. Agonizing and rapidly lethal. Fully lethal within 4–6 seconds of sustained field exposure |
+| **Tactical Doctrine** | Firearms slow Aram operatives. **Mo Chrá is the primary weapon class** against all Tier 2 Aram-spliced enemies. No exceptions |
+| **Telemetry Capture (NEW THREAD)** | Band Two telemetry (established Book 3 Ch 11/12) transmits biometric data continuously. When Mo Chrá's field cascades through a marked operative, the Band Two broadcast includes the full acoustic signature of the creation frequency. Azazel's orbital grid receives a precise recording of the 432.7 Hz profile. **Azazel now has the data to begin counter-weapon development.** Thread planted Ch 3; pays off in later Book 4 chapters |
+| **Cian's awareness** | After Ch 3: knows Mo Chrá is anti-chimera. Does NOT yet know Band Two captured the acoustic signature. Realizes this in Movement IV reflection — "They wanted the data. They got it." |
 
 ---
 

@@ -158,6 +158,7 @@ AGENT_TASK_TYPES = {
     "content_strategy":     "Generate social/SEO/serialization content (Agent 9 — Content Strategist)",
     "nz_grants":            "Scrape NZ literary grants and update opportunities log (Agent 9 — NZ Monitor)",
     "youtube_anchor":       "Generate YouTube anchor content brief (Agent 9 — Content Strategist)",
+    "audiobook_assemble":   "Run full audiobook pre-production pipeline: sanitize → machine-ear → production manifest → hybrid diarization (port 8776)",
 }
 
 
@@ -232,9 +233,14 @@ def decompose_intent(user_intent: str, book: str, chapter: str,
             {"task_type": "cross_book_audit", "reason": "User requested audit",
              "payload": {}, "depends_on": None},
         ]
-    elif any(w in lower for w in ["kdp", "publish", "assemble"]):
+    elif any(w in lower for w in ["kdp", "publish", "assemble", "docx"]):
         fallback = [
             {"task_type": "kdp_assemble", "reason": "User requested KDP assembly",
+             "payload": {}, "depends_on": None},
+        ]
+    elif any(w in lower for w in ["audiobook", "audio", "diarize", "tts", "narrate"]):
+        fallback = [
+            {"task_type": "audiobook_assemble", "reason": "User requested audiobook pre-production",
              "payload": {}, "depends_on": None},
         ]
     else:

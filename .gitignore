@@ -13,3 +13,7 @@ test_*.docx
 # Regenerable intermediates (tools + upscaled 4x images)
 MANUSCRIPT/book_2/IMAGES/tools/
 MANUSCRIPT/book_2/IMAGES/upscaled/
+
+# Large binary exports (exceed GitHub 100MB limit)
+*.kpf
+NephilimChronicles_Book3_MANUSCRIPT_KC/

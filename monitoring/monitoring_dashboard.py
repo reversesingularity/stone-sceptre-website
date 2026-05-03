@@ -43,6 +43,7 @@ SERVICES = [
     ("Conductor", "http://localhost:8771/health", 8771),
     ("Agent 9 Content", "http://localhost:8772/health", 8772),
     ("Marketing Agent", "http://localhost:8773/health", 8773),
+    ("Image Prompt Designer", "http://localhost:8775/health", 8775),
 ]
 
 logging.basicConfig(

@@ -392,6 +392,14 @@ But the frequency held.
 
 And Brennan held with it.
 
+Brennan looked at the 432 Hz residual on the spectrograph. It was steady. It was safe.
+
+And then, on the secondary monitor, the Layer Two orbital telemetry spiked.
+
+Brennan's hands froze. The 0.03 Hz Schumann drift wasn't just ambient interference. Azazel's Watcher-derived satellite constellation was using the corrupted resonance to ping the globe, hunting for acoustic anomalies. And the satellites were concentrating their focus in a tightening geometric net across the South Pacific.
+
+The Beast's eye was in orbit, and it was blindly feeling its way toward Stewart Island.
+
 ✦
 
 *End of Chapter 5*

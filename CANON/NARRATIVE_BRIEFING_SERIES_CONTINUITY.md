@@ -92,7 +92,7 @@ The co-author must verify the following for zero-drift drafting:
 
 * [ ] CONSTITUTION.md: Update Section IV (Mark of the Beast) with the Tier 2: Elite Vanguard nanomachine/pharmakeia specifications.
 * [ ] ~~CONSTITUTION.md: Insert the "Healing of the Ancient Breach" clause regarding the Zerah/Pharez bloodline merger.~~ **EXTRICATED — Miriam's lineage is Jewish-Sephardic, NOT Pharez. The Pharez/Zerah narrative belongs to the Stone and the Sceptre prequels only.**
-* [ ] DRIFT_LOG.md: Log the structural shift for Book 3—Azazel's UN appearance occurs sequentially after the Dudael breach to maximize the "Prometheus" deception.
+* [x] DRIFT_LOG.md: Log the structural shift for Book 3—Azazel's UN appearance occurs sequentially after the Dudael breach to maximize the "Prometheus" deception. **(RESOLVED: Full Ch5-15 resequence locked April 18, 2026 — see BOOK3_CH07-14_RESEQUENCE.md)**
 * [ ] DRIFT_LOG.md: Confirm Option B fate: Miriam dies on Day ~1,050, leaving Brennan as the guardian of the orphaned daughter. **NOTE: SSOT §3.3 already locks Miriam's death ("Dies protecting Cian, Book 4-5"). Day ~1,050 timing and orphaned daughter detail are ADDITIONS to the existing lock, not contradictions.**
 * [ ] FIELD_REGISTRY.md: Insert the 13-point **Watcher Acoustic Deployment Grid** (NOT "Thirteen Houses" — this is a parallel acoustic warfare system, distinct from the Houses' corporate/political structure).
 

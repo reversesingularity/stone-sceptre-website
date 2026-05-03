@@ -33,6 +33,12 @@
 - **The Resurrection happened.** Christ rose bodily; He will return bodily.
 - **The Tribulation will occur.** It is future, literal, and unavoidable.
 
+### §1.4 — The Nature of the Godhead (Binitarian Paradigm) — LOCKED
+- **The Godhead is a Family of Two Persons.** The one God exists as two distinct, co-eternal divine Persons: God the Father (the Supreme Sovereign) and Jesus Christ the Son (the Logos/Spokesman and Creator).
+- **The Holy Spirit is NOT a Person.** The Holy Spirit is the shared essence, mind, and projecting power of God in the natural world. It is not a distinct "Third Person" of a triune godhead.
+- **The Trinity is a Harlot Invention.** The orthodox doctrine of the Trinity (three co-equal persons in one being) is a philosophical construct and a deliberate doctrinal corruption. It was propagated by the Harlot system (Mystery Babylon) through institutional Catholicism, culminating in the Councils of Nicaea and Constantinople, to obscure the true Family nature of God.
+- **The "Unholy Trinity" is Operational, Not a Parody.** Satan, the Beast (Ohya), and the False Prophet (Azazel) do not form an "Unholy Trinity" to mock a divine Trinity. Rather, they are a Satanic Triumvirate — a strictly operational, hierarchical command structure (Empowerer, Political Ruler, Technological/Spiritual Enforcer). Any reference to them as a "trinity" in author notes is purely for structural shorthand, not theological parody.
+
 ---
 
 ## ARTICLE II: COSMOLOGICAL AXIOMS
@@ -241,13 +247,16 @@ The oaths spoken on Mount Hermon — including "I FORSAKE MY MA'ON" — were not
 
 ## ARTICLE III: CHARACTER IDENTITY AXIOMS
 
-### §3.1 — The Unholy Trinity (LOCKED)
+### §3.1 — The Satanic Triumvirate (LOCKED)
+
+> Per §1.4: NOT an "Unholy Trinity" — no divine Trinity exists to parody. This is a strictly operational command hierarchy.
+
 | Role | Identity | CANNOT BE CHANGED |
 |------|----------|-------------------|
-| The Dragon | SATAN | ✓ Locked |
-| The Beast / Apollyon | OHYA (son of Shemyaza) | ✓ Locked |
-| The False Prophet | AZAZEL | ✓ Locked |
-| The Whore of Babylon | NAAMAH | ✓ Locked |
+| The Dragon (Empowerer) | SATAN | ✓ Locked |
+| The Beast / Apollyon (Political Ruler) | OHYA (son of Shemyaza) | ✓ Locked |
+| The False Prophet (Tech/Spiritual Enforcer) | AZAZEL | ✓ Locked |
+| The Whore of Babylon (Cult Architect) | NAAMAH | ✓ Locked |
 
 ### §3.2 — The Protagonists (LOCKED)
 | Role | Identity | CANNOT BE CHANGED |
@@ -452,7 +461,7 @@ The Constitution can ONLY be amended when:
 
 ### §7.2 — What Cannot Be Amended
 - Article I (Theological Axioms) — these reflect Scripture itself
-- Article III, §3.1 (Unholy Trinity identities) — foundational to all plotting
+- Article III, §3.1 (Satanic Triumvirate identities) — foundational to all plotting
 - Article V, §5.2 (What MUST happen) — these are prophetic guarantees
 
 ---
@@ -774,18 +783,18 @@ This article establishes the canonical nature, alignment, and narrative function
 
 ---
 
-### §11.3 — The Horsemen vs. The Unholy Trinity (LOCKED)
+### §11.3 — The Horsemen vs. The Satanic Triumvirate (LOCKED)
 
-**Constitutional Principle:** The Unholy Trinity wants an *orderly* apocalypse they can control. The Horsemen represent **uncontrollable divine judgment** that disrupts everyone's plans.
+**Constitutional Principle:** The Triumvirate wants an *orderly* apocalypse they can control. The Horsemen represent **uncontrollable divine judgment** that disrupts everyone's plans.
 
-| Horseman | Conflict with Unholy Trinity |
+| Horseman | Conflict with Triumvirate |
 |----------|------------------------------|
 | **Conquest** | The *true* conqueror vs. Ohya's false global dominion — their conquests compete |
 | **War** | Unleashes chaos the Beast wants to *control*, not suffer |
 | **Famine** | Disrupts Azazel's technological infrastructure |
 | **Thanatos** | Takes souls before Naamah can corrupt them, before the Beast can mark them |
 
-The Unholy Trinity is *furious* that they cannot control the Horsemen. These are not their allies — these are divine judgments that hurt *everyone*, including the enemy.
+The Triumvirate is *furious* that they cannot control the Horsemen. These are not their allies — these are divine judgments that hurt *everyone*, including the enemy.
 
 ---
 
@@ -1393,11 +1402,13 @@ This section establishes which documents are authoritative, their order of prece
 
 This framework governs ALL lore decisions:
 
-### The Unholy Trinity
+### The Satanic Triumvirate
+
+> Per §1.4: Operational hierarchy, not a parody of any divine Trinity.
 
 | Role | Identity | Notes |
 |------|----------|-------|
-| **The Dragon** | SATAN | Empowers the Beast and False Prophet |
+| **The Dragon (Empowerer)** | SATAN | Empowers the Beast and False Prophet |
 | **Apollyon / The Beast** | **OHYA** — son of Shemyaza | Nephilim, NOT a Watcher; Apollo = Apollyon |
 | **The False Prophet** | **AZAZEL** — the teacher | Separate prison (Dudael), separate release |
 | **The Whore of Babylon** | **NAAMAH** — Ohya's mother | Facilitates her son's vessels through history |
@@ -4270,18 +4281,18 @@ She didn't escape tribulation (not a Philadelphian). She **overcame through it**
 
 ---
 
-## THE UNHOLY TRINITY VS. THE HOLY COUNTER-STRUCTURE
+## THE SATANIC TRIUMVIRATE VS. THE HOLY COUNTER-STRUCTURE
 
-### The Satanic Parody (Revelation 13, 17)
+### The Operational Hierarchy (Revelation 13, 17)
 
-Satan always counterfeits. The end times reveal an **Unholy Trinity** that mirrors and mocks the Divine:
+> **Per §1.4 (Binitarian Paradigm):** The Triumvirate is NOT a parody of a divine Trinity — no such Trinity exists. It is a strictly operational command structure: Empowerer → Ruler → Enforcer. The table below maps *functional roles*, not theological counterfeits.
 
-| Role | Divine | Satanic Counterfeit |
-|------|--------|---------------------|
-| **Father** | God the Father | Satan/The Dragon |
-| **Son** | Christ (the King) | OHYA/Apollyon/Beast (political power) |
-| **Spirit** | Holy Spirit (truth, conviction) | Azazel/False Prophet (signs, deception) |
-| **Bride** | The Church (collective) | Naamah/Whore of Babylon (Ohya's mother, seductress) |
+| Function | Heaven's Reality | Satanic Counterfeit |
+|----------|------------------|---------------------|
+| **Sovereign Authority** | God the Father | Satan/The Dragon (empowers but does not rule directly) |
+| **Visible Ruler** | Christ the King | OHYA/Apollyon/Beast (political power, demands worship) |
+| **Enforcement/Signs** | God's power (Holy Spirit) working through creation | Azazel/False Prophet (signs, deception, tech infrastructure) |
+| **Cultic Seduction** | The Bride of Christ (the Church) | Naamah/Whore of Babylon (Ohya's mother, seductress) |
 
 ### The Beast and False Prophet: A Nephilim and a Watcher
 

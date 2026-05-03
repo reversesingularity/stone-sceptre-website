@@ -31,6 +31,7 @@ PYTHON_SERVICES = {
     "theological_guard": "http://host.docker.internal:8770",
     "conductor":        "http://host.docker.internal:8771",
     "content_strategist": "http://host.docker.internal:8772",
+    "audiobook_prep":   "http://host.docker.internal:8776",
 }
 
 # File paths as seen from INSIDE the n8n container
@@ -161,6 +162,11 @@ def wf_swarm_dispatch():
                                 "conditions": {"options": {"caseSensitive": False},
                                     "conditions": [{"leftValue": "={{ $json.body.job_type }}", "rightValue": "nightly_audit", "operator": {"type": "string", "operation": "equals"}}]},
                                 "renameOutput": True, "outputKey": "nightly_audit"
+                            },
+                            {
+                                "conditions": {"options": {"caseSensitive": False},
+                                    "conditions": [{"leftValue": "={{ $json.body.job_type }}", "rightValue": "audiobook_assemble", "operator": {"type": "string", "operation": "equals"}}]},
+                                "renameOutput": True, "outputKey": "audiobook_assemble"
                             },
                         ]
                     },
@@ -1645,6 +1651,182 @@ def wf_nz_grant_monitor():
     }
 
 
+def wf_audiobook_assembler():
+    """WF15: Audiobook Assembler — /webhook/audiobook-assemble
+    Runs all 4 audiobook pre-production stages (sanitize → machine-ear →
+    production-manifest → diarize-hybrid) via audiobook_prep_server (:8776).
+    Body: {"book": 2|3|4|5}
+    """
+    ab_url = PYTHON_SERVICES.get("audiobook_prep", "http://host.docker.internal:8776")
+    return {
+        "name":   "TNC_WF15_AUDIOBOOK_ASSEMBLER",
+        "active": True,
+        "nodes": [
+            {
+                "id":          "ab-webhook",
+                "name":        "Audiobook Assemble Webhook",
+                "type":        "n8n-nodes-base.webhook",
+                "typeVersion": 2,
+                "position":    [100, 300],
+                "parameters": {
+                    "httpMethod":   "POST",
+                    "path":         "audiobook-assemble",
+                    "responseMode": "responseNode",
+                    "options":      {}
+                }
+            },
+            {
+                "id":          "ab-sanitize",
+                "name":        "Stage 1 Sanitize",
+                "type":        "n8n-nodes-base.httpRequest",
+                "typeVersion": 4.2,
+                "position":    [340, 300],
+                "parameters": {
+                    "method":      "POST",
+                    "url":         f"{ab_url}/sanitize",
+                    "sendBody":    True,
+                    "specifyBody": "json",
+                    "jsonBody":    "={{ JSON.stringify({ book: $json.body.book || 2 }) }}"
+                }
+            },
+            {
+                "id":          "ab-machine-ear",
+                "name":        "Stage 2 Machine Ear",
+                "type":        "n8n-nodes-base.httpRequest",
+                "typeVersion": 4.2,
+                "position":    [580, 300],
+                "parameters": {
+                    "method":      "POST",
+                    "url":         f"{ab_url}/machine-ear",
+                    "sendBody":    True,
+                    "specifyBody": "json",
+                    "jsonBody":    "={{ JSON.stringify({ book: $('Audiobook Assemble Webhook').item.json.body.book || 2 }) }}"
+                }
+            },
+            {
+                "id":          "ab-manifest",
+                "name":        "Stage 3 Production Manifest",
+                "type":        "n8n-nodes-base.httpRequest",
+                "typeVersion": 4.2,
+                "position":    [820, 300],
+                "parameters": {
+                    "method":      "POST",
+                    "url":         f"{ab_url}/production-manifest",
+                    "sendBody":    True,
+                    "specifyBody": "json",
+                    "jsonBody":    "={{ JSON.stringify({ book: $('Audiobook Assemble Webhook').item.json.body.book || 2 }) }}"
+                }
+            },
+            {
+                "id":          "ab-diarize",
+                "name":        "Stage 4 Diarize Hybrid",
+                "type":        "n8n-nodes-base.httpRequest",
+                "typeVersion": 4.2,
+                "position":    [1060, 300],
+                "parameters": {
+                    "method":      "POST",
+                    "url":         f"{ab_url}/diarize-hybrid",
+                    "sendBody":    True,
+                    "specifyBody": "json",
+                    "jsonBody":    "={{ JSON.stringify({ book: $('Audiobook Assemble Webhook').item.json.body.book || 2 }) }}"
+                }
+            },
+            {
+                "id":          "ab-check-flags",
+                "name":        "Review Required?",
+                "type":        "n8n-nodes-base.if",
+                "typeVersion": 2,
+                "position":    [1300, 300],
+                "parameters": {
+                    "conditions": {
+                        "options":    {"caseSensitive": True, "leftValue": "", "typeValidation": "strict"},
+                        "conditions": [
+                            {
+                                "leftValue":  "={{ $json.total_flagged }}",
+                                "rightValue": 0,
+                                "operator":   {"type": "number", "operation": "gt"}
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id":          "ab-write-flags",
+                "name":        "Write Flag Summary",
+                "type":        "n8n-nodes-base.code",
+                "typeVersion": 2,
+                "position":    [1540, 200],
+                "parameters": {
+                    "jsCode": (
+                        "const d = $input.first().json;\n"
+                        "const fs = require('fs');\n"
+                        "const msg = `[${new Date().toISOString()}] AUDIOBOOK book=${d.book||'?'} "
+                        "REVIEW REQUIRED: ${d.total_flagged||0} lines flagged. "
+                        "Report: ${d.report_path||'?'}\\n`;\n"
+                        "try { fs.appendFileSync('/data/TNC/LOGS/audiobook_pipeline.jsonl', msg); } catch(e) {}\n"
+                        "return [{ json: d }];"
+                    )
+                }
+            },
+            {
+                "id":          "ab-log",
+                "name":        "Log Assembly",
+                "type":        "n8n-nodes-base.code",
+                "typeVersion": 2,
+                "position":    [1540, 400],
+                "parameters": {
+                    "jsCode": (
+                        "const d = $input.first().json;\n"
+                        "const fs = require('fs');\n"
+                        "const msg = `[${new Date().toISOString()}] AUDIOBOOK book=${d.book||'?'} "
+                        "auto_rate=${d.auto_rate_pct||'?'}% "
+                        "report=${d.report_path||'?'}\\n`;\n"
+                        "try { fs.appendFileSync('/data/TNC/LOGS/audiobook_pipeline.jsonl', msg); } catch(e) {}\n"
+                        "return [{ json: d }];"
+                    )
+                }
+            },
+            {
+                "id":          "ab-respond",
+                "name":        "Respond",
+                "type":        "n8n-nodes-base.respondToWebhook",
+                "typeVersion": 1.1,
+                "position":    [1780, 300],
+                "parameters": {
+                    "respondWith": "json",
+                    "responseBody": (
+                        "={{ JSON.stringify({"
+                        "  status: 'ok',"
+                        "  book: $node['Stage 4 Diarize Hybrid'].json.book,"
+                        "  auto_tagged: $node['Stage 4 Diarize Hybrid'].json.total_auto,"
+                        "  flagged: $node['Stage 4 Diarize Hybrid'].json.total_flagged,"
+                        "  auto_rate_pct: $node['Stage 4 Diarize Hybrid'].json.auto_rate_pct,"
+                        "  output_root: $node['Stage 4 Diarize Hybrid'].json.output_dir,"
+                        "  report: $node['Stage 4 Diarize Hybrid'].json.report_path"
+                        "}) }}"
+                    )
+                }
+            }
+        ],
+        "connections": {
+            "Audiobook Assemble Webhook": {"main": [[{"node": "Stage 1 Sanitize",          "type": "main", "index": 0}]]},
+            "Stage 1 Sanitize":           {"main": [[{"node": "Stage 2 Machine Ear",        "type": "main", "index": 0}]]},
+            "Stage 2 Machine Ear":        {"main": [[{"node": "Stage 3 Production Manifest","type": "main", "index": 0}]]},
+            "Stage 3 Production Manifest":{"main": [[{"node": "Stage 4 Diarize Hybrid",     "type": "main", "index": 0}]]},
+            "Stage 4 Diarize Hybrid":     {"main": [[{"node": "Review Required?",           "type": "main", "index": 0}]]},
+            "Review Required?": {
+                "main": [
+                    [{"node": "Write Flag Summary", "type": "main", "index": 0}],
+                    [{"node": "Log Assembly",        "type": "main", "index": 0}],
+                ]
+            },
+            "Write Flag Summary": {"main": [[{"node": "Respond", "type": "main", "index": 0}]]},
+            "Log Assembly":       {"main": [[{"node": "Respond", "type": "main", "index": 0}]]},
+        },
+        "settings": {"executionOrder": "v1"}
+    }
+
+
 WORKFLOWS_TO_DEPLOY = [
     wf_swarm_dispatch,
     wf_nemoclaw_file_event,
@@ -1663,6 +1845,8 @@ WORKFLOWS_TO_DEPLOY = [
     wf_social_content,
     wf_seo_serialization,
     wf_nz_grant_monitor,
+    # Phase 6 addition — Audiobook Pre-Production Pipeline
+    wf_audiobook_assembler,
 ]
 
 

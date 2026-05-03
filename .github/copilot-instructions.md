@@ -173,14 +173,18 @@ This series is **Christian apocalyptic fiction** grounded in:
 
 **Core theological convictions:**
 
+- **Binitarian Godhead (SERIES_BIBLE §1.4 — LOCKED):** God the Father and Jesus Christ the Son are two distinct, co-eternal divine Persons. The Holy Spirit is NOT a Person but the shared essence, mind, and projecting power of God. The Trinity doctrine is a Harlot invention (Mystery Babylon → institutional Catholicism → Nicaea/Constantinople).
 - Jesus Christ is the Son of God, fully divine and fully human
 - Salvation through Christ alone
 - Angels/demons are created beings, not deities
 - Satan is a defeated foe (Calvary victory, awaiting final judgment)
 - The Bride of Christ (Church) will be rescued before final tribulation
+- **The Satanic Triumvirate (Satan/Ohya/Azazel) is an operational command hierarchy, NOT an "Unholy Trinity."** No divine Trinity exists to parody.
 
 **Avoid:**
 
+- Trinitarian language (do not refer to "the Third Person," "the Trinity," or the Holy Spirit as a Person)
+- Referring to Satan/Beast/False Prophet as an "Unholy Trinity" (use "Satanic Triumvirate" or "command triad")
 - Gnostic heresies (matter is evil, secret knowledge saves)
 - Treating Watchers/Nephilim as sympathetic or redeemable
 - Undermining biblical eschatology

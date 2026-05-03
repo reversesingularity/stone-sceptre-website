@@ -1,7 +1,7 @@
 # Author Task List — The Nephilim Chronicles
 
 **Generated:** April 9, 2026
-**Last Updated:** April 26, 2026 (Book 3 website deployed)
+**Last Updated:** May 4, 2026 (AUDIOBOOK_ASSEMBLER pipeline deployed)
 **Status:** Active
 
 ---
@@ -46,8 +46,11 @@ All HITL gates and theological review flags from prior sessions have been resolv
 - [X] **n8n expanded to 14 workflows** — WF11 (social), WF12 (SEO), WF13 (NZ grants) added; PATCH→PUT bug fixed
 - [X] **day1_ops Phases 1–5 all PASS** — json_mode fixed (`response_format: json_object`); all canary tests green
 - [X] **TNC_Swarm_Startup registered** — Windows Task Scheduler logon task; all 8 servers auto-start
+- [X] **HAWK Swarm upgraded to v2.2** — Agent 15 (Audiobook Prep) added; 15 agents, 15 workflows, 10 Python services (May 4, 2026)
+- [X] **AUDIOBOOK_ASSEMBLER pipeline deployed** — `INFRA/agents/audiobook_prep_server.py` (port 8776), WF15, `CANON/PHONETIC_GLOSSARY.md`, Conductor wired
 - [ ] **Reboot test** — Restart to confirm `TNC_Swarm_Startup` fires at logon *(pending next reboot)*
 - [ ] **Verify logs** — After reboot, check `LOGS/swarm_startup_*.log` for per-server output
+- [ ] **Deploy WF15** — Run `python n8n_deploy_workflows.py` then trigger `POST /webhook/audiobook-assemble` with `{"book": 2}`
 - [X] **Re-run day1_ops smoke test** — Phases 1–5 PASS (2026-04-10); Phase 6 pending formal re-run
 - [X] **Phase 6 (llama-server)** — llama.cpp b8744 CUDA 12.4 installed at `F:\llama-cpp\`, Nemotron 120B UD-IQ3_S (52.74 GiB) downloaded, server listening on :8780 (2026-04-11)
 - [X] **Reboot test** — Standing operational procedure (confirm `TNC_Swarm_Startup` fires at logon on next reboot)

@@ -1376,3 +1376,618 @@
 2026-04-18 12:42:56,774 [NEMOCLAW] INFO   Drift check triggered: 404
 2026-04-18 13:13:03,102 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
 2026-04-18 13:13:03,114 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 13:43:09,272 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 13:43:09,292 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 14:13:15,486 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 14:13:15,508 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 14:43:21,740 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 14:43:21,749 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 15:18:45,045 [NEMOCLAW] INFO ════════════════════════════════════════════════════════════
+2026-04-18 15:18:45,045 [NEMOCLAW] INFO   NEMOCLAW DAEMON — The Nephilim Chronicles v2.0
+2026-04-18 15:18:45,046 [NEMOCLAW] INFO   Heartbeat loop running. Press Ctrl+C to stop.
+2026-04-18 15:18:45,046 [NEMOCLAW] INFO ════════════════════════════════════════════════════════════
+2026-04-18 15:20:13,938 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'local_nemotron']
+2026-04-18 15:20:13,946 [NEMOCLAW] INFO Watchdog: monitoring book_3/
+2026-04-18 15:20:13,947 [NEMOCLAW] INFO Watchdog: monitoring book_4/
+2026-04-18 15:20:13,948 [NEMOCLAW] INFO Watchdog: monitoring book_5/
+2026-04-18 15:20:13,952 [NEMOCLAW] INFO Watchdog observer started — event-driven (was 60s polling).
+2026-04-18 15:20:28,424 [NEMOCLAW] WARNING Services DOWN: ['local_nemotron']
+2026-04-18 15:20:28,426 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 15:20:28,461 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 15:50:30,935 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 15:50:31,002 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 16:20:37,931 [NEMOCLAW] INFO Drift Alert: Checking Ch05-14_Resolution.md
+2026-04-18 16:20:37,968 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 16:50:44,724 [NEMOCLAW] INFO Drift Alert: Checking Ch05-14_Resolution.md
+2026-04-18 16:50:44,743 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 17:20:51,608 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 17:20:51,632 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 17:50:58,279 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_04_TheGauntlet.md
+2026-04-18 17:50:58,305 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 18:21:05,213 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_06_TheBurningChoir.md
+2026-04-18 18:21:05,242 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 18:51:12,104 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-18 18:51:12,116 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 19:21:18,923 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-18 19:21:18,951 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 19:51:25,646 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-18 19:51:25,669 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 20:05:41,537 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-18 20:05:41,545 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_06_TheBurningChoir.md
+2026-04-18 20:05:49,064 [NEMOCLAW] INFO Processing: CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-18 20:05:49,093 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-18 20:05:52,055 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-18 20:05:54,194 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-18 20:05:54,195 [NEMOCLAW] INFO Processing: CHAPTER_06_TheBurningChoir.md
+2026-04-18 20:05:54,202 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-18 20:05:54,293 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-18 20:05:56,344 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-18 20:21:29,782 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-18 20:21:29,807 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 20:38:19,866 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_07_TheProphet.md
+2026-04-18 20:38:23,061 [NEMOCLAW] INFO Processing: CHAPTER_07_TheProphet.md
+2026-04-18 20:38:23,090 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-18 20:38:24,341 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-18 20:38:26,396 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-18 20:51:39,748 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_07_TheProphet.md
+2026-04-18 20:51:39,773 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 21:21:46,401 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_08_EarthInterludeI.md
+2026-04-18 21:21:46,429 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 21:28:59,276 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_08_EarthInterludeI.md
+2026-04-18 21:29:00,894 [NEMOCLAW] INFO Processing: CHAPTER_08_EarthInterludeI.md
+2026-04-18 21:29:00,917 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-18 21:29:02,981 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-18 21:29:05,060 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-18 21:51:47,233 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_08_EarthInterludeI.md
+2026-04-18 21:51:47,245 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 22:06:13,598 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_09_TheThief.md
+2026-04-18 22:06:16,023 [NEMOCLAW] INFO Processing: CHAPTER_09_TheThief.md
+2026-04-18 22:06:16,048 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-18 22:06:17,767 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-18 22:06:19,816 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-18 22:21:47,804 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_09_TheThief.md
+2026-04-18 22:21:47,837 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 22:47:22,077 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_08_EarthInterludeI.md
+2026-04-18 22:47:30,259 [NEMOCLAW] INFO Processing: CHAPTER_08_EarthInterludeI.md
+2026-04-18 22:47:30,293 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-18 22:47:31,386 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-18 22:47:33,442 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-18 22:51:53,456 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_09_TheThief.md
+2026-04-18 22:51:53,480 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 23:07:19,462 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_10_TheBaptism.md
+2026-04-18 23:07:41,171 [NEMOCLAW] INFO Processing: CHAPTER_10_TheBaptism.md
+2026-04-18 23:07:41,182 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-18 23:07:42,167 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-18 23:07:44,238 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-18 23:22:03,216 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_10_TheBaptism.md
+2026-04-18 23:22:03,230 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-18 23:52:09,877 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-18 23:52:09,911 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 00:22:16,322 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 00:22:16,346 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 00:33:57,692 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-19 00:38:25,525 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_11_EarthInterludeII.md
+2026-04-19 00:38:27,707 [NEMOCLAW] INFO Processing: CHAPTER_11_EarthInterludeII.md
+2026-04-19 00:38:28,027 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 00:38:33,566 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 00:38:35,647 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 00:38:58,072 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-19 00:52:17,057 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 00:52:17,118 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 01:22:23,923 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 01:22:23,951 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 01:45:06,216 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-19 01:45:06,244 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-19 01:52:30,710 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 01:52:30,740 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 02:22:37,554 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 02:22:37,588 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 02:52:44,125 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 02:52:44,132 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 03:22:50,853 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 03:22:50,887 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 03:52:57,544 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 03:52:57,557 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 04:23:04,059 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 04:23:04,085 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 04:53:10,981 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 04:53:11,005 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 05:23:17,527 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 05:23:17,550 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 05:53:24,466 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 05:53:24,477 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 06:23:26,744 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 06:23:26,772 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 06:53:33,433 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 06:53:33,457 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 07:23:39,974 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 07:23:39,994 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 07:53:46,747 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 07:53:46,774 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 08:23:53,482 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 08:23:53,516 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 08:54:00,279 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 08:54:00,309 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 09:24:06,718 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 09:24:06,748 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 09:54:13,414 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 09:54:13,448 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 10:24:19,967 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 10:24:19,979 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 10:54:26,340 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 10:54:26,367 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 11:24:32,879 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 11:24:32,887 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 11:54:39,545 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 11:54:39,556 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 12:24:46,257 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 12:24:46,283 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 12:54:52,998 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 12:54:53,029 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 13:24:59,871 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 13:24:59,894 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 13:55:01,982 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_11_EarthInterludeII.md
+2026-04-19 13:55:02,007 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 14:25:08,845 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_12_TheBriefing.md
+2026-04-19 14:25:08,871 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 14:35:53,506 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_12_TheBriefing.md
+2026-04-19 14:36:12,065 [NEMOCLAW] INFO Processing: CHAPTER_12_TheBriefing.md
+2026-04-19 14:36:12,082 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 14:36:15,486 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 14:36:17,580 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 14:55:11,021 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_13_EarthInterludeIII.md
+2026-04-19 14:55:11,033 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 15:16:46,381 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 15:21:54,064 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 15:25:14,100 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_13_EarthInterludeIII.md
+2026-04-19 15:25:14,345 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 15:27:01,890 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 15:32:09,523 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 15:37:14,179 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 15:42:21,843 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 15:47:29,537 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 15:52:37,237 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 15:55:17,266 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_13_EarthInterludeIII.md
+2026-04-19 15:55:17,447 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 15:57:44,958 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 16:16:22,708 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_13_EarthInterludeIII.md
+2026-04-19 16:16:28,398 [NEMOCLAW] INFO Processing: CHAPTER_13_EarthInterludeIII.md
+2026-04-19 16:16:28,505 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 16:16:31,501 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 16:16:33,642 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 16:25:22,607 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_14_TheThreshold.md
+2026-04-19 16:25:22,637 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 16:55:29,320 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_14_TheThreshold.md
+2026-04-19 16:55:29,332 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 17:16:34,698 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_14_TheThreshold.md
+2026-04-19 17:16:37,114 [NEMOCLAW] INFO Processing: CHAPTER_14_TheThreshold.md
+2026-04-19 17:16:37,128 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 17:16:38,937 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 17:16:41,012 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 17:25:30,025 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_14_TheThreshold.md
+2026-04-19 17:25:30,054 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 17:55:36,871 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_15_Jerusalem.md
+2026-04-19 17:55:36,903 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 18:12:01,358 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_15_Jerusalem.md
+2026-04-19 18:12:10,344 [NEMOCLAW] INFO Processing: CHAPTER_15_Jerusalem.md
+2026-04-19 18:12:10,391 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 18:12:12,854 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 18:12:14,929 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 18:25:38,359 [NEMOCLAW] INFO Drift Alert: Checking EPILOGUE_Triptych.md
+2026-04-19 18:25:38,391 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 18:40:25,070 [NEMOCLAW] INFO File change detected (watchdog): EPILOGUE_Triptych.md
+2026-04-19 18:40:31,749 [NEMOCLAW] INFO Processing: EPILOGUE_Triptych.md
+2026-04-19 18:40:31,769 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 18:40:32,889 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 18:40:34,956 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 18:55:38,486 [NEMOCLAW] INFO Drift Alert: Checking BOOK_3_APPENDICES.md
+2026-04-19 18:55:38,519 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 19:04:20,389 [NEMOCLAW] INFO File change detected (watchdog): BOOK_3_APPENDICES.md
+2026-04-19 19:04:23,064 [NEMOCLAW] INFO Processing: BOOK_3_APPENDICES.md
+2026-04-19 19:04:23,099 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 19:04:24,123 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 19:04:26,190 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 19:25:44,070 [NEMOCLAW] INFO Drift Alert: Checking BOOK_3_FRONT_MATTER.md
+2026-04-19 19:25:44,102 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 19:40:58,477 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_15_Jerusalem.md
+2026-04-19 19:41:07,506 [NEMOCLAW] INFO Processing: CHAPTER_15_Jerusalem.md
+2026-04-19 19:41:07,530 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 19:41:09,398 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 19:41:11,482 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 19:52:53,119 [NEMOCLAW] INFO File change detected (watchdog): DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-19 19:52:54,915 [NEMOCLAW] INFO Processing: DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-19 19:52:54,945 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 19:52:56,023 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 19:52:58,074 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 19:55:48,081 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-19 19:55:48,090 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 20:13:07,979 [NEMOCLAW] INFO File change detected (watchdog): BOOK_3_FRONT_MATTER.md
+2026-04-19 20:13:15,859 [NEMOCLAW] INFO Processing: BOOK_3_FRONT_MATTER.md
+2026-04-19 20:13:15,868 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 20:13:16,897 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 20:13:18,961 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 20:22:11,111 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 20:25:51,161 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-19 20:25:51,316 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 20:27:18,786 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-19 20:55:51,696 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_13_EarthInterludeIII.md
+2026-04-19 20:55:51,805 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 21:25:58,440 [NEMOCLAW] INFO Drift Alert: Checking EPILOGUE_Triptych.md
+2026-04-19 21:25:58,477 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 21:35:22,100 [NEMOCLAW] INFO File change detected (watchdog): Full Book Cover Design Concept.md
+2026-04-19 21:35:27,406 [NEMOCLAW] INFO Processing: Full Book Cover Design Concept.md
+2026-04-19 21:35:27,455 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 21:35:30,339 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 21:35:32,390 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 21:56:00,237 [NEMOCLAW] INFO Drift Alert: Checking Full Book Cover Design Concept.md
+2026-04-19 21:56:00,259 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 22:14:41,587 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_02_TheFrequencyBeneathTheCure.md
+2026-04-19 22:14:47,228 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_09_TheThief.md
+2026-04-19 22:14:47,238 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_15_Jerusalem.md
+2026-04-19 22:14:47,239 [NEMOCLAW] INFO File change detected (watchdog): EPILOGUE_Triptych.md
+2026-04-19 22:14:48,114 [NEMOCLAW] INFO Processing: CHAPTER_02_TheFrequencyBeneathTheCure.md
+2026-04-19 22:14:48,141 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 22:14:50,357 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 22:14:52,425 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 22:14:52,425 [NEMOCLAW] INFO Processing: CHAPTER_09_TheThief.md
+2026-04-19 22:14:52,450 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 22:14:52,531 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 22:14:54,586 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 22:14:54,587 [NEMOCLAW] INFO Processing: CHAPTER_15_Jerusalem.md
+2026-04-19 22:14:54,602 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 22:14:54,688 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 22:14:56,753 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 22:14:56,753 [NEMOCLAW] INFO Processing: EPILOGUE_Triptych.md
+2026-04-19 22:14:56,771 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 22:14:56,831 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 22:14:58,889 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 22:26:07,820 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_03_TheLastCartography.md
+2026-04-19 22:26:07,854 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 22:56:14,592 [NEMOCLAW] INFO Drift Alert: Checking BOOK_3_FRONT_MATTER.md
+2026-04-19 22:56:14,604 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 23:04:01,146 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-19 23:04:01,158 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_11_EarthInterludeII.md
+2026-04-19 23:04:09,032 [NEMOCLAW] INFO Processing: CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-19 23:04:09,053 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 23:04:11,212 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 23:04:13,306 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 23:04:13,306 [NEMOCLAW] INFO Processing: CHAPTER_11_EarthInterludeII.md
+2026-04-19 23:04:13,334 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 23:04:13,421 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 23:04:15,484 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 23:16:11,080 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_12_TheBriefing.md
+2026-04-19 23:16:11,085 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_13_EarthInterludeIII.md
+2026-04-19 23:16:11,088 [NEMOCLAW] INFO File change detected (watchdog): Full Book Cover Design Concept.md
+2026-04-19 23:16:18,990 [NEMOCLAW] INFO Processing: CHAPTER_12_TheBriefing.md
+2026-04-19 23:16:18,999 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 23:16:20,097 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 23:16:22,169 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 23:16:22,169 [NEMOCLAW] INFO Processing: CHAPTER_13_EarthInterludeIII.md
+2026-04-19 23:16:22,198 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 23:16:22,276 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 23:16:24,322 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 23:16:24,322 [NEMOCLAW] INFO Processing: Full Book Cover Design Concept.md
+2026-04-19 23:16:24,331 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 23:16:24,393 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 23:16:26,484 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 23:26:15,454 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_09_TheThief.md
+2026-04-19 23:26:15,482 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-19 23:37:00,218 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_02_TheFrequencyBeneathTheCure.md
+2026-04-19 23:37:04,507 [NEMOCLAW] INFO Processing: CHAPTER_02_TheFrequencyBeneathTheCure.md
+2026-04-19 23:37:04,539 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 23:37:05,674 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 23:37:07,749 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 23:52:14,343 [NEMOCLAW] INFO File change detected (watchdog): BOOK_3_FRONT_MATTER.md
+2026-04-19 23:52:21,072 [NEMOCLAW] INFO Processing: BOOK_3_FRONT_MATTER.md
+2026-04-19 23:52:21,109 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-19 23:52:22,183 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-19 23:52:24,255 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-19 23:56:18,739 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_03_TheLastCartography.md
+2026-04-19 23:56:18,760 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 00:26:18,781 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 00:26:18,809 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 00:56:25,713 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 00:56:25,724 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 01:26:28,032 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 01:26:28,061 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 01:45:06,111 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-20 01:45:06,127 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-20 01:56:35,116 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 01:56:35,127 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 02:17:45,434 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-20 02:22:48,098 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-20 02:26:38,138 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 02:26:38,442 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 02:27:45,976 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-20 02:56:38,613 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 02:56:38,673 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 03:26:45,799 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 03:26:45,828 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 03:56:52,705 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 03:56:52,740 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 04:26:59,812 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 04:26:59,852 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 04:57:06,655 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 04:57:06,679 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 05:27:13,739 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 05:27:13,763 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 05:57:20,599 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 05:57:20,621 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 06:27:27,479 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 06:27:27,515 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 06:57:34,435 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 06:57:34,470 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 07:27:41,464 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 07:27:41,475 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 07:57:48,433 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 07:57:48,448 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 08:28:05,327 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 08:28:05,337 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 08:58:07,721 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 08:58:07,738 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 09:28:14,502 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 09:28:14,529 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 09:58:21,513 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 09:58:21,536 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 10:28:28,433 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 10:28:28,455 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 10:58:35,349 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 10:58:35,370 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 11:28:42,191 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 11:28:42,201 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 11:58:49,061 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 11:58:49,087 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 12:28:55,805 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 12:28:55,834 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 12:59:02,682 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 12:59:02,702 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 13:29:09,486 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 13:29:09,496 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 13:59:16,282 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 13:59:16,302 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 14:29:23,139 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 14:29:23,164 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 14:59:30,048 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 14:59:30,073 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 15:20:43,191 [NEMOCLAW] INFO File change detected (watchdog): DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 15:20:43,296 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_03_TheLastCartography.md
+2026-04-20 15:20:43,445 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_09_TheThief.md
+2026-04-20 15:20:47,990 [NEMOCLAW] INFO Processing: DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 15:20:48,000 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 15:20:49,892 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 15:20:51,977 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 15:20:51,978 [NEMOCLAW] INFO Processing: CHAPTER_03_TheLastCartography.md
+2026-04-20 15:20:51,996 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 15:20:52,079 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 15:20:54,158 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 15:20:54,158 [NEMOCLAW] INFO Processing: CHAPTER_09_TheThief.md
+2026-04-20 15:20:54,185 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 15:20:54,237 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 15:20:56,310 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 15:29:35,182 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 15:29:35,208 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 15:59:42,019 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 15:59:42,053 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 16:29:44,419 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 16:29:44,452 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 16:59:51,189 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-20 16:59:51,205 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 17:29:58,038 [NEMOCLAW] INFO Drift Alert: Checking CHAPTER_13_EarthInterludeIII.md
+2026-04-20 17:29:58,046 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 18:00:04,820 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 18:00:04,861 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 18:30:11,714 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 18:30:11,725 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 19:00:18,677 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 19:00:18,693 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 19:05:50,903 [NEMOCLAW] INFO File change detected (watchdog): book3-master-prompt-template-for-grok.md
+2026-04-20 19:05:53,161 [NEMOCLAW] INFO Processing: book3-master-prompt-template-for-grok.md
+2026-04-20 19:05:53,183 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 19:05:55,817 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 19:05:57,916 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 19:07:35,313 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-20 19:12:42,798 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-20 19:17:50,606 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-20 19:30:19,808 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 19:30:19,945 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 19:58:47,154 [NEMOCLAW] INFO File change detected (watchdog): DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 19:58:47,156 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-20 19:58:47,157 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_06_TheBurningChoir.md
+2026-04-20 19:58:47,158 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_07_TheProphet.md
+2026-04-20 19:58:47,158 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_10_TheBaptism.md
+2026-04-20 19:58:47,159 [NEMOCLAW] INFO File change detected (watchdog): CHAPTER_13_EarthInterludeIII.md
+2026-04-20 19:58:56,835 [NEMOCLAW] INFO Processing: DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 19:58:56,872 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 19:59:00,202 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 19:59:02,297 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 19:59:02,298 [NEMOCLAW] INFO Processing: CHAPTER_05_TheLogisticsOfMercy.md
+2026-04-20 19:59:02,326 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 19:59:02,425 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 19:59:04,480 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 19:59:04,481 [NEMOCLAW] INFO Processing: CHAPTER_06_TheBurningChoir.md
+2026-04-20 19:59:04,507 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 19:59:04,618 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 19:59:06,679 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 19:59:06,679 [NEMOCLAW] INFO Processing: CHAPTER_07_TheProphet.md
+2026-04-20 19:59:06,716 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 19:59:06,902 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 19:59:08,975 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 19:59:08,975 [NEMOCLAW] INFO Processing: CHAPTER_10_TheBaptism.md
+2026-04-20 19:59:09,006 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 19:59:09,195 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 19:59:11,233 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 19:59:21,233 [NEMOCLAW] INFO Processing: CHAPTER_13_EarthInterludeIII.md
+2026-04-20 19:59:21,266 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-20 19:59:21,482 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-20 19:59:23,542 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-20 20:00:23,548 [NEMOCLAW] INFO Drift Alert: Checking DOPAMINE_LADDER_READER_REACTION_MATRIX_BOOK_3_COMPLETE.md
+2026-04-20 20:00:23,576 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 20:30:30,389 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-20 20:30:30,435 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 21:00:37,039 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-20 21:00:37,067 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 21:30:43,888 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-20 21:30:43,922 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 22:00:50,462 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-20 22:00:50,472 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 22:30:57,031 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-20 22:30:57,063 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 23:01:03,601 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-20 23:01:03,633 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-20 23:31:07,852 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-20 23:31:07,872 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 00:01:14,616 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 00:01:14,645 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 00:29:05,285 [NEMOCLAW] INFO File change detected (watchdog): map-images-prompts-for-grok.md
+2026-04-21 00:29:05,402 [NEMOCLAW] INFO File change detected (watchdog): DEDICATION.md
+2026-04-21 00:29:05,409 [NEMOCLAW] INFO File change detected (watchdog): EPIGRAPH.md
+2026-04-21 00:29:11,441 [NEMOCLAW] INFO Processing: map-images-prompts-for-grok.md
+2026-04-21 00:29:11,453 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-21 00:29:14,863 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-21 00:29:16,947 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-21 00:29:16,947 [NEMOCLAW] INFO Processing: DEDICATION.md
+2026-04-21 00:29:16,967 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-21 00:29:17,064 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-21 00:29:19,125 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-21 00:29:19,125 [NEMOCLAW] INFO Processing: EPIGRAPH.md
+2026-04-21 00:29:19,134 [NEMOCLAW] WARNING   n8n webhook returned 404
+2026-04-21 00:29:19,250 [NEMOCLAW] ERROR   Auto-vectorize failed: 400 Client Error: Bad Request for url: http://localhost:6333/collections/tnc_episodes/points
+2026-04-21 00:29:21,306 [NEMOCLAW] WARNING   Story Prototype extraction failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-21 00:31:21,313 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 00:31:21,333 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 01:01:28,161 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 01:01:28,189 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 01:08:05,293 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-21 01:31:33,383 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 01:31:33,537 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 01:45:07,091 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-21 01:45:07,127 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-21 02:01:40,625 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 02:01:40,648 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 02:31:47,689 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 02:31:47,706 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 03:01:54,664 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 03:01:54,707 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 03:32:01,513 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 03:32:01,540 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 04:02:08,397 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 04:02:08,421 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 04:32:15,288 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 04:32:15,298 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 05:02:22,156 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 05:02:22,182 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 05:32:29,135 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 05:32:29,158 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 06:02:35,953 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 06:02:35,988 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 06:32:42,897 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 06:32:42,914 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 07:02:45,380 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 07:02:45,408 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 07:32:52,466 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 07:32:52,486 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 08:02:59,301 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 08:02:59,334 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 08:33:06,135 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 08:33:06,163 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 09:03:12,994 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 09:03:13,019 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 09:33:19,892 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 09:33:19,914 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 10:03:26,792 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 10:03:26,827 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 10:33:33,737 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 10:33:33,757 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 11:03:40,503 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 11:03:40,536 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 11:33:47,506 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 11:33:47,539 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 12:03:54,467 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 12:03:54,494 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 12:34:01,352 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 12:34:01,378 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 13:04:08,186 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 13:04:08,197 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 13:34:15,105 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 13:34:15,136 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 14:04:21,946 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 14:04:21,978 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 14:34:24,270 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 14:34:24,294 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 15:04:30,984 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 15:04:31,007 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 15:34:37,841 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 15:34:37,865 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 16:04:44,726 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 16:04:44,756 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 16:34:51,692 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 16:34:51,717 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 17:04:58,777 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 17:04:58,809 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 17:35:05,640 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 17:35:05,654 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 18:05:12,834 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 18:05:12,867 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 18:35:20,479 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 18:35:20,506 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 19:05:27,993 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 19:05:28,026 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 19:14:00,110 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-21 19:19:07,676 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-21 19:35:31,194 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 19:35:31,301 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-21 20:05:38,125 [NEMOCLAW] INFO Drift Alert: Checking map-images-prompts-for-grok.md
+2026-04-21 20:05:38,152 [NEMOCLAW] INFO   Drift check triggered: 404
+2026-04-22 10:06:46,189 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-22 10:11:48,643 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-23 19:10:37,565 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-23 22:23:30,625 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-23 22:28:38,240 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-24 00:05:11,083 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-25 18:17:26,313 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-25 18:22:33,692 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-25 18:27:41,049 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-26 00:33:11,316 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-26 00:38:13,717 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-26 00:43:11,092 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-26 00:48:18,503 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-26 00:53:25,946 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-26 01:45:00,512 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-26 01:45:00,649 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-27 01:45:06,030 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-27 01:45:06,100 [NEMOCLAW] INFO   Nightly prep triggered: 404
+2026-04-27 13:05:56,145 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:11:03,507 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:16:10,863 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:21:15,311 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:26:19,728 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:31:24,110 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:36:31,489 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:41:38,866 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:46:46,214 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:51:53,589 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 13:57:00,904 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 14:02:05,278 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 14:07:09,673 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 18:05:41,052 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 18:10:48,389 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 18:46:27,796 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-27 18:51:30,187 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-27 18:56:27,524 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 19:01:34,892 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-27 19:06:42,346 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-28 19:55:25,073 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-28 20:00:26,994 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-28 20:05:24,358 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-28 20:10:31,799 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-29 15:35:16,389 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-29 15:40:18,762 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-29 15:45:16,099 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-29 15:50:23,535 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-29 15:55:30,898 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-30 00:33:12,309 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-30 00:38:14,716 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router', 'agent_9']
+2026-04-30 00:43:12,109 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-30 00:48:19,554 [NEMOCLAW] WARNING Services DOWN: ['nemotron_router']
+2026-04-30 01:45:08,639 [NEMOCLAW] INFO Nightly Prep: triggering cross-book audit pre-load
+2026-04-30 01:45:08,695 [NEMOCLAW] INFO   Nightly prep triggered: 404

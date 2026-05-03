@@ -281,3 +281,180 @@
 2026-04-18 01:18:17,804 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
 2026-04-18 01:18:18,496 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
 2026-04-18 01:24:22,125 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-18 15:18:45,001 [NEMOTRON-ROUTER] INFO Nemotron Tool Router listening on port 8768
+2026-04-18 15:18:45,002 [NEMOTRON-ROUTER] INFO   Primary:   NVIDIA NIM  (nvidia/nemotron-3-8b-base-4k)
+2026-04-18 15:18:45,002 [NEMOTRON-ROUTER] INFO   Secondary: OpenRouter  (nvidia/nemotron-4-340b-instruct)
+2026-04-18 15:18:45,002 [NEMOTRON-ROUTER] INFO   Fallback:  Ollama      (llama3.1)
+2026-04-19 00:33:39,551 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-19 00:33:40,336 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-19 00:33:41,075 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-19 00:35:36,498 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-19 00:35:39,876 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-19 00:35:40,559 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-19 00:35:41,250 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-19 00:39:13,612 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-19 15:14:42,168 [NEMOTRON-ROUTER] INFO Routing task_type='image_prompt' ~6,956 tokens, max_out=1024
+2026-04-19 15:14:42,816 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-19 15:14:43,403 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-19 15:24:45,504 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-19 15:26:09,929 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-19 15:26:12,020 [NEMOTRON-ROUTER] INFO Routing task_type='image_prompt' ~6,955 tokens, max_out=1024
+2026-04-19 15:26:12,683 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-19 15:26:13,242 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-19 15:36:15,329 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-19 15:37:26,938 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-19 15:37:29,025 [NEMOTRON-ROUTER] INFO Routing task_type='image_prompt' ~6,949 tokens, max_out=1024
+2026-04-19 15:37:29,637 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-19 15:37:30,211 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-19 15:47:32,306 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-19 15:49:02,800 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-19 15:49:04,906 [NEMOTRON-ROUTER] INFO Routing task_type='image_prompt' ~6,944 tokens, max_out=1024
+2026-04-19 15:49:05,501 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-19 15:49:06,100 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-19 15:59:08,198 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-19 16:00:25,949 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-19 20:16:59,316 [NEMOTRON-ROUTER] INFO Routing task_type='cross_book_audit' ~14,484 tokens, max_out=4096
+2026-04-19 20:17:00,072 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-19 20:17:00,709 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-19 20:27:02,816 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-19 20:29:52,812 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-20 02:15:45,130 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-20 02:15:45,715 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-20 02:15:46,301 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-20 02:22:40,606 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-20 02:22:42,730 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-20 02:22:43,321 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-20 02:22:43,910 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-20 02:28:44,325 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-20 19:06:40,748 [NEMOTRON-ROUTER] INFO Routing task_type='cross_book_audit' ~19,104 tokens, max_out=4096
+2026-04-20 19:06:41,634 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-20 19:06:42,256 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-20 19:16:44,330 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-20 19:18:33,214 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-21 01:04:27,780 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-21 01:04:28,396 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-21 01:04:29,033 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-21 01:05:15,961 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-21 01:05:19,258 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-21 01:05:19,811 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-21 01:05:20,096 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-21 01:11:22,949 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-21 19:08:49,267 [NEMOTRON-ROUTER] INFO Routing task_type='cross_book_audit' ~21,405 tokens, max_out=4096
+2026-04-21 19:08:50,020 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-21 19:08:50,692 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-21 19:18:52,818 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-21 19:22:51,443 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-22 10:03:30,992 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-22 10:03:31,975 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-22 10:03:32,624 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-22 10:11:25,662 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-22 10:11:27,768 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-22 10:11:28,337 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-22 10:11:28,963 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-22 10:14:00,279 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-23 19:06:49,090 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-23 19:06:49,703 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-23 19:06:50,301 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-23 19:09:15,183 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-23 19:09:18,571 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-23 19:09:19,155 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-23 19:09:19,756 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-23 19:10:31,981 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-23 22:23:06,495 [NEMOTRON-ROUTER] INFO Routing task_type='cross_book_audit' ~21,405 tokens, max_out=4096
+2026-04-23 22:23:07,239 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-23 22:23:07,850 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-23 22:25:16,562 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: 500 Server Error: Internal Server Error for url: http://localhost:8780/v1/chat/completions
+2026-04-23 22:28:38,012 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-24 00:02:49,674 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-24 00:02:50,303 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-24 00:02:50,879 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-24 00:04:27,926 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-24 00:04:31,223 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-24 00:04:31,793 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-24 00:04:32,395 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-24 00:09:09,365 [NEMOTRON-ROUTER] INFO   Local Nemotron success — backend=local_nemotron
+2026-04-25 18:13:08,468 [NEMOTRON-ROUTER] INFO Routing task_type='cross_book_audit' ~21,405 tokens, max_out=4096
+2026-04-25 18:13:09,301 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-25 18:13:09,905 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-25 18:23:11,994 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-25 18:28:12,022 [NEMOTRON-ROUTER] ERROR   All backends failed: ['nvidia_nim: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions', 'openrouter: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions', "local_nemotron: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)", "ollama: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=300)"]
+2026-04-26 00:31:17,369 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-26 00:31:17,961 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-26 00:31:18,601 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-26 00:41:20,651 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-26 00:43:25,291 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-26 00:43:27,360 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-26 00:43:27,935 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-26 00:43:28,547 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-26 00:53:30,623 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-26 00:55:58,799 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-27 13:02:05,709 [NEMOTRON-ROUTER] INFO Routing task_type='cross_book_audit' ~21,405 tokens, max_out=4096
+2026-04-27 13:02:06,686 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-27 13:02:07,285 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-27 13:12:09,357 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-27 13:17:09,361 [NEMOTRON-ROUTER] ERROR   All backends failed: ['nvidia_nim: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions', 'openrouter: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions', "local_nemotron: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)", "ollama: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=300)"]
+2026-04-27 13:17:13,508 [NEMOTRON-ROUTER] INFO Routing task_type='cross_book_audit' ~58,268 tokens, max_out=4096
+2026-04-27 13:17:14,453 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-27 13:17:15,310 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-27 13:27:17,368 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-27 13:32:17,376 [NEMOTRON-ROUTER] ERROR   All backends failed: ['nvidia_nim: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions', 'openrouter: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions', "local_nemotron: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)", "ollama: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=300)"]
+2026-04-27 13:32:19,451 [NEMOTRON-ROUTER] INFO Routing task_type='unknown' ~3,570 tokens, max_out=150
+2026-04-27 13:32:20,272 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-27 13:32:20,941 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-27 13:42:23,012 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-27 13:43:35,405 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-27 13:43:37,501 [NEMOTRON-ROUTER] INFO Routing task_type='unknown' ~3,573 tokens, max_out=150
+2026-04-27 13:43:38,093 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-27 13:43:38,744 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-27 13:53:40,795 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-27 13:55:05,108 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-27 13:55:05,123 [NEMOTRON-ROUTER] INFO Routing task_type='unknown' ~3,517 tokens, max_out=150
+2026-04-27 13:55:05,766 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-27 13:55:06,378 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-27 14:05:08,450 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-27 14:07:06,272 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-27 18:00:39,040 [NEMOTRON-ROUTER] INFO Routing task_type='cross_book_audit' ~21,405 tokens, max_out=4096
+2026-04-27 18:00:40,269 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-27 18:00:40,929 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-27 18:10:42,992 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-27 18:15:43,000 [NEMOTRON-ROUTER] ERROR   All backends failed: ['nvidia_nim: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions', 'openrouter: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions', "local_nemotron: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)", "ollama: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=300)"]
+2026-04-27 18:45:22,386 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-27 18:45:22,968 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-27 18:45:23,794 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-27 18:55:25,855 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-27 18:57:05,925 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-27 18:57:08,023 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-27 18:57:08,615 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-27 18:57:09,255 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-27 19:07:11,332 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-27 19:08:49,769 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-28 19:50:21,271 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-28 19:50:21,940 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-28 19:50:22,613 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-28 20:00:24,661 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-28 20:02:24,893 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-28 20:02:27,009 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-28 20:02:27,633 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-28 20:02:28,298 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-28 20:12:30,364 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-28 20:14:16,778 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-29 15:33:54,596 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-29 15:33:55,179 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-29 15:33:55,864 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-29 15:43:57,925 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-29 15:45:27,404 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-29 15:45:29,552 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-29 15:45:30,103 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-29 15:45:30,659 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-29 15:55:32,708 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-29 15:57:20,986 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-30 00:29:11,277 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,883 tokens, max_out=1000
+2026-04-30 00:29:11,961 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-30 00:29:12,530 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-30 00:39:14,580 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-30 00:40:43,195 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1
+2026-04-30 00:40:45,260 [NEMOTRON-ROUTER] INFO Routing task_type='nz_grants' ~4,892 tokens, max_out=1000
+2026-04-30 00:40:45,863 [NEMOTRON-ROUTER] WARNING   NVIDIA NIM failed: 404 Client Error: Not Found for url: https://integrate.api.nvidia.com/v1/chat/completions
+2026-04-30 00:40:46,435 [NEMOTRON-ROUTER] WARNING   OpenRouter failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2026-04-30 00:50:48,508 [NEMOTRON-ROUTER] WARNING   Local Nemotron failed: HTTPConnectionPool(host='localhost', port=8780): Read timed out. (read timeout=600)
+2026-04-30 00:52:36,991 [NEMOTRON-ROUTER] INFO   Ollama fallback success — model=llama3.1

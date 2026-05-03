@@ -102,6 +102,12 @@ The blueprint.
 
 Four thousand years. Four thousand years of combat and defence and singing creation frequency into corrupted physics. Four thousand years of being the only unfallen blade in a fallen world, the last echo of a sound that had been meant for something grander, something complete, something that had been spinning between the Cherubim since the first day the gate closed. Mo Chrá had been *imitating* this. The teal-gold creation resonance, the harmonic that dissolved corruption, the frequency that Cian had wielded against Watcher steel and Nephilim bone and everything that the enemy had built — all of it was a copy. A faithful, magnificent, lonely copy of the fire that burned before him now.
 
+The flaming sword that turned every way was not a weapon made of steel and combustion. It was a rotational phase-harmonic — an acoustic singularity spinning at a frequency that did not merely burn; it *interrogated existence*.
+
+As the Cherubim's total-witnessing function swept over Cian, the cognitive fossil crashed under the weight of a completely new terror. The spinning acoustic fire was scanning his Iron Age substrate for the resonance of the fallen world. If it found even a microscopic trace of the Nephilim corruption he had waded through for twenty-six centuries — if the blood on his hands resonated louder than the covenant that sealed his spirit — the fire would not fight him. It would simply withdraw the acoustic permission for his atoms to hold together.
+
+He was standing one fraction of a hertz away from ontological erasure, kept in existence only because the garden's 432 Hz creation harmonic flowed through him and declared his presence authorized. Eden was not safe. Holiness was a scalpel, and he was standing on the edge of the blade.
+
 The terror evaporated into a crushing, beautiful submission.
 
 Not forced. Not compelled. Cian dropped to his knees because twenty-six centuries of combat instinct — the substrate that had survived the crash of the cognitive fossil, the deeper-than-thought architecture that knew when to fight and when to yield — recognised a Power that could not be fought. Not *should not*. *Could not*. The distinction was not moral but ontological. Opposing the Cherubim was not wrong the way attacking an innocent was wrong. Opposing the Cherubim was *impossible* the way opposing gravity was impossible. You could not fight what had spoken you into existence.
@@ -439,6 +445,12 @@ For now, there was silence.
 Not the silence of a world at war.
 
 The silence of a world that had never needed to be.
+
+Then the scan reached her left wrist and Miriam's world constricted to a point of absolute, somatic terror.
+
+The dormant Asmodeus splinter did not just itch. Caught in the total-witnessing function of the Cherubim, the corrupted tissue *screamed*. The spinning ring of fire — the rotational phase of uncorrupted creation frequency — locked onto the demonic telemetry embedded in her dermal layer. The Trisagion did not negotiate with corruption; it incinerated it.
+
+Miriam fell to her knees, clutching her wrist as the acoustic fire began to strip the dead tether from her flesh. The Cherubim did not blink. The flaming sword rotated. The fire was deciding, in real-time, whether to surgically sterilize the splinter or simply unmake the woman carrying it.
 
 ✦
 

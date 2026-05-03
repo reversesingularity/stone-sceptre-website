@@ -112,17 +112,35 @@ IMAGE_DIR_BOOK2 = Path(
 MANUSCRIPT_DIR_BOOK3 = Path(
     r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_3\CHAPTERS"
 )
+MANUSCRIPT_DIR_BOOK3_ROOT = Path(
+    r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\MANUSCRIPT\book_3"
+)
 OUTPUT_FILE_BOOK3 = Path(
     r"f:\Projects-cmodi.000\book_writer_ai_toolkit\output\nephilim_chronicles\NephilimChronicles_Book3_MANUSCRIPT.docx"
 )
 
 SOURCE_FILES_BOOK3 = [
+    MANUSCRIPT_DIR_BOOK3_ROOT / "BOOK_3_FRONT_MATTER.md",
+    MANUSCRIPT_DIR_BOOK3 / "DEDICATION.md",
+    MANUSCRIPT_DIR_BOOK3 / "EPIGRAPH.md",
     MANUSCRIPT_DIR_BOOK3 / "prologue.md",
     MANUSCRIPT_DIR_BOOK3 / "CHAPTER_01_TheArchitectureOfResistance.md",
     MANUSCRIPT_DIR_BOOK3 / "CHAPTER_02_TheFrequencyBeneathTheCure.md",
     MANUSCRIPT_DIR_BOOK3 / "CHAPTER_03_TheLastCartography.md",
     MANUSCRIPT_DIR_BOOK3 / "CHAPTER_04_TheGauntlet.md",
-    # Add subsequent Book 3 chapters here as they are drafted
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_05_TheLogisticsOfMercy.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_06_TheBurningChoir.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_07_TheProphet.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_08_EarthInterludeI.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_09_TheThief.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_10_TheBaptism.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_11_EarthInterludeII.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_12_TheBriefing.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_13_EarthInterludeIII.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_14_TheThreshold.md",
+    MANUSCRIPT_DIR_BOOK3 / "CHAPTER_15_Jerusalem.md",
+    MANUSCRIPT_DIR_BOOK3 / "EPILOGUE_Triptych.md",
+    MANUSCRIPT_DIR_BOOK3_ROOT / "BOOK_3_APPENDICES.md",
 ]
 
 IMAGE_DIR_BOOK3 = Path(
@@ -130,6 +148,7 @@ IMAGE_DIR_BOOK3 = Path(
 )
 
 # Chapter filename pattern → image filename (order matters: longer prefixes first)
+# Book 2 map (chapter1.png naming — no hyphen, no leading zero)
 CHAPTER_IMAGE_MAP = {
     "PROLOGUE_SCENE1": "prologue1.png",
     "PROLOGUE_SCENE2": "prologue2.png",
@@ -160,10 +179,54 @@ MAP_IMAGES = [
     "map6-image.png",
 ]
 
+# Book 3 map (chapter-01.png naming — hyphen + leading zero, matches Midjourney output)
+CHAPTER_IMAGE_MAP_BOOK3 = {
+    "PROLOGUE": "prologue.png",
+    "CHAPTER_01": "chapter-01.png",
+    "CHAPTER_02": "chapter-02.png",
+    "CHAPTER_03": "chapter-03.png",
+    "CHAPTER_04": "chapter-04.png",
+    "CHAPTER_05": "chapter-05.png",
+    "CHAPTER_06": "chapter-06.png",
+    "CHAPTER_07": "chapter-07.png",
+    "CHAPTER_08": "chapter-08.png",
+    "CHAPTER_09": "chapter-09.png",
+    "CHAPTER_10": "chapter-10.png",
+    "CHAPTER_11": "chapter-11.png",
+    "CHAPTER_12": "chapter-12.png",
+    "CHAPTER_13": "chapter-13.png",
+    "CHAPTER_14": "chapter-14.png",
+    "CHAPTER_15": "chapter-15.png",
+    "EPILOGUE": "epilogue.png",
+}
+
+MAP_IMAGES_BOOK3 = [
+    "map-01.png",
+    "map-02.png",
+    "map-03.png",
+    "map-04.png",
+]
+
 BOOK_TITLES = {
     1: "The Cydonian Oaths",
     2: "The Cauldron of God",
     3: "The Edenic Mandate",
+}
+
+# Book 3 TOC PAGEREF overrides
+# Chapters 5-8, 11, 13 use spelled-out numbers in headings; Ch4 includes location
+# subtitle in the bookmark; appendices heading differs from the simple TOC label.
+# Maps each front-matter TOC display line → the exact bookmark name the chapter
+# heading will generate, so that PAGEREF fields resolve correctly.
+BOOK3_TOC_BM_OVERRIDES: dict[str, str] = {
+    "Chapter 4 — The Gauntlet":           "_TOC_CHAPTER_4_THE_GAUNTLET_MESOPOTAMIAN",
+    "Chapter 5 — The Logistics of Mercy": "_TOC_CHAPTER_FIVE_THE_LOGISTICS_OF_MERCY",
+    "Chapter 6 — The Burning Choir":      "_TOC_CHAPTER_SIX_THE_BURNING_CHOIR",
+    "Chapter 7 — The Prophet":            "_TOC_CHAPTER_SEVEN_THE_PROPHET",
+    "Chapter 8 — Earth Interlude I":      "_TOC_CHAPTER_EIGHT_EARTH_INTERLUDE_I",
+    "Chapter 11 — Earth Interlude II":    "_TOC_CHAPTER_ELEVEN_EARTH_INTERLUDE_II",
+    "Chapter 13 — Earth Interlude III":   "_TOC_CHAPTER_THIRTEEN_EARTH_INTERLUDE_II",
+    "Appendices":                         "_TOC_THE_NEPHILIM_CHRONICLES_BOOK_THREE_",
 }
 
 # ---------------------------------------------------------------------------
@@ -550,12 +613,14 @@ def add_blank_line(doc: Document) -> None:
 # IMAGE EMBEDDING
 # ---------------------------------------------------------------------------
 
-def get_chapter_image(chapter_path: Path, image_dir: Path | None) -> Path | None:
+def get_chapter_image(chapter_path: Path, image_dir: Path | None,
+                      chapter_image_map: dict | None = None) -> Path | None:
     """Look up the chapter art image for a given chapter file by naming convention."""
     if not image_dir or not image_dir.exists():
         return None
+    img_map = chapter_image_map if chapter_image_map is not None else CHAPTER_IMAGE_MAP
     stem = chapter_path.stem.upper()
-    for pattern, img_name in CHAPTER_IMAGE_MAP.items():
+    for pattern, img_name in img_map.items():
         if stem.startswith(pattern):
             img_path = image_dir / img_name
             if img_path.exists():
@@ -897,6 +962,8 @@ def build_front_matter(doc: Document, path: Path,
 
         elif "TABLE OF CONTENTS" in page_name:
             add_centered(doc, "CONTENTS", size=16, bold=True, space_before=36, space_after=18)
+            # Select per-book PAGEREF override map
+            toc_overrides = BOOK3_TOC_BM_OVERRIDES if book_number == 3 else {}
             for line in content:
                 stripped = line.strip()
                 if not stripped:
@@ -904,9 +971,13 @@ def build_front_matter(doc: Document, path: Path,
                 if stripped.startswith("**") and stripped.endswith("**"):
                     # Bold heading ("CONTENTS" — skip, already rendered)
                     continue
-                # Build the bookmark name this entry points to
-                # Match the heading text portion after the em-dash
-                bm_name = _make_bookmark_id(stripped)
+                if stripped.startswith("#"):
+                    # Markdown heading inside front matter TOC (e.g. '# Table of Contents')
+                    # — skip; it is decorative and must not become a PAGEREF entry
+                    continue
+                # Build the bookmark name this entry points to.
+                # Use the per-book override dict first, then auto-generate.
+                bm_name = toc_overrides.get(stripped) or _make_bookmark_id(stripped)
                 # TOC entry with right-aligned tab + dot leader + PAGEREF
                 p = doc.add_paragraph()
                 p.paragraph_format.space_before = Pt(2)
@@ -955,7 +1026,8 @@ def is_table_row(line: str) -> bool:
 
 def render_body_file(doc: Document, path: Path, is_first_file: bool = False,
                      image_dir: Path | None = None,
-                     book_title: str = "The Cydonian Oaths") -> None:
+                     book_title: str = "The Cydonian Oaths",
+                     chapter_image_map: dict | None = None) -> None:
     """
     Render a chapter, prologue, epilogue, or appendix file.
     Inserts an odd-page section break before it (so chapters start on recto).
@@ -983,7 +1055,7 @@ def render_body_file(doc: Document, path: Path, is_first_file: bool = False,
             break
 
     # Chapter art on its own page before the heading (if available)
-    chapter_image = get_chapter_image(path, image_dir)
+    chapter_image = get_chapter_image(path, image_dir, chapter_image_map)
     if chapter_image:
         add_chapter_image(doc, chapter_image, page_break=True, floating=True)
         print(f"      art: {chapter_image.name}")
@@ -1126,7 +1198,7 @@ def main():
         source_files = SOURCE_FILES_BOOK3
         image_dir = IMAGE_DIR_BOOK3
         book_title = BOOK_TITLES[3]
-        has_front_matter = False  # Book 3 uses chapter files only (no front matter yet)
+        has_front_matter = True
     else:
         manuscript_dir = MANUSCRIPT_DIR
         output_file = OUTPUT_FILE
@@ -1168,12 +1240,24 @@ def main():
             print(f"  ⚠  Missing: {filepath.name} — skipping")
             continue
         print(f"  → {filepath.name}")
+        cim = CHAPTER_IMAGE_MAP_BOOK3 if book == 3 else None
         render_body_file(doc, filepath, is_first_file=(idx == 0),
-                         image_dir=image_dir, book_title=book_title)
+                         image_dir=image_dir, book_title=book_title,
+                         chapter_image_map=cim)
 
-    # ── Maps section (Book 2) ────────────────────────────────────────────────
+    # ── Maps section ─────────────────────────────────────────────────────────
     if book == 2 and image_dir:
         maps_found = [image_dir / m for m in MAP_IMAGES if (image_dir / m).exists()]
+        if maps_found:
+            section = add_section_break_odd(doc)
+            set_header_footer(section, author="Kerman Gild",
+                              title=book_title, show_page=True)
+            add_chapter_heading(doc, "# MAPS")
+            for map_path in maps_found:
+                add_chapter_image(doc, map_path, max_width=4.5, max_height=7.0)
+                print(f"    map: {map_path.name}")
+    elif book == 3 and image_dir:
+        maps_found = [image_dir / m for m in MAP_IMAGES_BOOK3 if (image_dir / m).exists()]
         if maps_found:
             section = add_section_break_odd(doc)
             set_header_footer(section, author="Kerman Gild",

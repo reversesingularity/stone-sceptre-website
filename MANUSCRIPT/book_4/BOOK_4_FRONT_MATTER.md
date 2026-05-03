@@ -23,8 +23,8 @@
 |---------|--------|-----------|-------|
 | Prologue — "The Route" (Raphael POV) | **FIRST DRAFT** | May 2, 2026 | Raphael Intelligence Director register; 70 Archon threat matrix; Prince of Persia/Greece engagements; −96.2 unit reserve deficit; devastating irony; 432.7 Hz Mo Chrá thread |
 | Ch 1 — "The Osiris Protocol" | **FIRST DRAFT** | May 2, 2026 | Azazel POV; assassination; Ohya resurrection; Penemu/Aram roll-out pitch; 432.7 Hz seed |
-| Ch 2 — "The Relics & The Resonance" | NOT STARTED | — | Katana introduced; Lia Fáil already present |
-| Ch 3 — "The Vanguard" | NOT STARTED | — | First Aram Vanguard encounter |
+| Ch 2 — "The Relics & The Resonance" | **FIRST DRAFT** | May 2, 2026 | Dual POV (Cian/Miriam); Mo Chrá bedrock perimeter; Lia Fáil deliberately absent (Ez 21:27 LOCKED); katana pure martial; Enoch detects Asmodeus splinter; Temple Mount acoustic void; 432.7 Hz remote pulse |
+| Ch 3 — "The Vanguard" | **FIRST DRAFT** | May 2, 2026 | Triple POV (Aram operative cold-open → Cian); first Vanguard contact; Mo Chrá anti-chimera doctrine established; Band Two telemetry captures 432.7 Hz (Azazel counter-weapon thread planted); Enoch's glance at Miriam (splinter subtext) |
 | Ch 4 — "The Fourth Seal" | NOT STARTED | — | Thanatos dialogue; Hades visual |
 | Ch 5 — "The Katana Conduit & Refugee Logistics" | NOT STARTED | — | Miriam discovers katana function |
 | Ch 6 — "The Eastern Resistance" | NOT STARTED | — | 200M Coalition; Shemyaza's Suspicion |

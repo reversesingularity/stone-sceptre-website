@@ -4,7 +4,7 @@
     Docker containers (n8n, Qdrant, Ollama, Postgres) auto-start via restart=unless-stopped.
 
 .DESCRIPTION
-    Starts the 8 Python HTTP servers (ports 8765-8772), the local Nemotron 3 Super GGUF
+    Starts the 10 Python HTTP servers (ports 8765-8773, 8775-8776), the local Nemotron 3 Super GGUF
     (llama-server on port 8780), and the Nemoclaw background daemon as hidden background
     processes. Waits for Docker infrastructure to be ready, then launches servers
     sequentially with health-check verification.
@@ -17,7 +17,14 @@
 
 .NOTES
     Machine: DESKTOP-SINGULA
-    Project: The Nephilim Chronicles v2.0 HAWK Swarm
+    Project: The Nephilim Chronicles v2.1 HAWK Swarm
+    Service map:
+      8765 canon_search_api         8766 kdp_format_server
+      8767 update_story_prototype   8768 nemotron_tool_router
+      8769 utility_server           8770 theological_guard_server
+      8771 conductor_server         8772 agent_9_content_strategist
+      8773 marketing_agent          8775 agent_6_image_prompt_designer
+      8776 audiobook_prep_server    8780 llama-server (Nemotron GGUF)
 #>
 
 param(
@@ -45,6 +52,8 @@ $Services = @(
     @{ Name = 'conductor_server';        Script = 'conductor_server.py';        Port = 8771 }
     @{ Name = 'agent_9_content_strategist'; Script = 'agent_9_content_strategist.py'; Port = 8772 }
     @{ Name = 'marketing_agent';         Script = 'INFRA\agents\marketing_agent\marketing_agent.py'; Port = 8773 }
+    @{ Name = 'agent_6_image_prompt';     Script = 'agent_6_image_prompt_designer.py'; Port = 8775 }
+    @{ Name = 'audiobook_prep_server';   Script = 'INFRA\agents\audiobook_prep_server.py'; Port = 8776 }
 )
 
 $Daemon = @{ Name = 'nemoclaw_daemon'; Script = 'nemoclaw_daemon.py' }

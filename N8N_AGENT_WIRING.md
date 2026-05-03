@@ -1,17 +1,16 @@
 # THE NEPHILIM CHRONICLES — BOOKS 3–5
-## n8n + Ollama + Nemotron Agent Wiring Architecture v2.1
-*DESKTOP-SINGULA | Creative Swarm v2.1 | 13-Agent HAWK Topology*
-*Supersedes: N8N_AGENT_WIRING_v2.0*
+## n8n + Ollama + Nemotron Agent Wiring Architecture v2.2
+*DESKTOP-SINGULA | Creative Swarm v2.2 | 15-Agent HAWK Topology*
+*Supersedes: N8N_AGENT_WIRING_v2.1*
 
 ---
 
 ## ARCHITECTURE OVERVIEW
 
-The v2.1 Creative Swarm uses a **HAWK 5-layer control hierarchy** with 13 agents
+The v2.2 Creative Swarm uses a **HAWK 5-layer control hierarchy** with 15 agents
 split between local Ollama/Nemotron GGUF (fast scene-level tasks) and NVIDIA NIM
 Nemotron-3 Super (long-horizon cross-book synthesis). All inter-agent traffic routes
-through n8n. Agent 9 adds content strategy, NZ grant monitoring, and YouTube anchor
-content generation.
+through n8n. Agent 15 adds a 4-stage audiobook pre-production pipeline.
 
 ```
 HAWK LAYER STACK
@@ -19,14 +18,14 @@ HAWK LAYER STACK
 Layer 0  USER (Chris) — unrestricted authority, HITL gates
 Layer 1  n8n WORKFLOW ORCHESTRATOR — webhook router, job scheduler
 Layer 2  AGENT_0 (Conductor) — Nemotron, context arbiter, dispatches jobs
-Layer 3  WORKER AGENTS 2–11 — Ollama or Nemotron per task profile
-Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8772), llama-server (8780)
+Layer 3  WORKER AGENTS 2–15 — Ollama or Nemotron per task profile
+Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8773, 8775–8776), llama-server (8780)
 ─────────────────────────────────────────────────────────────────
 ```
 
 ---
 
-## 12-AGENT REGISTRY
+## 14-AGENT REGISTRY
 
 | ID | Name | Model | Role |
 |----|------|-------|------|
@@ -41,6 +40,8 @@ Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8772), llama-se
 | AGENT_9 | Content Strategist / NZ Grant Monitor | Nemotron Router cascade | Social content, SEO, serialization, NZ grants |
 | AGENT_10 | Cross-Book Auditor | Nemotron-3 Super | Nightly Books 3+4+5 continuity |
 | AGENT_11 | SELF-REFINE Critic | Nemotron Router cascade | Scene draft scoring + critique |
+| AGENT_13 | Marketing Engine | Nemotron Router cascade | Social post queue, API auto-post, sabbath scheduler |
+| AGENT_15 | Audiobook Prep | Python (8776) | 4-stage pre-production: sanitize → machine-ear → manifest → diarize-hybrid |
 | NEMOCLAW | Background Daemon | asyncio | File watcher, heartbeat, CRDT collector |
 
 ---
@@ -60,6 +61,9 @@ Layer 4  RESOURCES — Qdrant (4 tiers), Python services (8765–8772), llama-se
 | Theological Guard | 8770 | `theological_guard_server.py` | 10-axiom theological validation |
 | Swarm Conductor | 8771 | `conductor_server.py` | Master orchestrator (Agent 0) |
 | Content Strategist | 8772 | `agent_9_content_strategist.py` | Social, SEO, serialization, NZ grants |
+| Marketing Agent | 8773 | `INFRA/agents/marketing_agent/marketing_agent.py` | Social post queue, auto-post, sabbath scheduler |
+| Image Prompt Designer | 8775 | `agent_6_image_prompt_designer.py` | Visual direction briefs |
+| Audiobook Prep | 8776 | `INFRA/agents/audiobook_prep_server.py` | 4-stage audiobook pre-production pipeline |
 | Local Nemotron GGUF | 8780 | `llama-server` (llama.cpp) | CPU-only Nemotron 3 Super inference |
 
 ---
@@ -439,6 +443,79 @@ NZ grant sources scraped:
 
 Results appended to `LOGS/OPPORTUNITIES_LOG.md`. Sources that fail direct scrape
 fall back to RSS, then flag for HITL (human-in-the-loop) review.
+
+---
+
+### WORKFLOW 14 — YOUTUBE ANCHOR CONTENT (Agent 9 — Nemotron Router)
+**Webhook:** `POST /webhook/youtube-anchor`
+**Model:** Nemotron Router cascade via Agent 9 microservice
+
+```
+[Webhook] ← POST { "chapter": "...", "book": N }
+    ↓
+[HTTP Request] → POST http://localhost:8772/youtube-anchor
+    ↓
+Returns: { "title": "...", "description": "...", "tags": [...], "thumbnail_prompt": "..." }
+    ↓
+[Respond to Webhook]
+```
+
+---
+
+### WORKFLOW 15 — AUDIOBOOK ASSEMBLER (Agent 15 — Python)
+**Webhook:** `POST /webhook/audiobook-assemble`
+**Service:** Port 8776 (`INFRA/agents/audiobook_prep_server.py`)
+**Trigger:** Manual (AUTHOR) or Conductor dispatch with `job_type: "audiobook_assemble"`
+**Books supported:** 2, 3, 4, 5
+
+```
+[Webhook] ← POST { "book": 2|3|4|5 }
+    ↓
+[Stage 1 Sanitize] → POST :8776/sanitize
+  Strip front/back matter, decorative glyphs, markdown images → STAGING/audiobook/book_N/sanitized/
+    ↓
+[Stage 2 Machine Ear] → POST :8776/machine-ear
+  Visual ref rewrites, abbreviation expansion, phonetic injection (PHONETIC_GLOSSARY + Qdrant fallback)
+  → STAGING/audiobook/book_N/machine_ear/
+    ↓
+[Stage 3 Production Manifest] → POST :8776/production-manifest
+  Nemotron NIM 1M-context pass → PRODUCTION_MANIFEST.json
+  { character_profiles, sentiment_map, spatial_audio_cues }
+    ↓
+[Stage 4 Diarize Hybrid] → POST :8776/diarize-hybrid
+  Per-chapter voice attribution (roster lookup + Nemotron for ambiguous):
+  → STAGING/audiobook/book_N/diarized/CH_XX_AUTO.xml
+  → STAGING/audiobook/book_N/diarized/CH_XX_REVIEW_FLAGS.json
+    ↓
+[IF: review_count > 0?]
+  YES → [Write Flag Summary → LOGS/audiobook_pipeline.jsonl]
+  NO  → [Log Assembly → LOGS/audiobook_pipeline.jsonl]
+    ↓
+[Respond] → { status, auto_tagged, flagged, auto_rate_pct, output_root, report }
+```
+
+**Voice Roster (2026-04-28 revision):**
+
+| Voice/Modifier | Characters |
+|---------------|------------|
+| Leo / pitch_low | Omniscient Narrator, Brennan McNeeve, Vârcolac |
+| Rex / baseline | Cian mac Morna |
+| Eve / baseline | Miriam, Victoria, Sarah McNeeve, Mo Chrá (sword) |
+| Ara / slow_whisper | Naamah bat Lamech |
+| Leo / deep_tag | Archangels (Liaigh/Raphael, Michael, Uriel, Gabriel, Sariel, The Word) |
+| Leo / style_deep | Watcher Chiefs (Shemyaza, Gadreel, Azazel, Penemue, Kokabiel, et al.) |
+| Leo / pitch_neg | The Adversary / Satan / Helel |
+| Leo / low_tag | James Madigan |
+| Leo / slow_tag | Enoch |
+| Sal / baseline | RESTRICTED: Khem Operative, Lamech, Domnul, Hal, Satar Patriarch/Analyst, Guard |
+
+**Phonetic source priority:**
+1. `CANON/PHONETIC_GLOSSARY.md` (static, 60+ entries)
+2. Qdrant canon_search_api fallback (`POST :8765/search`)
+
+**Next step after diarization:** Run `diarize-chapter` Claude skill on each
+`*_REVIEW_FLAGS.json` file to resolve flagged lines, then trigger synthesis via
+`INFRA/agents/audiobook_prep_server.py /synthesis-dispatch` (stub — pending Grok TTS wiring).
 
 ---
 

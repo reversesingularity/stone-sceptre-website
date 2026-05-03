@@ -1,5 +1,5 @@
 # TODO — The Nephilim Chronicles
-**Updated:** April 26, 2026
+**Updated:** May 4, 2026
 
 ---
 
@@ -18,6 +18,36 @@
 4. [ ] Generate chapter art (Midjourney v6.1) for Book 3 — 17 chapters/prologue/epilogue
 5. [ ] Book 4 architecture interview — pick up from Epilogue: Witnesses at Temple Mount, Azazel counter-frequency weapon design, 1,260-day timeline structure
 6. [ ] Run marketing blitz for Books 1–3: `python marketing_blitz.py`
+
+---
+
+## ✅ COMPLETE — AUDIOBOOK_ASSEMBLER Pipeline v1.0 (May 4, 2026)
+
+- [x] **HAWK Swarm upgraded to v2.2** — Agent 15 added; 15 agents, 15 n8n workflows, 10 Python services
+- [x] **`CANON/PHONETIC_GLOSSARY.md`** — 60+ hard names (IPA + plain-English); primary Machine Ear source
+- [x] **`INFRA/agents/audiobook_prep_server.py`** (port 8776) — 4-stage audiobook pre-production pipeline
+  - Stage 1 `/sanitize` — strips front/back matter, decorative glyphs, markdown images
+  - Stage 2 `/machine-ear` — visual ref rewrites, abbreviation expansion, phonetic injection
+  - Stage 3 `/production-manifest` — Nemotron NIM 1M-context pass → `PRODUCTION_MANIFEST.json`
+  - Stage 4 `/diarize-hybrid` — XML diarization (voice roster + REVIEW_FLAGS.json for ambiguous)
+  - `/assemble` — all 4 stages in sequence; logs to `LOGS/audiobook_pipeline.jsonl`
+  - `/synthesis-dispatch` — 501 STUB (Grok TTS wiring deferred)
+- [x] **WF15 `TNC_WF15_AUDIOBOOK_ASSEMBLER`** — registered in `n8n_deploy_workflows.py`; webhook `POST /webhook/audiobook-assemble`
+- [x] **Conductor updated** — `audiobook_assemble` added to `AGENT_TASK_TYPES` + intent fallback planner
+- [x] **`Start-TNCSwarm.ps1` updated** — port 8776 entry in `$Services` array
+- [x] **`governance.py` updated** — `AGENT_15` permissions added
+- [x] **`N8N_AGENT_WIRING.md` updated** — v2.2, Agent 15 registry entry, WF15 documented
+- [x] **`SESSION_STARTUP.md` (repo memory) updated** — service map v2.2, port-check snippet includes 8776
+
+**To activate:**
+```powershell
+# 1. Deploy WF15 to n8n
+python n8n_deploy_workflows.py
+# 2. Restart swarm (port 8776 auto-starts)
+.\Start-TNCSwarm.ps1
+# 3. Run pipeline for Book 2
+Invoke-RestMethod -Uri "http://localhost:5678/webhook/audiobook-assemble" -Method POST -Body '{"book":2}' -ContentType "application/json"
+```
 
 ---
 
