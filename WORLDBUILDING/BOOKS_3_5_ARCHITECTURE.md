@@ -274,7 +274,8 @@
 | Prologue | "The Route" — Raphael POV | Route-clearing Eden→Jerusalem; territorial spirit engagements; observes Seals 1-3 as uncontrollable cosmic weather fracturing Beast's infrastructure |
 | Ch 1 | "The Osiris Protocol" | Azazel POV; Second/Third Seal infrastructure destruction; .338LM assassination (Rev 13 mortal wound); Penemu/Aram Mark pitch + sterility/locust trap; Ohya resurrection; divine left-eye parameter; 432.7 Hz Mo Chrá counter-frequency seed |
 | Ch 2 | "The Relics & The Resonance" | Jerusalem safehouse established; Mo Chrá driven into bedrock (acoustic perimeter); Lia Fáil deliberately NOT brought (Ez 21:27 — Three Overturns; Cian's restraint as character beat); Muromachi katana introduced as pure martial object (no acoustic function); Asmodeus splinter detected by Enoch; Temple Mount acoustic void (Layer Zero inversion) |
-| Ch 3 | "The Vanguard" | First clashes with Tier 2 Elite Vanguard (Aram troops); chimeric horror established; Mo Chrá acoustic vulnerability discovered mid-combat |
+| Ch 3 | "The Vanguard" | Scáthgheal (APEX-01) and The Morrigan (APEX-02) lead first strike with Aram squad as screen force; acoustic EW blackout, infrasonic shockwave, Cian's recognition of 586 BCE combat geometry; tactical withdrawal; Mo Chrá's full counter-harmonic signature captured by Azazel's telemetry grid *(see CHAPTER 3 NEMESIS INTEGRATION architecture below)* |
+| **Ch 3.5** | **"The Draconic Contingency"** | **INTERLUDE — PREPARATION.** Hours post-ambush. Cian's cognitive fossil activates: cold tactical analysis of Ch3 sensor data reveals APEX-01 infrasonic pre-dash tell (0.15s window) and APEX-02's Band Two telemetry extraction (Cian's acoustic fingerprint now compromised). Miriam delivers allegiance declaration. McNeeve dispersed network (Brennan remote / Stewart Island, Siorse Mercer, Chris Guilder) builds haptic simulator — discovers 0.3-second firing window. Dual-wield doctrine born. JW Chen (remote / Austin) reprograms adaptive sheath for bracer-amplifier mode. Hal Okonkwo machines *An Ord* (.500 frame, 12× Tintreach Mk III Hammer rounds — **NO RESUPPLY**). Elijah consecrates Mo Chrá permanently at 432.7 Hz creation harmonic. Miriam + Anya Petrov + Adrienne Prescott build Layer Zero blind-virus in signals room. Brennan names the protocol. *(see CHAPTER 3.5 BEAT ARCHITECTURE below)* |
 | Ch 4 | "The Fourth Seal" | Thanatos rides; direct encounter — "You are not within my mandate... yet"; Hades glimpsed as vast shadow with no edges; Horsemen tone = cold indifferent inevitability |
 | Ch 5 | "The Katana Conduit & Refugee Logistics" | Miriam discovers katana function (unfallen resonance bubbles); guides Philadelphian refugees; Brennan's logistics network under strain; **COMEDY SEED — Miriam's Seamless Switch:** perimeter watch scene — she awkwardly attempts a compliment about Cian's tactical awareness, mid-sentence kills a Vanguard operative without breaking eye contact (operative slides down the wall looking confused), wipes blade, resumes: *"Anyway, as I was saying about your… tactical beard…"*; Mo Chrá hums approvingly as comedic traitor; Miriam: *"I'll circle back."*; James deadpan via comms seeded throughout chapter |
 | Ch 6 | "The Eastern Resistance" | Geopolitical stalemate; 200M Eastern Coalition refuses biometric ledger; Shemyaza's Suspicion begins (Rev 17:16 setup); Synagogue first fracture |
@@ -289,6 +290,304 @@
 | Ch 13 | "The Martyrdom" | Killing blow comes for Cian; **Miriam interposes — mortal wound**; earth closes; Miriam dies in Cian's arms; katana goes silent; 200 days remain; Cian stands, continues |
 | Epilogue Mvt I | "The Guardian of Grace" — Brennan POV | Brennan holding orphaned daughter (~50 days old); her eyes are Miriam's; setup for Book 5 |
 | Epilogue Mvt II | "The Endurance" — Cian POV | Jerusalem perimeter; Day ~1,060; alone, silent, broken; 200 days remain; blind faith as the only fuel left; braces for final assault |
+
+---
+
+### CHAPTER 3 — "THE VANGUARD": NEMESIS INTEGRATION BEAT ARCHITECTURE
+#### Scáthgheal & The Morrigan — First Strike Choreography
+**Status:** ARCH LOCKED — May 2026
+
+This section supersedes the one-line summary in the chapter map above. The first draft (file: `MANUSCRIPT/book_4/CHAPTERS/CH03_THE_VANGUARD.md`) depicts a clean four-operative engagement. The final draft must incorporate Scáthgheal (APEX-01) and The Morrigan (APEX-02) as apex-threat commanders operating the Vanguard squad as a screen force. The chapter's horror register shifts from "chimeric soldiers are dangerous" to "something that was here before Israel was a nation has come to finish a 2,600-year-old calculation."
+
+**Style Assignments (all locked for Chapter 3):**
+
+| Style Model | Author | Phase |
+|-------------|--------|-------|
+| EW pre-strike / acoustic ambush architecture | Tim Powers | Movements 0–I |
+| Recognition horror / cognitive fossil eruption | Jack Carr | Movements II–III (Scáthgheal reveal) |
+| Infrasonic weapon vs. creation harmonic physics | Tim Powers | Movements II–III (acoustic clash) |
+| Tactical retreat / impossible-odds calculus | Mark Greaney | Movement III (withdrawal) |
+| Dual-plane dread / invisible war impact | Frank Peretti + Ted Dekker | All movements |
+
+---
+
+#### MOVEMENT 0: THE SHADOW WEAVER DEPLOYS (New — Pre-Contact)
+**POV:** Miriam (safehouse), intercut with Cian (transit to dead-drop)
+**Timing:** T-47 minutes before physical contact
+
+- **Beat 1**: The Morrigan, acoustically cloaked, moves into position in the Jewish Quarter approximately 47 minutes before Cian's dead-drop window. She activates the dread-frequency umbrella: 17.2 Hz directed broadcast covering a 200-metre radius around the dead-drop location.
+- **Beat 2**: Miriam notices the Josephite communications board degrading in that sector. The blackout pattern is too geometrically precise to be infrastructure failure — it has a radius, a centre point. She flags it. She cannot yet categorise it.
+- **Beat 3**: She keys an abort advisory to Cian. Cian is already committed and out of clean extraction cover. No response. The comms board shows his locator is inside the blackout zone.
+- **Beat 4**: The Morrigan simultaneously accesses the Josephite dead-drop cipher timing signature via the Layer Zero grid — she has been in possession of the dead-drop schedule for seventy-two hours. The Vanguard knew the location not from surveillance alone but from a Layer Zero comms intercept. The dead-drop was compromised before Cian left the safehouse.
+
+**Author guidance**: The dread-frequency is below hearing. Do not give it a sound. Give it a physical sensation in Miriam's chest — a pressure that she initially attributes to anxiety, then reclassifies when the waveform analysis comes in. She has felt anxiety before. This is not that. Anxiety has a cognitive origin. This has a chest-wall origin.
+
+---
+
+#### MOVEMENT I: THE SCENT (Existing Barakat POV — Enhanced)
+**POV:** Khalid Barakat (Aram operative)
+
+- Keep existing beat structure: the squad of four, the scent detection at 400 metres, the movement to intercept.
+- **Enhancement**: Barakat is aware of a non-verbal directional cue he cannot explain — a sub-audible acoustic signal from The Morrigan running through his chimeric neural integration as compass bearing. He has never experienced this before and has no name for it. He interprets it as "instinct." The prompt is not from within him. He is being steered.
+- **Add**: A single moment in which Barakat senses something behind him — the predator behind the predator — and consciously suppresses the instinct to look. He has trained not to look. Tonight, not looking is the wrong choice, and he will never know it.
+
+---
+
+#### MOVEMENT II: THE CONTACT (Existing Cian POV — Revised and Extended)
+
+**Part A — The Standard Contact (existing; keep intact):**
+- Mo Chrá sings warning: standard forward-alert frequency.
+- Cian draws and engages the four-operative squad.
+- Three dissolved by creation harmonic in 3–4 seconds. Barakat resists through the fourth beat (existing Barakat death sequence retained).
+
+**Part B — Mo Chrá's Second Warning (New beat, immediately post-engagement):**
+- Cian cleans Mo Chrá on Barakat's sleeve. He reaches for the supply pouch.
+- Mo Chrá fires a second, different alert. Lower. Older. The tone she uses when she has recognised something that predates her own naming.
+- Cian has heard this tone once before. The last time was on a hillside south of the Hill of Tara, in the year the Temple burned.
+
+**Part C — Scáthgheal's Emergence (New beat):**
+- Scáthgheal moves out of the alley mouth 22 metres ahead. Seven feet. An 850 kg mass in a human frame — the stone gives him away before anything else does. Each footfall is wrong. Not wrong the way a large man is wrong. Wrong the way a structure is wrong when its load-bearing calculation was done for a different species.
+- The respirator covers the lower face. One biological eye. The other socket: an acoustic-optic sensor plate. The Luin of Celtchar wound geometry is unchanged. It was never healed. It was compressed into a smaller face and it is still there.
+- **The Recognition**: Scáthgheal does not feint, does not announce, does not pause. He turns and attacks Cian's LEFT side — straight to the weak vector, the pre-Flood combat geometry preserved through 2,600 years as cleanly as the moment it was encoded. *Cian moves, barely. Mo Chrá read it first.* The kinetic blow that should have ended him removes a section of the stone arch above him instead. Dust-fall. The weight of pre-Flood mass passing 4 centimetres from his left ear.
+- Cian is standing in two centuries simultaneously. His left hand is shaking.
+
+**Part D — The Infrasonic Shockwave (New beat):**
+- Scáthgheal braces. The body-commitment posture: full face-on, weight dropping into the rear stance, the chest expanding.
+- 0.4 seconds of warning, in theory. Cian has never been told what the warning looks like.
+- The shockwave fires in the 7–12 Hz range. No sound. The mortar lines of Plugat HaKotel crack. Stone cover shatters. Cian is in the open, 18 metres from Scáthgheal, vestibular system disrupted, orientation compromised.
+- Mo Chrá responds at 432.7 Hz. Against standard Vanguard, this produces cascade in 3–4 seconds. Against APEX-01: the cascade initiates. It does not accelerate. Scáthgheal staggers. Grimaces. Does not dissolve.
+- **Cian's tactical calculus**: Mo Chrá is working. The cascade has not reached critical mass. He needs 8–12 seconds of sustained field exposure. In 8–12 seconds, Scáthgheal's next roar will find something to resonate in Cian's chest cavity.
+
+**Part E — The Dread Frequency (New beat — The Morrigan activates):**
+- The Morrigan is still invisible, 35 metres lateral.
+- She activates the dread broadcast at full amplitude, 7-second cycle.
+- Cian experiences: his comrade's dying scream overlaid on the present acoustic environment. Not memory. Not metaphor. Physical acoustic intrusion — the specific frequency that activates traumatic acoustic recall in a nervous system that has been carrying 586 BCE for 2,636 years. The sound is present in the air around him right now.
+- For 1.4 seconds, Cian is fighting in two centuries simultaneously.
+
+---
+
+#### MOVEMENT III: THE BREAK (New Movement — Tactical Withdrawal)
+**POV:** Cian
+
+- Cian breaks contact. **This is not a defeat. This is a decision.** He has survived 2,600 years by knowing the difference between a battle and a suicide.
+- Mo Chrá holds the counter-harmonic field active through the withdrawal, keeping Scáthgheal at distance as Cian backs toward the safehouse perimeter. The sword is performing suppressing fire.
+- **The Morrigan holds Scáthgheal.** A single acoustic cue: not pursuit. She has what she came for.
+- What she came for: the full acoustic signature of Mo Chrá at combat intensity, operating against a vessel with draconic-DNA chimera integration. The Band Two telemetry — riding Azazel's orbital grid — has captured it in real time. Not just the 432.7 Hz baseline. The reactive frequency response. The suppression pattern. The counter-harmonic adjustment sequence Cian uses when sustained cascade is taking too long. Behavioural data layered over frequency data.
+- Azazel's analytical grid, by the time Cian reaches the safehouse door, has a more complete acoustic profile of Mo Chrá in combat than anyone alive (except possibly Enoch) has ever possessed.
+- **The supply pouch**: Cian does not retrieve it. He reaches the safehouse at a controlled pace. Mo Chrá is still at combat pitch. The sword has not yet closed its alert state. This is the first time in the entire ministry she has remained open after contact ended.
+
+**Author guidance — Greaney-style withdrawal calculus**: Show Cian running the numbers as he moves. Not panic. Not flight. Deliberate inventory: what he knows, what he doesn't know, what he would need to win the fight he just walked away from. His conclusion: eight to twelve seconds of sustained field exposure, against an opponent who fires an organ-resonance weapon every four to six seconds and can absorb the counter-harmonic indefinitely. He does not have the margin. Not tonight. Not with two of them and one of him and the second one still invisible.
+
+---
+
+#### MOVEMENT III: THE DEBRIEF (Existing — Significantly Extended)
+**POV:** Cian (safehouse)
+
+- Cian sits. He is managing the shaking in his left hand by holding Mo Chrá.
+- Elijah reads the room correctly and does not speak first.
+- **Enoch's Empyreal Register read**: Enoch sits with the Register open. He is cross-referencing. The acoustic signature of what Cian encountered against historical records of the Ireland campaign, 586 BCE. He says nothing for longer than is comfortable. He puts down the annotations. He looks at Cian without the formal Empyreal register in his face — which is unusual enough to be alarming.
+- **The confirmation**: Cian eventually says it. *"The left-side attack. That's Scáthgheal's vector."* Four words. The weight of a 2,612-year gap between experiencing them and saying them aloud.
+- The table is quiet.
+- **Miriam's question** (not breaking the quiet so much as adding to it): *"Both of them?"* She means: the dragon and the other one.
+- *"I don't know yet,"* Cian says. *"The second signature — thermal invisible, 17.2 Hz broadcast. I need you to run it."*
+- She runs it. The waveform appears on screen. The specific frequency contour of the dread broadcast. She studies it with the GCHQ part of her mind that she has never been able to turn off.
+- *"You cannot block what you cannot hear,"* she says. *"This is operating below the vestibular threshold. Below the conscious pain threshold. You wouldn't feel it as a weapon."* A pause. *"You'd feel it as doubt."*
+- Cian: *"I felt it as doubt. It didn't feel like a weapon. It felt like memory."*
+- Silence.
+- **Enoch's glance at Miriam** (the existing Asmodeus splinter subtext beat): This glance now carries additional weight. Enoch has read what The Morrigan is for. He is looking at the entity this new adversary has been specifically calibrated to study. He says nothing. He will not say anything tonight. But Miriam notices the glance and files it.
+- **Enoch's operational briefing**: He identifies that Scáthgheal's resistance to Mo Chrá's field means Azazel has accessed the Cydonia-2 Antarctic stasis vaults and the draconic chimera library. The Right Hand Infusion has been upgraded beyond the standard lupine/felid Aram baseline. The cascade timeline is 8–12 seconds minimum rather than 3–4. This changes every forward contact calculation.
+
+---
+
+#### MOVEMENT IV: THE DATA (Existing — Unchanged Structure, Augmented Significance)
+**POV:** Cian (0400 hours, roof watch)
+
+The existing Movement IV stands as written. The Band Two capture of Mo Chrá's frequency is now understood as a dual-source acquisition: the Aram squad's nanomachines provided the first layer; The Morrigan's Layer Zero link provided the complete behavioural layer on top.
+
+The final line — *"1,258 days remaining"* — carries a different weight after this chapter. Not strategic reflection. Grief-accounting.
+
+---
+
+#### INTEGRATION NOTES FOR REVISION PASS
+
+- **Do not** remove the Barakat POV from Movement I. His function as the screen element is essential — the reader must experience the Vanguard as a threat before Scáthgheal reframes what a threat is.
+- **Do not** show The Morrigan in Movement II or III. She is heard (as an absence of sound, as physical pressure, as acoustic intrusion) but never seen. Her first visible appearance is a later chapter. Her invisibility in Ch3 is a statement of her combat doctrine.
+- **The supply pouch** is a small symbol that earns its weight. Cian leaving it is the only moment in 2,636 years of operation where he has aborted a dead-drop retrieval mid-contact. He knows what it means. He does not say what it means.
+- Mo Chrá's sustained open-alert state after combat ended is her editorial comment on the threat tier they just encountered. She does not close until Enoch physically places his hand on the flat of the blade.
+
+---
+
+### CHAPTER 3.5 — "THE DRACONIC CONTINGENCY": BEAT ARCHITECTURE
+
+**Canonical Lock: May 4, 2026. Authority: Author decision.**
+
+**Chapter Type:** Preparation interlude (mirrors Book 2 Ch7.5 "The Counter-Harmonic" template)
+**Placement:** Immediately after Ch3 "The Vanguard"; immediately before Ch4 "The Fourth Seal"
+**POV Structure:** Multi-POV rotating (Cian primary, Miriam secondary, McNeeve remote)
+**Style Register:** Tom Clancy (operational briefing) + Jack Carr (cognitive fossil) + Frank Peretti (prophetic consecration) + Tim Powers (EW/spycraft)
+**Estimated Length:** ~7,500 words (4 beats + coda)
+
+**Structural Premise:** In 2,636 years Cian has never prepared a specific counter-doctrine for a specific enemy. The Draconic Contingency is the first. It is built around a single datum discovered in the Ch3 sensor telemetry: APEX-01's infrasonic shockwave precedes its propulsive dash by exactly 0.15 seconds, creating a 0.3-second firing window after pulse impact and before the next dash cycle. Everything in this chapter is engineered around that window.
+
+---
+
+#### BEAT 1 — APEX SHIFT (Movement I)
+
+**Style:** Jack Carr — cognitive fossil; no trauma, pure cold clarity
+**POV:** Cian (primary)
+**Estimated words:** ~1,500
+
+**Setting:** Jerusalem safehouse; hours after the Ch3 ambush. Field table, Ch3 sensor data spread across three screens.
+
+**Key beats:**
+- Mo Chrá is broadcasting a low-level warning hum. The 17–19 Hz imprint of The Morrigan still resonates in the room. The sword detected the approach before Cian did and is communicating what she heard. Post-baptism: Cian reads this immediately — no delay, no uncertainty. The cognitive fossil fires.
+- Tactical analysis (Clancy precision): APEX-01's infrasonic pulse preceded each propulsive dash by ~0.15 seconds (pattern logged from sensor array; confirmed across three separate events in Ch3). APEX-02 extracted Band Two telemetry during the encounter. The enemy now holds: (1) HCV sensor array signatures, (2) Mo Chrá's 432.7 Hz baseline frequency, (3) Cian's acoustic fingerprint. The enemy knows what to listen for.
+- The cognitive fossil output: in 2,636 years, every enemy with a combat tell has eventually died to that tell. APEX-01's infrasonic warning is a gift. Cian will build the entire counter-doctrine around it.
+- **Miriam's allegiance declaration:** She crosses the threshold from embedded intelligence asset to operational combatant — explicit, irrevocable. She does not ask. She states. Cian looks at her for a long moment. Does not argue. The post-baptism Miriam he trusts without reservation in the field.
+- **Tone:** Not trauma. The ancient predator acknowledging, for the first time in 400 years, an enemy that required him to think specifically.
+
+**Post-baptism character note (MANDATORY):** Cian gives his assessment of the tactical situation to the room once. He does not repeat it. He does not ask for consensus. He says: "Here is what we're going to build." The One Command Doctrine begins.
+
+---
+
+#### BEAT 2 — THE SIMULATION (Movement II)
+
+**Style:** Tom Clancy — operational briefing, physics precision, hardware specificity
+**POV:** Rotating — Brennan McNeeve (remote / Stewart Island) → Siorse Mercer → Chris Guilder → Cian inside the haptic rig
+**Estimated words:** ~2,000
+
+**Key beats:**
+- Brennan McNeeve (remote, Stewart Island) coordinates the dispersed network build. His former McNeeve Space Systems team (dissolved after Book 3 Ch1; now operating as Brennan's independent network under Guardian protocols) assembles virtually.
+- **Siorse Mercer** (ex-McNeeve flight dynamics; inducted Book 1 Ch15 "The Dissolution") runs kinematic modeling of APEX-01's propulsive dash vector from Ch3 telemetry. Locks the dash geometry: left-vector dominant, pre-Flood combat doctrine (established in Scáthgheal's dossier). The attack geometry is 4,000 years old and has not changed because it has never needed to.
+- **Chris Guilder** (software/AI swarm) builds the haptic simulator incorporating: (a) APEX-01 attack tell timing (0.15s pre-dash pulse), (b) dash vector and speed parameters, (c) the 0.3-second window discovered in the data.
+- **Discovery:** There is a **0.3-second firing window** between APEX-01's infrasonic pulse landing and the completion of its next dash cycle. Brennan: *"That's not much."* Cian: *"It's enough."* He has fought in smaller windows for 2,636 years.
+- **Dual-wield doctrine established:** Mo Chrá docked to left forearm in tantō form (bracer-amplifier mode — absorbs/nullifies APEX-01's infrasonic shockwave) → right hand free for *An Ord* → fires in the 0.3s window. The doctrine is simple. Its execution requires the cognitive fossil.
+- Cian runs the simulation 40+ times until the motor pattern is embedded below conscious thought. Salvatore/Mo Chrá style: the sword is already aligned in anticipation before the decision forms.
+- At the close of this beat, Cian transmits two specifications: the bracer geometry protocol to JW Chen (Austin), and the weapon requirement to Hal Okonkwo (Jerusalem safehouse workshop).
+
+**Technical lock:** JW Chen is **remote** throughout. All sheath reprogramming delivered via secure channel. McNeeve Space Systems is **dissolved** — Brennan's network only.
+
+---
+
+#### BEAT 3 — THE FORGE (Movements III + IV)
+
+**Style:** Clancy hardware precision (3A) + Frank Peretti prophetic weight + C.S. Lewis cosmic register (3B)
+**POV:** Hal Okonkwo → JW Chen (remote) → Elijah
+**Estimated words:** ~2,000
+
+**Sub-Beat 3A — *An Ord* (Movement III):**
+
+- **Hal Okonkwo** machines the frame in the Jerusalem safehouse workshop. His precision engineering capability (established in the Josephite dossier) applied to a custom .500 S&W Magnum platform. No commercial provenance. No serial number. No registry.
+- **Marcus Reeves** (Austin FININT/acoustics) consults remotely on muzzle geometry for GaPO₄ resonance optimization. The acoustic output of the Mk III round must be calibrated against APEX-01's mass/density parameters.
+- ***An Ord* — weapon specs (CANONICAL LOCK):**
+
+| Attribute | Specification |
+|-----------|---------------|
+| **Name** | *An Ord* ("The Hammer" — Irish) |
+| **Platform** | Custom .500 S&W Magnum frame; Josephite workshop machined |
+| **Caliber** | .500 S&W Magnum |
+| **Ammunition** | Tintreach Mk III "Hammer variant" (see below) |
+| **Supply** | **12 rounds — NO RESUPPLY** |
+| **Fire discipline** | Strategic deployment only; 12 rounds for the entire 1,260-day ministry |
+
+- **Tintreach Mk III "Hammer variant" — round specs (CANONICAL LOCK):**
+
+| Attribute | Specification |
+|-----------|---------------|
+| **Designation** | Tintreach Mk III "Hammer variant" |
+| **Brass** | Starline .500 S&W |
+| **Crystal core** | GaPO₄ crystal (same growth process as Mk II; Armaros-class cancellation frequency) |
+| **Warhead modification** | Micro-explosive charge wrapped around GaPO₄ core |
+| **Detonation** | On contact; explosive drives acoustic pulse *into* target via inward shockwave |
+| **Rationale** | APEX-01's non-standard mass/density (Tannin-splice chimeric biology) prevents impact-deformation activation of the GaPO₄ lattice at standard Mk II velocities; the micro-explosive guarantees acoustic penetration regardless of outer-tissue density |
+| **Total production** | 12 rounds |
+
+- **Brennan (remote), when the round count is confirmed:** *"Twelve."* Cian: *"Twelve."* No further comment. Both understand what that means for the next 1,260 days.
+
+**Sub-Beat 3B — Bracer-Amplifier + The Consecration (Movement IV):**
+
+- **JW Chen** (remote, Austin) delivers the geometry protocol to the adaptive Cydonian composite sheath's embedded system via secure encrypted channel. New tested configuration:
+
+| Attribute | Specification |
+|-----------|---------------|
+| **New mode** | Bracer-Amplifier (left forearm mount) |
+| **Mo Chrá form required** | Tantō (14") — docked along left forearm length |
+| **Composite reconfiguration** | Forearm-mount profile; ~0.7s adaptation cycle (standard) |
+| **Amplification mechanism** | Cydonian composite "recognises" Mo Chrá (same Mars-origin material); passive trickle-charge property amplifies 432.7 Hz harmonic outward; creation frequency projected as 3m acoustic baffle zone |
+| **Bracer status** | NOT a stand-alone device; entirely dependent on Mo Chrá being present and consecrated |
+
+- JW Chen's field note (transmitted): *"She's not being amplified. She's being heard."*
+- **Elijah enters.** The safehouse is quiet. He sees the bracer on Cian's left arm, Mo Chrá docked in tantō form along the forearm. He says nothing for a long moment.
+- He places both hands on Mo Chrá's blade. He does not pray. He does not bless. He declares — a formal act of re-registration in the Empyreal Register.
+- **The prophetic fire at 432.7 Hz seals the Cydonian composite permanently against Ezeqeel-lineage infrasonic corruption.** Divine authority (uncreated) overrides Watcher engineering (created). The consecration is not reversible. Not by Azazel's counter-frequency research. Not by Shemyaza. Not by anything with a beginning.
+- **Theological anchor:** In Book 3 Ch15, Elijah annihilated Azazel's 3-terawatt orbital weapon with five words. Prophetic authority is uncreated. Watcher engineering is created. This is the same principle applied to a single object. The bracer will hold.
+- **Cost to Elijah:** Not physically dramatic. But Cian notices — post-baptism, he reads people differently now — that Elijah is quieter afterward. As if he spent something real. He will not ask about it.
+- **Mo Chrá's response:** A single clear tone at 432.7 Hz. Sustained for three seconds. Then resolved. The sword accepts.
+
+---
+
+#### BEAT 4 — THE DARK MIRROR (Movement V)
+
+**Style:** Tim Powers spycraft + Ted Dekker sensory surrealism
+**POV:** Miriam (primary); Anya Petrov and Adrienne Prescott present
+**Estimated words:** ~1,500
+
+**Setting:** Jerusalem safehouse signals room, parallel to Beat 3.
+
+**Key beats:**
+- **Adrienne Prescott** (former ESA engineer, McNeeve comms relay architecture, inducted Book 1 Ch15): catalogues APEX-02's emission signature from Ch3 telemetry. It is not electromagnetic. It is acoustic-electromagnetic hybrid — Sariel-lineage lunar frequency modulation embedded in what looks like standard EW traffic. The Morrigan's surveillance is disguised as noise.
+- **Anya Petrov** (NSA-origin cybersecurity, Josephite Tel Aviv cell, inducted Book 1 Ch15): builds the Layer Zero blind-virus. Designed to create a 6–8 second window of signal noise in APEX-02's Enochian cipher integration — not destroy it, but make it process garbage. The window must be manually triggered by someone physically proximate to APEX-02's active surveillance field.
+- **Miriam's acoustic anomaly (established canon):** She registers as acoustically absent to supernatural sensors (MO_CHRA_SWORD_LORE.md §Acoustic Anomaly). The Morrigan cannot read her. She cannot detect her at all.
+- **The Dark Mirror concept:** APEX-02 uses surveillance and pattern-extraction as its primary weapon system. Miriam — who cannot be read — is not a target. She is a blind spot. She can walk directly into APEX-02's surveillance field and inject the Layer Zero virus from inside the dead zone.
+- **Key beat:** Miriam realizes the full implication. She doesn't need protection from APEX-02. She needs to be *next to* APEX-02 at injection moment. That terrifies her more than the monster.
+- **Miriam's GCHQ signals training** (established canon; she was recruited from GCHQ) is directly applicable here. She understands the acoustic-EM hybrid architecture intuitively. She is already building the injection protocol while Anya is still calibrating the virus.
+- **Post-baptism note:** Miriam does not ask Cian if he wants her in this role. She tells him — once, when he arrives at the signals room door — what she found and what she intends. He looks at the data. Looks at her. *"When do you need the window?"* That's all. Operational Faith, both directions.
+
+---
+
+#### CODA — THE CONTINGENCY NAMED
+
+**Style:** Hemingway compression — one line each
+**POV:** Brennan + Cian (remote channel)
+**Estimated words:** ~500
+
+**Key beats:**
+- Brennan (Stewart Island) runs the full integrated scenario through his tactical model. Reviews all four beats. The math checks.
+- *"We're calling it The Draconic Contingency."*
+- James Madigan (physically present, Jerusalem safehouse): *"Protocol logged."*
+- Cian looks at *An Ord* on the table. Looks at the consecrated bracer on his left arm.
+- *"In 2,636 years I have never prepared a specific counter-doctrine for a specific enemy."*
+- Brennan: *"First time for everything."*
+- *"Let us hope twelve rounds are enough."*
+- **Final image:** Mo Chrá's 432.7 Hz hum, steady and clear. The room does not answer. The chapter ends.
+
+---
+
+#### CANON CONSTRAINTS (BINDING — DO NOT VIOLATE)
+
+| Constraint | Rule |
+|------------|------|
+| Brennan McNeeve | **REMOTE ONLY** (Stewart Island) in every single beat |
+| McNeeve Space Systems | **DISSOLVED** — reference as "Brennan's dispersed network" throughout |
+| JW Chen | **REMOTE** — all bracer reprogramming via secure channel; no physical presence |
+| Raphael | **ZERO CONTACT** — Operational Silence active; does not appear, speak, or act in this chapter |
+| Elijah | **PHYSICALLY PRESENT** in Jerusalem safehouse — consecration scene fully viable |
+| Bracer amplification | **Entirely dependent on Mo Chrá being consecrated and present** — no stand-alone power |
+| *An Ord* supply | **12 rounds maximum** — strategic constraint for all of Book 4 and Book 5 |
+| Dual-wield window | **0.3 seconds** — every element of the Draconic Contingency is built around this datum |
+| Post-baptism register | **One Command Doctrine active** — Cian gives orders once; no justification; no committee |
+
+#### OPEN ITEMS — RESOLVED (May 5, 2026)
+
+| Item | Resolution |
+|------|------------|
+| APEX-01 infrasonic frequency | **7–12 Hz range** (vestibular disruption + structural stone shattering; distinct from Morrigan's 17–19 Hz psychological dread) — LOCKED May 5, 2026 |
+| Band Two extraction content | APEX-02 extracted: (1) HCV sensor signatures, (2) Mo Chrá's 432.7 Hz baseline, (3) full behavioural counter-harmonic adjustment sequence — CONFIRMED |
+| Ch3 Miriam location | DEAD-DROP — physically present, paralyzed, nearly executed — LOCKED May 5, 2026 |
+| Morrigan visible in Ch3? | Blade only — body never seen; weapon materializes from acoustic distortion — LOCKED May 5, 2026 |
+| Consecration effect | **COMPLETE MYSTERY** — cut away before effect revealed; baffling properties surface mid-combat in a later chapter — LOCKED May 5, 2026 |
+
+---
 
 ### Appendices
 

@@ -72,7 +72,19 @@ Replaces the fixed-geometry dorsal mount. Engineered by Dr. JW Chen.
 | **Adaptation cycle** | ~0.7 seconds (sword shifts → frequency changes → composite "hears" → metamaterial reconfigures geometry) |
 | **Tolerance** | ±0.3mm internal geometry match |
 
-**Tested configurations:** Bastard sword (44") ✅ | Tantō (14") ✅ | Great sword (54") ✅ | Chains of Abyssal Damnation ❌ (deferred — "Mo Chrá reserves insufficient")
+**Tested configurations:** Bastard sword (44") ✅ | Tantō (14") ✅ | Great sword (54") ✅ | Chains of Abyssal Damnation ❌ (deferred — "Mo Chrá reserves insufficient") | **Bracer-Amplifier mode (left forearm mount) ✅ — CONSECRATED (Ch3.5)**
+
+**Bracer-Amplifier mode spec (NEW — Ch3.5):**
+
+| Attribute | Specification |
+|-----------|---------------|
+| **Deployment mode** | Left forearm mount; Mo Chrá tantō form (14") docked along forearm length |
+| **Trigger** | Mo Chrá shifts to tantō; composite reconfigures to forearm-mount profile (~0.7s standard cycle) |
+| **Amplification** | Cydonian composite amplifies Mo Chrá's 432.7 Hz harmonic outward via passive trickle-charge property (same Mars-origin material) |
+| **Baffle zone** | ~3m acoustic baffle projected forward; neutralises Ezeqeel-lineage infrasonic shockwave (APEX-01 threat) |
+| **Consecration status** | **PERMANENTLY CONSECRATED** — Elijah, Book 4 Ch3.5; 432.7 Hz creation harmonic sealed by prophetic authority; not reversible by any Watcher-derived counter-frequency |
+| **Stand-alone power** | **NONE** — entirely dependent on Mo Chrá being present and consecrated; bracer is the amplifier, Mo Chrá is the source |
+| **Engineer** | Dr. JW Chen (remote reprogramming via secure channel; Austin) |
 
 **Emergent property — Passive Trickle-Charge:** The composite feeds Mo Chrá's 7.83 Hz baseline back through the interface, functioning as continuous energy transfer. Measured: +0.4 dB per 40 minutes sustained acoustic energy transfer. NOT designed — emergent from Cydonian composite's acoustic memory (material from same source — Mars). Brennan's hypothesis: "The composite recognises her... and it's trying to bring her back to full output."
 
@@ -84,6 +96,7 @@ Replaces the fixed-geometry dorsal mount. Engineered by Dr. JW Chen.
 | **Bás Beag** | SCAR-H | 7.62×51 NATO | 240 rounds / 12 mags standard Tintreach OR 30× Tintreach Mk II |
 | **An Béal Mór** | Fostech Origin-12 | 12 gauge | 120 rounds silver-blessed flechette (4× 30-round drums) |
 | **Tine Láimhe** | SIG P320 | 10mm Auto | 75 rounds / 5 magazines |
+| ***An Ord* (NEW — Ch3.5)** | Custom .500 S&W Magnum (Josephite workshop) | .500 S&W Magnum | **12× Tintreach Mk III Hammer rounds — NO RESUPPLY** |
 
 ### Tintreach Mk II — Ward-Piercing Ammunition (NEW — Ch7.5)
 
@@ -103,6 +116,24 @@ Engineered by Dr. JW Chen after Marcus Reeves decoded Armaros counter-frequency 
 | **Production** | 60 total (30× .408 CheyTac, 30× 7.62×51 NATO) |
 | **Limitation** | Ward-piercing SPECIFIC TO ARMAROS-CLASS ward architecture only; 19 other Watcher chief ward types remain unprofiled |
 
+### Tintreach Mk III "Hammer Variant" — Anti-APEX Ammunition (NEW — Ch3.5)
+
+Engineered by Hal Okonkwo (machinist/robotics) and Marcus Reeves (acoustic calibration) in the Jerusalem safehouse workshop. Designed specifically to defeat APEX-01 (Scáthgheal) whose Tannin-splice chimeric biology prevents standard Mk II impact-deformation activation.
+
+| Attribute | Specification |
+|-----------|---------------|
+| **Designation** | Tintreach Mk III "Hammer variant" |
+| **Caliber** | .500 S&W Magnum |
+| **Brass** | Starline .500 S&W |
+| **Crystal core** | GaPO₄ crystal (same growth process as Mk II; Armaros-class cancellation frequency) |
+| **Warhead modification** | Micro-explosive charge wrapped around GaPO₄ core |
+| **Detonation** | On contact; explosive drives acoustic pulse *inward* via collapsing shockwave |
+| **Rationale** | APEX-01's Tannin-splice density prevents impact-deformation GaPO₄ activation at Mk II velocities; micro-explosive guarantees acoustic penetration regardless of outer-tissue density |
+| **Identification** | Triple parallel scribe mark on brass base (Mk II = double) |
+| **Total production** | **12 rounds — NO RESUPPLY** |
+| **Fire discipline** | **Strategic deployment only** — 12 rounds for the entire 1,260-day ministry |
+| **Weapon platform** | *An Ord* only (custom .500 S&W Magnum frame) |
+
 ### HCV Deployment Timeline (Book 2)
 
 | Chapter | Status | Key Details |
@@ -114,6 +145,8 @@ Engineered by Dr. JW Chen after Marcus Reeves decoded Armaros counter-frequency 
 | **Ch8** | Deployed to Greenland | Full upgraded loadout + 60× Tintreach Mk II |
 | **Ch13** | Combat tested (Antarctica interior) | Nitrogen dash extensively used (11 of 14 bursts consumed); Tintreach Mk II proven vs. Armaros wards |
 | **Ch14** | EXHAUSTED | Power cells drop to 3%; nitrogen accumulators fully depleted; Tintreach Mk II magazine empty |
+| **Book 4 Ch3** | DAMAGED | Pauldron shattered (deliberate sacrifice to break APEX-01 melee clinch), left lateral plate fractured through, power system at 19% and failing, battlefield management offline; both HCV units catastrophically compromised |
+| **Book 4 Ch3.5** | UPGRADED | Bracer-mode activated (Cydonian composite, JW Chen patch; Mo Chrá adaptive sheath flows to left forearm); consecrated by Elijah — effect withheld; *An Ord* (.500 S&W Magnum, Hal Okonkwo frame, Marcus Reeves muzzle-tuned) added; Tintreach Mk III Hammer ×12 (NO RESUPPLY EVER) |
 
 ---
 Base Master Prompt (Core Anti-Nephilim Exoskeleton)

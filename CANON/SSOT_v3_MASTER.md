@@ -168,6 +168,40 @@ Before writing ANY scene, verify:
 - 850 years since last wife; refuses to love again (until Miriam)
 - Faithful despite questioning
 
+### Post-Baptism Evolution (Book 3 Ch10 onward) — CANONICAL LOCK (May 4, 2026)
+
+| Shift | Canon Entry |
+|-------|-------------|
+| **Cognitive Fossil Activated** | 2,636 years of tactical doctrine freed of theological ceiling; hesitation eliminated; pattern recognition fires at instinct level below conscious thought |
+| **One Command Doctrine** | Orders given once in the field; no justification; no committee; the 0.3-second window demands unity of command |
+| **Miriam — Operational Faith** | Evolved from Operational Affection (Books 2–3); executes without hesitation in the field; disagrees privately, follows publicly; trusts God's appointment as much as the man |
+| **Mo Chrá's Submission** | Complete theological alignment for first time in 2,636 years; compensatory lead replaced by mutual alignment; full resonance on command, immediately, without reservation |
+
+**Theological logic:** Baptism did not add to Cian. It removed the last barrier. Pre-Calvary commission + New Covenant seal = complete. He was always this. The ceiling is gone.
+
+**Cross-reference:** PROTAGONIST_DOSSIERS.md §Post-Baptism Phase · MO_CHRA_SWORD_LORE.md §Post-Baptism Partnership
+
+### Cian's Book 4 Gear Additions (Ch3.5 — CANONICAL LOCK, May 4, 2026)
+
+| Item | Specification | Status |
+|------|---------------|--------|
+| **Bracer-Amplifier mode** | Adaptive Cydonian composite sheath reconfigures to left forearm mount; Mo Chrá docked in tantō form (14"); 432.7 Hz creation harmonic amplified as ~3m acoustic baffle zone against Ezeqeel-lineage infrasonic attack; NO stand-alone power | **CONSECRATED — PERMANENT** |
+| ***An Ord* ("The Hammer")** | Custom .500 S&W Magnum frame (Josephite workshop machined, Hal Okonkwo); 12× Tintreach Mk III Hammer rounds; **NO RESUPPLY** | Active |
+| **Tintreach Mk III "Hammer variant"** | GaPO₄ crystal core + micro-explosive charge; detonates on contact; drives acoustic pulse inward; defeats APEX-01 (Scáthgheal) Tannin-splice density; 12 rounds total; triple scribe mark ID | Active |
+
+### Mo Chrá Consecration (Book 4 Ch3.5 — CANONICAL LOCK, May 4, 2026)
+
+| Attribute | Record |
+|-----------|--------|
+| **Event** | Elijah consecrates Mo Chrá permanently at 432.7 Hz creation harmonic |
+| **Authority** | Prophetic (uncreated divine authority); overrides Watcher engineering (created) |
+| **Empyreal Register action** | Mo Chrá permanently re-registered at 432.7 Hz; Ezeqeel-lineage infrasonic cannot override |
+| **Reversibility** | **NONE** — not reversible by Azazel's counter-frequency research, Shemyaza, or any created entity |
+| **Cost to Elijah** | Observable; he spends something real; does not recover immediately |
+| **Mo Chrá's response** | Single 432.7 Hz tone sustained 3 seconds, then resolves. Acceptance. |
+
+**Cross-reference:** CANON/dossiers/cians-gear/cians-gear.md §Bracer-Amplifier · WORLDBUILDING/BOOKS_3_5_ARCHITECTURE.md §Ch3.5 Beat Architecture
+
 ## §4.2 Raphael (Liaigh)
 
 | Attribute | Value |

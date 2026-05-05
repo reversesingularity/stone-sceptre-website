@@ -627,6 +627,32 @@ The Constantinople naming scene (532 CE) can be expanded into a full flashback c
 
 ---
 
+## The Post-Baptism Partnership (Book 3 Ch10 → Book 5)
+
+**Canonical Lock: May 4, 2026.**
+
+For 2,636 years, Mo Chrá was the spiritually senior partner. She compensated for Cian's theological incompleteness: pulling when he hesitated, warning when he couldn't read threat, modulating her full resonance when his spiritual state made full deployment inadvisable. The sword led. The man followed.
+
+Cian's baptism in Eden (Book 3 Ch10) resolved the inequality permanently.
+
+For the first time in their partnership, sword and bearer enter **complete theological alignment**. Mo Chrá no longer compensates. She no longer withholds. She no longer modulates to protect him from himself.
+
+**Post-baptism, when Cian draws with intent: she gives everything. Immediately. Without reservation.**
+
+The dynamic does not make Mo Chrá lesser. It makes the partnership genuinely mutual for the first time. She was always capable of this. Cian was always capable of this. The baptism is the moment the last barrier between them is removed.
+
+**In the 1,260-day ministry:** Mo Chrá and the cognitive fossil — 2,636 years of embedded tactical experience — operate as one system. She does not need to pull him toward the right decision. He arrives there first, and she follows.
+
+> *She used to lead. Now she follows. Not because she has become less — because he has become whole.*
+
+### Writing Note — Post-Baptism Mo Chrá
+
+The sword's personality does not change: still cryptic, still occasionally amused, still inclined to share visions on her own terms. What changes is the *absence* of compensatory behaviour. She is no longer ahead of him. She is beside him. The antagonistic affection remains. The theological gap is gone.
+
+**Cross-reference:** PROTAGONIST_DOSSIERS.md §Post-Baptism Phase · SSOT_v3_MASTER.md §4.1 Post-Baptism Evolution
+
+---
+
 # APPENDIX: THE SWORD THROUGH HISTORY
 
 ## Total Kill Count

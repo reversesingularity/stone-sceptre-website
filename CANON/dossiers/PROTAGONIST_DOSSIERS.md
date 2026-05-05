@@ -265,6 +265,60 @@ Cian's collection represents 2,600 years of accumulated weapons. Key items:
 
 ---
 
+## THE POST-BAPTISM PHASE (Book 3 Ch10 → Book 5): THE COGNITIVE FOSSIL ACTIVATED
+
+**Canonical Lock: May 4, 2026. Authority: Author decision.**
+
+Cian's baptism in Eden (Book 3 Ch10) is the series' most consequential character inflection point. It changes nothing external — his age, his body, his kill count, his weapons. It changes everything internal.
+
+For 2,636 years, Cian operated under commission without seal. He fought from a pre-Calvary mandate (like Abraham: covenanted but not marked with the New Covenant). His faith was real but incomplete in the New Testament sense. The baptism resolved the last theological incompleteness: he is now sealed in Christ, New Covenant aligned, and the barrier holding his full authority at a fraction of its potential is permanently removed.
+
+> *"Not to earn it. Because it's already done."* — Cian at his baptism
+
+That line is the key to everything that follows. Earning is the old Cian. Done is the new Cian.
+
+### I. The Cognitive Fossil Activated
+
+Cian's 2,636 years of accumulated combat doctrine, threat analysis, and tactical pattern-recognition did not increase at baptism. They were always there. What changed: **the theological ceiling is gone**.
+
+Pre-baptism, residual spiritual incompleteness introduced hesitation — subtle, almost invisible, but present. A fraction of a second before every critical decision where certainty would have served him.
+
+Post-baptism: no hesitation. The cognitive fossil — 2,636 years of enemy behavioral pattern, Nephilim doctrine, Watcher strategy, and human threat geometry embedded so deeply it operates below rational thought — **fires clean**. He does not think tactics. He has already fought this scenario in some form across twenty-six centuries. The right move surfaces as certainty before his conscious mind forms the question.
+
+The Jack Carr operator model at its most extreme: accumulated experience so deep it becomes instinct, functioning in the 0.3-second window that conscious thought cannot reach.
+
+### II. The One Command Doctrine
+
+In the 1,260-day endgame, Cian gives orders **once**. He does not repeat them. He does not explain them in the field. He does not put tactics to a vote.
+
+This is not arrogance. It is the mathematics of the 0.3-second window applied to command. Every second spent justifying a decision is a second the enemy uses. His team executes. Debrief happens if they survive.
+
+### III. Miriam's Operational Faith
+
+| Phase | Book(s) | Relationship Mode |
+|-------|---------|-------------------|
+| **Operational Distance** | Book 1 | GCHQ analyst embedded; follows with reservations |
+| **Operational Affection** | Books 2–3 | Walls down; emotional investment acknowledged |
+| **Operational Faith** | Books 4–5 | Executes without hesitation in the field; disagrees privately, follows publicly |
+
+**Operational Faith** is not blind obedience. Miriam still brings her own intelligence capability and disagrees with Cian directly and without fear — privately. But in the field, when Cian has given a command, she executes without hesitation or second-guessing. She trusts not that Cian is always right, but that **Cian has already thought of what she's thinking and moved past it**. Twenty-six centuries of tactical experience outweighs her objection before she finishes forming it. She knows this. She accepted it. It is the expression of her faith in God's appointment as much as her personal trust in the man.
+
+### IV. Mo Chrá's Submission
+
+For 2,636 years, Mo Chrá was the spiritually senior partner. The sword compensated for Cian's incomplete alignment: pulling when he hesitated, warning when he couldn't sense threat, modulating and withholding full power when his spiritual state made it inadvisable. She led. He followed.
+
+Post-baptism: sword and man in **complete theological alignment** for the first time in their partnership. Mo Chrá no longer compensates. The inequality that required her to lead is resolved.
+
+The dynamic shifts: she does not diminish. She *aligns*. She follows Cian's lead because the reason she needed to lead no longer exists. The partnership becomes genuinely mutual for the first time in 2,636 years.
+
+**In combat:** Mo Chrá gives everything immediately, without reservation, on Cian's draw. The cognitive fossil and the sword's creation frequency now operate as one system.
+
+> *She used to lead. Now she follows. Not because she has become less — because he has become whole.*
+
+**Cross-reference:** SSOT_v3_MASTER.md §4.1 · MO_CHRA_SWORD_LORE.md §Post-Baptism Partnership · BOOKS_3_5_ARCHITECTURE.md Book 3 Ch10
+
+---
+
 ## ENDGAME FATE (LOCKED)
 
 - Will serve as Guardian of the Two Witnesses during 1,260-day ministry
