@@ -5,6 +5,9 @@
 __pycache__/
 *.pyc
 
+# Runtime logs (regenerable — swarm startup, day1_ops, etc.)
+LOGS/
+
 # Debug/test artifacts
 debug_*.py
 test_*.py
