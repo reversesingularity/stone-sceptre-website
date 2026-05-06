@@ -1,9 +1,20 @@
 # TODO — The Nephilim Chronicles
-**Updated:** May 4, 2026
+**Updated:** May 6, 2026
 
 ---
 
-## ⚡ CURRENT — Book 3 KDP Preparation + Book 4 Planning
+## ⚡ CURRENT — Book 4 Ch 4 Architecture + Git/Tooling
+
+**Git & Tooling (May 6, 2026):**
+- [X] `LOGS/` added to `.gitignore` — swarm runtime logs excluded (regenerable artifacts)
+- [X] Stale remote branch `copilot/fix-cian-introduction-error` deleted
+- [X] GitLens MCP server installed (`gitlens.ai.mcp.install`)
+- [ ] **ACTION:** Reload VS Code (`Developer: Reload Window`) + sign in to GitKraken → activates Launchpad, Commit Composer, Start Work, Start Review
+- [ ] **ACTION:** LinkedIn OAuth token auto-refresh — expires ~June 12, 2026
+
+---
+
+## Book 3 KDP Preparation + Book 4 Planning
 
 **Book 3 status: WEBSITE DEPLOYED + KDP PREPARATION READY**
 - All 17 chapters drafted (~104,000 words), 5 structural prose edits applied, 6-metric score verified

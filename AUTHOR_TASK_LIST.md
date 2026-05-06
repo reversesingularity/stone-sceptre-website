@@ -1,8 +1,22 @@
 # Author Task List — The Nephilim Chronicles
 
 **Generated:** April 9, 2026
-**Last Updated:** May 4, 2026 (AUDIOBOOK_ASSEMBLER pipeline deployed)
+**Last Updated:** May 6, 2026 (Git hygiene + GitLens MCP server install)
 **Status:** Active
+
+---
+
+## PRIORITY 7 — ✅ COMPLETE: Git Hygiene + GitLens MCP Tooling (May 6, 2026)
+
+**Status:** Repository cleaned; GitLens MCP server installed. Reload required to activate.
+
+**Completed:**
+
+- [X] **LOGS/ added to .gitignore** — Runtime logs (`swarm_startup_*.log`, `day1_ops*.log`) are regenerable; excluded to keep `git status` clean
+- [X] **Stale Copilot branch deleted** — `origin/copilot/fix-cian-introduction-error` (Jan 2026; superseded by current `CANON/dossiers/` structure) removed from remote
+- [X] **GitLens MCP server installed** — Command `gitlens.ai.mcp.install` executed; registers `gitlens.gkMcpProvider` (GitKraken bundled MCP)
+- [ ] **GitLens MCP server activation** — Requires VS Code reload (`Developer: Reload Window`) + GitKraken account sign-in. Once active enables: Launchpad, Commit Composer, Start Work, Start Review
+- [ ] **LinkedIn OAuth token refresh** — Token expires ~June 12, 2026. Build auto-refresh before expiry.
 
 ---
 
