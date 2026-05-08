@@ -1,0 +1,7 @@
+BACK COVER IMAGE:
+
+Please save the attached back cover image as "book-back-cover.jpg" in this directory.
+
+The image should be named exactly: book-back-cover.jpg
+
+This will be used as the back cover that shows when users hover over the book.

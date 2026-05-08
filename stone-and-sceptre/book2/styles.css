@@ -337,7 +337,7 @@ a:hover {
     padding: var(--container-padding);
 }
 
-.nav-brand h2 {
+.nav-brand-name {
     color: var(--primary-gold);
     font-size: 1.5rem;
     margin: 0;
@@ -1318,7 +1318,7 @@ a:hover {
         padding: 0.6rem 0;
     }
     
-    .nav-brand h2 {
+    .nav-brand-name {
         font-size: 1.2rem;
     }
     
@@ -1525,4 +1525,153 @@ a:focus,
 @keyframes auraGlow {
     0% { opacity: 0.1; }
     100% { opacity: 0.3; }
+}
+
+/* nav-brand-name: preserves Cinzel heading styling without semantic h element */
+.nav-brand-name {
+    display: block;
+    font-family: var(--font-heading);
+    color: var(--primary-gold);
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+/* Hero trust badge */
+.hero-trust {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--primary-gold);
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+
+/* Testimonials */
+.testimonials-section {
+    background: rgba(0, 0, 0, 0.15);
+    padding: var(--section-padding);
+}
+
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.testimonial-card {
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(212, 175, 55, 0.2);
+    border-radius: var(--border-radius);
+    padding: 2rem;
+    margin: 0;
+}
+
+.testimonial-card p {
+    font-style: italic;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+    color: var(--text-light);
+}
+
+.testimonial-card footer {
+    color: var(--primary-gold);
+    font-size: 0.9rem;
+}
+
+.testimonial-card cite { font-style: normal; }
+
+/* Video placeholder */
+.video-section { padding: var(--section-padding); }
+
+.video-container {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.video-placeholder {
+    background: rgba(0, 0, 0, 0.3);
+    border: 2px dashed rgba(212, 175, 55, 0.4);
+    border-radius: var(--border-radius);
+    aspect-ratio: 16 / 9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+.video-placeholder:hover { border-color: rgba(212, 175, 55, 0.7); }
+
+.video-play-icon {
+    font-size: 3rem;
+    color: var(--primary-gold);
+    opacity: 0.7;
+}
+
+.video-placeholder-text {
+    color: var(--medium-gold);
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    margin: 0;
+}
+
+/* Sticky mobile CTA */
+.sticky-cta {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2000;
+    background: rgba(26, 26, 46, 0.97);
+    border-top: 2px solid var(--primary-gold);
+    padding: 0.75rem 1rem;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+
+.sticky-cta-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 600px;
+    margin: 0 auto;
+    gap: 1rem;
+}
+
+.sticky-cta-title {
+    font-family: var(--font-heading);
+    font-size: 0.9rem;
+    color: var(--text-light);
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.sticky-cta-btn {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--primary-gold), var(--dark-gold));
+    color: var(--dark-blue);
+    padding: 0.5rem 1.25rem;
+    border-radius: 25px;
+    text-decoration: none;
+    font-family: var(--font-heading);
+    font-size: 0.85rem;
+    font-weight: 700;
+    white-space: nowrap;
+    transition: box-shadow 0.2s ease;
+}
+
+.sticky-cta-btn:hover { box-shadow: 0 4px 15px rgba(212, 175, 55, 0.4); }
+
+@media (max-width: 768px) {
+    .sticky-cta { display: block; }
+
+    body { padding-bottom: 72px; }
+
+    .back-to-top { bottom: calc(72px + 1rem); }
 }

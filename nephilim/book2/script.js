@@ -9,17 +9,28 @@ document.addEventListener('DOMContentLoaded', function () {
     initializeResponsiveFeatures();
 });
 
+/* ═══════════════════════════════════════════════════
+   NAVIGATION
+═══════════════════════════════════════════════════ */
 function initializeNavigation() {
     const navbar    = document.querySelector('.navbar');
     const navLinks  = document.querySelectorAll('.nav-menu a');
     const navToggle = document.querySelector('.nav-toggle');
     const navMenu   = document.querySelector('.nav-menu');
 
+    // Navbar scroll class
+    let navTicking = false;
     window.addEventListener('scroll', function () {
-        if (window.scrollY > 100) { navbar.classList.add('scrolled'); }
-        else { navbar.classList.remove('scrolled'); }
-    });
+        if (!navTicking) {
+            requestAnimationFrame(function () {
+                navbar.classList.toggle('scrolled', window.scrollY > 100);
+                navTicking = false;
+            });
+            navTicking = true;
+        }
+    }, { passive: true });
 
+    // Smooth scrolling for anchor links
     navLinks.forEach(function (link) {
         link.addEventListener('click', function (e) {
             const href = this.getAttribute('href');
@@ -28,110 +39,185 @@ function initializeNavigation() {
                 const targetId      = href.substring(1);
                 const targetElement = document.getElementById(targetId);
                 if (targetElement) {
-                    const bannerHeight = (document.querySelector('.series-banner') || { offsetHeight: 0 }).offsetHeight;
+                    const bannerHeight = (document.querySelector('.series-banner') || {
+                        offsetHeight: 0 }).offsetHeight;
                     const navbarHeight = navbar.offsetHeight;
                     const totalOffset  = bannerHeight + navbarHeight + 24;
-                    const targetTop    = targetElement.getBoundingClientRect().top + window.pageYOffset - totalOffset;
+                    const targetTop    = targetElement.getBoundingClientRect().top
+                        + window.pageYOffset - totalOffset;
                     window.scrollTo({ top: Math.max(0, targetTop), behavior: 'smooth' });
                     updateActiveNavLink(targetId);
                 }
+                // Close mobile menu if open
                 if (navMenu) navMenu.classList.remove('nav-open');
             }
         });
     });
 
+    // Mobile hamburger toggle
     if (navToggle && navMenu) {
         navToggle.addEventListener('click', function () {
             navMenu.classList.toggle('nav-open');
-            this.setAttribute('aria-expanded', navMenu.classList.contains('nav-open'));
+            this.setAttribute('aria-expanded',
+                navMenu.classList.contains('nav-open'));
         });
     }
 
-    window.addEventListener('scroll', updateActiveNavLinkOnScroll);
+    // Track active section on scroll
+    let activeTicking = false;
+    window.addEventListener('scroll', function () {
+        if (!activeTicking) {
+            requestAnimationFrame(function () {
+                updateActiveNavLinkOnScroll();
+                activeTicking = false;
+            });
+            activeTicking = true;
+        }
+    }, { passive: true });
 }
 
 function updateActiveNavLink(activeId) {
     document.querySelectorAll('.nav-menu a').forEach(function (link) {
         link.classList.remove('active');
-        if (link.getAttribute('href') === '#' + activeId) { link.classList.add('active'); }
+        if (link.getAttribute('href') === '#' + activeId) {
+            link.classList.add('active');
+        }
     });
 }
 
 function updateActiveNavLinkOnScroll() {
-    const navbar      = document.querySelector('.navbar');
-    const banner      = document.querySelector('.series-banner');
-    const totalOffset = (navbar ? navbar.offsetHeight : 0) + (banner ? banner.offsetHeight : 0) + 60;
-    const scrollPos   = window.scrollY + totalOffset;
+    const navbar       = document.querySelector('.navbar');
+    const banner       = document.querySelector('.series-banner');
+    const totalOffset  = (navbar ? navbar.offsetHeight : 0) + (banner ? banner.offsetHeight : 0) + 60;
+    const scrollPos    = window.scrollY + totalOffset;
     let   currentSection = '';
+
     document.querySelectorAll('section[id]').forEach(function (section) {
-        if (scrollPos >= section.offsetTop && scrollPos < section.offsetTop + section.offsetHeight) {
+        if (scrollPos >= section.offsetTop && scrollPos < section.offsetTop +
+            section.offsetHeight) {
             currentSection = section.id;
         }
     });
+
     if (currentSection) updateActiveNavLink(currentSection);
 }
 
+/*
+═══════════════════════════════════════════════════
+   SCROLL EFFECTS
+═══════════════════════════════════════════════════ */
 function initializeScrollEffects() {
+    // Scroll-to-top button
     const scrollBtn = document.querySelector('.scroll-top, .back-to-top');
     if (scrollBtn) {
+        let scrollBtnTicking = false;
         window.addEventListener('scroll', function () {
-            if (window.scrollY > 300) { scrollBtn.classList.add('visible'); }
-            else { scrollBtn.classList.remove('visible'); }
-        });
+            if (!scrollBtnTicking) {
+                requestAnimationFrame(function () {
+                    scrollBtn.classList.toggle('visible', window.scrollY > 300);
+                    scrollBtnTicking = false;
+                });
+                scrollBtnTicking = true;
+            }
+        }, { passive: true });
         scrollBtn.addEventListener('click', function () {
             window.scrollTo({ top: 0, behavior: 'smooth' });
         });
     }
 
+    // Subtle hero parallax
     const hero = document.querySelector('.hero');
     if (hero) {
+        let parallaxTicking = false;
         window.addEventListener('scroll', function () {
-            hero.style.backgroundPositionY = (window.pageYOffset * -0.3) + 'px';
-        });
+            if (!parallaxTicking) {
+                requestAnimationFrame(function () {
+                    hero.style.backgroundPositionY = (window.pageYOffset * -0.3) + 'px';
+                    parallaxTicking = false;
+                });
+                parallaxTicking = true;
+            }
+        }, { passive: true });
     }
 
+    // Intersection Observer — fade-in elements
     const observerOptions = { threshold: 0.1, rootMargin: '0px 0px -40px 0px' };
     const observer = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
-            if (entry.isIntersecting) { entry.target.classList.add('animate-fade-in-up'); }
+            if (entry.isIntersecting) {
+                entry.target.classList.add('animate-fade-in-up');
+            }
         });
     }, observerOptions);
-    document.querySelectorAll('.synopsis-content, .author-content').forEach(function (el) { observer.observe(el); });
+
+    document.querySelectorAll('.synopsis-content, .author-content').forEach(function (el) {
+        observer.observe(el);
+    });
 }
 
+/*
+═══════════════════════════════════════════════════
+   STAGGERED CARD ANIMATIONS
+═══════════════════════════════════════════════════ */
 function initializeAnimations() {
+    // Character cards — staggered fade-in
     const charObserver = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry, index) {
             if (entry.isIntersecting) {
-                setTimeout(function () { entry.target.classList.add('animate-fade-in-up'); }, index * 90);
+                setTimeout(function () {
+                    entry.target.classList.add('animate-fade-in-up');
+                }, index * 90);
                 charObserver.unobserve(entry.target);
             }
         });
     }, { threshold: 0.08 });
-    document.querySelectorAll('.character-card').forEach(function (card) { charObserver.observe(card); });
 
+    document.querySelectorAll('.character-card').forEach(function (card) {
+        charObserver.observe(card);
+    });
+
+    // Chapter cards — staggered fade-in
     const chapObserver = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry, index) {
             if (entry.isIntersecting) {
-                setTimeout(function () { entry.target.classList.add('animate-fade-in-up'); }, index * 70);
+                setTimeout(function () {
+                    entry.target.classList.add('animate-fade-in-up');
+                }, index * 70);
                 chapObserver.unobserve(entry.target);
             }
         });
     }, { threshold: 0.06 });
-    document.querySelectorAll('.chapter-card').forEach(function (card) { chapObserver.observe(card); });
 
+    document.querySelectorAll('.chapter-card').forEach(function (card) {
+        chapObserver.observe(card);
+    });
+
+    // Section titles
     const titleObserver = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
-            if (entry.isIntersecting) { entry.target.classList.add('animate-fade-in-up'); titleObserver.unobserve(entry.target); }
+            if (entry.isIntersecting) {
+                entry.target.classList.add('animate-fade-in-up');
+                titleObserver.unobserve(entry.target);
+            }
         });
     }, { threshold: 0.4 });
-    document.querySelectorAll('.section-title').forEach(function (title) { titleObserver.observe(title); });
+
+    document.querySelectorAll('.section-title').forEach(function (title) {
+        titleObserver.observe(title);
+    });
 }
 
+/*
+═══════════════════════════════════════════════════
+   3D BOOK COVER MOUSE TRACKING
+═══════════════════════════════════════════════════ */
 function initializeBookInteractions() {
     const bookCover = document.querySelector('.book-cover-3d');
     if (!bookCover) return;
+
+    // Skip 3D mouse tracking on touch devices
     if (window.matchMedia('(hover: none)').matches) return;
+
     let isFlipped = false;
 
     bookCover.addEventListener('mousemove', function (e) {
@@ -141,22 +227,45 @@ function initializeBookInteractions() {
         const centerY = rect.top  + rect.height / 2;
         const deltaX  = (e.clientX - centerX) / (rect.width  / 2);
         const deltaY  = (e.clientY - centerY) / (rect.height / 2);
-        this.style.transform = 'rotateY(' + (-15 + deltaX * 8) + 'deg) rotateX(' + (5 - deltaY * 5) + 'deg)';
+
+        // Subtle parallax rotation while un-flipped
+        const rotY = -15 + deltaX * 8;
+        const rotX =   5 - deltaY * 5;
+        this.style.transform = `rotateY(${rotY}deg) rotateX(${rotX}deg)`;
     });
 
     bookCover.addEventListener('mouseleave', function () {
-        if (!isFlipped) { this.style.transform = 'rotateY(-15deg) rotateX(5deg)'; }
+        if (!isFlipped) {
+            this.style.transform = 'rotateY(-15deg) rotateX(5deg)';
+        }
     });
 
+    // Click to flip (back cover reveal)
     bookCover.addEventListener('click', function () {
         isFlipped = !isFlipped;
-        this.style.transition = 'transform 0.7s ease';
-        this.style.transform = isFlipped ? 'rotateY(165deg) rotateX(0deg) scale(1.03)' : 'rotateY(-15deg) rotateX(5deg)';
+        if (isFlipped) {
+            this.style.transform = 'rotateY(165deg) rotateX(0deg) scale(1.03)';
+            this.style.transition = 'transform 0.7s ease';
+        } else {
+            this.style.transform = 'rotateY(-15deg) rotateX(5deg)';
+            this.style.transition = 'transform 0.7s ease';
+        }
     });
 }
 
+/* ═══════════════════════════════════════════════════
+   RESPONSIVE FEATURES
+═══════════════════════════════════════════════════ */
 function initializeResponsiveFeatures() {
-    window.addEventListener('resize', function () { updateActiveNavLinkOnScroll(); });
+    // Re-calculate navbar offsets on resize
+    window.addEventListener('resize', function () {
+        updateActiveNavLinkOnScroll();
+    });
 }
 
-function scrollToTop() { window.scrollTo({ top: 0, behavior: 'smooth' }); }
+/* ═══════════════════════════════════════════════════
+   GLOBAL scroll to top (called inline if needed)
+═══════════════════════════════════════════════════ */
+function scrollToTop() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}

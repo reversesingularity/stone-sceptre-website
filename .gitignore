@@ -38,3 +38,9 @@ node_modules/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Claude AI project context — must never be published to a public repo
+.claude/
+
+# Deployment scripts — local tooling only, not web content
+*.ps1

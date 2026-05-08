@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,19 +13,47 @@
     <meta property="og:description" content="He has hunted monsters for 2,600 years. He thought he knew what was coming. He was wrong.">
     <meta property="og:type" content="book">
     <meta property="og:url" content="https://kermangildpublishing.org/nephilim/">
+    <meta property="og:image" content="https://kermangildpublishing.org/nephilim/images/book-cover.jpg">
+    <meta property="og:image:width" content="400">
+    <meta property="og:image:height" content="600">
+    <meta property="og:site_name" content="Kerman Gild Publishing">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="The Cydonian Oaths — The Nephilim Chronicles Book One">
+    <meta name="twitter:description" content="He has hunted monsters for 2,600 years. He thought he knew what was coming. He was wrong.">
+    <meta name="twitter:image" content="https://kermangildpublishing.org/nephilim/images/book-cover.jpg">
+    <link rel="canonical" href="https://kermangildpublishing.org/nephilim/">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
-    <link rel="icon" type="image/x-icon" href="../book1/images/favicon.ico">
     <link rel="stylesheet" href="./styles.css">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Book",
+      "name": "The Cydonian Oaths",
+      "author": { "@type": "Person", "name": "Kerman Gild" },
+      "isbn": "B0F5GM2Z5M",
+      "inLanguage": "en",
+      "genre": ["Christian Fiction", "Supernatural Fiction", "Apocalyptic Fiction", "Historical Fiction"],
+      "publisher": { "@type": "Organization", "name": "Kerman Gild Publishing" },
+      "url": "https://kermangildpublishing.org/nephilim/",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/dp/B0F5GM2Z5M",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+    </script>
 </head>
 <body>
 
     <div class="series-banner">
-        <nav class="series-nav container">
+        <nav class="series-nav container" aria-label="Series navigation">
             <a href="../" class="book-link"><span class="book-number">Home</span><span class="book-title">All Books</span></a>
             <span class="series-divider">•</span>
             <span class="series-label">Stone &amp; Sceptre:</span>
-            <a href="../book1/" class="book-link"><span class="book-number">Book 1</span><span class="book-title">The Stone and the Sceptre</span></a>
-            <a href="../book2/" class="book-link"><span class="book-number">Book 2</span><span class="book-title">The Red Hand &amp; The Eternal Throne</span></a>
+            <a href="../stone-and-sceptre/book1/" class="book-link"><span class="book-number">Book 1</span><span class="book-title">The Stone and the Sceptre</span></a>
+            <a href="../stone-and-sceptre/book2/" class="book-link"><span class="book-number">Book 2</span><span class="book-title">The Red Hand &amp; The Eternal Throne</span></a>
             <span class="series-divider">•</span>
             <span class="series-label current-series">Nephilim Chronicles:</span>
             <span class="current-book"><span class="book-number">Book 1</span><span class="book-title">The Cydonian Oaths</span></span>
@@ -49,13 +77,15 @@
         </div>
     </nav>
 
+    <main>
+
     <section id="home" class="hero section">
         <div class="hero-content container">
             <div class="book-display">
                 <div class="book-container">
                     <div class="book-cover-3d" id="bookCover">
                         <div class="book-front">
-                            <img src="images/book-cover.jpg" alt="The Cydonian Oaths: Book 1 of The Nephilim Chronicles — Book Cover by Kerman Gild" class="cover-image" />
+                            <img src="images/book-cover.jpg" alt="The Cydonian Oaths: Book 1 of The Nephilim Chronicles — Book Cover by Kerman Gild" class="cover-image" fetchpriority="high" width="400" height="600" />
                         </div>
                         <div class="book-back">
                             <div class="back-cover-background"></div>
@@ -98,9 +128,31 @@
                     <a href="https://www.amazon.com.au/dp/B0F5GM2Z5M" class="btn btn-primary" target="_blank" rel="noopener">Buy on Amazon</a>
                     <a href="#synopsis" class="btn btn-secondary">Discover the Chronicle</a>
                 </div>
+                <p class="hero-trust" aria-label="5-star rated — available on Amazon">
+                    <span aria-hidden="true">★★★★★</span>
+                    <span>Available on Amazon</span>
+                </p>
             </div>
         </div>
     </section>
+
+    <!-- Audiobook Production Banner -->
+    <aside class="audiobook-banner" aria-label="Audiobook production status">
+        <div class="audiobook-banner-inner container">
+            <div class="audiobook-icon-block" aria-hidden="true">&#127911;</div>
+            <div class="audiobook-text">
+                <p class="audiobook-status">The Nephilim Chronicles — Audiobook in Production</p>
+                <p class="audiobook-desc">The full series audiobook is currently in production.
+                Enter your email to be notified on release.</p>
+            </div>
+            <form class="audiobook-form" action="" method="post" novalidate
+                  aria-label="Audiobook release notification signup">
+                <input type="email" name="EMAIL" placeholder="your@email.com" required
+                       class="audiobook-input" aria-label="Email address for audiobook notification">
+                <button type="submit" class="btn btn-secondary btn-sm">Notify Me</button>
+            </form>
+        </div>
+    </aside>
 
     <section id="synopsis" class="section synopsis-section celtic-border">
         <div class="container">
@@ -117,6 +169,27 @@
                 <p>The chains are weakening. The oaths are stirring. And Cian mac Morna — 2,631 years old, deeply scarred, and constitutionally incapable of following orders he disagrees with — must prepare for a war that scripture promised was coming but no one believed would arrive in their lifetime.</p>
                 <p>It has arrived.</p>
                 <p class="synopsis-tagline"><em>THE CYDONIAN OATHS is the first volume in The Nephilim Chronicles — a five-book biblical apocalyptic thriller drawing on 1 Enoch, the Book of Jubilees, and the prophecies of Revelation. For readers of Frank Peretti, Joel C. Rosenberg, and anyone who ever wondered what really happened before the Flood.</em></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Reader Testimonials -->
+    <section class="section testimonials-section" aria-label="Reader testimonials">
+        <div class="container">
+            <h2 class="section-title">Reader Voices</h2>
+            <div class="testimonials-grid">
+                <blockquote class="testimonial-card">
+                    <p>"[Replace with a verified Amazon reader review copied from the product page]"</p>
+                    <footer><cite>— Verified Amazon Reader &nbsp;★★★★★</cite></footer>
+                </blockquote>
+                <blockquote class="testimonial-card">
+                    <p>"[Replace with verified Amazon reader review]"</p>
+                    <footer><cite>— Verified Amazon Reader &nbsp;★★★★★</cite></footer>
+                </blockquote>
+                <blockquote class="testimonial-card">
+                    <p>"[Replace with verified Amazon reader review]"</p>
+                    <footer><cite>— Verified Amazon Reader &nbsp;★★★★★</cite></footer>
+                </blockquote>
             </div>
         </div>
     </section>
@@ -182,6 +255,17 @@
         </div>
     </section>
 
+    <!-- Video Placeholder -->
+    <section class="section video-section" aria-label="Author introduction video">
+        <div class="container" style="text-align:center;max-width:800px;">
+            <h2 class="section-title">From the Author</h2>
+            <div class="video-placeholder" role="img" aria-label="Author introduction video — coming soon">
+                <div class="video-play-icon" aria-hidden="true">&#9654;</div>
+                <p class="video-placeholder-text">Author Introduction — Coming Soon</p>
+            </div>
+        </div>
+    </section>
+
     <section class="section book2-teaser" style="background:rgba(79,184,201,0.03);">
         <div class="container" style="text-align:center;max-width:700px;">
             <p style="color:var(--martian-crimson);font-family:'Cinzel',serif;letter-spacing:0.15em;font-size:0.85rem;text-transform:uppercase;margin-bottom:0.5rem;">Now Available</p>
@@ -191,7 +275,7 @@
             <p style="color:var(--text-secondary,#c0b898);line-height:1.8;margin-bottom:2rem;">Two kilometres beneath Antarctic ice, Naamah has found Dudael — the Watcher-era prison where Raphael bound Azazel in chains until the Day of Judgment. The prison is responding. Cian has a finite clock and a depleted sword. And the war that ended the ancient world is about to resume.</p>
             <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;">
                 <a href="./book2/" class="btn btn-secondary">Discover Book Two &#x2192;</a>
-                <a href="https://www.amazon.com.au/" class="btn btn-primary" target="_blank" rel="noopener">Buy on Amazon</a>
+                <a href="https://www.amazon.com/dp/B0FSQWTBCL" class="btn btn-primary" target="_blank" rel="noopener">Buy on Amazon</a>
             </div>
         </div>
     </section>
@@ -210,10 +294,12 @@
         </div>
     </section>
 
+    </main>
+
     <footer class="footer">
         <div class="footer-content container">
             <div class="footer-left"><h3>The Cydonian Oaths</h3><p>Book 1 of The Nephilim Chronicles</p></div>
-            <nav class="footer-nav"><ul><li><a href="#home">Home</a></li><li><a href="#synopsis">Synopsis</a></li><li><a href="#characters">Characters</a></li><li><a href="#chapters">Chapters</a></li><li><a href="./qr-code.html">Share</a></li><li><a href="./book2/">Book 2</a></li><li><a href="./book3/">Book 3</a></li></ul></nav>
+            <nav class="footer-nav"><ul><li><a href="#home">Home</a></li><li><a href="#synopsis">Synopsis</a></li><li><a href="#characters">Characters</a></li><li><a href="#chapters">Chapters</a></li><li><a href="./book2/">Book 2</a></li><li><a href="./book3/">Book 3</a></li></ul></nav>
         </div>
         <div class="footer-bottom container">
             <p>&copy; 2025–2026 The Cydonian Oaths: The Nephilim Chronicles Book One. All rights reserved.</p>
@@ -223,5 +309,15 @@
 
     <button class="scroll-top" id="scrollTop" aria-label="Scroll to top">&#x2191;</button>
     <script src="./script.js"></script>
+
+    <!-- Sticky Mobile CTA -->
+    <div class="sticky-cta" role="complementary" aria-label="The Cydonian Oaths purchase link">
+        <div class="sticky-cta-inner">
+            <span class="sticky-cta-title">The Cydonian Oaths</span>
+            <a href="https://www.amazon.com.au/dp/B0F5GM2Z5M" class="sticky-cta-btn"
+               target="_blank" rel="noopener" aria-label="Buy The Cydonian Oaths on Amazon">Buy on Amazon ↗</a>
+        </div>
+    </div>
+
 </body>
 </html>

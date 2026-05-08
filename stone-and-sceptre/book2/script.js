@@ -13,15 +13,18 @@ document.addEventListener('DOMContentLoaded', function() {
 function initializeNavigation() {
     const navbar = document.querySelector('.navbar');
     const navLinks = document.querySelectorAll('.nav-menu a');
-    
-    // Handle scroll effects on navbar
-    window.addEventListener('scroll', function() {
-        if (window.scrollY > 100) {
-            navbar.classList.add('scrolled');
-        } else {
-            navbar.classList.remove('scrolled');
+
+    // RAF-gated navbar scroll class
+    let navbarTicking = false;
+    window.addEventListener('scroll', function () {
+        if (!navbarTicking) {
+            requestAnimationFrame(function () {
+                navbar.classList.toggle('scrolled', window.scrollY > 100);
+                navbarTicking = false;
+            });
+            navbarTicking = true;
         }
-    });
+    }, { passive: true });
     
     // Smooth scrolling for navigation links
     navLinks.forEach(link => {
@@ -54,10 +57,17 @@ function initializeNavigation() {
         });
     });
     
-    // Update active navigation link based on scroll position
-    window.addEventListener('scroll', function() {
-        updateActiveNavLinkOnScroll();
-    });
+    // RAF-gated active nav link tracking
+    let navLinkTicking = false;
+    window.addEventListener('scroll', function () {
+        if (!navLinkTicking) {
+            requestAnimationFrame(function () {
+                updateActiveNavLinkOnScroll();
+                navLinkTicking = false;
+            });
+            navLinkTicking = true;
+        }
+    }, { passive: true });
 }
 
 // Update active navigation link
@@ -96,25 +106,38 @@ function updateActiveNavLinkOnScroll() {
 
 // Scroll effects and animations
 function initializeScrollEffects() {
-    // Back to top button
+    // RAF-gated back-to-top visibility
     const backToTopButton = document.querySelector('.back-to-top');
-    
-    window.addEventListener('scroll', function() {
-        if (window.scrollY > 300) {
-            backToTopButton.classList.add('visible');
-        } else {
-            backToTopButton.classList.remove('visible');
-        }
-    });
-    
-    // Parallax effect for hero section
+    if (backToTopButton) {
+        let backToTopTicking = false;
+        window.addEventListener('scroll', function () {
+            if (!backToTopTicking) {
+                requestAnimationFrame(function () {
+                    backToTopButton.classList.toggle('visible', window.scrollY > 300);
+                    backToTopTicking = false;
+                });
+                backToTopTicking = true;
+            }
+        }, { passive: true });
+
+        backToTopButton.addEventListener('click', function () {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    }
+
+    // RAF-gated hero parallax
     const hero = document.querySelector('.hero');
     if (hero) {
-        window.addEventListener('scroll', function() {
-            const scrolled = window.pageYOffset;
-            const rate = scrolled * -0.5;
-            hero.style.transform = `translate3d(0, ${rate}px, 0)`;
-        });
+        let parallaxTicking = false;
+        window.addEventListener('scroll', function () {
+            if (!parallaxTicking) {
+                requestAnimationFrame(function () {
+                    hero.style.transform = 'translate3d(0, ' + (window.pageYOffset * -0.5) + 'px, 0)';
+                    parallaxTicking = false;
+                });
+                parallaxTicking = true;
+            }
+        }, { passive: true });
     }
     
     // Intersection Observer for animation triggers
@@ -397,25 +420,6 @@ function scrollToTop() {
     });
 }
 
-// Utility functions
-function debounce(func, wait) {
-    let timeout;
-    return function executedFunction(...args) {
-        const later = () => {
-            clearTimeout(timeout);
-            func(...args);
-        };
-        clearTimeout(timeout);
-        timeout = setTimeout(later, wait);
-    };
-}
-
-// Performance optimization for scroll events
-const debouncedScrollHandler = debounce(function() {
-    // Handle scroll events here if needed
-}, 10);
-
-window.addEventListener('scroll', debouncedScrollHandler);
 
 // Add CSS animation keyframes dynamically
 const additionalStyles = `
