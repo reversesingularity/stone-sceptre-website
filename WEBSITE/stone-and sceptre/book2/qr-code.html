@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code for The Red Hand & The Eternal Throne</title>
+    <meta name="description" content="Share The Red Hand & The Eternal Throne: A Bard's Chronicle with others using this QR code">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <style>
+        .qr-container {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, var(--accent-red), var(--royal-purple));
+            padding: 2rem;
+        }
+        
+        .qr-content {
+            background: rgba(0, 0, 0, 0.8);
+            border: 2px solid var(--primary-gold);
+            border-radius: var(--border-radius);
+            padding: 3rem;
+            text-align: center;
+            max-width: 500px;
+            width: 100%;
+        }
+        
+        .qr-title {
+            color: var(--primary-gold);
+            font-family: var(--font-heading);
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .qr-subtitle {
+            color: var(--text-light);
+            font-family: var(--font-heading);
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+        }
+        
+        .qr-code-wrapper {
+            background: white;
+            padding: 2rem;
+            border-radius: var(--border-radius);
+            margin: 2rem 0;
+            display: inline-block;
+        }
+        
+        .qr-code {
+            width: 250px;
+            height: 250px;
+            border: none;
+        }
+        
+        .qr-instructions {
+            color: var(--text-light);
+            margin-bottom: 2rem;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+        
+        .qr-url {
+            background: rgba(212, 175, 55, 0.1);
+            border: 1px solid var(--primary-gold);
+            border-radius: var(--border-radius);
+            padding: 1rem;
+            color: var(--primary-gold);
+            font-family: monospace;
+            font-size: 0.9rem;
+            word-break: break-all;
+            margin-bottom: 2rem;
+            cursor: pointer;
+            transition: var(--transition-fast);
+        }
+        
+        .qr-url:hover {
+            background: rgba(212, 175, 55, 0.2);
+        }
+        
+        .qr-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .copy-message {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: var(--primary-gold);
+            color: var(--dark-blue);
+            padding: 1rem 2rem;
+            border-radius: var(--border-radius);
+            font-weight: bold;
+            opacity: 0;
+            transition: var(--transition-fast);
+            z-index: 10000;
+        }
+        
+        .copy-message.show {
+            opacity: 1;
+        }
+        
+        @media (max-width: 768px) {
+            .qr-content {
+                padding: 2rem;
+            }
+            
+            .qr-title {
+                font-size: 2rem;
+            }
+            
+            .qr-code {
+                width: 200px;
+                height: 200px;
+            }
+            
+            .qr-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="qr-container">
+        <div class="qr-content">
+            <h1 class="qr-title">📱 QR Code</h1>
+            <p class="qr-subtitle">The Red Hand & The Eternal Throne: A Bard's Chronicle</p>
+            
+            <div class="qr-code-wrapper">
+                <img id="qr-code" class="qr-code" alt="QR Code for The Red Hand & The Eternal Throne website" />
+            </div>
+            
+            <p class="qr-instructions">
+                Scan this QR code with your mobile device to visit the book website and share it with others. The code will direct readers to the complete chronicle of Gathelus and Princess Scota's epic tale.
+            </p>
+            
+            <div id="website-url" class="qr-url" onclick="copyToClipboard()" title="Click to copy URL">
+                <!-- URL will be inserted here by JavaScript -->
+            </div>
+            
+            <div class="qr-buttons">
+                <button class="btn primary" onclick="copyToClipboard()">📋 Copy URL</button>
+                <button class="btn secondary" onclick="downloadQR()">💾 Download QR</button>
+                <a href="./index.html" class="btn secondary">🏠 Back to Book</a>
+            </div>
+        </div>
+    </div>
+    
+    <div id="copy-message" class="copy-message">URL copied to clipboard!</div>
+    
+    <script>
+        // Configuration
+        const websiteUrl = window.location.origin + window.location.pathname.replace('qr-code.html', 'index.html');
+        
+        // QR Code API services (with fallbacks)
+        const qrServices = [
+            `https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=${encodeURIComponent(websiteUrl)}`,
+            `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${encodeURIComponent(websiteUrl)}`,
+            `https://quickchart.io/qr?text=${encodeURIComponent(websiteUrl)}&size=250`
+        ];
+        
+        // Initialize QR code
+        function initializeQR() {
+            const qrImage = document.getElementById('qr-code');
+            const urlDisplay = document.getElementById('website-url');
+            
+            // Display the URL
+            urlDisplay.textContent = websiteUrl;
+            
+            // Try to load QR code with fallbacks
+            let serviceIndex = 0;
+            
+            function tryLoadQR() {
+                if (serviceIndex >= qrServices.length) {
+                    // If all services fail, create a simple fallback
+                    qrImage.src = createFallbackQR();
+                    return;
+                }
+                
+                const img = new Image();
+                img.onload = function() {
+                    qrImage.src = qrServices[serviceIndex];
+                };
+                img.onerror = function() {
+                    serviceIndex++;
+                    tryLoadQR();
+                };
+                img.src = qrServices[serviceIndex];
+            }
+            
+            tryLoadQR();
+        }
+        
+        // Create fallback QR code (simple data URL)
+        function createFallbackQR() {
+            // Simple placeholder QR code as base64 data URL
+            return "data:image/svg+xml;base64," + btoa(`
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
+                    <rect width="250" height="250" fill="white"/>
+                    <text x="125" y="125" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="14" fill="black">
+                        QR Code
+                        <tspan x="125" dy="20">Service</tspan>
+                        <tspan x="125" dy="20">Unavailable</tspan>
+                        <tspan x="125" dy="30">Use URL below</tspan>
+                    </text>
+                </svg>
+            `);
+        }
+        
+        // Copy URL to clipboard
+        function copyToClipboard() {
+            const urlText = document.getElementById('website-url').textContent;
+            
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(urlText).then(function() {
+                    showCopyMessage();
+                }).catch(function() {
+                    fallbackCopyToClipboard(urlText);
+                });
+            } else {
+                fallbackCopyToClipboard(urlText);
+            }
+        }
+        
+        // Fallback copy method for older browsers
+        function fallbackCopyToClipboard(text) {
+            const textArea = document.createElement('textarea');
+            textArea.value = text;
+            textArea.style.position = 'fixed';
+            textArea.style.left = '-999999px';
+            textArea.style.top = '-999999px';
+            document.body.appendChild(textArea);
+            textArea.focus();
+            textArea.select();
+            
+            try {
+                document.execCommand('copy');
+                showCopyMessage();
+            } catch (err) {
+                console.error('Failed to copy text: ', err);
+                alert('Failed to copy URL. Please copy manually: ' + text);
+            }
+            
+            document.body.removeChild(textArea);
+        }
+        
+        // Show copy success message
+        function showCopyMessage() {
+            const message = document.getElementById('copy-message');
+            message.classList.add('show');
+            
+            setTimeout(function() {
+                message.classList.remove('show');
+            }, 2000);
+        }
+        
+        // Download QR code
+        function downloadQR() {
+            const qrImage = document.getElementById('qr-code');
+            
+            if (qrImage.src.startsWith('data:')) {
+                // If it's a data URL, download directly
+                downloadDataUrl(qrImage.src, 'red-hand-chronicle-qr.png');
+            } else {
+                // If it's an external URL, we need to convert it
+                const canvas = document.createElement('canvas');
+                const ctx = canvas.getContext('2d');
+                canvas.width = 250;
+                canvas.height = 250;
+                
+                const img = new Image();
+                img.crossOrigin = 'anonymous';
+                img.onload = function() {
+                    ctx.drawImage(img, 0, 0);
+                    const dataUrl = canvas.toDataURL('image/png');
+                    downloadDataUrl(dataUrl, 'red-hand-chronicle-qr.png');
+                };
+                img.onerror = function() {
+                    alert('Unable to download QR code. Please right-click on the QR code and save it manually.');
+                };
+                img.src = qrImage.src;
+            }
+        }
+        
+        // Download data URL as file
+        function downloadDataUrl(dataUrl, filename) {
+            const link = document.createElement('a');
+            link.href = dataUrl;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+        
+        // Initialize when page loads
+        document.addEventListener('DOMContentLoaded', initializeQR);
+        
+        // Handle keyboard shortcuts
+        document.addEventListener('keydown', function(e) {
+            // Ctrl+C or Cmd+C to copy URL
+            if ((e.ctrlKey || e.metaKey) && e.key === 'c') {
+                e.preventDefault();
+                copyToClipboard();
+            }
+            
+            // Escape to go back
+            if (e.key === 'Escape') {
+                window.location.href = './index.html';
+            }
+        });
+    </script>
+</body>
+</html>

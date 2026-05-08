@@ -7,7 +7,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#1a1a2e">
-    <title>Kerman Gild Publishing | The Stone and the Sceptre Chronicles</title>
+    <title>Kerman Gild Publishing | Epic Christian Historical Fiction — Two Complete Series</title>
     <meta name="description" content="Kerman Gild Publishing - Home of The Stone and the Sceptre Chronicles, epic Christian historical fiction exploring ancient prophecies, divine providence, and the journey of covenant faithfulness.">
     
     <!-- Open Graph / Social Media -->
@@ -15,8 +15,19 @@
     <meta property="og:description" content="Epic Christian Historical Fiction - The Stone and the Sceptre Chronicles">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://kermangildpublishing.org/">
-    
+    <meta property="og:image" content="https://kermangildpublishing.org/nephilim/book2/images/book-cover.jpg">
+    <meta property="og:image:width" content="400">
+    <meta property="og:image:height" content="600">
+    <meta property="og:site_name" content="Kerman Gild Publishing">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Kerman Gild Publishing — Epic Christian Historical Fiction">
+    <meta name="twitter:description" content="Two complete series: The Nephilim Chronicles and The Stone and the Sceptre Chronicles.">
+    <meta name="twitter:image" content="https://kermangildpublishing.org/nephilim/book2/images/book-cover.jpg">
+    <link rel="canonical" href="https://kermangildpublishing.org/">
+
     <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     
     <style>
@@ -664,7 +675,111 @@
             color: #c9871e;
             margin-bottom: 0.4rem;
         }
+
+        /* Sticky Mobile CTA */
+        .sticky-cta {
+            display: none;
+            position: fixed;
+            bottom: 0; left: 0; right: 0;
+            z-index: 2000;
+            background: rgba(26, 26, 46, 0.97);
+            border-top: 2px solid var(--primary-gold);
+            padding: 0.75rem 1rem;
+            -webkit-backdrop-filter: blur(10px);
+            backdrop-filter: blur(10px);
+        }
+        .sticky-cta-inner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .sticky-cta-title {
+            font-family: var(--font-heading);
+            color: var(--primary-gold);
+            font-size: 0.9rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .sticky-cta-btn {
+            font-family: var(--font-heading);
+            background: linear-gradient(135deg, var(--primary-gold), #c49b2a);
+            color: #1a1a2e;
+            padding: 0.6rem 1.4rem;
+            border-radius: 25px;
+            font-size: 0.9rem;
+            font-weight: 700;
+            text-decoration: none;
+            white-space: nowrap;
+            flex-shrink: 0;
+            transition: opacity 0.2s ease;
+        }
+        .sticky-cta-btn:hover { opacity: 0.9; }
+
+        /* Video placeholder */
+        .video-placeholder {
+            width: 100%;
+            max-width: 700px;
+            aspect-ratio: 16 / 9;
+            background: rgba(212, 175, 55, 0.05);
+            border: 2px dashed rgba(212, 175, 55, 0.3);
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 2rem auto 0;
+            cursor: pointer;
+            transition: border-color 0.3s ease, background 0.3s ease;
+        }
+        .video-placeholder:hover {
+            border-color: var(--primary-gold);
+            background: rgba(212, 175, 55, 0.08);
+        }
+        .video-play-icon { font-size: 3rem; color: var(--primary-gold); margin-bottom: 0.5rem; }
+        .video-placeholder-text { color: rgba(245, 245, 220, 0.4); font-style: italic; margin: 0; font-size: 0.95rem; }
+
+        @media (max-width: 768px) {
+            .sticky-cta { display: block; }
+            body { padding-bottom: 72px; }
+        }
+
+        /* Scroll-to-top */
+        .scroll-top {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            width: 52px;
+            height: 52px;
+            background: linear-gradient(135deg, var(--primary-gold), #b8860b);
+            color: var(--dark-blue);
+            border: none;
+            border-radius: 50%;
+            font-size: 1.4rem;
+            font-weight: 700;
+            cursor: pointer;
+            opacity: 0;
+            transform: translateY(100px);
+            transition: opacity 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+            z-index: 999;
+            box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
+        }
+        .scroll-top.visible { opacity: 1; transform: translateY(0); }
+        .scroll-top:hover { box-shadow: 0 6px 20px rgba(212, 175, 55, 0.5); transform: translateY(-2px); }
     </style>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Kerman Gild Publishing",
+      "url": "https://kermangildpublishing.org/",
+      "description": "Publisher of The Stone and the Sceptre Chronicles and The Nephilim Chronicles — epic Christian historical and apocalyptic fiction.",
+      "sameAs": ["https://www.amazon.com/s?k=Kerman+Gild"]
+    }
+    </script>
 </head>
 <body>
     <!-- Header -->
@@ -672,10 +787,11 @@
         <h1 class="publisher-logo">KERMAN GILD PUBLISHING</h1>
         <p class="publisher-tagline">Epic Chronicles of Faith, History & Divine Providence</p>
     </header>
+    <main>
 
     <!-- Hero Section -->
     <section class="hero">
-        <h1>The Stone and the Sceptre Chronicles</h1>
+        <h1>Two Epic Chronicles of Faith, History &amp; Divine Providence</h1>
         <p>A sweeping saga of ancient prophecies, supernatural warfare, and covenant faithfulness. Journey from the fall of Jerusalem to the establishment of kingdoms in the uttermost parts of the earth, where divine purpose guides the wandering children of Israel to their appointed destiny.</p>
         <div class="celtic-border"></div>
     </section>
@@ -692,7 +808,7 @@
             <article class="book-card">
                 <div class="book-card-header">
                     <div class="book-cover-container">
-                        <img src="./book1/images/book-cover.jpg" alt="The Stone and the Sceptre: A Scribe's Tale - Book Cover">
+                        <img src="./stone-and-sceptre/book1/images/book-cover.jpg" alt="The Stone and the Sceptre: A Scribe's Tale — Book Cover" width="180" height="270" loading="lazy">
                     </div>
                     <div class="book-info">
                         <span class="book-number">BOOK ONE</span>
@@ -710,8 +826,7 @@
                         <cite>— Ezekiel 21:27</cite>
                     </div>
                     <div class="book-cta">
-                        <a href="./book1/" class="btn btn-primary">Explore Book 1</a>
-                        <a href="./book1/qr-code.html" class="btn btn-secondary">Share</a>
+                        <a href="./stone-and-sceptre/book1/" class="btn btn-primary">Explore Book 1</a>
                     </div>
                 </div>
             </article>
@@ -720,7 +835,7 @@
             <article class="book-card">
                 <div class="book-card-header">
                     <div class="book-cover-container">
-                        <img src="./book2/images/book-cover.jpg" alt="The Red Hand and The Eternal Throne: A Bard's Chronicle - Book Cover">
+                        <img src="./stone-and-sceptre/book2/images/book-cover.jpg" alt="The Red Hand and The Eternal Throne: A Bard's Chronicle — Book Cover" width="180" height="270" loading="lazy">
                     </div>
                     <div class="book-info">
                         <span class="book-number">BOOK TWO</span>
@@ -739,7 +854,7 @@
                     </div>
                     <div class="book-cta">
                         <a href="https://www.amazon.com.au/dp/B0GHMMJ16R" class="btn btn-primary" target="_blank" rel="noopener">Buy on Amazon</a>
-                        <a href="./book2/" class="btn btn-secondary">Explore Book 2</a>
+                        <a href="./stone-and-sceptre/book2/" class="btn btn-secondary">Explore Book 2</a>
                     </div>
                 </div>
             </article>
@@ -768,7 +883,7 @@
     <!-- ═══════════════════════════════════════════════════════ -->
     <!-- THE NEPHILIM CHRONICLES — New Series Section           -->
     <!-- ═══════════════════════════════════════════════════════ -->
-    <section class="nephilim-series">
+    <section class="nephilim-series" id="nephilim-series">
         <div style="max-width:1400px;margin:0 auto;">
 
             <div class="series-header">
@@ -789,8 +904,9 @@
                 <article class="book-card nephilim-card">
                     <div class="book-card-header">
                         <div class="book-cover-container">
-                            <img src="./nephilim/images/book-cover.jpg"
-                                 alt="The Cydonian Oaths — Book 1 of The Nephilim Chronicles by Kerman Gild" />
+                            <img src="./nephilim/book1/images/book-cover.jpg"
+                                 alt="The Cydonian Oaths — Book 1 of The Nephilim Chronicles by Kerman Gild"
+                                 width="180" height="270" loading="lazy" />
                         </div>
                         <div class="book-card-info">
                             <span class="book-number-label">BOOK ONE</span>
@@ -823,7 +939,8 @@
                     <div class="book-card-header">
                         <div class="book-cover-container">
                             <img src="./nephilim/book2/images/book-cover.jpg"
-                                 alt="The Cauldron of God - Book 2 of The Nephilim Chronicles by Kerman Gild" />
+                                 alt="The Cauldron of God — Book 2 of The Nephilim Chronicles by Kerman Gild"
+                                 width="180" height="270" loading="lazy" />
                         </div>
                         <div class="book-card-info">
                             <span class="book-number-label">BOOK TWO</span>
@@ -851,7 +968,8 @@
                     <div class="book-card-header">
                         <div class="book-cover-container">
                             <img src="./nephilim/book3/images/book-cover.jpg"
-                                 alt="The Edenic Mandate - Book 3 of The Nephilim Chronicles by Kerman Gild" />
+                                 alt="The Edenic Mandate — Book 3 of The Nephilim Chronicles by Kerman Gild"
+                                 width="180" height="270" loading="lazy" />
                         </div>
                         <div class="book-card-info">
                             <span class="book-number-label">BOOK THREE</span>
@@ -879,7 +997,7 @@
     </section>
 
     <!-- About Section -->
-    <section class="about-section">
+    <section class="about-section" id="about">
         <h2>About the Author</h2>
         <div class="about-content">
             <p>
@@ -889,21 +1007,57 @@
                 These works represent years of careful study into the migration patterns of the lost tribes of Israel, the establishment of early Celtic kingdoms, and the intersection of Hebrew and Celtic cultures in the western lands. The chronicles maintain historical authenticity while exploring the spiritual dimensions of covenant faithfulness across generations.
             </p>
         </div>
+        <div class="video-placeholder" role="img" aria-label="Author introduction video — coming soon">
+            <div class="video-play-icon" aria-hidden="true">&#9654;</div>
+            <p class="video-placeholder-text">Author Introduction — Coming Soon</p>
+        </div>
     </section>
+
+    </main>
 
     <!-- Footer -->
     <footer class="footer">
         <h2 class="footer-brand">Kerman Gild Publishing</h2>
         <p class="footer-tagline">Where Ancient Prophecy Meets Epic Adventure</p>
         <nav class="footer-links">
-            <a href="./book1/">Book 1: The Stone and the Sceptre</a>
-            <a href="./book2/">Book 2: The Red Hand Chronicle</a>
+            <a href="./stone-and-sceptre/book1/">Book 1: The Stone and the Sceptre</a>
+            <a href="./stone-and-sceptre/book2/">Book 2: The Red Hand Chronicle</a>
             <a href="./nephilim/">Nephilim Book 1: The Cydonian Oaths</a>
             <a href="./nephilim/book2/">Nephilim Book 2: The Cauldron of God</a>
             <a href="./nephilim/book3/">Nephilim Book 3: The Edenic Mandate</a>
         </nav>
         <p class="footer-copyright">&copy; 2025-2026 Kerman Gild Publishing. All rights reserved.</p>
     </footer>
+
+    <!-- Sticky Mobile CTA -->
+    <div class="sticky-cta" role="complementary" aria-label="Explore the Chronicles">
+        <div class="sticky-cta-inner">
+            <span class="sticky-cta-title">The Chronicles</span>
+            <a href="#nephilim-series" class="sticky-cta-btn" aria-label="Explore the series">Explore the Series</a>
+        </div>
+    </div>
+
+    <button type="button" class="scroll-top" aria-label="Return to top">↑</button>
+
+    <script>
+    (function () {
+        var btn = document.querySelector('.scroll-top');
+        if (!btn) return;
+        var ticking = false;
+        window.addEventListener('scroll', function () {
+            if (!ticking) {
+                requestAnimationFrame(function () {
+                    btn.classList.toggle('visible', window.scrollY > 400);
+                    ticking = false;
+                });
+                ticking = true;
+            }
+        }, { passive: true });
+        btn.addEventListener('click', function () {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    }());
+    </script>
 </body>
 </html>
 
