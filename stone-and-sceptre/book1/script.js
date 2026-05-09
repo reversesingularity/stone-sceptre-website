@@ -1,4 +1,4 @@
-// The Red Hand & The Eternal Throne: A Bard's Chronicle - JavaScript Functionality
+// The Stone and the Sceptre: A Scribe's Tale - JavaScript Functionality
 
 // Wait for DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
@@ -242,20 +242,17 @@ function openBookPreview() {
     modal.innerHTML = `
         <div class="modal-content">
             <div class="modal-header">
-                <h3>The Red Hand & The Eternal Throne</h3>
+                <h3>The Stone and the Sceptre: A Scribe's Tale</h3>
                 <button class="modal-close" onclick="closeBookPreview()">&times;</button>
             </div>
             <div class="modal-body">
-                <p><strong>Book 2 of The Stone and the Sceptre Chronicles</strong></p>
-                <p><em>A Chronicle of the House of Míl Espáine</em></p>
-                <p><em>As recorded by Taliesin the Wise-Tongued</em></p>
-                <p><em>Bard to King Gathelus of the Celtiberians</em></p>
+                <p><strong>Book 1 of The Stone and the Sceptre Chronicles</strong></p>
+                <p><em>As recorded by Baruch ben Neriah, Scribe to the Prophet Jeremiah</em></p>
                 <hr>
-                <p><strong>Genre:</strong> Christian Historical Fiction / Epic Fantasy</p>
-                <p><strong>Setting:</strong> Celtiberian Iberia, 6th Century BCE</p>
-                <p><strong>Word Count:</strong> Approximately 160,000 words</p>
+                <p><strong>Genre:</strong> Christian Historical Fiction / Biblical Epic</p>
+                <p><strong>Setting:</strong> Jerusalem, Egypt, Iberia, Ireland — 586 BCE</p>
                 <hr>
-                <p>In the days when empires rose and fell like waves upon the shore, when the God of Abraham moved among the nations to accomplish His eternal purposes, there came to the western lands of Iberia a company of exiles bearing within their hearts the weight of promises older than kingdoms...</p>
+                <p>As Jerusalem falls to Babylon and the Davidic bloodline faces extinction, an unlikely company begins an extraordinary voyage guided by divine providence. From the burning ruins of the Holy City to the mystical shores of Ireland, witness the first of three prophetic overturns — the Stone of Destiny carried west to its appointed home...</p>
             </div>
             <div class="modal-footer">
                 <button class="btn primary" onclick="window.location.href='#synopsis'">Read Synopsis</button>

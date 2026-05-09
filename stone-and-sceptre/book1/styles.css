@@ -1,4 +1,4 @@
-/* The Red Hand & The Eternal Throne: A Bard's Chronicle - Complete Styling */
+/* The Stone and the Sceptre: A Scribe's Tale - Complete Styling */
 
 /* CSS Variables for Consistent Theming */
 :root {
@@ -1616,6 +1616,22 @@ a:focus,
     font-family: var(--font-heading);
     font-size: 1rem;
     margin: 0;
+}
+.video-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 700px;
+    aspect-ratio: 16 / 9;
+    margin: 2rem auto 0;
+}
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    border-radius: var(--border-radius);
 }
 
 /* Sticky mobile CTA */
